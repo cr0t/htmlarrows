@@ -1,5 +1,5 @@
-      create  build/assets/stylesheets/all-4025d0cf.css
-      create  build/assets/stylesheets/hydrogen-52a65d15.css
+   identical  build/assets/stylesheets/all-74317c98.css
+   identical  build/assets/stylesheets/hydrogen-cc66c9cc.css
    identical  build/assets/stylesheets/normalize-7efa2312.css
    identical  build/assets/images/background-29e26e74.png
    identical  build/assets/images/middleman-50d9de35.png
@@ -8,31 +8,29 @@
    identical  build/assets/javascripts/fastclick-1.0.6.min-2973f0ad.js
    identical  build/assets/javascripts/head-da39a3ee.js
    identical  build/assets/javascripts/hydrogen-0.0.1-64e98ae0.js
-   identical  build/assets/javascripts/body-57f84d50.js
+   identical  build/assets/javascripts/body-f73a775d.js
       update  build/index.html
    identical  build/sitemap.xml
-      remove  build/assets/javascripts/body-57f84d50.js.gz
+      remove  build/assets/javascripts/body-f73a775d.js.gz
       remove  build/assets/javascripts/classie-60d57e07.js.gz
       remove  build/assets/javascripts/fastclick-1.0.6.min-2973f0ad.js.gz
       remove  build/assets/javascripts/head-da39a3ee.js.gz
       remove  build/assets/javascripts/headroom-0.7.0.min-fadd0d12.js.gz
       remove  build/assets/javascripts/hydrogen-0.0.1-64e98ae0.js.gz
-      remove  build/assets/stylesheets/all-135f8405.css
-      remove  build/assets/stylesheets/all-135f8405.css.gz
-      remove  build/assets/stylesheets/hydrogen-3e53ce9d.css
-      remove  build/assets/stylesheets/hydrogen-3e53ce9d.css.gz
+      remove  build/assets/stylesheets/all-74317c98.css.gz
+      remove  build/assets/stylesheets/hydrogen-cc66c9cc.css.gz
       remove  build/assets/stylesheets/normalize-7efa2312.css.gz
       remove  build/index.html.gz
       remove  build/sitemap.xml.gz
-        gzip  build/assets/javascripts/head-da39a3ee.js.gz (20 Bytes larger)
         gzip  build/assets/javascripts/classie-60d57e07.js.gz (453 Bytes smaller)
+        gzip  build/assets/javascripts/head-da39a3ee.js.gz (20 Bytes larger)
         gzip  build/assets/javascripts/fastclick-1.0.6.min-2973f0ad.js.gz (5.2 KB smaller)
-        gzip  build/assets/javascripts/headroom-0.7.0.min-fadd0d12.js.gz (2.8 KB smaller)
-        gzip  build/assets/javascripts/body-57f84d50.js.gz (9.3 KB smaller)
-        gzip  build/assets/stylesheets/all-4025d0cf.css.gz (26 KB smaller)
+        gzip  build/assets/javascripts/body-f73a775d.js.gz (9.7 KB smaller)
         gzip  build/assets/javascripts/hydrogen-0.0.1-64e98ae0.js.gz (409 Bytes smaller)
-        gzip  build/sitemap.xml.gz (72 Bytes smaller)
+        gzip  build/assets/javascripts/headroom-0.7.0.min-fadd0d12.js.gz (2.8 KB smaller)
         gzip  build/assets/stylesheets/normalize-7efa2312.css.gz (864 Bytes smaller)
-        gzip  build/assets/stylesheets/hydrogen-52a65d15.css.gz (24.6 KB smaller)
-        gzip  build/index.html.gz (81.1 KB smaller)
-        gzip  Total gzip savings: 150.7 KB
+        gzip  build/assets/stylesheets/hydrogen-cc66c9cc.css.gz (25.2 KB smaller)
+        gzip  build/assets/stylesheets/all-74317c98.css.gz (26.6 KB smaller)
+        gzip  build/sitemap.xml.gz (68 Bytes smaller)
+        gzip  build/index.html.gz (82.3 KB smaller)
+        gzip  Total gzip savings: 153.5 KB

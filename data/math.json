@@ -1,0 +1,3588 @@
+{
+  "entities" : [
+    {
+      "name" : "For All",
+      "slug" : "for-all",
+      "unicode" : "U+02200",
+      "hex_code" : "#x2200;",
+      "html_code" : "#8704;",
+      "html4_entity" : "forall;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Complement",
+      "slug" : "complement",
+      "unicode" : "U+02201",
+      "hex_code" : "#x2201;",
+      "html_code" : "#8705;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Partial Differential",
+      "slug" : "partial-differential",
+      "unicode" : "U+02202",
+      "hex_code" : "#x2202;",
+      "html_code" : "#8706;",
+      "html4_entity" : "part;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "There Exists",
+      "slug" : "there-exists",
+      "unicode" : "U+02203",
+      "hex_code" : "#x2203;",
+      "html_code" : "#8707;",
+      "html4_entity" : "exist;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "There Does Not Exist",
+      "slug" : "there-does-not-exist",
+      "unicode" : "U+02204",
+      "hex_code" : "#x2204;",
+      "html_code" : "#8708;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Empty Set",
+      "slug" : "empty-set",
+      "unicode" : "U+02205",
+      "hex_code" : "#x2205;",
+      "html_code" : "#8709;",
+      "html4_entity" : "empty;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Increment",
+      "slug" : "increment",
+      "unicode" : "U+02206",
+      "hex_code" : "#x2206;",
+      "html_code" : "#8710;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Nabla",
+      "slug" : "nabla",
+      "unicode" : "U+02207",
+      "hex_code" : "#x2207;",
+      "html_code" : "#8711;",
+      "html4_entity" : "nabla;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Element Of",
+      "slug" : "element-of",
+      "unicode" : "U+02208",
+      "hex_code" : "#x2208;",
+      "html_code" : "#8712;",
+      "html4_entity" : "isin;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not an Element Of",
+      "slug" : "not-an-element-of",
+      "unicode" : "U+02209",
+      "hex_code" : "#x2209;",
+      "html_code" : "#8713;",
+      "html4_entity" : "notin;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Small Element Of",
+      "slug" : "small-element-of",
+      "unicode" : "U+0220A",
+      "hex_code" : "#x220A;",
+      "html_code" : "#8714;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Contains as Member",
+      "slug" : "contains-as-member",
+      "unicode" : "U+0220B",
+      "hex_code" : "#x220B;",
+      "html_code" : "#8715;",
+      "html4_entity" : "ni;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Does Not Contain as Member",
+      "slug" : "does-not-contain-as-member",
+      "unicode" : "U+0220C",
+      "hex_code" : "#x220C;",
+      "html_code" : "#8716;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Small Contains as Member",
+      "slug" : "small-contains-as-member",
+      "unicode" : "U+0220D",
+      "hex_code" : "#x220D;",
+      "html_code" : "#8717;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "End of Proof",
+      "slug" : "end-of-proof",
+      "unicode" : "U+0220E",
+      "hex_code" : "#x220E;",
+      "html_code" : "#8718;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "N-Ary Product",
+      "slug" : "n-ary-product",
+      "unicode" : "U+0220F",
+      "hex_code" : "#x220F;",
+      "html_code" : "#8719;",
+      "html4_entity" : "prod;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "N-Ary Coproduct",
+      "slug" : "n-ary-coproduct",
+      "unicode" : "U+02210",
+      "hex_code" : "#x2210;",
+      "html_code" : "#8720;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "N-Ary Summation",
+      "slug" : "n-ary-summation",
+      "unicode" : "U+02211",
+      "hex_code" : "#x2211;",
+      "html_code" : "#8721;",
+      "html4_entity" : "sum;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Minus Sign",
+      "slug" : "minus-sign",
+      "unicode" : "U+02212",
+      "hex_code" : "#x2212;",
+      "html_code" : "#8722;",
+      "html4_entity" : "minus;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Minus-or-Plus Sign",
+      "slug" : "minus-or-plus-sign",
+      "unicode" : "U+02213",
+      "hex_code" : "#x2213;",
+      "html_code" : "#8723;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Dot Plus",
+      "slug" : "dot-plus",
+      "unicode" : "U+02214",
+      "hex_code" : "#x2214;",
+      "html_code" : "#8724;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Division Slash",
+      "slug" : "division-slash",
+      "unicode" : "U+02215",
+      "hex_code" : "#x2215;",
+      "html_code" : "#8725;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Set Minus",
+      "slug" : "set-minus",
+      "unicode" : "U+02216",
+      "hex_code" : "#x2216;",
+      "html_code" : "#8726;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Asterisk Operator",
+      "slug" : "asterisk-operator",
+      "unicode" : "U+02217",
+      "hex_code" : "#x2217;",
+      "html_code" : "#8727;",
+      "html4_entity" : "lowast;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Ring Operator",
+      "slug" : "ring-operator",
+      "unicode" : "U+02218",
+      "hex_code" : "#x2218;",
+      "html_code" : "#8728;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Bullet Operator",
+      "slug" : "bullet-operator",
+      "unicode" : "U+02219",
+      "hex_code" : "#x2219;",
+      "html_code" : "#8729;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Square Root",
+      "slug" : "square-root",
+      "unicode" : "U+0221A",
+      "hex_code" : "#x221A;",
+      "html_code" : "#8730;",
+      "html4_entity" : "radic;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Cube Root",
+      "slug" : "cube-root",
+      "unicode" : "U+0221B",
+      "hex_code" : "#x221B;",
+      "html_code" : "#8731;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Fourth Root",
+      "slug" : "fourth-root",
+      "unicode" : "U+0221C",
+      "hex_code" : "#x221C;",
+      "html_code" : "#8732;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Proportional To",
+      "slug" : "proportional-to",
+      "unicode" : "U+0221D",
+      "hex_code" : "#x221D;",
+      "html_code" : "#8733;",
+      "html4_entity" : "prop;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Infinity",
+      "slug" : "infinity",
+      "unicode" : "U+0221E",
+      "hex_code" : "#x221E;",
+      "html_code" : "#8734;",
+      "html4_entity" : "infin;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Right Angle",
+      "slug" : "right-angle",
+      "unicode" : "U+0221F",
+      "hex_code" : "#x221F;",
+      "html_code" : "#8735;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Angle",
+      "slug" : "angle",
+      "unicode" : "U+02220",
+      "hex_code" : "#x2220;",
+      "html_code" : "#8736;",
+      "html4_entity" : "ang;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Measured Angle",
+      "slug" : "measured-angle",
+      "unicode" : "U+02221",
+      "hex_code" : "#x2221;",
+      "html_code" : "#8737;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Spherical Angle",
+      "slug" : "spherical-angle",
+      "unicode" : "U+02222",
+      "hex_code" : "#x2222;",
+      "html_code" : "#8738;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Divides",
+      "slug" : "divides",
+      "unicode" : "U+02223",
+      "hex_code" : "#x2223;",
+      "html_code" : "#8739;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Does Not Divide",
+      "slug" : "does-not-divide",
+      "unicode" : "U+02224",
+      "hex_code" : "#x2224;",
+      "html_code" : "#8740;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Parallel To",
+      "slug" : "parallel-to",
+      "unicode" : "U+02225",
+      "hex_code" : "#x2225;",
+      "html_code" : "#8741;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Parallel To",
+      "slug" : "not-parallel-to",
+      "unicode" : "U+02226",
+      "hex_code" : "#x2226;",
+      "html_code" : "#8742;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Logical And",
+      "slug" : "logical-and",
+      "unicode" : "U+02227",
+      "hex_code" : "#x2227;",
+      "html_code" : "#8743;",
+      "html4_entity" : "and;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Logical Or",
+      "slug" : "logical-or",
+      "unicode" : "U+02228",
+      "hex_code" : "#x2228;",
+      "html_code" : "#8744;",
+      "html4_entity" : "or;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Intersection",
+      "slug" : "intersection",
+      "unicode" : "U+02229",
+      "hex_code" : "#x2229;",
+      "html_code" : "#8745;",
+      "html4_entity" : "cap;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Union",
+      "slug" : "union",
+      "unicode" : "U+0222A",
+      "hex_code" : "#x222A;",
+      "html_code" : "#8746;",
+      "html4_entity" : "cup;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Integral",
+      "slug" : "integral",
+      "unicode" : "U+0222B",
+      "hex_code" : "#x222B;",
+      "html_code" : "#8747;",
+      "html4_entity" : "int;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Double Integral",
+      "slug" : "double-integral",
+      "unicode" : "U+0222C",
+      "hex_code" : "#x222C;",
+      "html_code" : "#8748;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Triple Integral",
+      "slug" : "triple-integral",
+      "unicode" : "U+0222D",
+      "hex_code" : "#x222D;",
+      "html_code" : "#8749;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Contour Integral",
+      "slug" : "contour-integral",
+      "unicode" : "U+0222E",
+      "hex_code" : "#x222E;",
+      "html_code" : "#8750;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Surface Integral",
+      "slug" : "surface-integral",
+      "unicode" : "U+0222F",
+      "hex_code" : "#x222F;",
+      "html_code" : "#8751;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Volume Integral",
+      "slug" : "volume-integral",
+      "unicode" : "U+02230",
+      "hex_code" : "#x2230;",
+      "html_code" : "#8752;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Clockwise Integral",
+      "slug" : "clockwise-integral",
+      "unicode" : "U+02231",
+      "hex_code" : "#x2231;",
+      "html_code" : "#8753;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Clockwise Contour Integral",
+      "slug" : "clockwise-contour-integral",
+      "unicode" : "U+02232",
+      "hex_code" : "#x2232;",
+      "html_code" : "#8754;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Anticlockwise Contour Integral",
+      "slug" : "anticlockwise-contour-integral",
+      "unicode" : "U+02233",
+      "hex_code" : "#x2233;",
+      "html_code" : "#8755;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Therefore",
+      "slug" : "therefore",
+      "unicode" : "U+02234",
+      "hex_code" : "#x2234;",
+      "html_code" : "#8756;",
+      "html4_entity" : "there4;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Because",
+      "slug" : "because",
+      "unicode" : "U+02235",
+      "hex_code" : "#x2235;",
+      "html_code" : "#8757;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Ratio",
+      "slug" : "ratio",
+      "unicode" : "U+02236",
+      "hex_code" : "#x2236;",
+      "html_code" : "#8758;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Proportion",
+      "slug" : "proportion",
+      "unicode" : "U+02237",
+      "hex_code" : "#x2237;",
+      "html_code" : "#8759;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Dot Minus",
+      "slug" : "dot-minus",
+      "unicode" : "U+02238",
+      "hex_code" : "#x2238;",
+      "html_code" : "#8760;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Excess",
+      "slug" : "excess",
+      "unicode" : "U+02239",
+      "hex_code" : "#x2239;",
+      "html_code" : "#8761;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Geometric Proportion",
+      "slug" : "geometric-proportion",
+      "unicode" : "U+0223A",
+      "hex_code" : "#x223A;",
+      "html_code" : "#8762;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Homothetic",
+      "slug" : "homothetic",
+      "unicode" : "U+0223B",
+      "hex_code" : "#x223B;",
+      "html_code" : "#8763;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Tilde Operator",
+      "slug" : "tilde-operator",
+      "unicode" : "U+0223C",
+      "hex_code" : "#x223C;",
+      "html_code" : "#8764;",
+      "html4_entity" : "sim;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Reversed Tilde",
+      "slug" : "reversed-tilde",
+      "unicode" : "U+0223D",
+      "hex_code" : "#x223D;",
+      "html_code" : "#8765;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Inverted Lazy S",
+      "slug" : "inverted-lazy-s",
+      "unicode" : "U+0223E",
+      "hex_code" : "#x223E;",
+      "html_code" : "#8766;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Sine Wave",
+      "slug" : "sine-wave",
+      "unicode" : "U+0223F",
+      "hex_code" : "#x223F;",
+      "html_code" : "#8767;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Wreath Product",
+      "slug" : "wreath-product",
+      "unicode" : "U+02240",
+      "hex_code" : "#x2240;",
+      "html_code" : "#8768;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Tilde",
+      "slug" : "not-tilde",
+      "unicode" : "U+02241",
+      "hex_code" : "#x2241;",
+      "html_code" : "#8769;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Minus Tilde",
+      "slug" : "minus-tilde",
+      "unicode" : "U+02242",
+      "hex_code" : "#x2242;",
+      "html_code" : "#8770;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Asymptotically Equal To",
+      "slug" : "asymptotically-equal-to",
+      "unicode" : "U+02243",
+      "hex_code" : "#x2243;",
+      "html_code" : "#8771;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Asymptotically Equal To",
+      "slug" : "not-asymptotically-equal-to",
+      "unicode" : "U+02244",
+      "hex_code" : "#x2244;",
+      "html_code" : "#8772;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Approximately Equal To",
+      "slug" : "approximately-equal-to",
+      "unicode" : "U+02245",
+      "hex_code" : "#x2245;",
+      "html_code" : "#8773;",
+      "html4_entity" : "cong;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Approximately but Not Actually Equal To",
+      "slug" : "approximately-but-not-actually-equal-to",
+      "unicode" : "U+02246",
+      "hex_code" : "#x2246;",
+      "html_code" : "#8774;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Neither Approximately Nor Actually Equal To",
+      "slug" : "neither-approximately-nor-actually-equal-to",
+      "unicode" : "U+02247",
+      "hex_code" : "#x2247;",
+      "html_code" : "#8775;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Almost Equal To",
+      "slug" : "almost-equal-to",
+      "unicode" : "U+02248",
+      "hex_code" : "#x2248;",
+      "html_code" : "#8776;",
+      "html4_entity" : "asymp;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Almost Equal To",
+      "slug" : "not-almost-equal-to",
+      "unicode" : "U+02249",
+      "hex_code" : "#x2249;",
+      "html_code" : "#8777;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Almost Equal or Equal To",
+      "slug" : "almost-equal-or-equal-to",
+      "unicode" : "U+0224A",
+      "hex_code" : "#x224A;",
+      "html_code" : "#8778;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Triple Tilde",
+      "slug" : "triple-tilde",
+      "unicode" : "U+0224B",
+      "hex_code" : "#x224B;",
+      "html_code" : "#8779;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "All Equal To",
+      "slug" : "all-equal-to",
+      "unicode" : "U+0224C",
+      "hex_code" : "#x224C;",
+      "html_code" : "#8780;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Equivalent To",
+      "slug" : "equivalent-to",
+      "unicode" : "U+0224D",
+      "hex_code" : "#x224D;",
+      "html_code" : "#8781;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Geometrically Equivalent To",
+      "slug" : "geometrically-equivalent-to",
+      "unicode" : "U+0224E",
+      "hex_code" : "#x224E;",
+      "html_code" : "#8782;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Difference Between",
+      "slug" : "difference-between",
+      "unicode" : "U+0224F",
+      "hex_code" : "#x224F;",
+      "html_code" : "#8783;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Approaches the Limit",
+      "slug" : "approaches-the-limit",
+      "unicode" : "U+02250",
+      "hex_code" : "#x2250;",
+      "html_code" : "#8784;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Geometrically Equal To",
+      "slug" : "geometrically-equal-to",
+      "unicode" : "U+02251",
+      "hex_code" : "#x2251;",
+      "html_code" : "#8785;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Approximately Equal to or the Image Of",
+      "slug" : "approximately-equal-to-or-the-image-of",
+      "unicode" : "U+02252",
+      "hex_code" : "#x2252;",
+      "html_code" : "#8786;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Image of or Approximately Equal To",
+      "slug" : "image-of-or-approximately-equal-to",
+      "unicode" : "U+02253",
+      "hex_code" : "#x2253;",
+      "html_code" : "#8787;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Colon Equals",
+      "slug" : "colon-equals",
+      "unicode" : "U+02254",
+      "hex_code" : "#x2254;",
+      "html_code" : "#8788;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Equals Colon",
+      "slug" : "equals-colon",
+      "unicode" : "U+02255",
+      "hex_code" : "#x2255;",
+      "html_code" : "#8789;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Ring in Equal To",
+      "slug" : "ring-in-equal-to",
+      "unicode" : "U+02256",
+      "hex_code" : "#x2256;",
+      "html_code" : "#8790;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Ring Equal To",
+      "slug" : "ring-equal-to",
+      "unicode" : "U+02257",
+      "hex_code" : "#x2257;",
+      "html_code" : "#8791;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Corresponds To",
+      "slug" : "corresponds-to",
+      "unicode" : "U+02258",
+      "hex_code" : "#x2258;",
+      "html_code" : "#8792;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Estimates",
+      "slug" : "estimates",
+      "unicode" : "U+02259",
+      "hex_code" : "#x2259;",
+      "html_code" : "#8793;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Equiangular To",
+      "slug" : "equiangular-to",
+      "unicode" : "U+0225A",
+      "hex_code" : "#x225A;",
+      "html_code" : "#8794;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Star Equals",
+      "slug" : "star-equals",
+      "unicode" : "U+0225B",
+      "hex_code" : "#x225B;",
+      "html_code" : "#8795;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Delta Equal To",
+      "slug" : "delta-equal-to",
+      "unicode" : "U+0225C",
+      "hex_code" : "#x225C;",
+      "html_code" : "#8796;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Equal to by Definition",
+      "slug" : "equal-to-by-definition",
+      "unicode" : "U+0225D",
+      "hex_code" : "#x225D;",
+      "html_code" : "#8797;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Measured By",
+      "slug" : "measured-by",
+      "unicode" : "U+0225E",
+      "hex_code" : "#x225E;",
+      "html_code" : "#8798;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Questioned Equal To",
+      "slug" : "questioned-equal-to",
+      "unicode" : "U+0225F",
+      "hex_code" : "#x225F;",
+      "html_code" : "#8799;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Equal To",
+      "slug" : "not-equal-to",
+      "unicode" : "U+02260",
+      "hex_code" : "#x2260;",
+      "html_code" : "#8800;",
+      "html4_entity" : "ne;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Identical To",
+      "slug" : "identical-to",
+      "unicode" : "U+02261",
+      "hex_code" : "#x2261;",
+      "html_code" : "#8801;",
+      "html4_entity" : "equiv;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Identical To",
+      "slug" : "not-identical-to",
+      "unicode" : "U+02262",
+      "hex_code" : "#x2262;",
+      "html_code" : "#8802;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Strictly Equivalent To",
+      "slug" : "strictly-equivalent-to",
+      "unicode" : "U+02263",
+      "hex_code" : "#x2263;",
+      "html_code" : "#8803;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Less-Than or Equal To",
+      "slug" : "less-than-or-equal-to",
+      "unicode" : "U+02264",
+      "hex_code" : "#x2264;",
+      "html_code" : "#8804;",
+      "html4_entity" : "le;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Greater-Than or Equal To",
+      "slug" : "greater-than-or-equal-to",
+      "unicode" : "U+02265",
+      "hex_code" : "#x2265;",
+      "html_code" : "#8805;",
+      "html4_entity" : "ge;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Less-Than Over Equal To",
+      "slug" : "less-than-over-equal-to",
+      "unicode" : "U+02266",
+      "hex_code" : "#x2266;",
+      "html_code" : "#8806;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Greater-Than Over Equal To",
+      "slug" : "greater-than-over-equal-to",
+      "unicode" : "U+02267",
+      "hex_code" : "#x2267;",
+      "html_code" : "#8807;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Less-Than but Not Equal To",
+      "slug" : "less-than-but-not-equal-to",
+      "unicode" : "U+02268",
+      "hex_code" : "#x2268;",
+      "html_code" : "#8808;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Greater-Than but Not Equal To",
+      "slug" : "greater-than-but-not-equal-to",
+      "unicode" : "U+02269",
+      "hex_code" : "#x2269;",
+      "html_code" : "#8809;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Much Less-Than",
+      "slug" : "much-less-than",
+      "unicode" : "U+0226A",
+      "hex_code" : "#x226A;",
+      "html_code" : "#8810;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Much Greater-Than",
+      "slug" : "much-greater-than",
+      "unicode" : "U+0226B",
+      "hex_code" : "#x226B;",
+      "html_code" : "#8811;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Between",
+      "slug" : "between",
+      "unicode" : "U+0226C",
+      "hex_code" : "#x226C;",
+      "html_code" : "#8812;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Equivalent To",
+      "slug" : "not-equivalent-to",
+      "unicode" : "U+0226D",
+      "hex_code" : "#x226D;",
+      "html_code" : "#8813;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Less-Than",
+      "slug" : "not-less-than",
+      "unicode" : "U+0226E",
+      "hex_code" : "#x226E;",
+      "html_code" : "#8814;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Greater-Than",
+      "slug" : "not-greater-than",
+      "unicode" : "U+0226F",
+      "hex_code" : "#x226F;",
+      "html_code" : "#8815;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Neither Less-Than Nor Equal To",
+      "slug" : "neither-less-than-nor-equal-to",
+      "unicode" : "U+02270",
+      "hex_code" : "#x2270;",
+      "html_code" : "#8816;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Neither Greater-Than Nor Equal To",
+      "slug" : "neither-greater-than-nor-equal-to",
+      "unicode" : "U+02271",
+      "hex_code" : "#x2271;",
+      "html_code" : "#8817;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Less-Than or Equivalent To",
+      "slug" : "less-than-or-equivalent-to",
+      "unicode" : "U+02272",
+      "hex_code" : "#x2272;",
+      "html_code" : "#8818;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Greater-Than or Equivalent To",
+      "slug" : "greater-than-or-equivalent-to",
+      "unicode" : "U+02273",
+      "hex_code" : "#x2273;",
+      "html_code" : "#8819;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Neither Less-Than Nor Equivalent To",
+      "slug" : "neither-less-than-nor-equivalent-to",
+      "unicode" : "U+02274",
+      "hex_code" : "#x2274;",
+      "html_code" : "#8820;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Neither Greater-Than Nor Equivalent To",
+      "slug" : "neither-greater-than-nor-equivalent-to",
+      "unicode" : "U+02275",
+      "hex_code" : "#x2275;",
+      "html_code" : "#8821;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Less-Than or Greater-Than",
+      "slug" : "less-than-or-greater-than",
+      "unicode" : "U+02276",
+      "hex_code" : "#x2276;",
+      "html_code" : "#8822;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Greater-Than or Less-Than",
+      "slug" : "greater-than-or-less-than",
+      "unicode" : "U+02277",
+      "hex_code" : "#x2277;",
+      "html_code" : "#8823;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Neither Less-Than Nor Greater-Than",
+      "slug" : "neither-less-than-nor-greater-than",
+      "unicode" : "U+02278",
+      "hex_code" : "#x2278;",
+      "html_code" : "#8824;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Neither Greater-Than Nor Less-Than",
+      "slug" : "neither-greater-than-nor-less-than",
+      "unicode" : "U+02279",
+      "hex_code" : "#x2279;",
+      "html_code" : "#8825;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Precedes",
+      "slug" : "precedes",
+      "unicode" : "U+0227A",
+      "hex_code" : "#x227A;",
+      "html_code" : "#8826;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Succeeds",
+      "slug" : "succeeds",
+      "unicode" : "U+0227B",
+      "hex_code" : "#x227B;",
+      "html_code" : "#8827;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Precedes or Equal To",
+      "slug" : "precedes-or-equal-to",
+      "unicode" : "U+0227C",
+      "hex_code" : "#x227C;",
+      "html_code" : "#8828;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Succeeds or Equal To",
+      "slug" : "succeeds-or-equal-to",
+      "unicode" : "U+0227D",
+      "hex_code" : "#x227D;",
+      "html_code" : "#8829;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Precedes or Equivalent To",
+      "slug" : "precedes-or-equivalent-to",
+      "unicode" : "U+0227E",
+      "hex_code" : "#x227E;",
+      "html_code" : "#8830;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Succeeds or Equivalent To",
+      "slug" : "succeeds-or-equivalent-to",
+      "unicode" : "U+0227F",
+      "hex_code" : "#x227F;",
+      "html_code" : "#8831;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Does Not Precede",
+      "slug" : "does-not-precede",
+      "unicode" : "U+02280",
+      "hex_code" : "#x2280;",
+      "html_code" : "#8832;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Does Not Succeed",
+      "slug" : "does-not-succeed",
+      "unicode" : "U+02281",
+      "hex_code" : "#x2281;",
+      "html_code" : "#8833;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subset Of",
+      "slug" : "subset-of",
+      "unicode" : "U+02282",
+      "hex_code" : "#x2282;",
+      "html_code" : "#8834;",
+      "html4_entity" : "sub;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superset Of",
+      "slug" : "superset-of",
+      "unicode" : "U+02283",
+      "hex_code" : "#x2283;",
+      "html_code" : "#8835;",
+      "html4_entity" : "sup;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not a Subset Of",
+      "slug" : "not-a-subset-of",
+      "unicode" : "U+02284",
+      "hex_code" : "#x2284;",
+      "html_code" : "#8836;",
+      "html4_entity" : "nsub;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not a Superset Of",
+      "slug" : "not-a-superset-of",
+      "unicode" : "U+02285",
+      "hex_code" : "#x2285;",
+      "html_code" : "#8837;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subset of or Equal To",
+      "slug" : "subset-of-or-equal-to",
+      "unicode" : "U+02286",
+      "hex_code" : "#x2286;",
+      "html_code" : "#8838;",
+      "html4_entity" : "sube;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superset of or Equal To",
+      "slug" : "superset-of-or-equal-to",
+      "unicode" : "U+02287",
+      "hex_code" : "#x2287;",
+      "html_code" : "#8839;",
+      "html4_entity" : "supe;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Neither a Subset of Nor Equal To",
+      "slug" : "neither-a-subset-of-nor-equal-to",
+      "unicode" : "U+02288",
+      "hex_code" : "#x2288;",
+      "html_code" : "#8840;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Neither a Superset of Nor Equal To",
+      "slug" : "neither-a-superset-of-nor-equal-to",
+      "unicode" : "U+02289",
+      "hex_code" : "#x2289;",
+      "html_code" : "#8841;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subset of With Not Equal To",
+      "slug" : "subset-of-with-not-equal-to",
+      "unicode" : "U+0228A",
+      "hex_code" : "#x228A;",
+      "html_code" : "#8842;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superset of With Not Equal To",
+      "slug" : "superset-of-with-not-equal-to",
+      "unicode" : "U+0228B",
+      "hex_code" : "#x228B;",
+      "html_code" : "#8843;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Multiset",
+      "slug" : "multiset",
+      "unicode" : "U+0228C",
+      "hex_code" : "#x228C;",
+      "html_code" : "#8844;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Multiset Multiplication",
+      "slug" : "multiset-multiplication",
+      "unicode" : "U+0228D",
+      "hex_code" : "#x228D;",
+      "html_code" : "#8845;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Multiset Union",
+      "slug" : "multiset-union",
+      "unicode" : "U+0228E",
+      "hex_code" : "#x228E;",
+      "html_code" : "#8846;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Square Image Of",
+      "slug" : "square-image-of",
+      "unicode" : "U+0228F",
+      "hex_code" : "#x228F;",
+      "html_code" : "#8847;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Square Original Of",
+      "slug" : "square-original-of",
+      "unicode" : "U+02290",
+      "hex_code" : "#x2290;",
+      "html_code" : "#8848;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Square Image of or Equal To",
+      "slug" : "square-image-of-or-equal-to",
+      "unicode" : "U+02291",
+      "hex_code" : "#x2291;",
+      "html_code" : "#8849;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Square Original of or Equal To",
+      "slug" : "square-original-of-or-equal-to",
+      "unicode" : "U+02292",
+      "hex_code" : "#x2292;",
+      "html_code" : "#8850;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Square Cap",
+      "slug" : "square-cap",
+      "unicode" : "U+02293",
+      "hex_code" : "#x2293;",
+      "html_code" : "#8851;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Square Cup",
+      "slug" : "square-cup",
+      "unicode" : "U+02294",
+      "hex_code" : "#x2294;",
+      "html_code" : "#8852;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Circled Plus",
+      "slug" : "circled-plus",
+      "unicode" : "U+02295",
+      "hex_code" : "#x2295;",
+      "html_code" : "#8853;",
+      "html4_entity" : "oplus;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Circled Minus",
+      "slug" : "circled-minus",
+      "unicode" : "U+02296",
+      "hex_code" : "#x2296;",
+      "html_code" : "#8854;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Circled Times",
+      "slug" : "circled-times",
+      "unicode" : "U+02297",
+      "hex_code" : "#x2297;",
+      "html_code" : "#8855;",
+      "html4_entity" : "otimes;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Circled Division Slash",
+      "slug" : "circled-division-slash",
+      "unicode" : "U+02298",
+      "hex_code" : "#x2298;",
+      "html_code" : "#8856;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Circled Dot Operator",
+      "slug" : "circled-dot-operator",
+      "unicode" : "U+02299",
+      "hex_code" : "#x2299;",
+      "html_code" : "#8857;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Circled Ring Operator",
+      "slug" : "circled-ring-operator",
+      "unicode" : "U+0229A",
+      "hex_code" : "#x229A;",
+      "html_code" : "#8858;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Circled Asterisk Operator",
+      "slug" : "circled-asterisk-operator",
+      "unicode" : "U+0229B",
+      "hex_code" : "#x229B;",
+      "html_code" : "#8859;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Circled Equals",
+      "slug" : "circled-equals",
+      "unicode" : "U+0229C",
+      "hex_code" : "#x229C;",
+      "html_code" : "#8860;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Circled Dash",
+      "slug" : "circled-dash",
+      "unicode" : "U+0229D",
+      "hex_code" : "#x229D;",
+      "html_code" : "#8861;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Squared Plus",
+      "slug" : "squared-plus",
+      "unicode" : "U+0229E",
+      "hex_code" : "#x229E;",
+      "html_code" : "#8862;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Squared Minus",
+      "slug" : "squared-minus",
+      "unicode" : "U+0229F",
+      "hex_code" : "#x229F;",
+      "html_code" : "#8863;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Squared Times",
+      "slug" : "squared-times",
+      "unicode" : "U+022A0",
+      "hex_code" : "#x22A0;",
+      "html_code" : "#8864;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Squared Dot Operator",
+      "slug" : "squared-dot-operator",
+      "unicode" : "U+022A1",
+      "hex_code" : "#x22A1;",
+      "html_code" : "#8865;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Right Tack",
+      "slug" : "right-tack",
+      "unicode" : "U+022A2",
+      "hex_code" : "#x22A2;",
+      "html_code" : "#8866;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Left Tack",
+      "slug" : "left-tack",
+      "unicode" : "U+022A3",
+      "hex_code" : "#x22A3;",
+      "html_code" : "#8867;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Down Tack",
+      "slug" : "down-tack",
+      "unicode" : "U+022A4",
+      "hex_code" : "#x22A4;",
+      "html_code" : "#8868;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Up Tack",
+      "slug" : "up-tack",
+      "unicode" : "U+022A5",
+      "hex_code" : "#x22A5;",
+      "html_code" : "#8869;",
+      "html4_entity" : "perp;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Assertion",
+      "slug" : "assertion",
+      "unicode" : "U+022A6",
+      "hex_code" : "#x22A6;",
+      "html_code" : "#8870;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Models",
+      "slug" : "models",
+      "unicode" : "U+022A7",
+      "hex_code" : "#x22A7;",
+      "html_code" : "#8871;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "True",
+      "slug" : "true",
+      "unicode" : "U+022A8",
+      "hex_code" : "#x22A8;",
+      "html_code" : "#8872;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Forces",
+      "slug" : "forces",
+      "unicode" : "U+022A9",
+      "hex_code" : "#x22A9;",
+      "html_code" : "#8873;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Triple Vertical Bar Right Turnstile",
+      "slug" : "triple-vertical-bar-right-turnstile",
+      "unicode" : "U+022AA",
+      "hex_code" : "#x22AA;",
+      "html_code" : "#8874;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Double Vertical Bar Double Right Turnstile",
+      "slug" : "double-vertical-bar-double-right-turnstile",
+      "unicode" : "U+022AB",
+      "hex_code" : "#x22AB;",
+      "html_code" : "#8875;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Does Not Prove",
+      "slug" : "does-not-prove",
+      "unicode" : "U+022AC",
+      "hex_code" : "#x22AC;",
+      "html_code" : "#8876;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not True",
+      "slug" : "not-true",
+      "unicode" : "U+022AD",
+      "hex_code" : "#x22AD;",
+      "html_code" : "#8877;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Does Not Force",
+      "slug" : "does-not-force",
+      "unicode" : "U+022AE",
+      "hex_code" : "#x22AE;",
+      "html_code" : "#8878;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Negated Double Vertical Bar Double Right Turnstile",
+      "slug" : "negated-double-vertical-bar-double-right-turnstile",
+      "unicode" : "U+022AF",
+      "hex_code" : "#x22AF;",
+      "html_code" : "#8879;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Precedes Under Relation",
+      "slug" : "precedes-under-relation",
+      "unicode" : "U+022B0",
+      "hex_code" : "#x22B0;",
+      "html_code" : "#8880;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Succeeds Under Relation",
+      "slug" : "succeeds-under-relation",
+      "unicode" : "U+022B1",
+      "hex_code" : "#x22B1;",
+      "html_code" : "#8881;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Normal Subgroup Of",
+      "slug" : "normal-subgroup-of",
+      "unicode" : "U+022B2",
+      "hex_code" : "#x22B2;",
+      "html_code" : "#8882;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Contains as Normal Subgroup",
+      "slug" : "contains-as-normal-subgroup",
+      "unicode" : "U+022B3",
+      "hex_code" : "#x22B3;",
+      "html_code" : "#8883;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Normal Subgroup of or Equal To",
+      "slug" : "normal-subgroup-of-or-equal-to",
+      "unicode" : "U+022B4",
+      "hex_code" : "#x22B4;",
+      "html_code" : "#8884;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Contains as Normal Subgroup or Equal To",
+      "slug" : "contains-as-normal-subgroup-or-equal-to",
+      "unicode" : "U+022B5",
+      "hex_code" : "#x22B5;",
+      "html_code" : "#8885;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Original Of",
+      "slug" : "original-of",
+      "unicode" : "U+022B6",
+      "hex_code" : "#x22B6;",
+      "html_code" : "#8886;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Image Of",
+      "slug" : "image-of",
+      "unicode" : "U+022B7",
+      "hex_code" : "#x22B7;",
+      "html_code" : "#8887;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Multimap",
+      "slug" : "multimap",
+      "unicode" : "U+022B8",
+      "hex_code" : "#x22B8;",
+      "html_code" : "#8888;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Hermitian Conjugate Matrix",
+      "slug" : "hermitian-conjugate-matrix",
+      "unicode" : "U+022B9",
+      "hex_code" : "#x22B9;",
+      "html_code" : "#8889;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Intercalate",
+      "slug" : "intercalate",
+      "unicode" : "U+022BA",
+      "hex_code" : "#x22BA;",
+      "html_code" : "#8890;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Xor",
+      "slug" : "xor",
+      "unicode" : "U+022BB",
+      "hex_code" : "#x22BB;",
+      "html_code" : "#8891;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Nand",
+      "slug" : "nand",
+      "unicode" : "U+022BC",
+      "hex_code" : "#x22BC;",
+      "html_code" : "#8892;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Nor",
+      "slug" : "nor",
+      "unicode" : "U+022BD",
+      "hex_code" : "#x22BD;",
+      "html_code" : "#8893;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Right Angle With Arc",
+      "slug" : "right-angle-with-arc",
+      "unicode" : "U+022BE",
+      "hex_code" : "#x22BE;",
+      "html_code" : "#8894;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Right Triangle",
+      "slug" : "right-triangle",
+      "unicode" : "U+022BF",
+      "hex_code" : "#x22BF;",
+      "html_code" : "#8895;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "N-Ary Logical And",
+      "slug" : "n-ary-logical-and",
+      "unicode" : "U+022C0",
+      "hex_code" : "#x22C0;",
+      "html_code" : "#8896;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "N-Ary Logical Or",
+      "slug" : "n-ary-logical-or",
+      "unicode" : "U+022C1",
+      "hex_code" : "#x22C1;",
+      "html_code" : "#8897;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "N-Ary Intersection",
+      "slug" : "n-ary-intersection",
+      "unicode" : "U+022C2",
+      "hex_code" : "#x22C2;",
+      "html_code" : "#8898;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "N-Ary Union",
+      "slug" : "n-ary-union",
+      "unicode" : "U+022C3",
+      "hex_code" : "#x22C3;",
+      "html_code" : "#8899;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Diamond Operator",
+      "slug" : "diamond-operator",
+      "unicode" : "U+022C4",
+      "hex_code" : "#x22C4;",
+      "html_code" : "#8900;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Dot Operator",
+      "slug" : "dot-operator",
+      "unicode" : "U+022C5",
+      "hex_code" : "#x22C5;",
+      "html_code" : "#8901;",
+      "html4_entity" : "sdot;;",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Star Operator",
+      "slug" : "star-operator",
+      "unicode" : "U+022C6",
+      "hex_code" : "#x22C6;",
+      "html_code" : "#8902;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Division Times",
+      "slug" : "division-times",
+      "unicode" : "U+022C7",
+      "hex_code" : "#x22C7;",
+      "html_code" : "#8903;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Bowtie",
+      "slug" : "bowtie",
+      "unicode" : "U+022C8",
+      "hex_code" : "#x22C8;",
+      "html_code" : "#8904;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Left Normal Factor Semidirect Product",
+      "slug" : "left-normal-factor-semidirect-product",
+      "unicode" : "U+022C9",
+      "hex_code" : "#x22C9;",
+      "html_code" : "#8905;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Right Normal Factor Semidirect Product",
+      "slug" : "right-normal-factor-semidirect-product",
+      "unicode" : "U+022CA",
+      "hex_code" : "#x22CA;",
+      "html_code" : "#8906;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Left Semidirect Product",
+      "slug" : "left-semidirect-product",
+      "unicode" : "U+022CB",
+      "hex_code" : "#x22CB;",
+      "html_code" : "#8907;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Right Semidirect Product",
+      "slug" : "right-semidirect-product",
+      "unicode" : "U+022CC",
+      "hex_code" : "#x22CC;",
+      "html_code" : "#8908;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Reversed Tilde Equals",
+      "slug" : "reversed-tilde-equals",
+      "unicode" : "U+022CD",
+      "hex_code" : "#x22CD;",
+      "html_code" : "#8909;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Curly Logical Or",
+      "slug" : "curly-logical-or",
+      "unicode" : "U+022CE",
+      "hex_code" : "#x22CE;",
+      "html_code" : "#8910;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Curly Logical And",
+      "slug" : "curly-logical-and",
+      "unicode" : "U+022CF",
+      "hex_code" : "#x22CF;",
+      "html_code" : "#8911;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Double Subset",
+      "slug" : "double-subset",
+      "unicode" : "U+022D0",
+      "hex_code" : "#x22D0;",
+      "html_code" : "#8912;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Double Superset",
+      "slug" : "double-superset",
+      "unicode" : "U+022D1",
+      "hex_code" : "#x22D1;",
+      "html_code" : "#8913;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Double Intersection",
+      "slug" : "double-intersection",
+      "unicode" : "U+022D2",
+      "hex_code" : "#x22D2;",
+      "html_code" : "#8914;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Double Union",
+      "slug" : "double-union",
+      "unicode" : "U+022D3",
+      "hex_code" : "#x22D3;",
+      "html_code" : "#8915;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Pitchfork",
+      "slug" : "pitchfork",
+      "unicode" : "U+022D4",
+      "hex_code" : "#x22D4;",
+      "html_code" : "#8916;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Equal and Parallel To",
+      "slug" : "equal-and-parallel-to",
+      "unicode" : "U+022D5",
+      "hex_code" : "#x22D5;",
+      "html_code" : "#8917;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Less-Than With Dot",
+      "slug" : "less-than-with-dot",
+      "unicode" : "U+022D6",
+      "hex_code" : "#x22D6;",
+      "html_code" : "#8918;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Greater-Than With Dot",
+      "slug" : "greater-than-with-dot",
+      "unicode" : "U+022D7",
+      "hex_code" : "#x22D7;",
+      "html_code" : "#8919;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Very Much Less-Than",
+      "slug" : "very-much-less-than",
+      "unicode" : "U+022D8",
+      "hex_code" : "#x22D8;",
+      "html_code" : "#8920;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Very Much Greater-Than",
+      "slug" : "very-much-greater-than",
+      "unicode" : "U+022D9",
+      "hex_code" : "#x22D9;",
+      "html_code" : "#8921;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Less-Than Equal to or Greater-Than",
+      "slug" : "less-than-equal-to-or-greater-than",
+      "unicode" : "U+022DA",
+      "hex_code" : "#x22DA;",
+      "html_code" : "#8922;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Greater-Than Equal to or Less-Than",
+      "slug" : "greater-than-equal-to-or-less-than",
+      "unicode" : "U+022DB",
+      "hex_code" : "#x22DB;",
+      "html_code" : "#8923;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Equal to or Less-Than",
+      "slug" : "equal-to-or-less-than",
+      "unicode" : "U+022DC",
+      "hex_code" : "#x22DC;",
+      "html_code" : "#8924;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Equal to or Greater-Than",
+      "slug" : "equal-to-or-greater-than",
+      "unicode" : "U+022DD",
+      "hex_code" : "#x22DD;",
+      "html_code" : "#8925;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Equal to or Precedes",
+      "slug" : "equal-to-or-precedes",
+      "unicode" : "U+022DE",
+      "hex_code" : "#x22DE;",
+      "html_code" : "#8926;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Equal to or Succeeds",
+      "slug" : "equal-to-or-succeeds",
+      "unicode" : "U+022DF",
+      "hex_code" : "#x22DF;",
+      "html_code" : "#8927;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Does Not Precede or Equal",
+      "slug" : "does-not-precede-or-equal",
+      "unicode" : "U+022E0",
+      "hex_code" : "#x22E0;",
+      "html_code" : "#8928;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Does Not Succeed or Equal",
+      "slug" : "does-not-succeed-or-equal",
+      "unicode" : "U+022E1",
+      "hex_code" : "#x22E1;",
+      "html_code" : "#8929;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Square Image of or Equal To",
+      "slug" : "not-square-image-of-or-equal-to",
+      "unicode" : "U+022E2",
+      "hex_code" : "#x22E2;",
+      "html_code" : "#8930;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Square Original of or Equal To",
+      "slug" : "not-square-original-of-or-equal-to",
+      "unicode" : "U+022E3",
+      "hex_code" : "#x22E3;",
+      "html_code" : "#8931;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Square Image of or Not Equal To",
+      "slug" : "square-image-of-or-not-equal-to",
+      "unicode" : "U+022E4",
+      "hex_code" : "#x22E4;",
+      "html_code" : "#8932;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Square Original of or Not Equal To",
+      "slug" : "square-original-of-or-not-equal-to",
+      "unicode" : "U+022E5",
+      "hex_code" : "#x22E5;",
+      "html_code" : "#8933;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Less-Than but Not Equivalent To",
+      "slug" : "less-than-but-not-equivalent-to",
+      "unicode" : "U+022E6",
+      "hex_code" : "#x22E6;",
+      "html_code" : "#8934;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Greater-Than but Not Equivalent To",
+      "slug" : "greater-than-but-not-equivalent-to",
+      "unicode" : "U+022E7",
+      "hex_code" : "#x22E7;",
+      "html_code" : "#8935;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Precedes but Not Equivalent To",
+      "slug" : "precedes-but-not-equivalent-to",
+      "unicode" : "U+022E8",
+      "hex_code" : "#x22E8;",
+      "html_code" : "#8936;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Succeeds but Not Equivalent To",
+      "slug" : "succeeds-but-not-equivalent-to",
+      "unicode" : "U+022E9",
+      "hex_code" : "#x22E9;",
+      "html_code" : "#8937;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Normal Subgroup Of",
+      "slug" : "not-normal-subgroup-of",
+      "unicode" : "U+022EA",
+      "hex_code" : "#x22EA;",
+      "html_code" : "#8938;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Does Not Contain as Normal Subgroup",
+      "slug" : "does-not-contain-as-normal-subgroup",
+      "unicode" : "U+022EB",
+      "hex_code" : "#x22EB;",
+      "html_code" : "#8939;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Normal Subgroup of or Equal To",
+      "slug" : "not-normal-subgroup-of-or-equal-to",
+      "unicode" : "U+022EC",
+      "hex_code" : "#x22EC;",
+      "html_code" : "#8940;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Does Not Contain as Normal Subgroup or Equal",
+      "slug" : "does-not-contain-as-normal-subgroup-or-equal",
+      "unicode" : "U+022ED",
+      "hex_code" : "#x22ED;",
+      "html_code" : "#8941;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Vertical Ellipsis",
+      "slug" : "vertical-ellipsis",
+      "unicode" : "U+022EE",
+      "hex_code" : "#x22EE;",
+      "html_code" : "#8942;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Midline Horizontal Ellipsis",
+      "slug" : "midline-horizontal-ellipsis",
+      "unicode" : "U+022EF",
+      "hex_code" : "#x22EF;",
+      "html_code" : "#8943;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Up Right Diagonal Ellipsis",
+      "slug" : "up-right-diagonal-ellipsis",
+      "unicode" : "U+022F0",
+      "hex_code" : "#x22F0;",
+      "html_code" : "#8944;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Down Right Diagonal Ellipsis",
+      "slug" : "down-right-diagonal-ellipsis",
+      "unicode" : "U+022F1",
+      "hex_code" : "#x22F1;",
+      "html_code" : "#8945;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Element of With Long Horizontal Stroke",
+      "slug" : "element-of-with-long-horizontal-stroke",
+      "unicode" : "U+022F2",
+      "hex_code" : "#x22F2;",
+      "html_code" : "#8946;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Element of With Vertical Bar at End of Horizontal Stroke",
+      "slug" : "element-of-with-vertical-bar-at-end-of-horizontal-stroke",
+      "unicode" : "U+022F3",
+      "hex_code" : "#x22F3;",
+      "html_code" : "#8947;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Small Element of With Vertical Bar at End of Horizontal Stroke",
+      "slug" : "small-element-of-with-vertical-bar-at-end-of-horizontal-stroke",
+      "unicode" : "U+022F4",
+      "hex_code" : "#x22F4;",
+      "html_code" : "#8948;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Element of With Dot Above",
+      "slug" : "element-of-with-dot-above",
+      "unicode" : "U+022F5",
+      "hex_code" : "#x22F5;",
+      "html_code" : "#8949;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Element of With Overbar",
+      "slug" : "element-of-with-overbar",
+      "unicode" : "U+022F6",
+      "hex_code" : "#x22F6;",
+      "html_code" : "#8950;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Small Element of With Overbar",
+      "slug" : "small-element-of-with-overbar",
+      "unicode" : "U+022F7",
+      "hex_code" : "#x22F7;",
+      "html_code" : "#8951;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Element of With Underbar",
+      "slug" : "element-of-with-underbar",
+      "unicode" : "U+022F8",
+      "hex_code" : "#x22F8;",
+      "html_code" : "#8952;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Element of With Two Horizontal Strokes",
+      "slug" : "element-of-with-two-horizontal-strokes",
+      "unicode" : "U+022F9",
+      "hex_code" : "#x22F9;",
+      "html_code" : "#8953;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Contains With Long Horizontal Stroke",
+      "slug" : "contains-with-long-horizontal-stroke",
+      "unicode" : "U+022FA",
+      "hex_code" : "#x22FA;",
+      "html_code" : "#8954;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Contains With Vertical Bar at End of Horizontal Stroke",
+      "slug" : "contains-with-vertical-bar-at-end-of-horizontal-stroke",
+      "unicode" : "U+022FB",
+      "hex_code" : "#x22FB;",
+      "html_code" : "#8955;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Small Contains With Vertical Bar at End of Horizontal Stroke",
+      "slug" : "small-contains-with-vertical-bar-at-end-of-horizontal-stroke",
+      "unicode" : "U+022FC",
+      "hex_code" : "#x22FC;",
+      "html_code" : "#8956;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Contains With Overbar",
+      "slug" : "contains-with-overbar",
+      "unicode" : "U+022FD",
+      "hex_code" : "#x22FD;",
+      "html_code" : "#8957;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Small Contains With Overbar",
+      "slug" : "small-contains-with-overbar",
+      "unicode" : "U+022FE",
+      "hex_code" : "#x22FE;",
+      "html_code" : "#8958;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Z Notation Bag Membership",
+      "slug" : "z-notation-bag-membership",
+      "unicode" : "U+022FF",
+      "hex_code" : "#x22FF;",
+      "html_code" : "#8959;",
+      "html4_entity" : "",
+      "html5_entity" : "",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    }
+  ]
+}
