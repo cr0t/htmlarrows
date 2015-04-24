@@ -1,0 +1,12 @@
+// Copyright 2015 Zeppelin
+// mixins.scss
+
+
+// px-convert
+//------------------------
+// size: pixels
+// type: em | rem
+// base: pixels (default: $base-font-size)
+@function px-to-rem($size, $base: $base-font-size) {
+	@return ($size / $base) * 1rem;
+}

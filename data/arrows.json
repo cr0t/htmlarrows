@@ -1,0 +1,1598 @@
+{
+	"entities" : [
+		{
+			"name" : "Leftwards Arrow",
+			"slug" : "leftwards-arrow",
+			"unicode" : "U+02190",
+			"hex_code" : "#x2190;",
+			"html_code" : "#8592;",
+			"html4_entity" : "",
+			"html5_entity" : "larr;",
+			"tags" : [
+				{
+					"name" : "default"
+				},
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Arrow",
+			"slug" : "upwards-arrow",
+			"unicode" : "U+02191",
+			"hex_code" : "#x2191;",
+			"html_code" : "#8593;",
+			"html4_entity" : "",
+			"html5_entity" : "uarr;",
+			"tags" : [
+				{
+					"name" : "default"
+				},
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow",
+			"slug" : "rightwards-arrow",
+			"unicode" : "U+02192",
+			"hex_code" : "#x2192;",
+			"html_code" : "#8594;",
+			"html4_entity" : "",
+			"html5_entity" : "rarr;",
+			"tags" : [
+				{
+					"name" : "default"
+				},
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Arrow",
+			"slug" : "downwards-arrow",
+			"unicode" : "U+02193",
+			"hex_code" : "#x2193;",
+			"html_code" : "#8595;",
+			"html4_entity" : "",
+			"html5_entity" : "darr;",
+			"tags" : [
+				{
+					"name" : "default"
+				},
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Left Right Arrow",
+			"slug" : "left-right-arrow",
+			"unicode" : "U+02194",
+			"hex_code" : "#x2194;",
+			"html_code" : "#8596;",
+			"html4_entity" : "",
+			"html5_entity" : "harr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Up Down Arrow",
+			"slug" : "up-down-arrow",
+			"unicode" : "U+02195",
+			"hex_code" : "#x2195;",
+			"html_code" : "#8597;",
+			"html4_entity" : "",
+			"html5_entity" : "varr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "North West Arrow",
+			"slug" : "north-west-arrow",
+			"unicode" : "U+02196",
+			"hex_code" : "#x2196;",
+			"html_code" : "#8598;",
+			"html4_entity" : "",
+			"html5_entity" : "nwarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "North East Arrow",
+			"slug" : "north-east-arrow",
+			"unicode" : "U+02197",
+			"hex_code" : "#x2197;",
+			"html_code" : "#8599;",
+			"html4_entity" : "",
+			"html5_entity" : "nearr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "South East Arrow",
+			"slug" : "south-east-arrow",
+			"unicode" : "U+02198",
+			"hex_code" : "#x2198;",
+			"html_code" : "#8600;",
+			"html4_entity" : "",
+			"html5_entity" : "searr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "South West Arrow",
+			"slug" : "south-west-arrow",
+			"unicode" : "U+02199",
+			"hex_code" : "#x2199;",
+			"html_code" : "#8601;",
+			"html4_entity" : "",
+			"html5_entity" : "swarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Arrow with Stroke",
+			"slug" : "leftwards-arrow-with-stroke",
+			"unicode" : "U+0219A",
+			"hex_code" : "#x219a;",
+			"html_code" : "#8602;",
+			"html4_entity" : "",
+			"html5_entity" : "nlarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow with Stroke",
+			"slug" : "rightwards-arrow-with-stroke",
+			"unicode" : "U+0219B",
+			"hex_code" : "#x219b;",
+			"html_code" : "#8603;",
+			"html4_entity" : "",
+			"html5_entity" : "nrarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Wave Arrow",
+			"slug" : "leftwards-wave-arrow",
+			"unicode" : "U+0219C",
+			"hex_code" : "#x219c;",
+			"html_code" : "#8604;",
+			"html4_entity" : "",
+			"html5_entity" : "larrw;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Wave Arrow",
+			"slug" : "rightwards-wave-arrow",
+			"unicode" : "U+0219D",
+			"hex_code" : "#x219d;",
+			"html_code" : "#8605;",
+			"html4_entity" : "",
+			"html5_entity" : "rarrw;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Two Headed Arrow",
+			"slug" : "leftwards-two-headed-arrow",
+			"unicode" : "U+0219E",
+			"hex_code" : "#x219e;",
+			"html_code" : "#8606;",
+			"html4_entity" : "",
+			"html5_entity" : "Larr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Two Headed Arrow",
+			"slug" : "upwards-two-headed-arrow",
+			"unicode" : "U+0219F",
+			"hex_code" : "#x219f;",
+			"html_code" : "#8607;",
+			"html4_entity" : "",
+			"html5_entity" : "Uarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Two Headed Arrow",
+			"slug" : "rightwards-two-headed-arrow",
+			"unicode" : "U+021A0",
+			"hex_code" : "#x21a0;",
+			"html_code" : "#8608;",
+			"html4_entity" : "",
+			"html5_entity" : "Rarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Two Headed Arrow",
+			"slug" : "downwards-two-headed-arrow",
+			"unicode" : "U+021A1",
+			"hex_code" : "#x21a1;",
+			"html_code" : "#8609;",
+			"html4_entity" : "",
+			"html5_entity" : "Darr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Arrow with Tail",
+			"slug" : "leftwards-arrow-with-tail",
+			"unicode" : "U+021A2",
+			"hex_code" : "#x21a2;",
+			"html_code" : "#8610;",
+			"html4_entity" : "",
+			"html5_entity" : "larrtl;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow with Tail",
+			"slug" : "rightwards-arrow-with-tail",
+			"unicode" : "U+021A3",
+			"hex_code" : "#x21a3;",
+			"html_code" : "#8611;",
+			"html4_entity" : "",
+			"html5_entity" : "rarrtl;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Arrow from Bar",
+			"slug" : "leftwards-arrow-from-bar",
+			"unicode" : "U+021A4",
+			"hex_code" : "#x21a4;",
+			"html_code" : "#8612;",
+			"html4_entity" : "",
+			"html5_entity" : "mapstoleft;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Arrow from Bar",
+			"slug" : "upwards-arrow-from-bar",
+			"unicode" : "U+021A5",
+			"hex_code" : "#x21a5;",
+			"html_code" : "#8613;",
+			"html4_entity" : "",
+			"html5_entity" : "mapstoup;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow from Bar",
+			"slug" : "rightwards-arrow-from-bar",
+			"unicode" : "U+021A6",
+			"hex_code" : "#x21a6;",
+			"html_code" : "#8614;",
+			"html4_entity" : "",
+			"html5_entity" : "mapstoright;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Arrow from Bar",
+			"slug" : "downwards-arrow-from-bar",
+			"unicode" : "U+021A7",
+			"hex_code" : "#x21a7;",
+			"html_code" : "#8615;",
+			"html4_entity" : "",
+			"html5_entity" : "mapstodown;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Up Down Arrow with Base",
+			"slug" : "up-down-arrow-with-base",
+			"unicode" : "U+021A8",
+			"hex_code" : "#x21a8;",
+			"html_code" : "#8616;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Arrow with Hook",
+			"slug" : "leftwards-arrow-with-hook",
+			"unicode" : "U+021A9",
+			"hex_code" : "#x21a9;",
+			"html_code" : "#8617;",
+			"html4_entity" : "",
+			"html5_entity" : "larrhk;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow with Hook",
+			"slug" : "rightwards-arrow-with-hook",
+			"unicode" : "U+021AA",
+			"hex_code" : "#x21aa;",
+			"html_code" : "#8618;",
+			"html4_entity" : "",
+			"html5_entity" : "rarrhk;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Arrow with Loop",
+			"slug" : "leftwards-arrow-with-loop",
+			"unicode" : "U+021AB",
+			"hex_code" : "#x21ab;",
+			"html_code" : "#8619;",
+			"html4_entity" : "",
+			"html5_entity" : "larrlp;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow with Loop",
+			"slug" : "rightwards-arrow-with-loop",
+			"unicode" : "U+021AC",
+			"hex_code" : "#x21ac;",
+			"html_code" : "#8620;",
+			"html4_entity" : "",
+			"html5_entity" : "rarrlp;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Left Right Wave Arrow",
+			"slug" : "left-right-wave-arrow",
+			"unicode" : "U+021AD",
+			"hex_code" : "#x21ad;",
+			"html_code" : "#8621;",
+			"html4_entity" : "",
+			"html5_entity" : "harrw;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Left Right Arrow with Stroke",
+			"slug" : "left-right-arrow-with-stroke",
+			"unicode" : "U+021AE",
+			"hex_code" : "#x21ae;",
+			"html_code" : "#8622;",
+			"html4_entity" : "",
+			"html5_entity" : "nharr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Zigzag Arrow",
+			"slug" : "downwards-zigzag-arrow",
+			"unicode" : "U+021AF",
+			"hex_code" : "#x21af;",
+			"html_code" : "#8623;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Arrow with Tip Leftwards",
+			"slug" : "upwards-arrow-with-tip-leftwards",
+			"unicode" : "U+021B0",
+			"hex_code" : "#x21b0;",
+			"html_code" : "#8624;",
+			"html4_entity" : "",
+			"html5_entity" : "lsh;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Arrow with Tip Rightwards",
+			"slug" : "upwards-arrow-with-tip-rightwards",
+			"unicode" : "U+021B1",
+			"hex_code" : "#x21b1;",
+			"html_code" : "#8625;",
+			"html4_entity" : "",
+			"html5_entity" : "rsh;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Arrow with Tip Leftwards",
+			"slug" : "downwards-arrow-with-tip-leftwards",
+			"unicode" : "U+021B2",
+			"hex_code" : "#x21b2;",
+			"html_code" : "#8626;",
+			"html4_entity" : "",
+			"html5_entity" : "ldsh;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Arrow with Tip Rightwards",
+			"slug" : "downwards-arrow-with-tip-rightwards",
+			"unicode" : "U+021B3",
+			"hex_code" : "#x21b3;",
+			"html_code" : "#8627;",
+			"html4_entity" : "",
+			"html5_entity" : "rdsh;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow with Corner Downwards",
+			"slug" : "rightwards-arrow-with-corner-downwards",
+			"unicode" : "U+021B4",
+			"hex_code" : "#x21b4;",
+			"html_code" : "#8628;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Arrow with Corner Leftwards",
+			"slug" : "downwards-arrow-with-corner-leftwards",
+			"unicode" : "U+021B5",
+			"hex_code" : "#x21b5;",
+			"html_code" : "#8629;",
+			"html4_entity" : "crarr;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Anticlockwise Top Semicircle Arrow",
+			"slug" : "anticlockwise-top-semicircle-arrow",
+			"unicode" : "U+021B6",
+			"hex_code" : "#x21b6;",
+			"html_code" : "#8630;",
+			"html4_entity" : "",
+			"html5_entity" : "cularr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Clockwise Top Semicircle Arrow",
+			"slug" : "clockwise-top-semicircle-arrow",
+			"unicode" : "U+021B7",
+			"hex_code" : "#x21b7;",
+			"html_code" : "#8631;",
+			"html4_entity" : "",
+			"html5_entity" : "curarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "North West Arrow to Long Bar",
+			"slug" : "north-west-arrow-to-long-bar",
+			"unicode" : "U+021B8",
+			"hex_code" : "#x21b8;",
+			"html_code" : "#8632;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Arrow to Bar over Rightwards Arrow to bar",
+			"slug" : "leftwards-arrow-to-bar-over-rightwards-arrow-to-bar",
+			"unicode" : "U+021B9",
+			"hex_code" : "#x21b9;",
+			"html_code" : "#8633;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Anticlockwise Open Circle Arrow",
+			"slug" : "anticlockwise-open-circle-arrow",
+			"unicode" : "U+021BA",
+			"hex_code" : "#x21ba;",
+			"html_code" : "#8634;",
+			"html4_entity" : "",
+			"html5_entity" : "olarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Clockwise Open Circle Arrow",
+			"slug" : "clockwise-open-circle-arrow",
+			"unicode" : "U+021BB",
+			"hex_code" : "#x21bb;",
+			"html_code" : "#8635;",
+			"html4_entity" : "",
+			"html5_entity" : "orarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Harpoon with Barb Upwards",
+			"slug" : "leftwards-harpoon-with-barb-upwards",
+			"unicode" : "U+021BC",
+			"hex_code" : "#x21bc;",
+			"html_code" : "#8636;",
+			"html4_entity" : "",
+			"html5_entity" : "lharu;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Harpoon with Barb Downwards",
+			"slug" : "leftwards-harpoon-with-barb-downwards",
+			"unicode" : "U+021BD",
+			"hex_code" : "#x21bd;",
+			"html_code" : "#8637;",
+			"html4_entity" : "",
+			"html5_entity" : "lhard;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Harpoon with Barb Rightwards",
+			"slug" : "upwards-harpoon-with-barb-rightwards",
+			"unicode" : "U+021BE",
+			"hex_code" : "#x21be;",
+			"html_code" : "#8638;",
+			"html4_entity" : "",
+			"html5_entity" : "uharr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Harpoon with Barb Leftwards",
+			"slug" : "upwards-harpoon-with-barb-leftwards",
+			"unicode" : "U+021BF",
+			"hex_code" : "#x21bf;",
+			"html_code" : "#8639;",
+			"html4_entity" : "",
+			"html5_entity" : "uharl;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Harpoon with Barb Upwards",
+			"slug" : "rightwards-harpoon-with-barb-upwards",
+			"unicode" : "U+021C0",
+			"hex_code" : "#x21c0;",
+			"html_code" : "#8640;",
+			"html4_entity" : "",
+			"html5_entity" : "rharu;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Harpoon with Barb Downwards",
+			"slug" : "rightwards-harpoon-with-barb-downwards",
+			"unicode" : "U+021C1",
+			"hex_code" : "#x21c1;",
+			"html_code" : "#8641;",
+			"html4_entity" : "",
+			"html5_entity" : "rhard;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Harpoon with Barb Rightwards",
+			"slug" : "downwards-harpoon-with-barb-rightwards",
+			"unicode" : "U+021C2",
+			"hex_code" : "#x21c2;",
+			"html_code" : "#8642;",
+			"html4_entity" : "",
+			"html5_entity" : "dharr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Harpoon with Barb Leftwards",
+			"slug" : "downwards-harpoon-with-barb-leftwards",
+			"unicode" : "U+021C3",
+			"hex_code" : "#x21c3;",
+			"html_code" : "#8643;",
+			"html4_entity" : "",
+			"html5_entity" : "dharl;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow over Leftwards Arrow",
+			"slug" : "rightwards-arrow-over-leftwards-arrow",
+			"unicode" : "U+021C4",
+			"hex_code" : "#x21c4;",
+			"html_code" : "#8644;",
+			"html4_entity" : "",
+			"html5_entity" : "rlarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Arrow Leftwards of Downwards Arrow",
+			"slug" : "upwards-arrow-leftwards-of-downwards-arrow",
+			"unicode" : "U+021C5",
+			"hex_code" : "#x21c5;",
+			"html_code" : "#8645;",
+			"html4_entity" : "",
+			"html5_entity" : "udarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Arrow over Rightwards Arrow",
+			"slug" : "leftwards-arrow-over-rightwards-arrow",
+			"unicode" : "U+021C6",
+			"hex_code" : "#x21c6;",
+			"html_code" : "#8646;",
+			"html4_entity" : "",
+			"html5_entity" : "lrarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Paired Arrows",
+			"slug" : "leftwards-paired-arrows",
+			"unicode" : "U+021C7",
+			"hex_code" : "#x21c7;",
+			"html_code" : "#8647;",
+			"html4_entity" : "",
+			"html5_entity" : "llarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Paired Arrows",
+			"slug" : "upwards-paired-arrows",
+			"unicode" : "U+021C8",
+			"hex_code" : "#x21c8;",
+			"html_code" : "#8648;",
+			"html4_entity" : "",
+			"html5_entity" : "uuarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Paired Arrows",
+			"slug" : "rightwards-paired-arrows",
+			"unicode" : "U+021C9",
+			"hex_code" : "#x21c9;",
+			"html_code" : "#8649;",
+			"html4_entity" : "",
+			"html5_entity" : "rrarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downards Paired Arrows",
+			"slug" : "downwards-paired-arrows",
+			"unicode" : "U+021CA",
+			"hex_code" : "#x21cA;",
+			"html_code" : "#8650;",
+			"html4_entity" : "",
+			"html5_entity" : "ddarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Harpoon over Rightwards Harpoon",
+			"slug" : "leftwards-harpoon-over-rightwards-harpoon",
+			"unicode" : "U+021CB",
+			"hex_code" : "#x21cb;",
+			"html_code" : "#8651;",
+			"html4_entity" : "",
+			"html5_entity" : "lrhar;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Harpoon over Leftwards Harpoon",
+			"slug" : "rightwards-harpoon-over-leftwards-harpoon",
+			"unicode" : "U+021CC",
+			"hex_code" : "#x21cc;",
+			"html_code" : "#8652;",
+			"html4_entity" : "",
+			"html5_entity" : "rlhar;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Double Arrow with Stroke",
+			"slug" : "leftwards-double-arrow-with-stroke",
+			"unicode" : "U+021CD",
+			"hex_code" : "#x21cd;",
+			"html_code" : "#8653;",
+			"html4_entity" : "",
+			"html5_entity" : "nlArr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Left Right Double Arrow with Stroke",
+			"slug" : "left-right-double-arrow-with-stroke",
+			"unicode" : "U+021CE",
+			"hex_code" : "#x21ce;",
+			"html_code" : "#8654;",
+			"html4_entity" : "",
+			"html5_entity" : "nhArr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Double Arrow with Stroke",
+			"slug" : "rightwards-double-arrow-with-stroke",
+			"unicode" : "U+021CF",
+			"hex_code" : "#x21cf;",
+			"html_code" : "#8655;",
+			"html4_entity" : "",
+			"html5_entity" : "nrArr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Double Arrow",
+			"slug" : "leftwards-double-arrow",
+			"unicode" : "U+021D0",
+			"hex_code" : "#x21d0;",
+			"html_code" : "#8656;",
+			"html4_entity" : "lArr;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Double Arrow",
+			"slug" : "upwards-double-arrow",
+			"unicode" : "U+021D1",
+			"hex_code" : "#x21d1;",
+			"html_code" : "#8657;",
+			"html4_entity" : "uArr;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Double Arrow",
+			"slug" : "rightwards-double-arrow",
+			"unicode" : "U+021D2",
+			"hex_code" : "#x21d2;",
+			"html_code" : "#8658;",
+			"html4_entity" : "rArr;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Double Arrow",
+			"slug" : "downwards-double-arrow",
+			"unicode" : "U+021D3",
+			"hex_code" : "#x21d3;",
+			"html_code" : "#8659;",
+			"html4_entity" : "dArr;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Left Right Double Arrow",
+			"slug" : "left-right-double-arrow",
+			"unicode" : "U+021D4",
+			"hex_code" : "#x21d4;",
+			"html_code" : "#8660;",
+			"html4_entity" : "hArr;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Up Down Double Arrow",
+			"slug" : "up-down-double-arrow",
+			"unicode" : "U+021D5",
+			"hex_code" : "#x21d5;",
+			"html_code" : "#8661;",
+			"html4_entity" : "",
+			"html5_entity" : "vArr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "North West Double Arrow",
+			"slug" : "north-west-double-arrow",
+			"unicode" : "U+021D6",
+			"hex_code" : "#x21d6;",
+			"html_code" : "#8662;",
+			"html4_entity" : "",
+			"html5_entity" : "nwArr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "North East Double Arrow",
+			"slug" : "north-east-double-arrow",
+			"unicode" : "U+021D7",
+			"hex_code" : "#x21d7;",
+			"html_code" : "#8663;",
+			"html4_entity" : "",
+			"html5_entity" : "neArr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "South East Double Arrow",
+			"slug" : "south-east-double-arrow",
+			"unicode" : "U+021D8",
+			"hex_code" : "#x21d8;",
+			"html_code" : "#8664;",
+			"html4_entity" : "",
+			"html5_entity" : "seArr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "South West Double Arrow",
+			"slug" : "south-west-double-arrow",
+			"unicode" : "U+021D9",
+			"hex_code" : "#x21d9;",
+			"html_code" : "#8665;",
+			"html4_entity" : "",
+			"html5_entity" : "swArr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Triple Arrow",
+			"slug" : "leftwards-triple-arrow",
+			"unicode" : "U+021DA",
+			"hex_code" : "#x21da;",
+			"html_code" : "#8666;",
+			"html4_entity" : "",
+			"html5_entity" : "lAarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Triple Arrow",
+			"slug" : "rightwards-triple-arrow",
+			"unicode" : "U+021DB",
+			"hex_code" : "#x21db;",
+			"html_code" : "#8667;",
+			"html4_entity" : "",
+			"html5_entity" : "rAarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Squiggle Arrow",
+			"slug" : "leftwards-squiggle-arrow",
+			"unicode" : "U+021DC",
+			"hex_code" : "#x21dc;",
+			"html_code" : "#8668;",
+			"html4_entity" : "",
+			"html5_entity" : "ziglarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Squiggle Arrow",
+			"slug" : "rightwards-squiggle-arrow",
+			"unicode" : "U+021DD",
+			"hex_code" : "#x21dd;",
+			"html_code" : "#8669;",
+			"html4_entity" : "",
+			"html5_entity" : "zigrarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Arrow with Double Stroke",
+			"slug" : "upwards-arrow-with-double-stroke",
+			"unicode" : "U+021DE",
+			"hex_code" : "#x21de;",
+			"html_code" : "#8670;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Arrow with Double Stroke",
+			"slug" : "downwards-arrow-with-double-stroke",
+			"unicode" : "U+021DF",
+			"hex_code" : "#x21df;",
+			"html_code" : "#8671;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Dashed Arrow",
+			"slug" : "leftwards-dashed-arrow",
+			"unicode" : "U+021E0",
+			"hex_code" : "#x21e0;",
+			"html_code" : "#8672;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Dashed Arrow",
+			"slug" : "upwards-dashed-arrow",
+			"unicode" : "U+021E1",
+			"hex_code" : "#x21e1;",
+			"html_code" : "#8673;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Dashed Arrow",
+			"slug" : "rightwards-dashed-arrow",
+			"unicode" : "U+021E2",
+			"hex_code" : "#x21e2;",
+			"html_code" : "#8674;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Dashed Arrow",
+			"slug" : "downwards-dashed-arrow",
+			"unicode" : "U+021E3",
+			"hex_code" : "#x21e3;",
+			"html_code" : "#8675;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Arrow to Bar",
+			"slug" : "leftwards-arrow-to-bar",
+			"unicode" : "U+021E4",
+			"hex_code" : "#x21e4;",
+			"html_code" : "#8676;",
+			"html4_entity" : "",
+			"html5_entity" : "larrb;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow to Bar",
+			"slug" : "rightwards-arrow-to-bar",
+			"unicode" : "U+021E5",
+			"hex_code" : "#x21e5;",
+			"html_code" : "#8677;",
+			"html4_entity" : "",
+			"html5_entity" : "rarrb;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow to Bar",
+			"slug" : "rightwards-arrow-to-bar",
+			"unicode" : "U+021E5",
+			"hex_code" : "#x21e5;",
+			"html_code" : "#8677;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards White Arrow",
+			"slug" : "leftwards-white-arrow",
+			"unicode" : "U+021E6",
+			"hex_code" : "#x21e6;",
+			"html_code" : "#8678;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards White Arrow",
+			"slug" : "upwards-white-arrow",
+			"unicode" : "U+021E7",
+			"hex_code" : "#x21e7;",
+			"html_code" : "#8679;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards White Arrow",
+			"slug" : "rightwards-white-arrow",
+			"unicode" : "U+021E8",
+			"hex_code" : "#x21e8;",
+			"html_code" : "#8680;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards White Arrow",
+			"slug" : "downwards-white-arrow",
+			"unicode" : "U+021E9",
+			"hex_code" : "#x21e9;",
+			"html_code" : "#8681;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards White Arrow from Bar",
+			"slug" : "upwards-white-arrow-from-bar",
+			"unicode" : "U+021EA",
+			"hex_code" : "#x21ea;",
+			"html_code" : "#8682;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards White Arrow on Pedestal",
+			"slug" : "upwards-white-arrow-on-pedestal",
+			"unicode" : "U+021EB",
+			"hex_code" : "#x21eb;",
+			"html_code" : "#8683;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards White Arrow on Pedestal with Horizontal Bar",
+			"slug" : "upwards-white-arrow-on-pedestal-with-horizontal-bar",
+			"unicode" : "U+021EC",
+			"hex_code" : "#x21ec;",
+			"html_code" : "#8684;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards White Arrow on Pedestal with Vertical Bar",
+			"slug" : "upwards-white-arrow-on-pedestal-with-vertical-bar",
+			"unicode" : "U+021ED",
+			"hex_code" : "#x21ed;",
+			"html_code" : "#8685;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards White Double Arrow",
+			"slug" : "upwards-white-double-arrow",
+			"unicode" : "U+021EE",
+			"hex_code" : "#x21ee;",
+			"html_code" : "#8686;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards White Double Arrow on Pedestal",
+			"slug" : "upwards-white-double-arrow-on-pedestal",
+			"unicode" : "U+021EF",
+			"hex_code" : "#x21ef;",
+			"html_code" : "#8687;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards White Arrow from Wall",
+			"slug" : "rightwards-white-arrow-from-wall",
+			"unicode" : "U+021F0",
+			"hex_code" : "#x21f0;",
+			"html_code" : "#8688;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "North West Arrow to Corner",
+			"slug" : "north-west-arrow-to-corner",
+			"unicode" : "U+021F1",
+			"hex_code" : "#x21f1;",
+			"html_code" : "#8689;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "South East Arrow to Corner",
+			"slug" : "south-east-arrow-to-corner",
+			"unicode" : "U+021F2",
+			"hex_code" : "#x21f2;",
+			"html_code" : "#8690;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Up Down White Arrow",
+			"slug" : "up-down-white-arrow",
+			"unicode" : "U+021F3",
+			"hex_code" : "#x21f3;",
+			"html_code" : "#8691;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Right Arrow with Small Circle",
+			"slug" : "right-arrow-with-small-circle",
+			"unicode" : "U+021F4",
+			"hex_code" : "#x21f4;",
+			"html_code" : "#8692;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Downwards Arrow Leftwards of Upwards Arrow",
+			"slug" : "downwards-arrow-leftwards-of-upwards-arrow",
+			"unicode" : "U+021F5",
+			"hex_code" : "#x21f5;",
+			"html_code" : "#8693;",
+			"html4_entity" : "",
+			"html5_entity" : "duarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Three Rightwards Arrows",
+			"slug" : "three-rightwards-arrows",
+			"unicode" : "U+021F6",
+			"hex_code" : "#x21f6;",
+			"html_code" : "#8694;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Arrow with Vertical Stroke",
+			"slug" : "leftwards-arrow-with-vertical-stroke",
+			"unicode" : "U+021F7",
+			"hex_code" : "#x21f7;",
+			"html_code" : "#8695;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow with Vertical Stroke",
+			"slug" : "rightwards-arrow-with-vertical-stroke",
+			"unicode" : "U+021F8",
+			"hex_code" : "#x21f8;",
+			"html_code" : "#8696;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Left Right Arrow with Vertical Stroke",
+			"slug" : "left-right-arrow-with-vertical-stroke",
+			"unicode" : "U+021F9",
+			"hex_code" : "#x21f9;",
+			"html_code" : "#8697;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Arrow with Double Vertical Stroke",
+			"slug" : "leftwards-arrow-with-double-vertical-stroke",
+			"unicode" : "U+021FA",
+			"hex_code" : "#x21fa;",
+			"html_code" : "#8698;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow with Double Vertical Stroke",
+			"slug" : "rightwards-arrow-with-double-vertical-stroke",
+			"unicode" : "U+021FB",
+			"hex_code" : "#x21fb;",
+			"html_code" : "#8699;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Left Right Arrow with Double Vertical Stroke",
+			"slug" : "left-right-arrow-with-double-vertical-stroke",
+			"unicode" : "U+021FC",
+			"hex_code" : "#x21fc;",
+			"html_code" : "#8700;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Leftwards Open-headed Arrow",
+			"slug" : "leftwards-open-headed-arrow",
+			"unicode" : "U+021FD",
+			"hex_code" : "#x21fd;",
+			"html_code" : "#8701;",
+			"html4_entity" : "",
+			"html5_entity" : "loarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Open-headed Arrow",
+			"slug" : "rightwards-open-headed-arrow",
+			"unicode" : "U+021FE",
+			"hex_code" : "#x21fe;",
+			"html_code" : "#8702;",
+			"html4_entity" : "",
+			"html5_entity" : "roarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Left Right Open-headed Arrow",
+			"slug" : "left-right-open-headed-arrow",
+			"unicode" : "U+021FF",
+			"hex_code" : "#x21ff;",
+			"html_code" : "#8703;",
+			"html4_entity" : "",
+			"html5_entity" : "hoarr;",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		}
+	]
+}

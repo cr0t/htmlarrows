@@ -1,0 +1,91 @@
+// Copyright 2015 Zeppelin
+// mixins.scss
+
+
+// Typography (requires function: px-to-rem)
+//------------------------------------------------
+// p {
+// 	@include font-size($fontSize-base);
+// }
+//
+// >>
+//
+// p {
+// 	font-size: 16px;
+// 	font-size: 1rem;
+// }
+@mixin font-size($size) {
+  font-size: $size;
+  font-size: px-to-rem($size);
+}
+
+// Transitions
+//------------------------------------------------
+// a {
+//   color: $color-ltgray;
+//	 border: 1px solid $color-ltgray;
+//   @include transition(color .3s ease-in, border .3s ease-in);
+//   &:hover {
+//     color: $color-black;
+//		 border: 1px solid $color-black;
+//   }
+// }
+//
+// >>
+//
+// a {
+// 	color: rgb(144, 144, 144);
+// 	border: 1px solid rgb(144, 144, 144);
+// 	-webkit-transition: color .3s ease-in, border .3s ease-in;
+//   -moz-transition: color .3s ease-in, border .3s ease-in;
+//   -ms-transition: color .3s ease-in, border .3s ease-in;
+//   -o-transition: color .3s ease-in, border .3s ease-in;
+//   transition: color .3s ease-in, border .3s ease-in;
+//   &:hover {
+//   	color: rgb(51, 51, 51);
+// 		border: 1px solid rgb(51, 51, 51);
+//   }
+// }
+@mixin transition($transitions...) {
+  -webkit-transition: $transitions;
+  -moz-transition: $transitions;
+  -ms-transition: $transitions;
+  -o-transition: $transitions;
+  transition: $transitions;
+}
+
+@mixin animation($args...) {
+  -webkit-animation: $args;
+  -moz-animation: $args;
+  -ms-animation: $args;
+  -o-animation: $args;
+  animation: $args;
+}
+
+@mixin translate3d($x, $y, $z) {
+  -webkit-transform: translate3d($x, $y, $z);
+  -moz-transform: translate3d($x, $y, $z);
+  -ms-transform: translate3d($x, $y, $z);
+  -o-transform: translate3d($x, $y, $z);
+  transform: translate3d($x, $y, $z);
+}
+
+
+
+// Opacity
+//------------------------------------------------
+// .fade-class {
+//   @include opacity(0.8);
+// }
+//
+// >>
+//
+// .fade-class {
+// 	opacity: 0.8;
+// 	filter: alpha(opacity=80);
+// }
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  $opacity-ie: $opacity * 100;
+  filter: alpha(opacity=$opacity-ie); // IE8
+}

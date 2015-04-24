@@ -1,0 +1,248 @@
+// CSS Utility Classes
+// hydrogen/_utilities.scss
+
+// <img> as background-cover
+// - - - - - - - - - - - - - - - -
+.cover {
+	position: relative;
+	height: 0;
+	overflow: hidden;
+	img {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		-webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+		transform: translate(-50%,-50%);
+	}
+}
+
+.contain {
+	position: relative;
+	height: 0;
+	img {
+		position: absolute;
+	}
+}
+
+.natural {
+	width: 100%;
+	max-width: 100%;
+}
+
+.empty {
+	background-color: $color-gray-light;
+}
+
+.landscape {
+	img {
+		min-width: 100%;
+		height: 100%;
+	}
+}
+
+.portrait {
+	img {
+		width: 100%;
+		min-height: 100%;
+	}
+}
+
+.height {
+	img {
+		max-width: 100%;
+		height: 100%;
+	}
+}
+
+.width {
+	img {
+		width: 100%;
+		max-height: 100%;
+	}
+}
+
+.ratio-1x1 {
+	padding-bottom: 100%;
+}
+
+.ratio-3x4 {
+	padding-bottom: 133.334%;
+}
+
+.ratio-4x3 {
+	padding-bottom: 75%;
+}
+
+.ratio-16x4 {
+	padding-bottom:40.7%;
+}
+
+.ratio-16x9 {
+	padding-bottom:56.25%;
+}
+
+.ratio-16x10 {
+	padding-bottom: 62.5%;
+}
+
+
+// hide elements using media-queries
+// - - - - - - - - - - - - - - - -
+.show-xs,
+.hide-xs-only,
+.hide-sm,
+.hide-sm-only,
+.hide-md,
+.hide-md-only,
+.hide-lg,
+.hide-lg-only,
+.hide-xl, {
+	display: block;
+}
+
+.hide-xs,
+.show-xs-only,
+.show-sm,
+.show-sm-only,
+.show-md,
+.show-md-only,
+.show-lg,
+.show-lg-only,
+.show-xl {
+	display: none !important;
+}
+
+.text-xs-right {
+	text-align: right;
+}
+.text-xs-left {
+	text-align: left;
+}
+.text-xs-center {
+	text-align: center;
+}
+
+.text-sm-right,
+.text-sm-left,
+.text-sm-center,
+.text-md-right,
+.text-md-left,
+.text-md-center,
+.text-lg-right,
+.text-lg-left,
+.text-lg-center,
+.text-xl-right,
+.text-xl-left,
+.text-xl-center {
+	text-align: none;
+}
+
+@media only screen and (max-width: 40em) {
+	.show-xs-only {
+		display: block !important;
+	}
+	.hide-xs-only {
+		display: none !important;
+	}
+}
+
+@media only screen and (min-width: 40.063em) {
+	.show-sm {
+		display: inline-block !important;
+	}
+	.hide-sm {
+		display: none !important;
+	}
+	.text-sm-right {
+		text-align: right;
+	}
+	.text-sm-left {
+		text-align: left;
+	}
+	.text-sm-center {
+		text-align: center;
+	}
+}
+
+@media only screen and (min-width: 40.063em) and (max-width: 48em) {
+	.show-sm-only {
+		display: block !important;
+	}
+	.hide-sm-only {
+		display: none !important;
+	}
+}
+
+@media only screen and (min-width: 48.063em) {
+	.show-md {
+		display: block !important;
+	}
+	.hide-md {
+		display: none !important;
+	}
+	.text-md-right {
+		text-align: right;
+	}
+	.text-md-left {
+		text-align: left;
+	}
+	.text-md-center {
+		text-align: center;
+	}
+}
+
+@media only screen and (min-width: 48.063em) and (max-width: 64em) {
+	.show-md-only {
+		display: block !important;
+	}
+	.hide-md-only {
+		display: none !important;
+	}
+}
+
+@media only screen and (min-width: 64.063em) {
+	.show-lg {
+		display: block !important;
+	}
+	.hide-lg {
+		display: none !important;
+	}
+	.text-lg-right {
+		text-align: right;
+	}
+	.text-lg-left {
+		text-align: left;
+	}
+	.text-lg-center {
+		text-align: center;
+	}
+}
+
+@media only screen and (min-width: 64.063em) and (max-width: 90em) {
+	.show-lg-only {
+		display: block !important;
+	}
+	.hide-xl-only {
+		display: none !important;
+	}
+}
+
+@media only screen and (min-width: 90.063em) {
+	.show-xl {
+		display: block !important;
+	}
+	.hide-xl {
+		display: none !important;
+	}
+	.text-xl-right {
+		text-align: right;
+	}
+	.text-xl-left {
+		text-align: left;
+	}
+	.text-xl-center {
+		text-align: center;
+	}
+}

@@ -1,0 +1,76 @@
+// Copyright 2015 Zeppelin
+// settings.scss
+
+// Global Styles
+// - - - - - - - - - - - - - - - -
+$base-font-size: 16px !default;
+$base-line-height: 1.6;
+$base-letter-spacing: 0.0375em;
+
+$body-background: rgb(247, 247, 247); // #ffffff
+// $body-background: rgb(255, 255, 255); // #ffffff
+$body-font-color: rgb(51, 51, 51); // #333333
+$body-font-family: "Helvetica", Helvetica, Arial, sans-serif;
+
+$color-primary: rgb(237, 101, 92); // #
+$color-secondary: rgb(158, 171, 175); // #9eabaf
+$color-black-dark: rgb(51, 51, 51); // #333333
+$color-black-light: rgb(153, 153, 153); // #999999
+$color-gray-dark: rgb(204, 204, 204); // #cccccc
+$color-gray-light: rgb(247, 247, 247); // #f7f7f7
+
+
+// Grid
+// - - - - - - - - - - - - - - - -
+// columns
+$grid-columns: 24;
+$grid-gutter: 1rem; // 12px
+$grid-width: 75rem; // 1080px
+
+// media queries
+$screen-xs-min: 0em; // 0px - 640px
+$screen-sm-min: 40.063em; // 641px - 768px
+$screen-md-min: 48.063em; // 769px - 1024px
+$screen-lg-min: 64.063em; // 1025px - 1440px
+$screen-xl-min: 90.063em; // 1440px and above
+
+// XS screens
+// @media only screen { } /* Define mobile styles */
+// @media only screen and (max-width: 47.999em) { } /* max-width 767px, mobile-only styles, use when QAing mobile issues */
+
+// SM screens
+// @media only screen and (min-width: 48em) { } /* min-width 641px, medium screens */
+// @media only screen and (min-width: 48em) and (max-width: 64em) { } /* min-width 768px and max-width 1024px, use when QAing tablet-only issues */
+
+// MD screens
+// @media only screen and (min-width: 64.063em) { } /* min-width 1025px, large screens */
+// @media only screen and (min-width: 64.063em) and (max-width: 90em) { } /* min-width 1025px and max-width 1440px, use when QAing large screen-only issues */
+
+// LG screens
+// @media only screen and (min-width: 90.063em) { } /* min-width 1441px, xlarge screens */
+// @media only screen and (min-width: 90.063em) and (max-width: 120em) { } /* min-width 1441px and max-width 1920px, use when QAing xlarge screen-only issues */
+
+
+// Typography
+// - - - - - - - - - - - - - - - -
+$font-family-primary: "Helvetica", Helvetica, Arial, sans-serif;
+$font-family-secondary: "Helvetica", Helvetica, Arial, sans-serif;
+
+$font-size-micro: 10px;
+$font-size-small: 12px;
+$font-size-base: 18px;
+$font-size-medium: 21px;
+$font-size-large: 21px;
+$font-size-huge: 120px;
+$font-size-mega: 800px;
+
+
+// Z-Index
+// - - - - - - - - - - - - - - - -
+$z4: 4; // alerts and modals
+$z3: 3; // header
+$z2: 2; // layout overlays
+$z1: 1; //
+
+
+

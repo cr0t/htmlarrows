@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+@import "hydrogen";
+@import "normalize";
+
+// main content margin
+body article {
+	margin-top: 4.25em;
+}
+
+
+
+
+
+
+
+
+
+
+// indexes
+div.name {
+	height: 4em;
+	max-height: 4em;
+	overflow-y: hidden;
+	&.small {
+
+	}
+	&.large {
+
+	}
+}
+
+div.entity {
+	height:148px;
+	max-height:148px;
+	display: block;
+	text-align: center;
+	margin-bottom: 0.125em;
+	&.small {
+		font-weight: 700;
+		@include font-size($font-size-huge);
+	}
+	&.large {
+		@include font-size($font-size-mega);
+	}
+}
+
+div.codes {
+	padding: 0.5em 0;
+	border-top:1px solid $body-font-color;
+	border-bottom:1px solid $body-font-color;
+}
+
+
+
+
+
+
+code {
+	font-family: $font-family-primary;
+	font-weight: 700;
+	letter-spacing: 0.025em;
+	color: $body-font-color;
+	@include font-size($font-size-medium);
+	display: block;
+	margin: 0.5em 0;
+}

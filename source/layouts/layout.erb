@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="http://htmlarrows.com/">
+    <%= yield_content :meta %>
+    
+    <!-- CSS Assets -->
+    <%= stylesheet_link_tag "all" %>
+
+    <!-- Google Webmaster Tools -->
+    <meta name="google-site-verification" content="d3w5QeEYpedf2k8Lrac0VGOxvPExn466x-H-_JyWQb4" />
+
+    <!-- Google Knowledge Graph -->
+    
+  </head>
+  
+  <body vocab="http://schema.org/" typeof="<%= current_page.data.typeof %>">
+    <meta property="url" content="http://htmlarrows.com<%= current_page.url %>">
+
+    <%# Header %>
+    <%= partial "partials/header" %>
+
+    <%# Main %>
+    <article id="main" class="animate fade" property="mainContentOfPage" typeof="WebPageElement">
+
+      <%# Mobile Overlay %>
+      <div class="nav-overlay"></div>
+
+      <%# Mobile Header %>
+      <header id="nav-mobile" class="row hide-md header">
+        <div class="col-xs-12">
+          <h2 property="name"><% link_to "/", property: "url" do %>HTML Arrows<% end %></h2>
+          <a id="nav-open-button" class="nav-button hide-md"><span></span></a>
+        </div>
+      </header>
+
+      <%# Content %>
+      <%= yield %>
+
+      <%# Footer %>
+      <%= partial "partials/footer" %>
+
+    </article>
+
+    <!-- JS Body Assets -->
+    <%= javascript_include_tag "body" %>
+
+    <!-- Google Anlaytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-62225405-1', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('send', 'pageview');
+
+    </script>
+  </body>
+</html>

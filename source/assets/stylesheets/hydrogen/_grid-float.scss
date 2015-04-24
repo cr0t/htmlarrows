@@ -1,0 +1,227 @@
+
+// row-margins
+//------------------------
+// integers or auto
+@mixin row-margins($top, $right: $top, $bottom: $top, $left: $right) {
+	margin-top: $top;
+  margin-right: $right;
+  margin-bottom: $bottom;
+  margin-left: $left;
+}
+
+// col-padding
+//------------------------
+// size: pixels | rems | ems
+@mixin col-padding($size) {
+  padding-right: $size;
+  padding-left: $size;
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; 
+}
+
+.row {
+	width: 100%;
+	max-width: $grid-width;
+	@include row-margins(0, auto);
+  // margin-left: auto;
+  // margin-right: auto;
+  // margin-top: 0;
+  // margin-bottom: 0;
+  &:before, &:after {
+    content: " ";
+    display: table; 
+  }
+ 	&:after {
+    clear: both; 
+  }
+  .row {
+    width: auto;
+    @include row-margins(0, -$grid-gutter);
+    // margin-left: -0.9375em;
+    // margin-right: -0.9375em;
+    // margin-top: 0;
+    // margin-bottom: 0;
+    max-width: none;
+    &:before, &:after {
+      content: " ";
+      display: table; 
+    }
+    &:after {
+      clear: both; 
+    }
+  }   
+}
+
+@media only screen {
+
+	@for $i from 0 through $grid-columns {
+
+		$p: percentage($i / $grid-columns);
+    .col-xs-#{$i} {
+    	position: relative;
+      @include col-padding($grid-gutter);
+      float: left;
+    	width: $p;
+    }
+    @if $i < $grid-columns {
+    	.col-xs-offset-#{$i} {
+	    	position: relative;
+        @include col-padding($grid-gutter);
+        float: left;
+	      margin-left: $p !important;
+	    }
+    }
+	}
+
+	.col-xs-centered {
+    margin-left: auto;
+    margin-right: auto;
+    float: none; 
+  }
+
+  .col-xs-centered:last-child {
+    float: none; 
+  }
+
+  .col-xs-uncentered {
+    margin-left: 0;
+    margin-right: 0;
+    float: left; 
+  }
+
+  .col-xs-uncentered:last-child {
+  	float: left;
+  }
+}
+
+@media only screen and (min-width: $screen-sm-min) {
+
+	@for $i from 0 through $grid-columns {
+
+		$p: percentage($i / $grid-columns);
+    .col-sm-#{$i} {
+    	position: relative;
+      @include col-padding($grid-gutter);
+      float: left;
+    	width: $p;
+    }
+    @if $i < $grid-columns {
+    	.col-sm-offset-#{$i} {
+	    	position: relative;
+        @include col-padding($grid-gutter);
+        float: left;
+	      margin-left: $p !important;
+	    }
+    }
+	}
+
+  .col-sm-centered {
+    margin-left: auto;
+    margin-right: auto;
+    float: none; 
+  }
+
+  .col-sm-centered:last-child {
+    float: none; 
+  }
+
+  .col-sm-uncentered {
+    margin-left: 0;
+    margin-right: 0;
+    float: left; 
+  }
+
+  .col-sm-uncentered:last-child {
+  	float: left;
+  }
+}
+
+@media only screen and (min-width: $screen-md-min) {
+
+	@for $i from 0 through $grid-columns {
+
+		$p: percentage($i / $grid-columns);
+    .col-md-#{$i} {
+    	position: relative;
+      @include col-padding($grid-gutter);
+      float: left;
+    	width: $p;
+    }
+    @if $i < $grid-columns {
+    	.col-md-offset-#{$i} {
+	    	position: relative;
+        @include col-padding($grid-gutter);
+        float: left;
+	      margin-left: $p !important;
+	    }
+    }
+	}
+
+	.col-md-centered {
+    margin-left: auto;
+    margin-right: auto;
+    float: none; 
+  }
+
+  .col-md-centered:last-child {
+    float: none; 
+  }
+
+  .col-md-uncentered {
+    margin-left: 0;
+    margin-right: 0;
+    float: left; 
+  }
+
+  .col-md-uncentered:last-child {
+  	float: left;
+  }
+}
+
+@media only screen and (min-width: $screen-lg-min) {
+
+	@for $i from 0 through $grid-columns {
+  
+		$p: percentage($i / $grid-columns);
+    .col-lg-#{$i} {
+    	position: relative;
+      @include col-padding($grid-gutter);
+      float: left;
+    	width: $p;
+    }
+    @if $i < $grid-columns {
+    	.col-lg-offset-#{$i} {
+	    	position: relative;
+        @include col-padding($grid-gutter);
+        float: left;
+	      margin-left: $p !important;
+	    }
+    }
+	}
+
+	.col-lg-centered {
+    margin-left: auto;
+    margin-right: auto;
+    float: none; 
+  }
+
+  .col-lg-centered:last-child {
+    float: none; 
+  }
+
+  .col-lg-uncentered {
+    margin-left: 0;
+    margin-right: 0;
+    float: left; 
+  }
+
+  .col-lg-uncentered:last-child {
+  	float: left;
+  }
+}

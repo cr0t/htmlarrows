@@ -1,0 +1,36 @@
+---
+typeof: WebPage
+title: HTML Arrows
+description: HTML arrow codes and ascii characters, currency, copyright and trademark symbols, and all the other &wtf; html, hexadecimal and ascii codes you can't remember.
+image: 
+changefreq: "weekly"
+priority: 1.0
+---
+
+<%# Meta Tags %>
+<% content_for :meta do %>
+  <%= partial "meta/meta_index" %>
+<% end %>
+
+<%# Page Content %>
+<section class="row">
+
+	<% data.all.entities.each do |entity| %>
+		<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2" vocab="http://schema.org/" typeof="Code" style="margin-top:4em;">
+			<div class="name small">
+				<h4 property="name"><%= entity.name %></h4>
+			</div>
+
+			<div class="entity small">
+				&<%= entity.html_code %>
+			</div>
+
+			<div class="codes small">
+				<code><%= entity.unicode %></code>
+				<code>&amp;<%= entity.hex_code %></code>
+				<code>&amp;<%= entity.html_code %></code>
+			</div>
+		</div>
+	<% end %>
+
+</section>

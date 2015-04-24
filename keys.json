@@ -1,0 +1,11 @@
+{
+	"aws_access_key": "AKIAJZKUDJS7XJFY52KA",
+	"aws_secret_key": "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",
+	"aws_cf_key": "",
+	"aws_region": "us-east-1",
+	"aws_queue_url" : "https://sqs.us-east-1.amazonaws.com/471774605268/build-queue",
+  "api_key": "",
+  "api_ver": "v1",
+  "website": "htmlarrows.com",
+  "bucket": "htmlarrows.com"
+}
