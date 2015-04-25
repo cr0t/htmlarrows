@@ -26,14 +26,16 @@ h2 { // image titles (27px semibold serif)
 	font-style: normal;
 	font-weight: 600;
 	letter-spacing: 0.025em;
-	@include font-size($font-size-medium)
+	color: rgb(50, 47, 47);
+	@include font-size($font-size-medium);
 }
 
 h3 { // footer info (16px normal serif)
 	font-family: $font-family-primary;
 	font-style: normal;
 	font-weight: 400;
-	@include font-size($font-size-base)
+	color: rgb(50, 47, 47);
+	@include font-size($font-size-base);
 }
 
 h4 { // main nav (12px semibold sans)
@@ -52,7 +54,7 @@ h5 { // section titles (10px normal sans light)
 	text-transform: uppercase;
 	letter-spacing: 0.075em;
 	color: $color-secondary;
-	@include font-size($font-size-micro)
+	@include font-size($font-size-micro);
 }
 
 h6 { // footer titles (10px semibold sans dark)
@@ -61,7 +63,7 @@ h6 { // footer titles (10px semibold sans dark)
 	font-weight: 400;
 	text-transform: uppercase;
 	letter-spacing: 0.0875em;
-	@include font-size($font-size-micro)
+	@include font-size($font-size-micro);
 }
 
 p { // paper descriptions (18px normal serif)
@@ -70,7 +72,7 @@ p { // paper descriptions (18px normal serif)
 	font-weight: 400;
 	letter-spacing: $base-letter-spacing;
 	line-height: 1.625;
-	@include font-size($font-size-medium)
+	@include font-size($font-size-medium);
 }
 
 i { // paper subtitle (16px italic serif)
@@ -79,7 +81,7 @@ i { // paper subtitle (16px italic serif)
 	font-weight: 400;
 	letter-spacing: $base-letter-spacing;
 	line-height: 1.75;
-	@include font-size($font-size-base)
+	@include font-size($font-size-base);
 }
 
 a { // anchors (inherit)
@@ -93,12 +95,14 @@ a { // anchors (inherit)
 	color: inherit;
 	@include transition(all .25s ease-in);
 	&:hover, &:focus {
-		color: $color-primary;
+		color: $body-font-color;
 	}
 }
 
 a.active {
 	color: $color-primary;
+	// padding-top: 0.75em;
+	// border-top: 0.25em solid rgb(50, 47, 47);
 }
 
 a.border {

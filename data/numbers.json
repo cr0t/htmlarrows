@@ -1,0 +1,1024 @@
+{
+	"entities" : [
+				{
+			"name" : "Zero",
+			"slug" : "zero",
+			"unicode" : "U+00030",
+			"hex_code" : "#x30;",
+			"html_code" : "#48;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				},
+				{
+					"name" : "numbers"
+				}
+			]
+		},
+		{
+			"name" : "One",
+			"slug" : "one",
+			"unicode" : "U+00031",
+			"hex_code" : "#x31;",
+			"html_code" : "#49;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				},
+				{
+					"name" : "numbers"
+				}
+			]
+		},
+		{
+			"name" : "Two",
+			"slug" : "two",
+			"unicode" : "U+00032",
+			"hex_code" : "#x32;",
+			"html_code" : "#50;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				},
+				{
+					"name" : "numbers"
+				}
+			]
+		},
+		{
+			"name" : "Three",
+			"slug" : "three",
+			"unicode" : "U+00033",
+			"hex_code" : "#x33;",
+			"html_code" : "#51;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				},
+				{
+					"name" : "numbers"
+				}
+			]
+		},
+		{
+			"name" : "Four",
+			"slug" : "four",
+			"unicode" : "U+00034",
+			"hex_code" : "#x34;",
+			"html_code" : "#52;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				},
+				{
+					"name" : "numbers"
+				}
+			]
+		},
+		{
+			"name" : "Five",
+			"slug" : "five",
+			"unicode" : "U+00035",
+			"hex_code" : "#x35;",
+			"html_code" : "#53;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				},
+				{
+					"name" : "numbers"
+				}
+			]
+		},
+		{
+			"name" : "Six",
+			"slug" : "six",
+			"unicode" : "U+00036",
+			"hex_code" : "#x36;",
+			"html_code" : "#54;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				},
+				{
+					"name" : "numbers"
+				}
+			]
+		},
+		{
+			"name" : "Seven",
+			"slug" : "seven",
+			"unicode" : "U+00037",
+			"hex_code" : "#x37;",
+			"html_code" : "#55;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				},
+				{
+					"name" : "numbers"
+				}
+			]
+		},
+		{
+			"name" : "Eight",
+			"slug" : "eight",
+			"unicode" : "U+00038",
+			"hex_code" : "#x38;",
+			"html_code" : "#56;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				},
+				{
+					"name" : "numbers"
+				}
+			]
+		},
+		{
+			"name" : "Nine",
+			"slug" : "nine",
+			"unicode" : "U+00039",
+			"hex_code" : "#x39;",
+			"html_code" : "#57;",
+			"html4_entity" : "",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				},
+				{
+					"name" : "numbers"
+				}
+			]
+		},
+		{
+		  "name" : "Vulgar Fraction One Seventh",
+		  "slug" : "vulgar-fraction-one-seventh",
+		  "unicode" : "U+02150",
+		  "hex_code" : "#x2150;",
+		  "html_code" : "#8528;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction One Ninth",
+		  "slug" : "vulgar-fraction-one-ninth",
+		  "unicode" : "U+02151",
+		  "hex_code" : "#x2151;",
+		  "html_code" : "#8529;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction One Tenth",
+		  "slug" : "vulgar-fraction-one-tenth",
+		  "unicode" : "U+02152",
+		  "hex_code" : "#x2152;",
+		  "html_code" : "#8530;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction One Third",
+		  "slug" : "vulgar-fraction-one-third",
+		  "unicode" : "U+02153",
+		  "hex_code" : "#x2153;",
+		  "html_code" : "#8531;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction Two Thirds",
+		  "slug" : "vulgar-fraction-two-thirds",
+		  "unicode" : "U+02154",
+		  "hex_code" : "#x2154;",
+		  "html_code" : "#8532;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction One Fifth",
+		  "slug" : "vulgar-fraction-one-fifth",
+		  "unicode" : "U+02155",
+		  "hex_code" : "#x2155;",
+		  "html_code" : "#8533;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction Two Fifths",
+		  "slug" : "vulgar-fraction-two-fifths",
+		  "unicode" : "U+02156",
+		  "hex_code" : "#x2156;",
+		  "html_code" : "#8534;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction Three Fifths",
+		  "slug" : "vulgar-fraction-three-fifths",
+		  "unicode" : "U+02157",
+		  "hex_code" : "#x2157;",
+		  "html_code" : "#8535;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction Four Fifths",
+		  "slug" : "vulgar-fraction-four-fifths",
+		  "unicode" : "U+02158",
+		  "hex_code" : "#x2158;",
+		  "html_code" : "#8536;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction One Sixth",
+		  "slug" : "vulgar-fraction-one-sixth",
+		  "unicode" : "U+02159",
+		  "hex_code" : "#x2159;",
+		  "html_code" : "#8537;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction Five Sixths",
+		  "slug" : "vulgar-fraction-five-sixths",
+		  "unicode" : "U+0215A",
+		  "hex_code" : "#x215A;",
+		  "html_code" : "#8538;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction One Eighth",
+		  "slug" : "vulgar-fraction-one-eighth",
+		  "unicode" : "U+0215B",
+		  "hex_code" : "#x215B;",
+		  "html_code" : "#8539;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction Three Eighths",
+		  "slug" : "vulgar-fraction-three-eighths",
+		  "unicode" : "U+0215C",
+		  "hex_code" : "#x215C;",
+		  "html_code" : "#8540;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction Five Eighths",
+		  "slug" : "vulgar-fraction-five-eighths",
+		  "unicode" : "U+0215D",
+		  "hex_code" : "#x215D;",
+		  "html_code" : "#8541;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction Seven Eighths",
+		  "slug" : "vulgar-fraction-seven-eighths",
+		  "unicode" : "U+0215E",
+		  "hex_code" : "#x215E;",
+		  "html_code" : "#8542;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Fraction Numerator One",
+		  "slug" : "fraction-numerator-one",
+		  "unicode" : "U+0215F",
+		  "hex_code" : "#x215F;",
+		  "html_code" : "#8543;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral One",
+		  "slug" : "roman-numeral-one",
+		  "unicode" : "U+02160",
+		  "hex_code" : "#x2160;",
+		  "html_code" : "#8544;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Two",
+		  "slug" : "roman-numeral-two",
+		  "unicode" : "U+02161",
+		  "hex_code" : "#x2161;",
+		  "html_code" : "#8545;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Three",
+		  "slug" : "roman-numeral-three",
+		  "unicode" : "U+02162",
+		  "hex_code" : "#x2162;",
+		  "html_code" : "#8546;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Four",
+		  "slug" : "roman-numeral-four",
+		  "unicode" : "U+02163",
+		  "hex_code" : "#x2163;",
+		  "html_code" : "#8547;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Five",
+		  "slug" : "roman-numeral-five",
+		  "unicode" : "U+02164",
+		  "hex_code" : "#x2164;",
+		  "html_code" : "#8548;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Six",
+		  "slug" : "roman-numeral-six",
+		  "unicode" : "U+02165",
+		  "hex_code" : "#x2165;",
+		  "html_code" : "#8549;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Seven",
+		  "slug" : "roman-numeral-seven",
+		  "unicode" : "U+02166",
+		  "hex_code" : "#x2166;",
+		  "html_code" : "#8550;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Eight",
+		  "slug" : "roman-numeral-eight",
+		  "unicode" : "U+02167",
+		  "hex_code" : "#x2167;",
+		  "html_code" : "#8551;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "true",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Nine",
+		  "slug" : "roman-numeral-nine",
+		  "unicode" : "U+02168",
+		  "hex_code" : "#x2168;",
+		  "html_code" : "#8552;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Ten",
+		  "slug" : "roman-numeral-ten",
+		  "unicode" : "U+02169",
+		  "hex_code" : "#x2169;",
+		  "html_code" : "#8553;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Eleven",
+		  "slug" : "roman-numeral-eleven",
+		  "unicode" : "U+0216A",
+		  "hex_code" : "#x216A;",
+		  "html_code" : "#8554;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Twelve",
+		  "slug" : "roman-numeral-twelve",
+		  "unicode" : "U+0216B",
+		  "hex_code" : "#x216B;",
+		  "html_code" : "#8555;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Fifty",
+		  "slug" : "roman-numeral-fifty",
+		  "unicode" : "U+0216C",
+		  "hex_code" : "#x216C;",
+		  "html_code" : "#8556;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral One Hundred",
+		  "slug" : "roman-numeral-one-hundred",
+		  "unicode" : "U+0216D",
+		  "hex_code" : "#x216D;",
+		  "html_code" : "#8557;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Five Hundred",
+		  "slug" : "roman-numeral-five-hundred",
+		  "unicode" : "U+0216E",
+		  "hex_code" : "#x216E;",
+		  "html_code" : "#8558;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral One Thousand",
+		  "slug" : "roman-numeral-one-thousand",
+		  "unicode" : "U+0216F",
+		  "hex_code" : "#x216F;",
+		  "html_code" : "#8559;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral One",
+		  "slug" : "small-roman-numeral-one",
+		  "unicode" : "U+02170",
+		  "hex_code" : "#x2170;",
+		  "html_code" : "#8560;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Two",
+		  "slug" : "small-roman-numeral-two",
+		  "unicode" : "U+02171",
+		  "hex_code" : "#x2171;",
+		  "html_code" : "#8561;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Three",
+		  "slug" : "small-roman-numeral-three",
+		  "unicode" : "U+02172",
+		  "hex_code" : "#x2172;",
+		  "html_code" : "#8562;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Four",
+		  "slug" : "small-roman-numeral-four",
+		  "unicode" : "U+02173",
+		  "hex_code" : "#x2173;",
+		  "html_code" : "#8563;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Five",
+		  "slug" : "small-roman-numeral-five",
+		  "unicode" : "U+02174",
+		  "hex_code" : "#x2174;",
+		  "html_code" : "#8564;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Six",
+		  "slug" : "small-roman-numeral-six",
+		  "unicode" : "U+02175",
+		  "hex_code" : "#x2175;",
+		  "html_code" : "#8565;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Seven",
+		  "slug" : "small-roman-numeral-seven",
+		  "unicode" : "U+02176",
+		  "hex_code" : "#x2176;",
+		  "html_code" : "#8566;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Eight",
+		  "slug" : "small-roman-numeral-eight",
+		  "unicode" : "U+02177",
+		  "hex_code" : "#x2177;",
+		  "html_code" : "#8567;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "true",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Nine",
+		  "slug" : "small-roman-numeral-nine",
+		  "unicode" : "U+02178",
+		  "hex_code" : "#x2178;",
+		  "html_code" : "#8568;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Ten",
+		  "slug" : "small-roman-numeral-ten",
+		  "unicode" : "U+02179",
+		  "hex_code" : "#x2179;",
+		  "html_code" : "#8569;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Eleven",
+		  "slug" : "small-roman-numeral-eleven",
+		  "unicode" : "U+0217A",
+		  "hex_code" : "#x217A;",
+		  "html_code" : "#8570;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Twelve",
+		  "slug" : "small-roman-numeral-twelve",
+		  "unicode" : "U+0217B",
+		  "hex_code" : "#x217B;",
+		  "html_code" : "#8571;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Fifty",
+		  "slug" : "small-roman-numeral-fifty",
+		  "unicode" : "U+0217C",
+		  "hex_code" : "#x217C;",
+		  "html_code" : "#8572;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral One Hundred",
+		  "slug" : "small-roman-numeral-one-hundred",
+		  "unicode" : "U+0217D",
+		  "hex_code" : "#x217D;",
+		  "html_code" : "#8573;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral Five Hundred",
+		  "slug" : "small-roman-numeral-five-hundred",
+		  "unicode" : "U+0217E",
+		  "hex_code" : "#x217E;",
+		  "html_code" : "#8574;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Small Roman Numeral One Thousand",
+		  "slug" : "small-roman-numeral-one-thousand",
+		  "unicode" : "U+0217F",
+		  "hex_code" : "#x217F;",
+		  "html_code" : "#8575;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral One Thousand C D",
+		  "slug" : "roman-numeral-one-thousand-c-d",
+		  "unicode" : "U+02180",
+		  "hex_code" : "#x2180;",
+		  "html_code" : "#8576;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Five Thousand",
+		  "slug" : "roman-numeral-five-thousand",
+		  "unicode" : "U+02181",
+		  "hex_code" : "#x2181;",
+		  "html_code" : "#8577;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Ten Thousand",
+		  "slug" : "roman-numeral-ten-thousand",
+		  "unicode" : "U+02182",
+		  "hex_code" : "#x2182;",
+		  "html_code" : "#8578;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Reversed One Hundred",
+		  "slug" : "roman-numeral-reversed-one-hundred",
+		  "unicode" : "U+02183",
+		  "hex_code" : "#x2183;",
+		  "html_code" : "#8579;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Latin Small Letter Reversed C",
+		  "slug" : "latin-small-letter-reversed-c",
+		  "unicode" : "U+02184",
+		  "hex_code" : "#x2184;",
+		  "html_code" : "#8580;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Six Late Form",
+		  "slug" : "roman-numeral-six-late-form",
+		  "unicode" : "U+02185",
+		  "hex_code" : "#x2185;",
+		  "html_code" : "#8581;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Roman Numeral Fifty Early Form",
+		  "slug" : "roman-numeral-fifty-early-form",
+		  "unicode" : "U+02186",
+		  "hex_code" : "#x2186;",
+		  "html_code" : "#8582;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction Zero Thirds",
+		  "slug" : "vulgar-fraction-zero-thirds",
+		  "unicode" : "U+02189",
+		  "hex_code" : "#x2189;",
+		  "html_code" : "#8585;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		}
+	]
+}

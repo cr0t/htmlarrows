@@ -1,0 +1,66 @@
+---
+typeof: WebPage
+title: Numbers and Symbols — HTML Arrows
+description: HTML arrow codes and ascii characters, currency, copyright and trademark symbols, and all the other &wtf;, html, hex and ascii codes you can't remember.
+image: 
+changefreq: "daily"
+priority: 1.0
+---
+
+<%# Meta Tags %>
+<% content_for :meta do %>
+  <%= partial "meta/meta_index" %>
+<% end %>
+
+<%# Colors %>
+<% content_for :stylesheets do %>
+	article {background-color: rgb(50, 47, 47);}
+<% end %>
+
+<%# Page Content %>
+<section class="row">
+
+	<% data.numbers.entities.each do |entity| %>
+		<% if entity.oversize == "false" %>
+			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 entity" vocab="http://schema.org/" typeof="Code">
+				<div class="name small">
+					<h4 property="name"><%= entity.name %></h4>
+				</div>
+
+				<div class="symbol small">
+					&<%= entity.html_code %>
+				</div>
+
+				<div class="codes small">
+					<code><%= entity.unicode %></code>
+					<code>&amp;<%= entity.hex_code %></code>
+					<code>&amp;<%= entity.html_code %></code>
+				</div>
+			</div>
+		<% else %>
+			<div class="col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xl-4 entity" vocab="http://schema.org/" typeof="Code">
+				<div class="name small">
+					<h4 property="name"><%= entity.name %></h4>
+				</div>
+
+				<div class="symbol small">
+					&<%= entity.html_code %>
+				</div>
+
+				<div class="codes small">
+					<code><%= entity.unicode %></code>
+					<code>&amp;<%= entity.hex_code %></code>
+					<code>&amp;<%= entity.html_code %></code>
+				</div>
+			</div>
+		<% end %>
+	<% end %>
+
+</section>
+
+<%# Page Footer %>
+<footer class="row">
+	<div class="col-xs-24">
+		<h6>Home > Currency</h6>
+	</div>
+</footer>

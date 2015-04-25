@@ -102,7 +102,14 @@ html, body {
     background-color: $body-font-color;
     z-index: $z4;
     ul {
-      padding-top: 0.175em;
+      //padding-top: 0.175em;
+    }
+    ul li {
+      padding-top: 0.5em;
+      border-top: 0.25em solid $body-font-color;
+      &:hover {
+        border-top: 0.25em solid #f00;
+      }
     }
   }
 }
@@ -114,7 +121,7 @@ html, body {
 
 //--- global nav ---//
 #nav {
-  padding:0.75em 0 1.25em 0;
+  //padding:0.75em 0 1.25em 0;
 }
 
 // mobile button

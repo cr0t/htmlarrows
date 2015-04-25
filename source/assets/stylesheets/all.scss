@@ -6,6 +6,10 @@
 // main content margin
 body article {
 	margin-top: 4.25em;
+	header, 
+	footer {
+		padding-top: 3em;
+	}
 }
 
 
@@ -13,11 +17,11 @@ body article {
 
 
 
-
-
-
-
 // indexes
+div.entity {
+	margin-top: 4.5em;
+}
+
 div.name {
 	height: 4em;
 	max-height: 4em;
@@ -30,7 +34,7 @@ div.name {
 	}
 }
 
-div.entity {
+div.symbol {
 	height:148px;
 	max-height:148px;
 	display: block;
@@ -64,4 +68,30 @@ code {
 	@include font-size($font-size-medium);
 	display: block;
 	margin: 0.5em 0;
+}
+
+
+// animations
+.animate {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-delay: 200ms;
+  animation-delay: 200ms;
+  overflow: hidden;
+}
+
+@-webkit-keyframes fade {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+@keyframes fade {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+.fade {
+    -webkit-animation-name: fade;
+    animation-name: fade;
 }

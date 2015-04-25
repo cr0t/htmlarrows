@@ -1,0 +1,122 @@
+{
+	"entities" : [
+		{
+			"name" : "Dollar Sign",
+			"slug" : "dollar-sign",
+			"unicode" : "U+00024",
+			"hex_code" : "#x24;",
+			"html_code" : "#36;",
+			"html4_entity" : "",
+			"html5_entity" : "dollar;",
+			"tags" : [
+				{
+					"name" : "currency"
+				}
+			]
+		},
+		{
+			"name" : "Pound Sign",
+			"slug" : "pound-sign",
+			"unicode" : "U+000A3",
+			"hex_code" : "#xa3;",
+			"html_code" : "#163;",
+			"html4_entity" : "pound;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "currency"
+				}
+			]
+		},
+		{
+			"name" : "Yen Sign",
+			"slug" : "yen-sign",
+			"unicode" : "U+000A5",
+			"hex_code" : "#xa5;",
+			"html_code" : "#165;",
+			"html4_entity" : "yen;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "currency"
+				}
+			]
+		},
+		{
+			"name" : "Euro Sign",
+			"slug" : "euro-sign",
+			"unicode" : "U+020AC",
+			"hex_code" : "#x20ac;",
+			"html_code" : "#8364;",
+			"html4_entity" : "euro;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "default"
+				},
+				{
+					"name" : "currency"
+				},
+				{
+					"name" : "symbols"
+				}
+			]
+		},
+		{
+		  "name" : "Yuan Character, in China",
+		  "slug" : "yuan-character-in-china",
+		  "unicode" : "U+05143",
+		  "hex_code" : "#x5143;",
+		  "html_code" : "#20803;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "math"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Indian Rupee Sign",
+		  "slug" : "indian-rupee-sign",
+		  "unicode" : "U+020B9",
+		  "hex_code" : "#x20B9;",
+		  "html_code" : "#8377;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "math"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Turkish Lira Sign",
+		  "slug" : "turkish-lira-sign",
+		  "unicode" : "U+020BA",
+		  "hex_code" : "#x20BA;",
+		  "html_code" : "#8378;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "math"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Ruble Sign",
+		  "slug" : "ruble-sign",
+		  "unicode" : "U+020BD",
+		  "hex_code" : "#x20BD;",
+		  "html_code" : "#8381;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "math"
+		    }
+		  ]
+		}
+	]
+}

@@ -1,0 +1,746 @@
+{
+	"entities" : [
+		{
+			"name" : "Dollar Sign",
+			"slug" : "dollar-sign",
+			"unicode" : "U+00024",
+			"hex_code" : "#x24;",
+			"html_code" : "#36;",
+			"html4_entity" : "",
+			"html5_entity" : "dollar;",
+			"tags" : [
+				{
+					"name" : "currency"
+				}
+			]
+		},
+		{
+			"name" : "Cent Sign",
+			"slug" : "cent-sign",
+			"unicode" : "U+000A2",
+			"hex_code" : "#xa2;",
+			"html_code" : "#162;",
+			"html4_entity" : "cent;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "currency"
+				}
+			]
+		},
+		{
+			"name" : "Pound Sign",
+			"slug" : "pound-sign",
+			"unicode" : "U+000A3",
+			"hex_code" : "#xa3;",
+			"html_code" : "#163;",
+			"html4_entity" : "pound;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "currency"
+				}
+			]
+		},
+		{
+			"name" : "Currency Sign",
+			"slug" : "currency-sign",
+			"unicode" : "U+000A4",
+			"hex_code" : "#xa4;",
+			"html_code" : "#164;",
+			"html4_entity" : "curren;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "currency"
+				}
+			]
+		},
+		{
+			"name" : "Yen Sign",
+			"slug" : "yen-sign",
+			"unicode" : "U+000A5",
+			"hex_code" : "#xa5;",
+			"html_code" : "#165;",
+			"html4_entity" : "yen;",
+			"html5_entity" : "",
+			"tags" : [
+				{
+					"name" : "currency"
+				}
+			]
+		},
+		{
+		  "name" : "Euro-Currency Sign",
+		  "slug" : "euro-currency-sign",
+		  "unicode" : "U+020A0",
+		  "hex_code" : "#x20A0;",
+		  "html_code" : "#8352;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Colon Sign",
+		  "slug" : "colon-sign",
+		  "unicode" : "U+020A1",
+		  "hex_code" : "#x20A1;",
+		  "html_code" : "#8353;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Cruzeiro Sign",
+		  "slug" : "cruzeiro-sign",
+		  "unicode" : "U+020A2",
+		  "hex_code" : "#x20A2;",
+		  "html_code" : "#8354;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "French Franc Sign",
+		  "slug" : "french-franc-sign",
+		  "unicode" : "U+020A3",
+		  "hex_code" : "#x20A3;",
+		  "html_code" : "#8355;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Lira Sign",
+		  "slug" : "lira-sign",
+		  "unicode" : "U+020A4",
+		  "hex_code" : "#x20A4;",
+		  "html_code" : "#8356;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Mill Sign",
+		  "slug" : "mill-sign",
+		  "unicode" : "U+020A5",
+		  "hex_code" : "#x20A5;",
+		  "html_code" : "#8357;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Naira Sign",
+		  "slug" : "naira-sign",
+		  "unicode" : "U+020A6",
+		  "hex_code" : "#x20A6;",
+		  "html_code" : "#8358;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Peseta Sign",
+		  "slug" : "peseta-sign",
+		  "unicode" : "U+020A7",
+		  "hex_code" : "#x20A7;",
+		  "html_code" : "#8359;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Rupee Sign",
+		  "slug" : "rupee-sign",
+		  "unicode" : "U+020A8",
+		  "hex_code" : "#x20A8;",
+		  "html_code" : "#8360;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Won Sign",
+		  "slug" : "won-sign",
+		  "unicode" : "U+020A9",
+		  "hex_code" : "#x20A9;",
+		  "html_code" : "#8361;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "New Sheqel Sign",
+		  "slug" : "new-sheqel-sign",
+		  "unicode" : "U+020AA",
+		  "hex_code" : "#x20AA;",
+		  "html_code" : "#8362;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dong Sign",
+		  "slug" : "dong-sign",
+		  "unicode" : "U+020AB",
+		  "hex_code" : "#x20AB;",
+		  "html_code" : "#8363;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Euro Sign",
+		  "slug" : "euro-sign",
+		  "unicode" : "U+020AC",
+		  "hex_code" : "#x20AC;",
+		  "html_code" : "#8364;",
+		  "html4_entity" : "euro;;",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Kip Sign",
+		  "slug" : "kip-sign",
+		  "unicode" : "U+020AD",
+		  "hex_code" : "#x20AD;",
+		  "html_code" : "#8365;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Tugrik Sign",
+		  "slug" : "tugrik-sign",
+		  "unicode" : "U+020AE",
+		  "hex_code" : "#x20AE;",
+		  "html_code" : "#8366;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Drachma Sign",
+		  "slug" : "drachma-sign",
+		  "unicode" : "U+020AF",
+		  "hex_code" : "#x20AF;",
+		  "html_code" : "#8367;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "German Penny Symbol",
+		  "slug" : "german-penny-symbol",
+		  "unicode" : "U+020B0",
+		  "hex_code" : "#x20B0;",
+		  "html_code" : "#8368;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Peso Sign",
+		  "slug" : "peso-sign",
+		  "unicode" : "U+020B1",
+		  "hex_code" : "#x20B1;",
+		  "html_code" : "#8369;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Guarani Sign",
+		  "slug" : "guarani-sign",
+		  "unicode" : "U+020B2",
+		  "hex_code" : "#x20B2;",
+		  "html_code" : "#8370;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Austral Sign",
+		  "slug" : "austral-sign",
+		  "unicode" : "U+020B3",
+		  "hex_code" : "#x20B3;",
+		  "html_code" : "#8371;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Hryvnia Sign",
+		  "slug" : "hryvnia-sign",
+		  "unicode" : "U+020B4",
+		  "hex_code" : "#x20B4;",
+		  "html_code" : "#8372;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Cedi Sign",
+		  "slug" : "cedi-sign",
+		  "unicode" : "U+020B5",
+		  "hex_code" : "#x20B5;",
+		  "html_code" : "#8373;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Livre Tournois Sign",
+		  "slug" : "livre-tournois-sign",
+		  "unicode" : "U+020B6",
+		  "hex_code" : "#x20B6;",
+		  "html_code" : "#8374;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Tenge Sign",
+		  "slug" : "tenge-sign",
+		  "unicode" : "U+020B8",
+		  "hex_code" : "#x20B8;",
+		  "html_code" : "#8376;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Indian Rupee Sign",
+		  "slug" : "indian-rupee-sign",
+		  "unicode" : "U+020B9",
+		  "hex_code" : "#x20B9;",
+		  "html_code" : "#8377;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Turkish Lira Sign",
+		  "slug" : "turkish-lira-sign",
+		  "unicode" : "U+020BA",
+		  "hex_code" : "#x20BA;",
+		  "html_code" : "#8378;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Manat Sign",
+		  "slug" : "manat-sign",
+		  "unicode" : "U+020BC",
+		  "hex_code" : "#x20BC;",
+		  "html_code" : "#8380;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Ruble Sign",
+		  "slug" : "ruble-sign",
+		  "unicode" : "U+020BD",
+		  "hex_code" : "#x20BD;",
+		  "html_code" : "#8381;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Bengali Rupee Mark",
+		  "slug" : "bengali-rupee-mark",
+		  "unicode" : "U+009F2",
+		  "hex_code" : "#x09F2;",
+		  "html_code" : "#2546;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Bengali Rupee Sign",
+		  "slug" : "bengali-rupee-sign",
+		  "unicode" : "U+009F3",
+		  "hex_code" : "#x09F3;",
+		  "html_code" : "#2547;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Gujarati Rupee Sign",
+		  "slug" : "gujarati-rupee-sign",
+		  "unicode" : "U+00AF1",
+		  "hex_code" : "#x0AF1;",
+		  "html_code" : "#2801;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Tamil Rupee Sign",
+		  "slug" : "tamil-rupee-sign",
+		  "unicode" : "U+00BF9",
+		  "hex_code" : "#x0BF9;",
+		  "html_code" : "#3065;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Thai Currency Symbol Baht",
+		  "slug" : "thai-currency-symbol-baht",
+		  "unicode" : "U+00E3F",
+		  "hex_code" : "#x0E3F;",
+		  "html_code" : "#3647;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Khmer Currency Symbol Riel",
+		  "slug" : "khmer-currency-symbol-riel",
+		  "unicode" : "U+017DB",
+		  "hex_code" : "#x17DB;",
+		  "html_code" : "#6107;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Square Yuan",
+		  "slug" : "square-yuan",
+		  "unicode" : "U+03350",
+		  "hex_code" : "#x3350;",
+		  "html_code" : "#13136;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Yuan Character, in China",
+		  "slug" : "yuan-character-in-china",
+		  "unicode" : "U+05143",
+		  "hex_code" : "#x5143;",
+		  "html_code" : "#20803;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Yen Character",
+		  "slug" : "yen-character",
+		  "unicode" : "U+05186",
+		  "hex_code" : "#x5186;",
+		  "html_code" : "#20870;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Yen/Yuan Character Variant One",
+		  "slug" : "yen-yuan-character-variant-one",
+		  "unicode" : "U+05706",
+		  "hex_code" : "#x5706;",
+		  "html_code" : "#22278;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Yen/Yuan Character Variant Two",
+		  "slug" : "yen-yuan-character-variant-two",
+		  "unicode" : "U+0570E",
+		  "hex_code" : "#x570E;",
+		  "html_code" : "#22286;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Yuan Character, in Hong Kong and Taiwan",
+		  "slug" : "yuan-character-in-hong-kong-and-taiwan",
+		  "unicode" : "U+05713",
+		  "hex_code" : "#x5713;",
+		  "html_code" : "#22291;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Yen/Yuan Character Variant Three",
+		  "slug" : "yen-yuan-character-variant-three",
+		  "unicode" : "U+0571C",
+		  "hex_code" : "#x571C;",
+		  "html_code" : "#22300;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Won Character",
+		  "slug" : "won-character",
+		  "unicode" : "U+0C6D0",
+		  "hex_code" : "#xC6D0;",
+		  "html_code" : "#50896;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Rial Sign",
+		  "slug" : "rial-sign",
+		  "unicode" : "U+0FDFC",
+		  "hex_code" : "#xFDFC;",
+		  "html_code" : "#65020;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Fullwidth Dollar Sign",
+		  "slug" : "fullwidth-dollar-sign",
+		  "unicode" : "U+0FF04",
+		  "hex_code" : "#xFF04;",
+		  "html_code" : "#65284;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Fullwidth Cent Sign",
+		  "slug" : "fullwidth-cent-sign",
+		  "unicode" : "U+0FFE0",
+		  "hex_code" : "#xFFE0;",
+		  "html_code" : "#65504;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Fullwidth Pound Sign",
+		  "slug" : "fullwidth-pound-sign",
+		  "unicode" : "U+0FFE1",
+		  "hex_code" : "#xFFE1;",
+		  "html_code" : "#65505;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Fullwidth Yen Sign",
+		  "slug" : "fullwidth-yen-sign",
+		  "unicode" : "U+0FFE5",
+		  "hex_code" : "#xFFE5;",
+		  "html_code" : "#65509;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Fullwidth Won Sign",
+		  "slug" : "fullwidth-won-sign",
+		  "unicode" : "U+0FFE6",
+		  "hex_code" : "#xFFE6;",
+		  "html_code" : "#65510;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		}
+	]
+}

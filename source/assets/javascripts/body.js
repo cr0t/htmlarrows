@@ -41,7 +41,6 @@ headroom_init();
 
 // re-init headroom on window resize
 window.onresize = function() {
-	console.log("hello there")
 	desktop_headroom.destroy();
 	mobile_headroom.destroy();
 	headroom_init();
