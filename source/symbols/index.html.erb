@@ -1,6 +1,6 @@
 ---
 typeof: WebPage
-title: Arrow Symbols — HTML Arrows
+title: HTML Symbols — HTML Arrows
 description: HTML arrow codes and ascii characters, currency, copyright and trademark symbols, and all the other &wtf;, html, hex and ascii codes you can't remember.
 image: 
 changefreq: "daily"
@@ -14,13 +14,13 @@ priority: 1.0
 
 <%# Colors %>
 <% content_for :stylesheets do %>
-	article {background-color: rgb(45, 50, 55);}
+	article {background-color: rgb(235, 55, 25);}
 <% end %>
 
 <%# Page Content %>
 <section class="row">
 
-	<% data.arrows.entities.each do |entity| %>
+	<% data.currency.entities.each do |entity| %>
 		<div class="col-xs-8 col-sm-6 col-md-4 col-lg-3 col-xl-2 entity" vocab="http://schema.org/" typeof="Code">
 			<div class="name small">
 				<h4 property="name"><%= entity.name %></h4>

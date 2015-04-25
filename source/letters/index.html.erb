@@ -12,11 +12,16 @@ priority: 1.0
   <%= partial "meta/meta_index" %>
 <% end %>
 
+<%# Colors %>
+<% content_for :stylesheets do %>
+	article {background-color: rgb(75, 55, 65);}
+<% end %>
+
 <%# Page Content %>
 <section class="row">
 
 	<% data.letters.entities.each do |entity| %>
-		<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 entity" vocab="http://schema.org/" typeof="Code">
+		<div class="col-xs-8 col-sm-6 col-md-4 col-lg-3 col-xl-2 entity" vocab="http://schema.org/" typeof="Code">
 			<div class="name small">
 				<h4 property="name"><%= entity.name %></h4>
 			</div>

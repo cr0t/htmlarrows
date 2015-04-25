@@ -34,7 +34,7 @@ h3 { // footer info (16px normal serif)
 	font-family: $font-family-primary;
 	font-style: normal;
 	font-weight: 400;
-	color: rgb(50, 47, 47);
+	// color: rgb(50, 47, 47);
 	@include font-size($font-size-base);
 }
 
@@ -94,22 +94,26 @@ a { // anchors (inherit)
 	cursor: pointer;
 	color: inherit;
 	@include transition(all .25s ease-in);
-	&:hover, &:focus {
-		color: $body-font-color;
-	}
+	// &:hover, &:focus {
+	// 	color: $body-font-color;
+	// }
+	// li {
+	// 	color: $color-primary;
+	// }
 }
 
-a.active {
-	color: $color-primary;
-	// padding-top: 0.75em;
-	// border-top: 0.25em solid rgb(50, 47, 47);
-}
 
-a.border {
-	padding-bottom: 0.1875em;
-	border-bottom: 1px solid $color-secondary;
-	&:hover {
 
-		border-bottom: 1px solid $color-primary;
-	}
-}
+
+
+
+
+
+
+
+
+
+
+
+
+

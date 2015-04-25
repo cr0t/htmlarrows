@@ -52,11 +52,11 @@ html, body {
     ul li h3 {
       @include font-size($font-size-medium);
     }
-    .index-link {
-      margin-bottom: 3.25em;
-    }
-    .collection-link {
-      margin-top: 1.5em;
+    .icon {
+      display:inline-block;
+      padding-right:0.5em;
+      width:2em;
+      text-align:center;
     }
   }
 
@@ -102,13 +102,84 @@ html, body {
     background-color: $body-font-color;
     z-index: $z4;
     ul {
-      //padding-top: 0.175em;
+      padding-bottom: 1em;
     }
     ul li {
       padding-top: 0.5em;
+      color: $color-primary;
       border-top: 0.25em solid $body-font-color;
+      @include transition(all .25s ease-in);
+    }
+    ul li.arrows {
       &:hover {
-        border-top: 0.25em solid #f00;
+        color: rgb(45, 50, 55);
+        border-top: 0.25em solid rgb(45, 50, 55);
+      }
+    }
+    ul li.currency {
+      &:hover {
+        color: rgb(55, 60, 65);
+        border-top: 0.25em solid rgb(55, 60, 65);
+      }
+    }
+    ul li.letters {
+      &:hover {
+        color: rgb(75, 55, 65);
+        border-top: 0.25em solid rgb(75, 55, 65);
+      }
+    }
+    ul li.numbers {
+      &:hover {
+        color: rgb(125, 55, 65);
+        border-top: 0.25em solid rgb(125, 55, 65);
+      }
+    }
+    ul li.operators {
+      &:hover {
+        color: rgb(175, 45, 55);
+        border-top: 0.25em solid rgb(175, 45, 55);
+      }
+    }
+    ul li.punctuation {
+      &:hover {
+        color: rgb(205, 45, 45);
+        border-top: 0.25em solid rgb(205, 45, 45);
+      }
+    }
+    ul li.symbols {
+      &:hover {
+        color: rgb(235, 55, 25);
+        border-top: 0.25em solid rgb(235, 55, 25);
+      }
+    }
+    a.active {
+      li.arrows {
+        color: rgb(45, 50, 55);
+        border-top: 0.25em solid rgb(45, 50, 55);
+      }
+      li.currency {
+        color: rgb(55, 60, 65);
+        border-top: 0.25em solid rgb(55, 60, 65);
+      }
+      li.letters {
+        color: rgb(75, 55, 65);
+        border-top: 0.25em solid rgb(75, 55, 65);
+      }
+      li.numbers {
+        color: rgb(125, 55, 65);
+        border-top: 0.25em solid rgb(125, 55, 65);
+      }
+      li.operators {
+        color: rgb(175, 45, 55);
+        border-top: 0.25em solid rgb(175, 45, 55);
+      }
+      li.punctuation {
+        color: rgb(205, 45, 45);
+        border-top: 0.25em solid rgb(205, 45, 45);
+      }
+      li.symbols {
+        color: rgb(235, 55, 25);
+        border-top: 0.25em solid rgb(235, 55, 25);
       }
     }
   }
@@ -120,9 +191,6 @@ html, body {
 }
 
 //--- global nav ---//
-#nav {
-  //padding:0.75em 0 1.25em 0;
-}
 
 // mobile button
 .nav-button {

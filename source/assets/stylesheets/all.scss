@@ -3,19 +3,20 @@
 @import "hydrogen";
 @import "normalize";
 
+// colors
+// 1 rgb(36, 39, 51)
+// 1 rgb(36, 39, 42)
+// 2 rgb(45, 41, 66)
+
 // main content margin
 body article {
-	margin-top: 4.25em;
+	margin-top: 4.5em;
+	opacity: 0.25;
 	header, 
 	footer {
 		padding-top: 3em;
 	}
 }
-
-
-
-
-
 
 // indexes
 div.entity {
@@ -55,11 +56,6 @@ div.codes {
 	border-bottom:1px solid $body-font-color;
 }
 
-
-
-
-
-
 code {
 	font-family: $font-family-primary;
 	font-weight: 700;
@@ -70,15 +66,23 @@ code {
 	margin: 0.5em 0;
 }
 
+// mobile menu icons
+.icon {
+	display:inline-block;
+	padding-right:0.5em;
+	width:2em;
+	text-align:center;
+}
+
 
 // animations
 .animate {
-  -webkit-animation-duration: 1s;
-  animation-duration: 1s;
+  -webkit-animation-duration: 0.625s;
+  animation-duration: 0.625	s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
-  -webkit-animation-delay: 200ms;
-  animation-delay: 200ms;
+  -webkit-animation-delay: 125ms;
+  animation-delay: 125ms;
   overflow: hidden;
 }
 
