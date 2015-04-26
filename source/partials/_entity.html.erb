@@ -1,0 +1,30 @@
+<div class="col-md-6 col-md-offset-3">
+	<div class="name">
+		<h1 property="name"><%= entity.name %></h1>
+		<div class="symbol small">
+			&<%= entity.html_code %>
+		</div>
+	</div>
+
+	<div class="codes">
+		<h4 class="type">UNICODE</h4><code property="sampleType"><%= entity.unicode %></code>
+		<h4 class="type">HEX CODE</h4><code property="sampleType">&amp;<%= entity.hex_code %></code>
+		<h4 class="type">HTML CODE</h4><code property="sampleType">&amp;<%= entity.html_code %></code>
+		<% if entity.html4_entity.blank? %>
+			<h4 class="type">HTML4 ENTITY</h4><code property="sampleType">&mdash;</code>
+		<% else %>
+			<h4 class="type">HTML4 ENTITY</h4><code property="sampleType">&amp;<%= entity.html4_entity %></code>
+		<% end %>
+		<% if entity.html5_entity.blank? %>
+			<h4 class="type">HTML5 ENTITY</h4><code property="sampleType">&mdash;</code>
+		<% else %>
+			<h4 class="type">HTML5 ENTITY</h4><code property="sampleType">&amp;<%= entity.html5_entity %></code>
+		<% end %>
+	</div>
+</div>
+
+<div class="col-md-12" style="margin-top:-7.5em;padding:3em;">
+	<span id="symbol" class="symbol large">
+		&<%= entity.html_code %>
+	</span>
+</div>

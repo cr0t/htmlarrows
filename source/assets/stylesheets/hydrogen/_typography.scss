@@ -9,37 +9,42 @@ h5,
 h6, {
 	margin:0;
 	padding:0;
+	font-family: $font-family-primary;
 	line-height: $base-line-height;
 	letter-spacing: $base-letter-spacing;
 }
 
-h1 { // page titles (36px semibold serif)
-	font-family: $font-family-primary;
+h1 {
 	font-style: normal;
-	font-weight: 600;
-	letter-spacing: 0.025em;
-	@include font-size($font-size-large)
+	font-weight: 400;
+	letter-spacing: 0.075em;
+	text-transform: uppercase;
+	@include font-size($font-size-small);
 }
 
-h2 { // image titles (27px semibold serif)
-	font-family: $font-family-primary;
+h2 { // menu header
 	font-style: normal;
-	font-weight: 600;
+	font-weight: 700;
 	letter-spacing: 0.025em;
-	color: rgb(50, 47, 47);
+	color: $color-primary;
 	@include font-size($font-size-medium);
 }
 
-h3 { // footer info (16px normal serif)
-	font-family: $font-family-primary;
+h3 { // main menu links
 	font-style: normal;
 	font-weight: 400;
-	// color: rgb(50, 47, 47);
 	@include font-size($font-size-base);
 }
 
-h4 { // main nav (12px semibold sans)
-	font-family: $font-family-secondary;
+h4 { // template titles
+	font-style: normal;
+	font-weight: 400;
+	letter-spacing: 0.075em;
+	text-transform: uppercase;
+	@include font-size($font-size-small);
+}
+
+h5 { // index titles
 	font-style: normal;
 	font-weight: 400;
 	letter-spacing: 0.075em;
@@ -47,22 +52,11 @@ h4 { // main nav (12px semibold sans)
 	@include font-size($font-size-micro);
 }
 
-h5 { // section titles (10px normal sans light)
-	font-family: $font-family-secondary;
+h6 { // breadcrumbs
 	font-style: normal;
-	font-weight: 400;
-	text-transform: uppercase;
-	letter-spacing: 0.075em;
-	color: $color-secondary;
-	@include font-size($font-size-micro);
-}
-
-h6 { // footer titles (10px semibold sans dark)
-	font-family: $font-family-secondary;
-	font-style: normal;
-	font-weight: 400;
-	text-transform: uppercase;
+	font-weight: 700;
 	letter-spacing: 0.0875em;
+	text-transform: uppercase;
 	@include font-size($font-size-micro);
 }
 

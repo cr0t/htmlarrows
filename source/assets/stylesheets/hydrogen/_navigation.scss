@@ -112,74 +112,74 @@ html, body {
     }
     ul li.arrows {
       &:hover {
-        color: rgb(45, 50, 55);
-        border-top: 0.25em solid rgb(45, 50, 55);
+        color: $color-arrows;
+        border-top: 0.25em solid $color-arrows;
       }
     }
     ul li.currency {
       &:hover {
-        color: rgb(55, 60, 65);
-        border-top: 0.25em solid rgb(55, 60, 65);
+        color: $color-currency;
+        border-top: 0.25em solid $color-currency;
       }
     }
     ul li.letters {
       &:hover {
-        color: rgb(75, 55, 65);
-        border-top: 0.25em solid rgb(75, 55, 65);
+        color: $color-letters;
+        border-top: 0.25em solid $color-letters;
+      }
+    }
+    ul li.math {
+      &:hover {
+        color: $color-math;
+        border-top: 0.25em solid $color-math;
       }
     }
     ul li.numbers {
       &:hover {
-        color: rgb(125, 55, 65);
-        border-top: 0.25em solid rgb(125, 55, 65);
-      }
-    }
-    ul li.operators {
-      &:hover {
-        color: rgb(175, 45, 55);
-        border-top: 0.25em solid rgb(175, 45, 55);
+        color: $color-numbers;
+        border-top: 0.25em solid $color-numbers;
       }
     }
     ul li.punctuation {
       &:hover {
-        color: rgb(205, 45, 45);
-        border-top: 0.25em solid rgb(205, 45, 45);
+        color: $color-punctuation;
+        border-top: 0.25em solid $color-punctuation;
       }
     }
     ul li.symbols {
       &:hover {
-        color: rgb(235, 55, 25);
-        border-top: 0.25em solid rgb(235, 55, 25);
+        color: $color-symbols;
+        border-top: 0.25em solid $color-symbols;
       }
     }
     a.active {
       li.arrows {
-        color: rgb(45, 50, 55);
-        border-top: 0.25em solid rgb(45, 50, 55);
+        color: $color-arrows;
+        border-top: 0.25em solid $color-arrows;
       }
       li.currency {
-        color: rgb(55, 60, 65);
-        border-top: 0.25em solid rgb(55, 60, 65);
+        color: $color-currency;
+        border-top: 0.25em solid $color-currency;
       }
       li.letters {
-        color: rgb(75, 55, 65);
-        border-top: 0.25em solid rgb(75, 55, 65);
+        color: $color-letters;
+        border-top: 0.25em solid $color-letters;
+      }
+      li.math {
+        color: $color-math;
+        border-top: 0.25em solid $color-math;
       }
       li.numbers {
-        color: rgb(125, 55, 65);
-        border-top: 0.25em solid rgb(125, 55, 65);
-      }
-      li.operators {
-        color: rgb(175, 45, 55);
-        border-top: 0.25em solid rgb(175, 45, 55);
+        color: $color-numbers;
+        border-top: 0.25em solid $color-numbers;
       }
       li.punctuation {
-        color: rgb(205, 45, 45);
-        border-top: 0.25em solid rgb(205, 45, 45);
+        color: $color-punctuation;
+        border-top: 0.25em solid $color-punctuation;
       }
       li.symbols {
-        color: rgb(235, 55, 25);
-        border-top: 0.25em solid rgb(235, 55, 25);
+        color: $color-symbols;
+        border-top: 0.25em solid $color-symbols;
       }
     }
   }

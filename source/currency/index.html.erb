@@ -1,5 +1,5 @@
 ---
-typeof: WebPage
+typeof: CollectionPage
 title: Currency Symbols — HTML Arrows
 description: HTML arrow codes and ascii characters, currency, copyright and trademark symbols, and all the other &wtf;, html, hex and ascii codes you can't remember.
 image: 
@@ -9,7 +9,7 @@ priority: 1.0
 
 <%# Meta Tags %>
 <% content_for :meta do %>
-  <%= partial "meta/meta_index" %>
+  <%= partial("meta/meta_index") %>
 <% end %>
 
 <%# Colors %>
@@ -18,31 +18,26 @@ priority: 1.0
 <% end %>
 
 <%# Page Content %>
-<section class="row">
+<section class="row index currency">
 
 	<% data.currency.entities.each do |entity| %>
-		<div class="col-xs-8 col-sm-6 col-md-4 col-lg-3 col-xl-2 entity" vocab="http://schema.org/" typeof="Code">
-			<div class="name small">
-				<h4 property="name"><%= entity.name %></h4>
-			</div>
-
-			<div class="symbol small">
-				&<%= entity.html_code %>
-			</div>
-
-			<div class="codes small">
-				<code><%= entity.unicode %></code>
-				<code>&amp;<%= entity.hex_code %></code>
-				<code>&amp;<%= entity.html_code %></code>
-			</div>
-		</div>
+		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
 	<% end %>
 
 </section>
 
 <%# Page Footer %>
-<footer class="row">
-	<div class="col-xs-24">
-		<h6>Home > Currency</h6>
-	</div>
-</footer>
+<% content_for :footer do %>
+	<section class="row breadcrumbs">
+		<div class="col-xs-24" xmlns:v="http://rdf.data-vocabulary.org/#">
+			<h6>
+			  <span typeof="v:Breadcrumb">
+			  	<%= link_to "Home", "/", rel: "v:url", property: "v:title" %> &#8594;
+			    <span rel="v:child" typeof="v:Breadcrumb">
+			      <%= link_to "Currency", "/currency/", rel: "v:url", property: "v:title" %>
+			    </span>
+			  </span>
+			 </h6>
+		</div>
+	</section>
+<% end %>

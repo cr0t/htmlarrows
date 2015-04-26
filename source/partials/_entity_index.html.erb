@@ -1,0 +1,37 @@
+<% if entity.oversize == "false" %>
+	<div class="col-xs-8 col-sm-6 col-md-4 col-lg-3 col-xl-2 entity" vocab="http://schema.org/" typeof="Code">
+		<div class="name">
+			<h5 property="name"><%= entity.name %></h5>
+		</div>
+
+		<div class="symbol" title="<%= entity.name %>">
+			<% link_to "#{current_page.url}#{entity.slug}/" do %>
+				&<%= entity.html_code %>
+			<% end %>
+		</div>
+
+		<div class="codes">
+			<code title="Unicode" property="sampleType"><%= entity.unicode %></code>
+			<code title="Hex Code" property="sampleType">&amp;<%= entity.hex_code %></code>
+			<code title="HTML Code" property="sampleType">&amp;<%= entity.html_code %></code>
+		</div>
+	</div>
+<% else %>
+	<div class="col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xl-4 entity" vocab="http://schema.org/" typeof="Code">
+		<div class="name">
+			<h5 property="name"><%= entity.name %></h5>
+		</div>
+
+		<div class="symbol" title="<%= entity.name %>">
+			<% link_to "#{current_page.url}#{entity.slug}/" do %>
+				&<%= entity.html_code %>
+			<% end %>
+		</div>
+
+		<div class="codes">
+			<code title="Unicode" property="sampleType"><%= entity.unicode %></code>
+			<code title="Hex Code" property="sampleType">&amp;<%= entity.hex_code %></code>
+			<code title="HTML Code" property="sampleType">&amp;<%= entity.html_code %></code>
+		</div>
+	</div>
+<% end %>

@@ -8,6 +8,7 @@
 			"html_code" : "#36;",
 			"html4_entity" : "",
 			"html5_entity" : "dollar;",
+			"oversize" : "false",
 			"tags" : [
 				{
 					"name" : "currency"
@@ -22,6 +23,7 @@
 			"html_code" : "#162;",
 			"html4_entity" : "cent;",
 			"html5_entity" : "",
+			"oversize" : "false",
 			"tags" : [
 				{
 					"name" : "currency"
@@ -36,6 +38,7 @@
 			"html_code" : "#163;",
 			"html4_entity" : "pound;",
 			"html5_entity" : "",
+			"oversize" : "false",
 			"tags" : [
 				{
 					"name" : "currency"
@@ -50,6 +53,7 @@
 			"html_code" : "#164;",
 			"html4_entity" : "curren;",
 			"html5_entity" : "",
+			"oversize" : "false",
 			"tags" : [
 				{
 					"name" : "currency"
@@ -64,6 +68,7 @@
 			"html_code" : "#165;",
 			"html4_entity" : "yen;",
 			"html5_entity" : "",
+			"oversize" : "false",
 			"tags" : [
 				{
 					"name" : "currency"
@@ -78,6 +83,7 @@
 		  "html_code" : "#8352;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -92,6 +98,7 @@
 		  "html_code" : "#8353;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -106,6 +113,7 @@
 		  "html_code" : "#8354;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -120,6 +128,7 @@
 		  "html_code" : "#8355;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -134,6 +143,7 @@
 		  "html_code" : "#8356;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -148,6 +158,7 @@
 		  "html_code" : "#8357;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -162,6 +173,7 @@
 		  "html_code" : "#8358;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -176,6 +188,7 @@
 		  "html_code" : "#8359;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -190,6 +203,7 @@
 		  "html_code" : "#8360;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -204,6 +218,7 @@
 		  "html_code" : "#8361;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -218,6 +233,7 @@
 		  "html_code" : "#8362;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -232,6 +248,7 @@
 		  "html_code" : "#8363;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -246,6 +263,7 @@
 		  "html_code" : "#8364;",
 		  "html4_entity" : "euro;;",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -260,6 +278,7 @@
 		  "html_code" : "#8365;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -274,6 +293,7 @@
 		  "html_code" : "#8366;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -288,6 +308,7 @@
 		  "html_code" : "#8367;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -302,6 +323,7 @@
 		  "html_code" : "#8368;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -316,6 +338,7 @@
 		  "html_code" : "#8369;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -330,6 +353,7 @@
 		  "html_code" : "#8370;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -344,6 +368,7 @@
 		  "html_code" : "#8371;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -358,6 +383,7 @@
 		  "html_code" : "#8372;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -372,6 +398,7 @@
 		  "html_code" : "#8373;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -386,6 +413,7 @@
 		  "html_code" : "#8374;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -400,6 +428,7 @@
 		  "html_code" : "#8376;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -414,6 +443,7 @@
 		  "html_code" : "#8377;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -428,6 +458,7 @@
 		  "html_code" : "#8378;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -442,6 +473,7 @@
 		  "html_code" : "#8380;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -456,6 +488,7 @@
 		  "html_code" : "#8381;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -470,6 +503,7 @@
 		  "html_code" : "#2546;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -484,6 +518,7 @@
 		  "html_code" : "#2547;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -498,6 +533,7 @@
 		  "html_code" : "#2801;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -512,6 +548,7 @@
 		  "html_code" : "#3065;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -526,6 +563,7 @@
 		  "html_code" : "#3647;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -540,6 +578,7 @@
 		  "html_code" : "#6107;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -554,6 +593,7 @@
 		  "html_code" : "#13136;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -568,6 +608,7 @@
 		  "html_code" : "#20803;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -582,6 +623,7 @@
 		  "html_code" : "#20870;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -596,6 +638,7 @@
 		  "html_code" : "#22278;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -610,6 +653,7 @@
 		  "html_code" : "#22286;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -624,6 +668,7 @@
 		  "html_code" : "#22291;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -638,6 +683,7 @@
 		  "html_code" : "#22300;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -652,6 +698,7 @@
 		  "html_code" : "#50896;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -666,6 +713,7 @@
 		  "html_code" : "#65020;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -680,6 +728,7 @@
 		  "html_code" : "#65284;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -694,6 +743,7 @@
 		  "html_code" : "#65504;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -708,6 +758,7 @@
 		  "html_code" : "#65505;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"
@@ -736,6 +787,7 @@
 		  "html_code" : "#65510;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"

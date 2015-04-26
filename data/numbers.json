@@ -533,7 +533,7 @@
 		  "html_code" : "#8551;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
-		  "oversize" : "true",
+		  "oversize" : "width",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
@@ -773,7 +773,7 @@
 		  "html_code" : "#8567;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
-		  "oversize" : "true",
+		  "oversize" : "width",
 		  "tags" : [
 		    {
 		      "name" : "numbers"

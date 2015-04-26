@@ -17,14 +17,32 @@
     <meta name="google-site-verification" content="d3w5QeEYpedf2k8Lrac0VGOxvPExn466x-H-_JyWQb4" />
 
     <!-- Google Knowledge Graph -->
-    
+    <script type="application/ld+json">
+    {  "@context" : "http://schema.org",
+       "@type" : "WebSite",
+       "url" : "http://htmlarrows.com",
+       "name" : "HTML Arrows",
+       "image" : "http://htmlarrows.com/assets/images<%= asset_url('htmlarrows-banner.jpg') %>",
+       "copyrightHolder" : "Zeppelin Design, LLC",
+       "copyrightYear" : "2015",
+       "description" : "HTML arrow codes and ascii characters, currency, copyright and trademark symbols, and all the other &wtf;, html, hex and ascii codes you can't remember."
+       "creator" : [
+        { "@type" : "Organization",
+          "url" : "http://zeppelin.io/",
+          "name" : "Zeppelin",
+          "logo" : "http://htmlarrows.com/assets/images<%= asset_url('zeppelin-logo.svg') %>"
+          "contactPoint" : [
+          { "@type" : "ContactPoint",
+            "email" : "support@zeppelin.io",
+            "contactType" : "customer service"
+          } ]
+        } ]
+    }
+    </script>
   </head>
   
   <body vocab="http://schema.org/" typeof="<%= current_page.data.typeof %>">
     <meta property="url" content="http://htmlarrows.com<%= current_page.url %>">
-
-    <%# Zeppelin Logo %>
-    <%# <%= image_tag("assets/images/zeppelin-logo.svg", class: "logo") %>
 
     <%# Header %>
     <%= partial "partials/header" %>
@@ -45,6 +63,9 @@
 
       <%# Content %>
       <%= yield %>
+
+      <%# Social Footer %>
+      <%= partial "partials/social" %>
 
       <%# Footer %>
       <%= partial "partials/footer" %>

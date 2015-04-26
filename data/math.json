@@ -6,8 +6,9 @@
       "unicode" : "U+02200",
       "hex_code" : "#x2200;",
       "html_code" : "#8704;",
-      "html4_entity" : "forall;;",
+      "html4_entity" : "forall;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -22,6 +23,7 @@
       "html_code" : "#8705;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -34,8 +36,9 @@
       "unicode" : "U+02202",
       "hex_code" : "#x2202;",
       "html_code" : "#8706;",
-      "html4_entity" : "part;;",
+      "html4_entity" : "part;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -48,8 +51,9 @@
       "unicode" : "U+02203",
       "hex_code" : "#x2203;",
       "html_code" : "#8707;",
-      "html4_entity" : "exist;;",
+      "html4_entity" : "exist;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -64,6 +68,7 @@
       "html_code" : "#8708;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -76,8 +81,9 @@
       "unicode" : "U+02205",
       "hex_code" : "#x2205;",
       "html_code" : "#8709;",
-      "html4_entity" : "empty;;",
+      "html4_entity" : "empty;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -92,6 +98,7 @@
       "html_code" : "#8710;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -104,8 +111,9 @@
       "unicode" : "U+02207",
       "hex_code" : "#x2207;",
       "html_code" : "#8711;",
-      "html4_entity" : "nabla;;",
+      "html4_entity" : "nabla;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -118,8 +126,9 @@
       "unicode" : "U+02208",
       "hex_code" : "#x2208;",
       "html_code" : "#8712;",
-      "html4_entity" : "isin;;",
+      "html4_entity" : "isin;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -132,8 +141,9 @@
       "unicode" : "U+02209",
       "hex_code" : "#x2209;",
       "html_code" : "#8713;",
-      "html4_entity" : "notin;;",
+      "html4_entity" : "notin;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -148,6 +158,7 @@
       "html_code" : "#8714;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -160,8 +171,9 @@
       "unicode" : "U+0220B",
       "hex_code" : "#x220B;",
       "html_code" : "#8715;",
-      "html4_entity" : "ni;;",
+      "html4_entity" : "ni;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -176,6 +188,7 @@
       "html_code" : "#8716;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -190,6 +203,7 @@
       "html_code" : "#8717;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -204,6 +218,7 @@
       "html_code" : "#8718;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -216,8 +231,9 @@
       "unicode" : "U+0220F",
       "hex_code" : "#x220F;",
       "html_code" : "#8719;",
-      "html4_entity" : "prod;;",
+      "html4_entity" : "prod;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -232,6 +248,7 @@
       "html_code" : "#8720;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -244,8 +261,9 @@
       "unicode" : "U+02211",
       "hex_code" : "#x2211;",
       "html_code" : "#8721;",
-      "html4_entity" : "sum;;",
+      "html4_entity" : "sum;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -258,8 +276,9 @@
       "unicode" : "U+02212",
       "hex_code" : "#x2212;",
       "html_code" : "#8722;",
-      "html4_entity" : "minus;;",
+      "html4_entity" : "minus;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -274,6 +293,7 @@
       "html_code" : "#8723;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -288,6 +308,7 @@
       "html_code" : "#8724;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -302,6 +323,7 @@
       "html_code" : "#8725;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -316,6 +338,7 @@
       "html_code" : "#8726;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -328,8 +351,9 @@
       "unicode" : "U+02217",
       "hex_code" : "#x2217;",
       "html_code" : "#8727;",
-      "html4_entity" : "lowast;;",
+      "html4_entity" : "lowast;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -344,6 +368,7 @@
       "html_code" : "#8728;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -358,6 +383,7 @@
       "html_code" : "#8729;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -370,8 +396,9 @@
       "unicode" : "U+0221A",
       "hex_code" : "#x221A;",
       "html_code" : "#8730;",
-      "html4_entity" : "radic;;",
+      "html4_entity" : "radic;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -386,6 +413,7 @@
       "html_code" : "#8731;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -400,6 +428,7 @@
       "html_code" : "#8732;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -412,8 +441,9 @@
       "unicode" : "U+0221D",
       "hex_code" : "#x221D;",
       "html_code" : "#8733;",
-      "html4_entity" : "prop;;",
+      "html4_entity" : "prop;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -426,8 +456,9 @@
       "unicode" : "U+0221E",
       "hex_code" : "#x221E;",
       "html_code" : "#8734;",
-      "html4_entity" : "infin;;",
+      "html4_entity" : "infin;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -442,6 +473,7 @@
       "html_code" : "#8735;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -454,8 +486,9 @@
       "unicode" : "U+02220",
       "hex_code" : "#x2220;",
       "html_code" : "#8736;",
-      "html4_entity" : "ang;;",
+      "html4_entity" : "ang;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -470,6 +503,7 @@
       "html_code" : "#8737;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -484,6 +518,7 @@
       "html_code" : "#8738;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -498,6 +533,7 @@
       "html_code" : "#8739;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -512,6 +548,7 @@
       "html_code" : "#8740;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -526,6 +563,7 @@
       "html_code" : "#8741;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -540,6 +578,7 @@
       "html_code" : "#8742;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -552,8 +591,9 @@
       "unicode" : "U+02227",
       "hex_code" : "#x2227;",
       "html_code" : "#8743;",
-      "html4_entity" : "and;;",
+      "html4_entity" : "and;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -566,8 +606,9 @@
       "unicode" : "U+02228",
       "hex_code" : "#x2228;",
       "html_code" : "#8744;",
-      "html4_entity" : "or;;",
+      "html4_entity" : "or;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -580,8 +621,9 @@
       "unicode" : "U+02229",
       "hex_code" : "#x2229;",
       "html_code" : "#8745;",
-      "html4_entity" : "cap;;",
+      "html4_entity" : "cap;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -594,8 +636,9 @@
       "unicode" : "U+0222A",
       "hex_code" : "#x222A;",
       "html_code" : "#8746;",
-      "html4_entity" : "cup;;",
+      "html4_entity" : "cup;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -608,8 +651,9 @@
       "unicode" : "U+0222B",
       "hex_code" : "#x222B;",
       "html_code" : "#8747;",
-      "html4_entity" : "int;;",
+      "html4_entity" : "int;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -624,6 +668,7 @@
       "html_code" : "#8748;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -638,6 +683,7 @@
       "html_code" : "#8749;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -652,6 +698,7 @@
       "html_code" : "#8750;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -666,6 +713,7 @@
       "html_code" : "#8751;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -680,6 +728,7 @@
       "html_code" : "#8752;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -694,6 +743,7 @@
       "html_code" : "#8753;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -708,6 +758,7 @@
       "html_code" : "#8754;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -722,6 +773,7 @@
       "html_code" : "#8755;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -734,8 +786,9 @@
       "unicode" : "U+02234",
       "hex_code" : "#x2234;",
       "html_code" : "#8756;",
-      "html4_entity" : "there4;;",
+      "html4_entity" : "there4;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -750,6 +803,7 @@
       "html_code" : "#8757;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -764,6 +818,7 @@
       "html_code" : "#8758;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -778,6 +833,7 @@
       "html_code" : "#8759;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -792,6 +848,7 @@
       "html_code" : "#8760;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -806,6 +863,7 @@
       "html_code" : "#8761;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -820,6 +878,7 @@
       "html_code" : "#8762;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -834,6 +893,7 @@
       "html_code" : "#8763;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -846,8 +906,9 @@
       "unicode" : "U+0223C",
       "hex_code" : "#x223C;",
       "html_code" : "#8764;",
-      "html4_entity" : "sim;;",
+      "html4_entity" : "sim;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -862,6 +923,7 @@
       "html_code" : "#8765;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -876,6 +938,7 @@
       "html_code" : "#8766;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -890,6 +953,7 @@
       "html_code" : "#8767;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -904,6 +968,7 @@
       "html_code" : "#8768;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -918,6 +983,7 @@
       "html_code" : "#8769;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -932,6 +998,7 @@
       "html_code" : "#8770;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -946,6 +1013,7 @@
       "html_code" : "#8771;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -960,6 +1028,7 @@
       "html_code" : "#8772;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -972,8 +1041,9 @@
       "unicode" : "U+02245",
       "hex_code" : "#x2245;",
       "html_code" : "#8773;",
-      "html4_entity" : "cong;;",
+      "html4_entity" : "cong;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -988,6 +1058,7 @@
       "html_code" : "#8774;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1002,6 +1073,7 @@
       "html_code" : "#8775;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1014,8 +1086,9 @@
       "unicode" : "U+02248",
       "hex_code" : "#x2248;",
       "html_code" : "#8776;",
-      "html4_entity" : "asymp;;",
+      "html4_entity" : "asymp;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1030,6 +1103,7 @@
       "html_code" : "#8777;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1044,6 +1118,7 @@
       "html_code" : "#8778;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1058,6 +1133,7 @@
       "html_code" : "#8779;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1072,6 +1148,7 @@
       "html_code" : "#8780;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1086,6 +1163,7 @@
       "html_code" : "#8781;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1100,6 +1178,7 @@
       "html_code" : "#8782;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1114,6 +1193,7 @@
       "html_code" : "#8783;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1128,6 +1208,7 @@
       "html_code" : "#8784;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1142,6 +1223,7 @@
       "html_code" : "#8785;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1156,6 +1238,7 @@
       "html_code" : "#8786;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1170,6 +1253,7 @@
       "html_code" : "#8787;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1184,6 +1268,7 @@
       "html_code" : "#8788;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1198,6 +1283,7 @@
       "html_code" : "#8789;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1212,6 +1298,7 @@
       "html_code" : "#8790;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1226,6 +1313,7 @@
       "html_code" : "#8791;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1240,6 +1328,7 @@
       "html_code" : "#8792;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1254,6 +1343,7 @@
       "html_code" : "#8793;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1268,6 +1358,7 @@
       "html_code" : "#8794;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1282,6 +1373,7 @@
       "html_code" : "#8795;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1296,6 +1388,7 @@
       "html_code" : "#8796;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1310,6 +1403,7 @@
       "html_code" : "#8797;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1324,6 +1418,7 @@
       "html_code" : "#8798;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1338,6 +1433,7 @@
       "html_code" : "#8799;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1350,8 +1446,9 @@
       "unicode" : "U+02260",
       "hex_code" : "#x2260;",
       "html_code" : "#8800;",
-      "html4_entity" : "ne;;",
+      "html4_entity" : "ne;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1364,8 +1461,9 @@
       "unicode" : "U+02261",
       "hex_code" : "#x2261;",
       "html_code" : "#8801;",
-      "html4_entity" : "equiv;;",
+      "html4_entity" : "equiv;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1380,6 +1478,7 @@
       "html_code" : "#8802;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1394,6 +1493,7 @@
       "html_code" : "#8803;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1406,8 +1506,9 @@
       "unicode" : "U+02264",
       "hex_code" : "#x2264;",
       "html_code" : "#8804;",
-      "html4_entity" : "le;;",
+      "html4_entity" : "le;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1420,8 +1521,9 @@
       "unicode" : "U+02265",
       "hex_code" : "#x2265;",
       "html_code" : "#8805;",
-      "html4_entity" : "ge;;",
+      "html4_entity" : "ge;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1436,6 +1538,7 @@
       "html_code" : "#8806;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1450,6 +1553,7 @@
       "html_code" : "#8807;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1464,6 +1568,7 @@
       "html_code" : "#8808;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1478,6 +1583,7 @@
       "html_code" : "#8809;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1492,6 +1598,7 @@
       "html_code" : "#8810;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1506,6 +1613,7 @@
       "html_code" : "#8811;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1520,6 +1628,7 @@
       "html_code" : "#8812;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1534,6 +1643,7 @@
       "html_code" : "#8813;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1548,6 +1658,7 @@
       "html_code" : "#8814;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1562,6 +1673,7 @@
       "html_code" : "#8815;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1576,6 +1688,7 @@
       "html_code" : "#8816;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1590,6 +1703,7 @@
       "html_code" : "#8817;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1604,6 +1718,7 @@
       "html_code" : "#8818;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1618,6 +1733,7 @@
       "html_code" : "#8819;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1632,6 +1748,7 @@
       "html_code" : "#8820;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1646,6 +1763,7 @@
       "html_code" : "#8821;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1660,6 +1778,7 @@
       "html_code" : "#8822;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1674,6 +1793,7 @@
       "html_code" : "#8823;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1688,6 +1808,7 @@
       "html_code" : "#8824;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1702,6 +1823,7 @@
       "html_code" : "#8825;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1716,6 +1838,7 @@
       "html_code" : "#8826;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1730,6 +1853,7 @@
       "html_code" : "#8827;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1744,6 +1868,7 @@
       "html_code" : "#8828;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1758,6 +1883,7 @@
       "html_code" : "#8829;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1772,6 +1898,7 @@
       "html_code" : "#8830;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1786,6 +1913,7 @@
       "html_code" : "#8831;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1800,6 +1928,7 @@
       "html_code" : "#8832;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1814,6 +1943,7 @@
       "html_code" : "#8833;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1826,8 +1956,9 @@
       "unicode" : "U+02282",
       "hex_code" : "#x2282;",
       "html_code" : "#8834;",
-      "html4_entity" : "sub;;",
+      "html4_entity" : "sub;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1840,8 +1971,9 @@
       "unicode" : "U+02283",
       "hex_code" : "#x2283;",
       "html_code" : "#8835;",
-      "html4_entity" : "sup;;",
+      "html4_entity" : "sup;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1854,8 +1986,9 @@
       "unicode" : "U+02284",
       "hex_code" : "#x2284;",
       "html_code" : "#8836;",
-      "html4_entity" : "nsub;;",
+      "html4_entity" : "nsub;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1870,6 +2003,7 @@
       "html_code" : "#8837;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1882,8 +2016,9 @@
       "unicode" : "U+02286",
       "hex_code" : "#x2286;",
       "html_code" : "#8838;",
-      "html4_entity" : "sube;;",
+      "html4_entity" : "sube;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1896,8 +2031,9 @@
       "unicode" : "U+02287",
       "hex_code" : "#x2287;",
       "html_code" : "#8839;",
-      "html4_entity" : "supe;;",
+      "html4_entity" : "supe;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1912,6 +2048,7 @@
       "html_code" : "#8840;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1926,6 +2063,7 @@
       "html_code" : "#8841;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1940,6 +2078,7 @@
       "html_code" : "#8842;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1954,6 +2093,7 @@
       "html_code" : "#8843;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1968,6 +2108,7 @@
       "html_code" : "#8844;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1982,6 +2123,7 @@
       "html_code" : "#8845;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -1996,6 +2138,7 @@
       "html_code" : "#8846;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2010,6 +2153,7 @@
       "html_code" : "#8847;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2024,6 +2168,7 @@
       "html_code" : "#8848;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2038,6 +2183,7 @@
       "html_code" : "#8849;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2052,6 +2198,7 @@
       "html_code" : "#8850;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2066,6 +2213,7 @@
       "html_code" : "#8851;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2080,6 +2228,7 @@
       "html_code" : "#8852;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2092,8 +2241,9 @@
       "unicode" : "U+02295",
       "hex_code" : "#x2295;",
       "html_code" : "#8853;",
-      "html4_entity" : "oplus;;",
+      "html4_entity" : "oplus;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2108,6 +2258,7 @@
       "html_code" : "#8854;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2120,8 +2271,9 @@
       "unicode" : "U+02297",
       "hex_code" : "#x2297;",
       "html_code" : "#8855;",
-      "html4_entity" : "otimes;;",
+      "html4_entity" : "otimes;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2136,6 +2288,7 @@
       "html_code" : "#8856;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2150,6 +2303,7 @@
       "html_code" : "#8857;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2164,6 +2318,7 @@
       "html_code" : "#8858;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2178,6 +2333,7 @@
       "html_code" : "#8859;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2192,6 +2348,7 @@
       "html_code" : "#8860;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2206,6 +2363,7 @@
       "html_code" : "#8861;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2220,6 +2378,7 @@
       "html_code" : "#8862;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2234,6 +2393,7 @@
       "html_code" : "#8863;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2248,6 +2408,7 @@
       "html_code" : "#8864;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2262,6 +2423,7 @@
       "html_code" : "#8865;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2276,6 +2438,7 @@
       "html_code" : "#8866;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2290,6 +2453,7 @@
       "html_code" : "#8867;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2304,6 +2468,7 @@
       "html_code" : "#8868;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2316,8 +2481,9 @@
       "unicode" : "U+022A5",
       "hex_code" : "#x22A5;",
       "html_code" : "#8869;",
-      "html4_entity" : "perp;;",
+      "html4_entity" : "perp;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2332,6 +2498,7 @@
       "html_code" : "#8870;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2346,6 +2513,7 @@
       "html_code" : "#8871;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2360,6 +2528,7 @@
       "html_code" : "#8872;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2374,6 +2543,7 @@
       "html_code" : "#8873;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2388,6 +2558,7 @@
       "html_code" : "#8874;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2402,6 +2573,7 @@
       "html_code" : "#8875;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2416,6 +2588,7 @@
       "html_code" : "#8876;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2430,6 +2603,7 @@
       "html_code" : "#8877;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2444,6 +2618,7 @@
       "html_code" : "#8878;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2458,6 +2633,7 @@
       "html_code" : "#8879;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2472,6 +2648,7 @@
       "html_code" : "#8880;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2486,6 +2663,7 @@
       "html_code" : "#8881;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2500,6 +2678,7 @@
       "html_code" : "#8882;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2514,6 +2693,7 @@
       "html_code" : "#8883;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2528,6 +2708,7 @@
       "html_code" : "#8884;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2542,6 +2723,7 @@
       "html_code" : "#8885;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2556,6 +2738,7 @@
       "html_code" : "#8886;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2570,6 +2753,7 @@
       "html_code" : "#8887;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2584,6 +2768,7 @@
       "html_code" : "#8888;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2598,6 +2783,7 @@
       "html_code" : "#8889;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2612,6 +2798,7 @@
       "html_code" : "#8890;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2626,6 +2813,7 @@
       "html_code" : "#8891;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2640,6 +2828,7 @@
       "html_code" : "#8892;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2654,6 +2843,7 @@
       "html_code" : "#8893;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2668,6 +2858,7 @@
       "html_code" : "#8894;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2682,6 +2873,7 @@
       "html_code" : "#8895;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2696,6 +2888,7 @@
       "html_code" : "#8896;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2710,6 +2903,7 @@
       "html_code" : "#8897;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2724,6 +2918,7 @@
       "html_code" : "#8898;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2738,6 +2933,7 @@
       "html_code" : "#8899;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2752,6 +2948,7 @@
       "html_code" : "#8900;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2764,8 +2961,9 @@
       "unicode" : "U+022C5",
       "hex_code" : "#x22C5;",
       "html_code" : "#8901;",
-      "html4_entity" : "sdot;;",
+      "html4_entity" : "sdot;",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2780,6 +2978,7 @@
       "html_code" : "#8902;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2794,6 +2993,7 @@
       "html_code" : "#8903;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2808,6 +3008,7 @@
       "html_code" : "#8904;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2822,6 +3023,7 @@
       "html_code" : "#8905;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2836,6 +3038,7 @@
       "html_code" : "#8906;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2850,6 +3053,7 @@
       "html_code" : "#8907;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2864,6 +3068,7 @@
       "html_code" : "#8908;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2878,6 +3083,7 @@
       "html_code" : "#8909;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2892,6 +3098,7 @@
       "html_code" : "#8910;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2906,6 +3113,7 @@
       "html_code" : "#8911;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2920,6 +3128,7 @@
       "html_code" : "#8912;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2934,6 +3143,7 @@
       "html_code" : "#8913;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2948,6 +3158,7 @@
       "html_code" : "#8914;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2962,6 +3173,7 @@
       "html_code" : "#8915;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2976,6 +3188,7 @@
       "html_code" : "#8916;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -2990,6 +3203,7 @@
       "html_code" : "#8917;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3004,6 +3218,7 @@
       "html_code" : "#8918;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3018,6 +3233,7 @@
       "html_code" : "#8919;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3032,6 +3248,7 @@
       "html_code" : "#8920;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3046,6 +3263,7 @@
       "html_code" : "#8921;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3060,6 +3278,7 @@
       "html_code" : "#8922;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3074,6 +3293,7 @@
       "html_code" : "#8923;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3088,6 +3308,7 @@
       "html_code" : "#8924;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3102,6 +3323,7 @@
       "html_code" : "#8925;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3116,6 +3338,7 @@
       "html_code" : "#8926;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3130,6 +3353,7 @@
       "html_code" : "#8927;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3144,6 +3368,7 @@
       "html_code" : "#8928;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3158,6 +3383,7 @@
       "html_code" : "#8929;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3172,6 +3398,7 @@
       "html_code" : "#8930;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3186,6 +3413,7 @@
       "html_code" : "#8931;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3200,6 +3428,7 @@
       "html_code" : "#8932;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3214,6 +3443,7 @@
       "html_code" : "#8933;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3228,6 +3458,7 @@
       "html_code" : "#8934;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3242,6 +3473,7 @@
       "html_code" : "#8935;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3256,6 +3488,7 @@
       "html_code" : "#8936;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3270,6 +3503,7 @@
       "html_code" : "#8937;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3284,6 +3518,7 @@
       "html_code" : "#8938;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3298,6 +3533,7 @@
       "html_code" : "#8939;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3312,6 +3548,7 @@
       "html_code" : "#8940;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3326,6 +3563,7 @@
       "html_code" : "#8941;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3340,6 +3578,7 @@
       "html_code" : "#8942;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3354,6 +3593,7 @@
       "html_code" : "#8943;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3368,6 +3608,7 @@
       "html_code" : "#8944;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3382,6 +3623,7 @@
       "html_code" : "#8945;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3396,6 +3638,7 @@
       "html_code" : "#8946;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3410,6 +3653,7 @@
       "html_code" : "#8947;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3424,6 +3668,7 @@
       "html_code" : "#8948;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3438,6 +3683,7 @@
       "html_code" : "#8949;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3452,6 +3698,7 @@
       "html_code" : "#8950;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3466,6 +3713,7 @@
       "html_code" : "#8951;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3480,6 +3728,7 @@
       "html_code" : "#8952;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3494,6 +3743,7 @@
       "html_code" : "#8953;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3508,6 +3758,7 @@
       "html_code" : "#8954;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3522,6 +3773,7 @@
       "html_code" : "#8955;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3536,6 +3788,7 @@
       "html_code" : "#8956;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3550,6 +3803,7 @@
       "html_code" : "#8957;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3564,6 +3818,7 @@
       "html_code" : "#8958;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"
@@ -3578,6 +3833,7 @@
       "html_code" : "#8959;",
       "html4_entity" : "",
       "html5_entity" : "",
+      "oversize" : "false",
       "tags" : [
         {
           "name" : "math"

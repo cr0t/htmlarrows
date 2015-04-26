@@ -1,5 +1,5 @@
 ---
-typeof: WebPage
+typeof: CollectionPage
 title: Numbers and Symbols — HTML Arrows
 description: HTML arrow codes and ascii characters, currency, copyright and trademark symbols, and all the other &wtf;, html, hex and ascii codes you can't remember.
 image: 
@@ -14,53 +14,30 @@ priority: 1.0
 
 <%# Colors %>
 <% content_for :stylesheets do %>
-	article {background-color: rgb(125, 55, 65);}
+	article {background-color: rgb(175, 45, 55);}
 <% end %>
 
 <%# Page Content %>
-<section class="row">
+<section class="row index numbers">
 
 	<% data.numbers.entities.each do |entity| %>
-		<% if entity.oversize == "false" %>
-			<div class="col-xs-8 col-sm-6 col-md-4 col-lg-3 col-xl-2 entity" vocab="http://schema.org/" typeof="Code">
-				<div class="name small">
-					<h4 property="name"><%= entity.name %></h4>
-				</div>
-
-				<div class="symbol small">
-					&<%= entity.html_code %>
-				</div>
-
-				<div class="codes small">
-					<code><%= entity.unicode %></code>
-					<code>&amp;<%= entity.hex_code %></code>
-					<code>&amp;<%= entity.html_code %></code>
-				</div>
-			</div>
-		<% else %>
-			<div class="col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xl-4 entity" vocab="http://schema.org/" typeof="Code">
-				<div class="name small">
-					<h4 property="name"><%= entity.name %></h4>
-				</div>
-
-				<div class="symbol small">
-					&<%= entity.html_code %>
-				</div>
-
-				<div class="codes small">
-					<code><%= entity.unicode %></code>
-					<code>&amp;<%= entity.hex_code %></code>
-					<code>&amp;<%= entity.html_code %></code>
-				</div>
-			</div>
-		<% end %>
+		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
 	<% end %>
 
 </section>
 
 <%# Page Footer %>
-<footer class="row">
-	<div class="col-xs-24">
-		<h6>Home > Currency</h6>
-	</div>
-</footer>
+<% content_for :footer do %>
+	<section class="row breadcrumbs">
+		<div class="col-xs-24" xmlns:v="http://rdf.data-vocabulary.org/#">
+			<h6>
+			  <span typeof="v:Breadcrumb">
+			  	<%= link_to "Home", "/", rel: "v:url", property: "v:title" %> &#8594;
+			    <span rel="v:child" typeof="v:Breadcrumb">
+			      <%= link_to "Numbers", "/numbers/", rel: "v:url", property: "v:title" %>
+			    </span>
+			  </span>
+			 </h6>
+		</div>
+	</section>
+<% end %>

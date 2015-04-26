@@ -1,7 +1,7 @@
 <nav id="nav" class="nav-right" vocab="http://schema.org/" typeof="SiteNavigationElement">
 	<ul class="row">
 
-		<li class="col-md-3 show-md">
+		<li class="col-md-3 show-md" style="margin-top:-0.2em;">
 			<h2 property="name"><% link_to "/", property: "url" do %>HTML&nbsp;&nbsp;<span style="font-size:27px;line-height:0;">&#8594;</span><% end %></h2>
 			<span class="show-md" style="font-size:12px;color:#888;display:block;margin-top:-0.25em">by <%= link_to "Zeppelin", "http://zeppelin.io/" %></span>
 		</li>
@@ -27,17 +27,17 @@
 			</li>
 		<% end %>
 
+		<% active_link "/math/", property: "url" do %>
+			<li class="col-md-3 math">
+				<h3 property="name"><span class="icon hide-md">&#37;</span>Math</h3>
+				<span class="show-md" style="font-size:12px;color:#888;display:block;margin-top:-0.125em">&#37;&#43;</span>
+			</li>
+		<% end %>
+
 		<% active_link "/numbers/", property: "url" do %>
 			<li class="col-md-3 numbers">
 				<h3 property="name"><span class="icon hide-md">Aa</span>Numbers</h3>
 				<span class="show-md" style="font-size:12px;color:#888;display:block;margin-top:-0.125em">1&#190;</span>
-			</li>
-		<% end %>
-
-		<% active_link "/operators/", property: "url" do %>
-			<li class="col-md-3 operators">
-				<h3 property="name"><span class="icon hide-md">&#37;</span>Operators</h3>
-				<span class="show-md" style="font-size:12px;color:#888;display:block;margin-top:-0.125em">&#37;&#43;</span>
 			</li>
 		<% end %>
 

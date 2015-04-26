@@ -5,9 +5,25 @@ require 'json'
 #### DATA
 
 # Proxy pages (https://middlemanapp.com/advanced/dynamic_pages/)
-# data.website.marbling.each do |paper|
-#   proxy "/marbling/#{paper["slug"]}.html", "/marbling/template.html", :locals => { :paper => paper }, :ignore => true
-# end
+data.arrows.entities.each do |entity|
+  proxy "/arrows/#{entity["slug"]}.html", "/arrows/template.html", :locals => { :entity => entity }, :ignore => true
+end
+
+data.currency.entities.each do |entity|
+  proxy "/currency/#{entity["slug"]}.html", "/currency/template.html", :locals => { :entity => entity }, :ignore => true
+end
+
+data.letters.entities.each do |entity|
+  proxy "/letters/#{entity["slug"]}.html", "/letters/template.html", :locals => { :entity => entity }, :ignore => true
+end
+
+data.math.entities.each do |entity|
+  proxy "/math/#{entity["slug"]}.html", "/math/template.html", :locals => { :entity => entity }, :ignore => true
+end
+
+data.numbers.entities.each do |entity|
+  proxy "/numbers/#{entity["slug"]}.html", "/numbers/template.html", :locals => { :entity => entity }, :ignore => true
+end
 
 # data.website.suminagashi.each do |paper|
 #   proxy "/suminagashi/#{paper["slug"]}.html", "/suminagashi/template.html", :locals => { :paper => paper }, :ignore => true

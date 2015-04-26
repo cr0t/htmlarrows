@@ -1,0 +1,40 @@
+---
+typeof: ItemPage
+description: HTML arrow codes and ascii characters, currency, copyright and trademark symbols, and all the other &amp;wtf;, html, hex and ascii codes you can't remember.
+changefreq: "monthly"
+priority: 0.5
+---
+
+<%# Meta Tags %>
+<% content_for :meta do %>
+  <%= partial("meta/meta_entity", :locals => { :entity => entity }) %>
+<% end %>
+
+<%# Colors %>
+<% content_for :stylesheets do %>
+	article {background-color: rgb(205, 45, 45);}
+<% end %>
+
+<%# Page Content %>
+<section class="row template punctuation" vocab="http://schema.org/" typeof="Code">
+	<%= partial("partials/entity", :locals => { :entity => entity }) %>
+</section>
+
+<%# Page Footer %>
+<% content_for :footer do %>
+	<section class="row breadcrumbs">
+		<div class="col-xs-24" xmlns:v="http://rdf.data-vocabulary.org/#">
+			<h6>
+			  <span typeof="v:Breadcrumb">
+			  	<%= link_to "Home", "/", rel: "v:url", property: "v:title" %> &#8594;
+			    <span rel="v:child" typeof="v:Breadcrumb">
+			      <%= link_to "Punctuation", "/punctuation/", rel: "v:url", property: "v:title" %> &#8594;
+			      <span rel="v:child" typeof="v:Breadcrumb">
+			      	<%= link_to "#{entity.name}", "/punctuation/#{entity.slug}/", rel: "v:url", property: "v:title" %>
+			      </span>
+			    </span>
+			  </span>
+			 </h6>
+		</div>
+	</section>
+<% end %>
