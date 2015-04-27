@@ -14,7 +14,7 @@ html, body {
 
 // //--- tablet(v) only styles ---//
 // @media only screen and (min-width: 40.063em) and (max-width: 48em) {
-  
+
 // }
 
 //--- mobile and tablet(v) only styles ---//
@@ -345,8 +345,10 @@ html, body {
   position: fixed;
 }
 
+// body class that disables scrolling
 .nav-active {
-  position: fixed;
+  overflow: hidden;
+  height: 100%;
 }
 
 .nav-active .nav-overlay {
