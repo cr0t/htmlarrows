@@ -8,13 +8,6 @@ require "json"
 data = JSON.load(File.read("keys.json"))
 
 # vars stored in keys.json (gitignored)
-aws_access_key = data["aws_access_key"]
-aws_secret_key = data["aws_secret_key"]
-aws_queue_url = data["aws_queue_url"]
-aws_cf_key = data["aws_cf_key"]
-aws_region = data["aws_region"]
-api_key = data["api_key"]
-api_ver = data["api_ver"]
 website = data["website"]
 bucket = data["bucket"]
 

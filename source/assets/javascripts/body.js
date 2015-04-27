@@ -1,22 +1,10 @@
 //= require fastclick-1.0.6.min
 //= require headroom-0.7.0.min
-//= require jquery-1.11.2.min
-//= require jquery-bigtext-1.3.0
+//= require fontscale
 //= require classie
 //= require hydrogen-0.0.1
 
-// jquery bigtext
-$(document).ready(function(){
-  $("#symbol").bigText({
-    maximumFontSize: 600,
-    verticalAlign: "top",
-  });
-});
-
-// sticky footer init
-// $(document).scroll(function() {
-//   stickyFooter();
-// });
+fontScale();
 
 // headroom sticky header on scroll
 var desktop = document.querySelector("#nav");
@@ -59,34 +47,23 @@ window.onresize = function() {
 	desktop_headroom.destroy();
 	mobile_headroom.destroy();
 	headroom_init();
-  $("#symbol").bigText({
-    maximumFontSize: 600,
-    verticalAlign: "top",
-  });
+  fontScale();
 }
 
-// sticky footer
-// function stickyFooter() {
-//   if($('#social').offset().top + $('#social').height() >= $('#footer').offset().top - 10)
-//       $('#social').css('position', 'absolute');
-//   if($(document).scrollTop() + window.innerHeight < $('#footer').offset().top)
-//     $('#social').css('position', 'fixed');
-// }
-
 // social popups
-$('.popup').click(function(event) {
-  var width  = 600,
-      height = 375,
-      left   = ($(window).width()  - width)  / 2,
-      top    = ($(window).height() - height) / 2,
-      url    = this.href,
-      opts   = 'status=1' +
-               ',width='  + width  +
-               ',height=' + height +
-               ',top='    + top    +
-               ',left='   + left;
+// $('.popup').click(function(event) {
+//   var width  = 600,
+//       height = 375,
+//       left   = ($(window).width()  - width)  / 2,
+//       top    = ($(window).height() - height) / 2,
+//       url    = this.href,
+//       opts   = 'status=1' +
+//                ',width='  + width  +
+//                ',height=' + height +
+//                ',top='    + top    +
+//                ',left='   + left;
   
-  window.open(url, 'twitter', opts);
+//   window.open(url, 'twitter', opts);
 
-  return false;
-});
+//   return false;
+// });

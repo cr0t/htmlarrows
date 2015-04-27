@@ -8,9 +8,10 @@ if ('addEventListener' in document) {
   }, false);
 }
 
-// mobile nav based on Codrops (http://tympanus.net/codrops/2014/09/16/off-canvas-menu-effects/)
+
 (function() {
 
+	// mobile nav based on Codrops (http://tympanus.net/codrops/2014/09/16/off-canvas-menu-effects/)
 	var body = document.body,
 		  main = document.querySelector( '#main' ),
 		  openbtn = document.getElementById( 'nav-open-button' ),

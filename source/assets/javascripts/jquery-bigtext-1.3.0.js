@@ -54,11 +54,20 @@ Copyright (C) 2013 Daniel Hoffmann Bernardes, Ícaro Technologies
                 right: parseInt($parent.css('padding-right')),
                 bottom: parseInt($parent.css('padding-bottom'))
             };
+            console.log(parentPadding.left, parentPadding.top, parentPadding.right, parentPadding.bottom)
 
             var box= {
                 width: $this.outerWidth(),
                 height: $this.outerHeight()
             };
+            console.log(box.width, box.height)
+
+            var boxy= {
+                width: $(this).innerWidth(),
+                height: $(this).outerWidth()
+            };
+            console.log(boxy.width, boxy.height)
+
             var rotateCSS= {}
             if (options.rotateText !== null) {
                 if (typeof options.rotateText !== "number")
@@ -79,9 +88,15 @@ Copyright (C) 2013 Daniel Hoffmann Bernardes, Ícaro Technologies
                 box.height= $this.outerWidth() * sin + $this.outerHeight() * cos;
             }
 
+            var trueWidth = $parent.innerWidth() - parentPadding.left - parentPadding.right;
+            var trueHeight = $parent.innerHeight() - parentPadding.top - parentPadding.bottom;
+            console.log(trueWidth, trueHeight)
+
             var widthFactor= ($parent.innerWidth() - parentPadding.left - parentPadding.right) / box.width;
             var heightFactor= ($parent.innerHeight() - parentPadding.top - parentPadding.bottom) / box.height;
+            console.log(widthFactor, heightFactor)
             var lineHeight;
+            console.log(lineHeight);
 
             if (options.limitingDimension.toLowerCase() === "width") {
                 lineHeight= Math.floor(widthFactor * 1000);
