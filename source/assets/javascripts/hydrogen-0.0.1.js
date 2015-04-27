@@ -13,6 +13,7 @@ if ('addEventListener' in document) {
 
 	var body = document.body,
 		  main = document.querySelector( '#main' ),
+		  htmlElement = document.querySelector("html"),
 		  openbtn = document.getElementById( 'nav-open-button' ),
 		  closebtn = document.getElementById( 'nav-close-button' ),
 		  isOpen = false;
@@ -45,12 +46,14 @@ if ('addEventListener' in document) {
 			classie.remove( nav, 'nav-open');
 			classie.add( nav, 'nav-right');
 			classie.remove( body, 'nav-active' );
+			classie.remove(htmlElement, 'nav-active');
 			classie.remove( main, 'main-inactive');
 		}
 		else {
 			classie.add( nav, 'nav-open');
 			classie.remove( nav, 'nav-right');
 			classie.add( body, 'nav-active' );
+			classie.add(htmlElement, 'nav-active');
 			classie.add( main, 'main-inactive');
 		}
 		isOpen = !isOpen;
