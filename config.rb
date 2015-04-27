@@ -37,6 +37,7 @@ end
 page "/sitemap.xml", layout: false
 
 
+
 #### GLOBAL CONFIGURATION
 
 # Pretty URLs
@@ -51,6 +52,7 @@ end
 set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'
 set :images_dir, 'assets/images'
+
 
 
 #### DEVELOPMENT CONFIGURATION

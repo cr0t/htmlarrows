@@ -14,9 +14,9 @@ $(document).ready(function(){
 });
 
 // sticky footer init
-$(document).scroll(function() {
-  stickyFooter();
-});
+// $(document).scroll(function() {
+//   stickyFooter();
+// });
 
 // headroom sticky header on scroll
 var desktop = document.querySelector("#nav");
@@ -59,15 +59,19 @@ window.onresize = function() {
 	desktop_headroom.destroy();
 	mobile_headroom.destroy();
 	headroom_init();
+  $("#symbol").bigText({
+    maximumFontSize: 600,
+    verticalAlign: "top",
+  });
 }
 
 // sticky footer
-function stickyFooter() {
-  if($('#social').offset().top + $('#social').height() >= $('#footer').offset().top - 10)
-      $('#social').css('position', 'absolute');
-  if($(document).scrollTop() + window.innerHeight < $('#footer').offset().top)
-    $('#social').css('position', 'fixed');
-}
+// function stickyFooter() {
+//   if($('#social').offset().top + $('#social').height() >= $('#footer').offset().top - 10)
+//       $('#social').css('position', 'absolute');
+//   if($(document).scrollTop() + window.innerHeight < $('#footer').offset().top)
+//     $('#social').css('position', 'fixed');
+// }
 
 // social popups
 $('.popup').click(function(event) {

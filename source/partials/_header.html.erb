@@ -1,59 +1,68 @@
 <nav id="nav" class="nav-right" vocab="http://schema.org/" typeof="SiteNavigationElement">
 	<ul class="row">
 
-		<li class="col-md-3 show-md" style="margin-top:-0.2em;">
-			<h2 property="name"><% link_to "/", property: "url" do %>HTML&nbsp;&nbsp;<span style="font-size:27px;line-height:0;">&#8594;</span><% end %></h2>
-			<span class="show-md" style="font-size:12px;color:#888;display:block;margin-top:-0.25em">by <%= link_to "Zeppelin", "http://zeppelin.io/" %></span>
+		<li class="col-md-3 show-md home">
+			<h2 property="name"><% link_to "/", property: "url" do %>HTML &nbsp;<span class="logo">&#8594;</span><% end %></h2>
+			<span class="icon show-md"><%= link_to "by Zeppelin", "http://zeppelin.io/" %></span>
+		</li>
+
+		<li class="col-md-3 hide-md home">
+			<h3><%= link_to "Home", "/" %></h3>
 		</li>
 
 		<% active_link "/arrows/", property: "url" do %>
 			<li class="col-md-3 arrows">
-				<h3 property="name"><span class="icon hide-md">&#8594;</span>Arrows</h3>
-				<span class="show-md" style="font-size:12px;color:#888;display:block;margin-top:-0.125em">&#8593;&#8594;</span>
+				<h3 property="name"><span class="icon hide-md">&#8593;&#8594;</span>Arrows</h3>
+				<span class="icon show-md">&#8593;&#8594;</span>
 			</li>
 		<% end %>
 
 		<% active_link "/currency/", property: "url" do %>
 			<li class="col-md-3 currency">
-				<h3 property="name"><span class="icon hide-md">&#36;</span>Currency</h3>
-				<span class="show-md" style="font-size:12px;color:#888;display:block;margin-top:-0.125em">&#36;&#162;</span>
+				<h3 property="name"><span class="icon hide-md">&#36;&#162;</span>Currency</h3>
+				<span class="icon show-md">&#36;&#162;</span>
 			</li>
 		<% end %>
 
 		<% active_link "/letters/", property: "url" do %>
 			<li class="col-md-3 letters">
 				<h3 property="name"><span class="icon hide-md">Aa</span>Letters</h3>
-				<span class="show-md" style="font-size:12px;color:#888;display:block;margin-top:-0.125em">Aa</span>
+				<span class="icon show-md">Aa</span>
 			</li>
 		<% end %>
 
 		<% active_link "/math/", property: "url" do %>
 			<li class="col-md-3 math">
-				<h3 property="name"><span class="icon hide-md">&#37;</span>Math</h3>
-				<span class="show-md" style="font-size:12px;color:#888;display:block;margin-top:-0.125em">&#37;&#43;</span>
+				<h3 property="name"><span class="icon hide-md">&#37;&#43;</span>Math</h3>
+				<span class="icon show-md">&#37;&#43;</span>
 			</li>
 		<% end %>
 
 		<% active_link "/numbers/", property: "url" do %>
 			<li class="col-md-3 numbers">
-				<h3 property="name"><span class="icon hide-md">Aa</span>Numbers</h3>
-				<span class="show-md" style="font-size:12px;color:#888;display:block;margin-top:-0.125em">1&#190;</span>
+				<h3 property="name"><span class="icon hide-md">1&#190;</span>Numbers</h3>
+				<span class="icon show-md">1&#190;</span>
 			</li>
 		<% end %>
 
 		<% active_link "/punctuation/", property: "url" do %>
 			<li class="col-md-3 punctuation">
-				<h3 property="name"><span class="icon hide-md">&#33;</span>Punctuation</h3>
-				<span class="show-md" style="font-size:12px;color:#888;display:block;margin-top:-0.125em">&#38;&#8212;</span>
+				<h3 property="name"><span class="icon hide-md">&#38;&#8212;</span>Punctuation</h3>
+				<span class="icon show-md">&#38;&#8212;</span>
 			</li>
 		<% end %>
 
 		<% active_link "/symbols/", property: "url" do %>
 			<li class="col-md-3 symbols">
-				<h3 property="name"><span class="icon hide-md">&#169;</span>Symbols</h3>
-				<span class="show-md" style="font-size:12px;color:#888;display:block;margin-top:-0.125em">&#169;&#8482;</span>
+				<h3 property="name"><span class="icon hide-md">&#169;&#8482;</span>Symbols</h3>
+				<span class="icon show-md">&#169;&#8482;</span>
 			</li>
 		<% end %>
+
+		<li class="hide-md credits">
+			<h4>Designed by</h4>
+			<h2><%= link_to "Zeppelin", "http://zeppelin.io/" %></h2>
+		</li>
 
 	</ul>
 </nav>

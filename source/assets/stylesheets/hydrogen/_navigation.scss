@@ -6,71 +6,118 @@ html, body {
 }
 
 //--- mobile only styles ---//
-@media only screen and (max-width: 40em) {
+// @media only screen and (max-width: 40em) {
+//   // #nav-mobile {
+//   //   // padding:1em 0 1.25em 0;
+//   // }
+// }
 
-  #nav-mobile {
-    // padding:1em 0 1.25em 0;
-  }
-
-  #main {
-    header h2 {
-      @include font-size($font-size-medium)
-    }
-    .nav-button span:after {
-      top: 0.45rem;
-    }
-  }
-}
-
-//--- tablet(v) only styles ---//
-@media only screen and (min-width: 40.063em) and (max-width: 48em) {
-  #nav-mobile {
-    padding:1em 0 1.75em 0;
-  }
-}
+// //--- tablet(v) only styles ---//
+// @media only screen and (min-width: 40.063em) and (max-width: 48em) {
+  
+// }
 
 //--- mobile and tablet(v) only styles ---//
 @media only screen and (max-width: 48em) {
 	#nav {
     position: fixed;
-    width: 15em;
+    width: 240px;
     height: 100%;
     top: 0;
     bottom: 0;
     right: 0;
     margin:0;
     ul {
-      padding:0.25em 1.5em 0;
+      padding:11px 24px 0;
     }
     ul li {
-      margin:0;
-      padding: 0;
+      padding-top: 8px;
+      color: $color-primary;
+      &.home {
+        margin-left: 32px;
+        margin-bottom: 36px;
+      }
+      &.credits {
+        margin-top: 32px;
+        margin-left: 36px;
+      }
+      .icon {
+        display:inline-block;
+        margin-top: -0.2em;
+        width:3em;
+        text-align:center;
+        vertical-align: middle;
+        color: $color-secondary;
+        @include font-size($font-size-small);
+      }
     }
-    ul li h4 {
-      @include font-size($font-size-base);
-    }
-    ul li h3 {
-      @include font-size($font-size-medium);
-    }
-    .icon {
-      display:inline-block;
-      padding-right:0.5em;
-      width:2em;
-      text-align:center;
+    a.active {
+      li.arrows {
+        color: $color-arrows;
+        .icon {
+          color: $color-arrows;
+        }
+      }
+      li.currency {
+        color: $color-currency;
+        .icon {
+          color: $color-currency;
+        }
+      }
+      li.letters {
+        color: $color-letters;
+        .icon {
+          color: $color-letters;
+        }
+      }
+      li.math {
+        color: $color-math;
+        .icon {
+          color: $color-math;
+        }
+      }
+      li.numbers {
+        color: $color-numbers;
+        .icon {
+          color: $color-numbers;
+        }
+      }
+      li.punctuation {
+        color: $color-punctuation;
+        .icon {
+          color: $color-punctuation;
+        }
+      }
+      li.symbols {
+        color: $color-symbols;
+        .icon {
+          color: $color-symbols;
+        }
+      }
     }
   }
 
   #nav-mobile {
     position: fixed;
-    z-index: $z4;
+    z-index: $z3;
+    background-color: $body-background;
+    padding:1em 0;
+    h2 {
+      margin-left: 0.25em;
+    }
+  }
+
+  .logo {
+    line-height: 0;
+    @include font-size(27px);
   }
 
   .nav-right {
-    -webkit-transform: translate3d(15em,0,0);
-    -moz-transform: translate3d(15em,0,0);
-    -ms-transform: translate3d(15em,0,0);
-    -o-transform: translate3d(15em,0,0);
-    transform: translate3d(15,0,0);
+    -webkit-transform: translate3d(240px,0,0);
+    -moz-transform: translate3d(240px,0,0);
+    -ms-transform: translate3d(240px,0,0);
+    -o-transform: translate3d(240px,0,0);
+    transform: translate3d(240px,0,0);
   }
 
   .nav-open {
@@ -90,6 +137,24 @@ html, body {
   }
 }
 
+//--- tablet(h) only styles ---//
+@media only screen and (min-width: 48.063em) and (max-width: 64em) {
+  #nav {
+    li.home h2 {
+      @include font-size($font-size-base);
+    }
+  }
+}
+
+//--- desktop only styles ---//
+@media only screen and (min-width: 64.063em) {
+  #nav {
+    li.home {
+      margin-top: -0.2em;
+    }
+  }
+}
+
 //--- tablet(h) and desktop only styles ---//
 @media only screen and (min-width: 48.063em) {
 
@@ -99,8 +164,8 @@ html, body {
     width: 100%;
     display: block;
     color: $body-background;
-    background-color: $body-font-color;
-    z-index: $z4;
+    background-color: $body-background;
+    z-index: $z3;
     ul {
       padding-bottom: 1em;
     }
@@ -109,85 +174,135 @@ html, body {
       color: $color-primary;
       border-top: 0.25em solid $body-font-color;
       @include transition(all .25s ease-in);
+      .logo {
+        line-height: 0;
+        @include font-size($font-size-large);
+      }
+      .icon {
+        display:block;
+        margin-top:-0.125em;
+        color: $color-secondary;
+        @include font-size($font-size-small);
+        &:hover {
+          color: $color-primary;
+        }
+      }
     }
     ul li.arrows {
       &:hover {
         color: $color-arrows;
         border-top: 0.25em solid $color-arrows;
+        .icon {
+          color: $color-arrows;
+        }
       }
     }
     ul li.currency {
       &:hover {
         color: $color-currency;
         border-top: 0.25em solid $color-currency;
+        .icon {
+          color: $color-currency;
+        }
       }
     }
     ul li.letters {
       &:hover {
         color: $color-letters;
         border-top: 0.25em solid $color-letters;
+        .icon {
+          color: $color-letters;
+        }
       }
     }
     ul li.math {
       &:hover {
         color: $color-math;
         border-top: 0.25em solid $color-math;
+        .icon {
+          color: $color-math;
+        }
       }
     }
     ul li.numbers {
       &:hover {
         color: $color-numbers;
         border-top: 0.25em solid $color-numbers;
+        .icon {
+          color: $color-numbers;
+        }
       }
     }
     ul li.punctuation {
       &:hover {
         color: $color-punctuation;
         border-top: 0.25em solid $color-punctuation;
+        .icon {
+          color: $color-punctuation;
+        }
       }
     }
     ul li.symbols {
       &:hover {
         color: $color-symbols;
         border-top: 0.25em solid $color-symbols;
+        .icon {
+          color: $color-symbols;
+        }
       }
     }
     a.active {
       li.arrows {
         color: $color-arrows;
         border-top: 0.25em solid $color-arrows;
+        .icon {
+          color: $color-arrows;
+        }
       }
       li.currency {
         color: $color-currency;
         border-top: 0.25em solid $color-currency;
+        .icon {
+          color: $color-currency;
+        }
       }
       li.letters {
         color: $color-letters;
         border-top: 0.25em solid $color-letters;
+        .icon {
+          color: $color-letters;
+        }
       }
       li.math {
         color: $color-math;
         border-top: 0.25em solid $color-math;
+        .icon {
+          color: $color-math;
+        }
       }
       li.numbers {
         color: $color-numbers;
         border-top: 0.25em solid $color-numbers;
+        .icon {
+          color: $color-numbers;
+        }
       }
       li.punctuation {
         color: $color-punctuation;
         border-top: 0.25em solid $color-punctuation;
+        .icon {
+          color: $color-punctuation;
+        }
       }
       li.symbols {
         color: $color-symbols;
         border-top: 0.25em solid $color-symbols;
+        .icon {
+          color: $color-symbols;
+        }
       }
     }
   }
-}
-
-//--- desktop only styles ---//
-@media only screen and (min-width: 64.063em) {
-
 }
 
 //--- global nav ---//
@@ -196,12 +311,12 @@ html, body {
 .nav-button {
   position: absolute;
 	display: block;
-  top: 0;
-  right: 0;
+  top: -0.5em;
+  right: 0.5em;
   width: 3em;
   height: 3em;
   -webkit-transform: translate3d(0,0,0);
-  z-index: $z4;
+  z-index: $z3;
 }
 
 .nav-button span:after {
@@ -209,11 +324,11 @@ html, body {
 	position: absolute;
 	display: block;
 	height: 0;
-	top: 0.8em;
-	left: 1rem;
-	box-shadow: 0 0 0 0.0625rem $body-font-color, 0 0.45rem 0 0.0625rem $body-font-color, 0 0.9rem 0 0.0625rem $body-font-color;
-	width: 1rem;
-  z-index: $z4;
+	top: 1em;
+	left: 1em;
+	box-shadow: 0 0 0 0.0625rem $color-primary, 0 0.45rem 0 0.0625rem $color-primary, 0 0.9rem 0 0.0625rem $color-primary;
+	width: 1em;
+  z-index: $z3;
 }
 
 // transitions
@@ -241,8 +356,8 @@ html, body {
   right: 0;
   bottom: 0;
   left: 0;
-  z-index: 9999;
-  background-color: rgba(158, 171, 175, 0.5);
+  z-index: $z4;
+  background-color: rgba(136, 136, 136, 0.5);
   @include animation(fade 0.5s);
 }
 
