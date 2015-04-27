@@ -25,7 +25,7 @@ html, body {
     height: 100%;
     top: 0;
     bottom: 0;
-    // right: 0;
+    right: 0;
     margin:0;
     ul {
       padding:11px 24px 0;
@@ -113,11 +113,11 @@ html, body {
   }
 
   .nav-right {
-    -webkit-transform: translate3d(-240px,0,0);
-    -moz-transform: translate3d(-240px,0,0);
-    -ms-transform: translate3d(-240px,0,0);
-    -o-transform: translate3d(-240px,0,0);
-    transform: translate3d(-240px,0,0);
+    -webkit-transform: translate3d(240px,0,0);
+    -moz-transform: translate3d(240px,0,0);
+    -ms-transform: translate3d(240px,0,0);
+    -o-transform: translate3d(240px,0,0);
+    transform: translate3d(240px,0,0);
   }
 
   .nav-open {
@@ -129,11 +129,11 @@ html, body {
   }
 
   .main-inactive {
-    -webkit-transform: translate3d(240px,0,0);
-    -moz-transform: translate3d(240px,0,0);
-    -ms-transform: translate3d(240px,0,0);
-    -o-transform: translate3d(240px,0,0);
-    transform: translate3d(240px,0,0);
+    -webkit-transform: translate3d(-240px,0,0);
+    -moz-transform: translate3d(-240px,0,0);
+    -ms-transform: translate3d(-240px,0,0);
+    -o-transform: translate3d(-240px,0,0);
+    transform: translate3d(-240px,0,0);
   }
 }
 
