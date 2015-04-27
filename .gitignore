@@ -9,6 +9,7 @@
 
 # Ignore the build directory
 /build
+/gzip
 
 # Ignore cache
 /.sass-cache
