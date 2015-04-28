@@ -11,9 +11,19 @@
 		</div>
 
 		<div class="codes">
-			<code class="selectable" title="Unicode" property="sampleType"><%= entity.unicode %></code>
-			<code class="selectable" title="Hex Code" property="sampleType">&amp;<%= entity.hex_code %></code>
-			<code class="selectable" title="HTML Code" property="sampleType">&amp;<%= entity.html_code %></code>
+			<code class="selectable unicode" title="Unicode" property="sampleType"><%= entity.unicode %></code>
+			<code class="selectable hex-code" title="Hex Code" property="sampleType">&amp;<%= entity.hex_code %></code>
+			<code class="selectable html-code" title="HTML Code" property="sampleType">&amp;<%= entity.html_code %></code>
+			<% if entity.html4_entity.blank? %>
+				<code class="selectable html4-entity" title="HTML Code" property="sampleType">&nbsp;</code>
+			<% else %>
+				<code class="selectable html4-entity" title="HTML Code" property="sampleType">&amp;<%= entity.html4_entity %></code>
+			<% end %>
+			<% if entity.html5_entity.blank? %>
+				<code class="selectable html5-entity" title="HTML Code" property="sampleType">&nbsp;</code>
+			<% else %>
+				<code class="selectable html5-entity" title="HTML Code" property="sampleType">&amp;<%= entity.html5_entity %></code>
+			<% end %>
 		</div>
 	</div>
 <% else %>
@@ -29,9 +39,19 @@
 		</div>
 
 		<div class="codes">
-			<code class="selectable" title="Unicode" property="sampleType"><%= entity.unicode %></code>
-			<code class="selectable" title="Hex Code" property="sampleType">&amp;<%= entity.hex_code %></code>
-			<code class="selectable" title="HTML Code" property="sampleType">&amp;<%= entity.html_code %></code>
+			<code class="selectable unicode" title="Unicode" property="sampleType"><%= entity.unicode %></code>
+			<code class="selectable hex-code" title="Hex Code" property="sampleType">&amp;<%= entity.hex_code %></code>
+			<code class="selectable html-code" title="HTML Code" property="sampleType">&amp;<%= entity.html_code %></code>
+			<% if entity.html4_entity.blank? %>
+				<code class="selectable html4-entity" title="HTML Code" property="sampleType">&nbsp;</code>
+			<% else %>
+				<code class="selectable html4-entity" title="HTML Code" property="sampleType">&amp;<%= entity.html4_entity %></code>
+			<% end %>
+			<% if entity.html5_entity.blank? %>
+				<code class="selectable html5-entity" title="HTML Code" property="sampleType">&nbsp;</code>
+			<% else %>
+				<code class="selectable html5-entity" title="HTML Code" property="sampleType">&amp;<%= entity.html5_entity %></code>
+			<% end %>
 		</div>
 	</div>
 <% end %>

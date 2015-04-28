@@ -27,14 +27,8 @@ priority: 1.0
 </section>
 
 <%# Page Footer %>
-<% content_for :footer do %>
-	<section class="row breadcrumbs">
-		<div class="col-xs-24" xmlns:v="http://rdf.data-vocabulary.org/#">
-			<h6>
-			  <span typeof="v:Breadcrumb">
-			  	<%= link_to "Home", "/", rel: "v:url", property: "v:title" %>
-			  </span>
-			 </h6>
-		</div>
-	</section>
+<% content_for :breadcrumbs do %>
+  <span typeof="v:Breadcrumb">
+  	<%= link_to "Home", "/", rel: "v:url", property: "v:title" %>
+  </span>
 <% end %>

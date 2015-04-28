@@ -1,0 +1,188 @@
+// index table pages
+section.table {
+	margin-top: 8.375em;
+
+	// custom headers
+	div.theader {
+		padding-bottom: 0.75em;
+		div.name,
+		div.symbol,
+		code {
+			font-weight: 400;
+			line-height: 2;
+
+			letter-spacing: 0.075em;
+			text-transform: uppercase;
+			@include font-size($font-size-micro);
+		}
+		div.name {
+			
+		}
+	}
+
+	div.entity {
+		width: 100%;
+		padding: 0.5em 0 0.425em 0;
+		// border-bottom: 1px solid;
+		// border-color: lighten($color-numbers, 15%);
+	}
+
+	div.name {
+		width: 25%;
+		float:left;
+		padding:6px 16px;
+		font-weight: 400;
+		line-height: 2;
+		letter-spacing: 0.075em;
+		text-transform: uppercase;
+		@include font-size($font-size-small);
+	}
+
+	div.symbol {
+		float:left;
+		width: 12.5%;
+		padding: 0 16px;
+		font-weight: 700;
+		@include font-size(27px);
+	}
+
+	div.codes {
+		float:left;
+		width: 62.5%;
+	}
+
+	code {
+		float:left;
+		font-family: $font-family-primary;
+		font-weight: 400;
+		line-height: 2;
+		letter-spacing: 0.075em;
+		color: $body-font-color;
+		@include font-size(14px);
+		width: 20%;
+		padding: 0 16px;
+	}
+}
+
+// index table alternating row colors
+section.table {
+	&.home > div:nth-child(even) {
+		background-color: lighten($color-arrows, 5%);
+	}
+	&.arrows > div:nth-child(even) {
+		background-color: lighten($color-arrows, 5%);
+	}
+	&.currency > div:nth-child(even) {
+		background-color: lighten($color-currency, 5%);
+	}
+	&.letters > div:nth-child(even) {
+		background-color: lighten($color-letters, 5%);
+	}
+	&.math > div:nth-child(even) {
+		background-color: lighten($color-math, 5%);
+	}
+	&.numbers > div:nth-child(even) {
+		background-color: lighten($color-numbers, 5%);
+	}
+	&.punctuation > div:nth-child(even) {
+		background-color: lighten($color-punctuation, 5%);
+	}
+	&.symbols > div:nth-child(even) {
+		background-color: lighten($color-symbols, 5%);
+	}
+}
+
+//--- mobile only styles ---//
+@media screen and (max-width: 40em) {
+	section.table {
+		div.name {
+			display: none;
+		}
+		div.symbol {
+			width: 30%;
+			text-align: center;
+		}
+		div.codes {
+			width: 70%;
+			code {
+				width: 50%;
+			}
+			code.unicode,
+			code.html4-entity,
+			code.html5-entity {
+				display: none;
+			}
+		}
+	}
+}
+
+
+//--- tablet(v) only styles ---//
+@media screen and (min-width: 40.063em) and (max-width: 48em) {
+	section.table {
+		div.name {
+			display: none;
+		}
+		div.symbol {
+			width: 16.667%;
+		}
+		div.codes {
+			width: 83.333%;
+		}
+	}
+}
+
+
+//--- tablet(h) and desktop only styles ---//
+@media screen and (min-width: 48.063em) {
+	section.table {
+		&.home > div {
+			@include transition(all 0.25s ease-in);
+			&:hover {
+				background-color: lighten($color-arrows, 15%);
+			}
+		}
+		&.arrows > div {
+			@include transition(all 0.25s ease-in);
+			&:hover {
+				background-color: lighten($color-arrows, 15%);
+			}
+		}
+		&.currency > div {
+			@include transition(all 0.25s ease-in);
+			&:hover {
+				background-color: lighten($color-currency, 15%);
+			}
+		}
+		&.letters > div {
+			@include transition(all 0.25s ease-in);
+			&:hover {
+				background-color: lighten($color-letters, 15%);
+			}
+		}
+		&.math > div {
+			@include transition(all 0.25s ease-in);
+			&:hover {
+				background-color: lighten($color-math, 15%);
+			}
+		}
+		&.numbers > div {
+			@include transition(all 0.25s ease-in);
+			&:hover {
+				background-color: lighten($color-numbers, 15%);
+			}
+		}
+		&.punctuation > div {
+			@include transition(all 0.25s ease-in);
+			&:hover {
+				background-color: lighten($color-punctuation, 15%);
+			}
+		}
+		&.symbols > div {
+			@include transition(all 0.25s ease-in);
+			&:hover {
+				background-color: lighten($color-symbols, 15%);
+			}
+		}
+	}
+}

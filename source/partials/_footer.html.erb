@@ -1,5 +1,27 @@
 <footer id="footer">
-	<%= yield_content :footer %>
+	<section class="row">
+		<div class="col-xs-24 col-sm-8 col-md-4 col-lg-3 credit">
+			<h5>DESIGNED BY</h5>
+			<h2><%= link_to "Zeppelin", "http://zeppelin.io/" %></h2>
+		</div>
+
+
+		<div class="col-xs-24 col-sm-8 col-md-4 col-lg-3 social">
+			<h5>SHARE THE &amp;love;</h5>
+			<% link_to "http://www.facebook.com/sharer/sharer.php?u=http://htmlarrows.com#{current_page.url}" do %>
+				<%= image_tag("twitter-button.svg") %>
+			<% end %>
+			<%= image_tag("facebook-button.svg") %>
+			<%= image_tag("google-button.svg") %>
+		</div>
+
+		<div class="col-xs-24 col-sm-12 breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
+			<h5>SITEMAP</h5>
+			<h6>
+				<%= yield_content :breadcrumbs %>
+			</h6>
+		</div>		
+	</section>
 	
 	<section class="row">
 

@@ -2,6 +2,9 @@
 
 @import "normalize";
 @import "hydrogen";
+@import "index";
+@import "table";
+@import "entity";
 
 // main content
 article {
@@ -12,174 +15,21 @@ article {
 		color: $color-primary;
 		background-color: $body-background;
 	}
-}
-
-// section#social {
-// 	position: fixed;
-// 	width: 100%;
-// 	height: 48px;
-// 	bottom: 0;
-// 	margin-bottom: 0;
-// 	.social {
-// 		background-color: $body-background;
-// 		height: 48px;
-// 	}
-// }
-
-// index pages
-section.index {
-	margin-top: 4.5em;
-	div.entity {
-		margin-top: 4.5em;
-	}
-
-	div.name {
-		height: 4em;
-		max-height: 4em;
-		overflow-y: hidden;
-	}
-
-	div.symbol {
-		display: block;
-		text-align: center;
-		height:148px;
-		max-height:148px;
-		margin-bottom: 0.125em;
-		font-weight: 700;
-		@include font-size($font-size-huge);
-	}
-
-	div.codes {
-		padding: 0.5em 0;
-		border-top:1px solid $body-font-color;
-		border-bottom:1px solid $body-font-color;
-	}
-
-	code {
-		font-family: $font-family-primary;
-		font-weight: 700;
-		letter-spacing: 0.025em;
-		color: $body-font-color;
-		@include font-size($font-size-medium);
-		display: block;
-		margin: 0.5em 0;
-	}
-}
-
-// symbol hover states
-@media screen and (min-width: 48.063em) {
-	section.index {
-		&.arrows div.symbol {
-			&:hover {
-				color: lighten($color-arrows, 15%);
-			}
-		}
-		&.currency div.symbol {
-			&:hover {
-				color: lighten($color-currency, 15%);
-			}
-		}
-		&.letters div.symbol {
-			&:hover {
-				color: lighten($color-letters, 15%);
-			}
-		}
-		&.math div.symbol {
-			&:hover {
-				color: lighten($color-math, 15%);
-			}
-		}
-		&.numbers div.symbol {
-			&:hover {
-				color: lighten($color-numbers, 15%);
-			}
-		}
-		&.punctuation div.symbol {
-			&:hover {
-				color: lighten($color-punctuation, 15%);
-			}
-		}
-		&.symbols div.symbol {
-			&:hover {
-				color: lighten($color-symbols, 15%);
-			}
-		}
-	}
-}
-
-// template pages
-section.template {
-	margin-top: 9em;
-	
-	#symbol {
-		font-weight: 700;
-		text-align: center;
-		line-height: 1;
-		@include font-size($font-size-mega);
-	}
-
-	div.symbol {
-		&.small {
-			margin: 24px 0;
-			font-weight: 700;
-			@include font-size($font-size-huge);
-		}
-		&.large {
-			// display: block;
-			// text-align: center;
-			font-weight: 700;
-			// line-height: 1;
-			// @include font-size($font-size-mega);
-		}
-		&.width {
-			// display: block;
-			// text-align: center;
-			font-weight: 700;
-			// line-height: 1;
-			// @include font-size(400px);
-		}
-		&.height {
-			// display: block;
-			// text-align: center;
-			font-weight: 700;
-			// line-height: 1;
-			// @include font-size($font-size-mega);
-		}
-	}
-
-	h4.type {
-		display: inline-block;
-		width: 10em;
-	}
-
-	div.codes {
-		padding: 1.5em 0;
-		border-top:1px solid $body-font-color;
-	}
-
-	code {
-		font-family: $font-family-primary;
-		font-weight: 700;
-		letter-spacing: 0.025em;
-		color: $body-font-color;
-		@include font-size($font-size-large);
-		display: inline-block;
-		margin:0 0 0.75em;
-	}
-}
-
-// small symbol on mobile
-@media screen and (max-width: 40em) {
-	section.template {
-		div.symbol {
-			&.small {
-				margin: 24px 0;
-				text-align: center;
-				font-weight: 700;
-				@include font-size(200px);
-			}
-		}
-	}
+  .credit {
+    h5 {
+      margin-bottom: 0.25em;
+    }
+  }
+  .social,
+  .breadcrumbs {
+    h5 {
+      margin-bottom: 0.5em;
+    }
+    img {
+      margin-top: 0.25em;
+      margin-right: 0.5em;
+    }
+  }
 }
 
 // animations

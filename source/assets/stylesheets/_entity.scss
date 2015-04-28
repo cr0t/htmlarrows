@@ -1,0 +1,56 @@
+// template pages
+section.template {
+	margin-top: 9em;
+	
+	#symbol {
+		font-weight: 700;
+		text-align: center;
+		line-height: 1;
+		@include font-size($font-size-mega);
+	}
+
+	div.symbol {
+		&.small {
+			margin: 24px 0;
+			font-weight: 700;
+			@include font-size($font-size-huge);
+		}
+		&.large {
+			font-weight: 700;
+		}
+	}
+
+	h4.type {
+		display: inline-block;
+		width: 10em;
+	}
+
+	div.codes {
+		padding: 1.5em 0;
+		border-top:1px solid $body-font-color;
+	}
+
+	code {
+		font-family: $font-family-primary;
+		font-weight: 700;
+		letter-spacing: 0.025em;
+		color: $body-font-color;
+		@include font-size($font-size-large);
+		display: inline-block;
+		margin:0 0 0.75em;
+	}
+}
+
+// small symbol on mobile
+@media screen and (max-width: 40em) {
+	section.template {
+		div.symbol {
+			&.small {
+				margin: 24px 0;
+				text-align: center;
+				font-weight: 700;
+				@include font-size(200px);
+			}
+		}
+	}
+}

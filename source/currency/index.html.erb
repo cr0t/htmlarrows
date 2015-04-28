@@ -18,7 +18,9 @@ priority: 1.0
 <% end %>
 
 <%# Page Content %>
-<section class="row index currency">
+<section class="row table currency">
+
+	<%= partial("partials/table") %>
 
 	<% data.currency.entities.each do |entity| %>
 		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
@@ -27,17 +29,11 @@ priority: 1.0
 </section>
 
 <%# Page Footer %>
-<% content_for :footer do %>
-	<section class="row breadcrumbs">
-		<div class="col-xs-24" xmlns:v="http://rdf.data-vocabulary.org/#">
-			<h6>
-			  <span typeof="v:Breadcrumb">
-			  	<%= link_to "Home", "/", rel: "v:url", property: "v:title" %> &#8594;
-			    <span rel="v:child" typeof="v:Breadcrumb">
-			      <%= link_to "Currency", "/currency/", rel: "v:url", property: "v:title" %>
-			    </span>
-			  </span>
-			 </h6>
-		</div>
-	</section>
+<% content_for :breadcrumbs do %>
+  <span typeof="v:Breadcrumb">
+  	<%= link_to "Home", "/", rel: "v:url", property: "v:title" %> &#8250;
+    <span rel="v:child" typeof="v:Breadcrumb">
+      <%= link_to "Currency", "/currency/", rel: "v:url", property: "v:title" %>
+    </span>
+  </span>
 <% end %>

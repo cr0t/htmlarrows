@@ -261,7 +261,7 @@
 		  "unicode" : "U+020AC",
 		  "hex_code" : "#x20AC;",
 		  "html_code" : "#8364;",
-		  "html4_entity" : "euro;;",
+		  "html4_entity" : "euro;",
 		  "html5_entity" : "",
 			"oversize" : "false",
 		  "tags" : [
@@ -773,6 +773,7 @@
 		  "html_code" : "#65509;",
 		  "html4_entity" : "",
 		  "html5_entity" : "",
+			"oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "currency"

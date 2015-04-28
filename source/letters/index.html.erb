@@ -20,6 +20,8 @@ priority: 1.0
 <%# Page Content %>
 <section class="row index letters">
 
+	<%= partial("partials/table") %>
+
 	<% data.letters.entities.each do |entity| %>
 		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
 	<% end %>
@@ -27,17 +29,11 @@ priority: 1.0
 </section>
 
 <%# Page Footer %>
-<% content_for :footer do %>
-	<section class="row breadcrumbs">
-		<div class="col-xs-24" xmlns:v="http://rdf.data-vocabulary.org/#">
-			<h6>
-			  <span typeof="v:Breadcrumb">
-			  	<%= link_to "Home", "/", rel: "v:url", property: "v:title" %> &#8594;
-			    <span rel="v:child" typeof="v:Breadcrumb">
-			      <%= link_to "Letters", "/letters/", rel: "v:url", property: "v:title" %>
-			    </span>
-			  </span>
-			 </h6>
-		</div>
-	</section>
+<% content_for :breadcrumbs do %>
+  <span typeof="v:Breadcrumb">
+  	<%= link_to "Home", "/", rel: "v:url", property: "v:title" %> &#8250;
+    <span rel="v:child" typeof="v:Breadcrumb">
+      <%= link_to "Letters", "/letters/", rel: "v:url", property: "v:title" %>
+    </span>
+  </span>
 <% end %>
