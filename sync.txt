@@ -1,476 +1,1261 @@
       create  build/assets/stylesheets/all-0e537fc0.css
       create  build/assets/stylesheets/hydrogen-18094b14.css
-   identical  build/assets/stylesheets/normalize-7efa2312.css
-   identical  build/assets/images/facebook-button-f6569517.svg
-   identical  build/assets/images/twitter-button-628c9b8a.svg
-   identical  build/assets/images/zeppelin-logo-ed855c5a.svg
-      create  build/assets/javascripts/fontsizer-0.0.1-61b7707f.js
-   identical  build/assets/javascripts/jquery-1.11.2.min-6d2507ac.js
+      create  build/assets/stylesheets/normalize-7efa2312.css
+      create  build/assets/images/facebook-button-f6569517.svg
+      create  build/assets/images/twitter-button-628c9b8a.svg
+      create  build/assets/images/zeppelin-logo-ed855c5a.svg
+      create  build/assets/javascripts/head-da39a3ee.js
+      create  build/assets/javascripts/jquery-1.11.2.min-6d2507ac.js
       create  build/assets/javascripts/hydrogen-0.0.1-cce3b673.js
-   identical  build/assets/javascripts/headroom-0.7.0.min-fadd0d12.js
-   identical  build/assets/javascripts/head-da39a3ee.js
+      create  build/assets/javascripts/headroom-0.7.0.min-fadd0d12.js
       create  build/assets/javascripts/jquery-bigtext-1.3.0-b82e3dbb.js
       create  build/assets/javascripts/fontscale-a57fb809.js
-   identical  build/assets/javascripts/fastclick-1.0.6.min-2973f0ad.js
-   identical  build/assets/javascripts/classie-60d57e07.js
+      create  build/assets/javascripts/fastclick-1.0.6.min-2973f0ad.js
+      create  build/assets/javascripts/classie-60d57e07.js
       create  build/assets/javascripts/body-dfa32a34.js
-      update  build/math/element-of-with-long-horizontal-stroke/index.html
-      update  build/currency/index.html
-      update  build/index.html
-      update  build/letters/index.html
-      update  build/math/index.html
-      update  build/numbers/index.html
-      update  build/punctuation/index.html
+      create  build/math/element-of-with-vertical-bar-at-end-of-horizontal-stroke/index.html
+      create  build/currency/index.html
+      create  build/index.html
+      create  build/letters/index.html
+      create  build/math/index.html
+      create  build/numbers/index.html
+      create  build/punctuation/index.html
        error  build/punctuation/template/index.html
-      update  build/sitemap.xml
-      update  build/symbols/index.html
+      create  build/sitemap.xml
+      create  build/symbols/index.html
        error  build/symbols/template/index.html
-      update  build/arrows/leftwards-arrow/index.html
-      update  build/arrows/upwards-arrow/index.html
-      update  build/arrows/rightwards-arrow/index.html
-      update  build/arrows/downwards-arrow/index.html
-      update  build/arrows/left-right-arrow/index.html
-      update  build/arrows/up-down-arrow/index.html
-      update  build/arrows/north-west-arrow/index.html
-      update  build/arrows/north-east-arrow/index.html
-      update  build/arrows/south-east-arrow/index.html
-      update  build/arrows/south-west-arrow/index.html
-      update  build/arrows/leftwards-arrow-with-stroke/index.html
-      update  build/arrows/rightwards-arrow-with-stroke/index.html
-      update  build/arrows/leftwards-wave-arrow/index.html
-      update  build/arrows/rightwards-wave-arrow/index.html
-      update  build/arrows/leftwards-two-headed-arrow/index.html
-      update  build/arrows/upwards-two-headed-arrow/index.html
-      update  build/arrows/rightwards-two-headed-arrow/index.html
-      update  build/arrows/downwards-two-headed-arrow/index.html
-      update  build/arrows/leftwards-arrow-with-tail/index.html
-      update  build/arrows/rightwards-arrow-with-tail/index.html
-      update  build/arrows/leftwards-arrow-from-bar/index.html
-      update  build/arrows/upwards-arrow-from-bar/index.html
-      update  build/arrows/rightwards-arrow-from-bar/index.html
-      update  build/arrows/downwards-arrow-from-bar/index.html
-      update  build/arrows/up-down-arrow-with-base/index.html
-      update  build/arrows/leftwards-arrow-with-hook/index.html
-      update  build/arrows/rightwards-arrow-with-hook/index.html
-      update  build/arrows/leftwards-arrow-with-loop/index.html
-      update  build/arrows/rightwards-arrow-with-loop/index.html
-      update  build/arrows/left-right-wave-arrow/index.html
-      update  build/arrows/left-right-arrow-with-stroke/index.html
-      update  build/arrows/downwards-zigzag-arrow/index.html
-      update  build/arrows/upwards-arrow-with-tip-leftwards/index.html
-      update  build/arrows/upwards-arrow-with-tip-rightwards/index.html
-      update  build/arrows/downwards-arrow-with-tip-leftwards/index.html
-      update  build/arrows/downwards-arrow-with-tip-rightwards/index.html
-      update  build/arrows/rightwards-arrow-with-corner-downwards/index.html
-      update  build/arrows/downwards-arrow-with-corner-leftwards/index.html
-      update  build/arrows/anticlockwise-top-semicircle-arrow/index.html
-      update  build/arrows/clockwise-top-semicircle-arrow/index.html
-      update  build/arrows/north-west-arrow-to-long-bar/index.html
-      update  build/arrows/leftwards-arrow-to-bar-over-rightwards-arrow-to-bar/index.html
-      update  build/arrows/anticlockwise-open-circle-arrow/index.html
-      update  build/arrows/clockwise-open-circle-arrow/index.html
-      update  build/arrows/leftwards-harpoon-with-barb-upwards/index.html
-      update  build/arrows/leftwards-harpoon-with-barb-downwards/index.html
-      update  build/arrows/upwards-harpoon-with-barb-rightwards/index.html
-      update  build/arrows/upwards-harpoon-with-barb-leftwards/index.html
-      update  build/arrows/rightwards-harpoon-with-barb-upwards/index.html
-      update  build/arrows/rightwards-harpoon-with-barb-downwards/index.html
-      update  build/arrows/downwards-harpoon-with-barb-rightwards/index.html
-      update  build/arrows/downwards-harpoon-with-barb-leftwards/index.html
-      update  build/arrows/rightwards-arrow-over-leftwards-arrow/index.html
-      update  build/arrows/upwards-arrow-leftwards-of-downwards-arrow/index.html
-      update  build/arrows/leftwards-arrow-over-rightwards-arrow/index.html
-      update  build/arrows/leftwards-paired-arrows/index.html
-      update  build/arrows/upwards-paired-arrows/index.html
-      update  build/arrows/rightwards-paired-arrows/index.html
-      update  build/arrows/downwards-paired-arrows/index.html
-      update  build/arrows/leftwards-harpoon-over-rightwards-harpoon/index.html
-      update  build/arrows/rightwards-harpoon-over-leftwards-harpoon/index.html
-      update  build/arrows/leftwards-double-arrow-with-stroke/index.html
-      update  build/arrows/left-right-double-arrow-with-stroke/index.html
-      update  build/arrows/rightwards-double-arrow-with-stroke/index.html
-      update  build/arrows/leftwards-double-arrow/index.html
-      update  build/arrows/upwards-double-arrow/index.html
-      update  build/arrows/rightwards-double-arrow/index.html
-      update  build/arrows/downwards-double-arrow/index.html
-      update  build/arrows/left-right-double-arrow/index.html
-      update  build/arrows/up-down-double-arrow/index.html
-      update  build/arrows/north-west-double-arrow/index.html
-      update  build/arrows/north-east-double-arrow/index.html
-      update  build/arrows/south-east-double-arrow/index.html
-      update  build/arrows/south-west-double-arrow/index.html
-      update  build/arrows/leftwards-triple-arrow/index.html
-      update  build/arrows/rightwards-triple-arrow/index.html
-      update  build/arrows/leftwards-squiggle-arrow/index.html
-      update  build/arrows/rightwards-squiggle-arrow/index.html
-      update  build/arrows/upwards-arrow-with-double-stroke/index.html
-      update  build/arrows/downwards-arrow-with-double-stroke/index.html
-      update  build/arrows/leftwards-dashed-arrow/index.html
-      update  build/arrows/upwards-dashed-arrow/index.html
-      update  build/arrows/rightwards-dashed-arrow/index.html
-      update  build/arrows/downwards-dashed-arrow/index.html
-      update  build/arrows/leftwards-arrow-to-bar/index.html
-      update  build/arrows/rightwards-arrow-to-bar/index.html
-      update  build/arrows/leftwards-white-arrow/index.html
-      update  build/arrows/upwards-white-arrow/index.html
-      update  build/arrows/rightwards-white-arrow/index.html
-      update  build/arrows/downwards-white-arrow/index.html
-      update  build/arrows/upwards-white-arrow-from-bar/index.html
-      update  build/arrows/upwards-white-arrow-on-pedestal/index.html
-      update  build/arrows/upwards-white-arrow-on-pedestal-with-horizontal-bar/index.html
-      update  build/arrows/upwards-white-arrow-on-pedestal-with-vertical-bar/index.html
-      update  build/arrows/upwards-white-double-arrow/index.html
-      update  build/arrows/upwards-white-double-arrow-on-pedestal/index.html
-      update  build/arrows/rightwards-white-arrow-from-wall/index.html
-      update  build/arrows/north-west-arrow-to-corner/index.html
-      update  build/arrows/south-east-arrow-to-corner/index.html
-      update  build/arrows/up-down-white-arrow/index.html
-      update  build/arrows/right-arrow-with-small-circle/index.html
-      update  build/arrows/downwards-arrow-leftwards-of-upwards-arrow/index.html
-      update  build/arrows/three-rightwards-arrows/index.html
-      update  build/arrows/leftwards-arrow-with-vertical-stroke/index.html
-      update  build/arrows/rightwards-arrow-with-vertical-stroke/index.html
-      update  build/arrows/left-right-arrow-with-vertical-stroke/index.html
-      update  build/arrows/leftwards-arrow-with-double-vertical-stroke/index.html
-      update  build/arrows/rightwards-arrow-with-double-vertical-stroke/index.html
-      update  build/arrows/left-right-arrow-with-double-vertical-stroke/index.html
-      update  build/arrows/leftwards-open-headed-arrow/index.html
-      update  build/arrows/rightwards-open-headed-arrow/index.html
-      update  build/arrows/left-right-open-headed-arrow/index.html
-      update  build/currency/dollar-sign/index.html
-      update  build/currency/cent-sign/index.html
-      update  build/currency/pound-sign/index.html
-      update  build/currency/currency-sign/index.html
-      update  build/currency/yen-sign/index.html
-      update  build/currency/euro-currency-sign/index.html
-      update  build/currency/colon-sign/index.html
-      update  build/currency/cruzeiro-sign/index.html
-      update  build/currency/french-franc-sign/index.html
-      update  build/currency/lira-sign/index.html
-      update  build/currency/mill-sign/index.html
-      update  build/currency/naira-sign/index.html
-      update  build/currency/peseta-sign/index.html
-      update  build/currency/rupee-sign/index.html
-      update  build/currency/won-sign/index.html
-      update  build/currency/new-sheqel-sign/index.html
-      update  build/currency/dong-sign/index.html
-      update  build/currency/euro-sign/index.html
-      update  build/currency/kip-sign/index.html
-      update  build/currency/tugrik-sign/index.html
-      update  build/currency/drachma-sign/index.html
-      update  build/currency/german-penny-symbol/index.html
-      update  build/currency/peso-sign/index.html
-      update  build/currency/guarani-sign/index.html
-      update  build/currency/austral-sign/index.html
-      update  build/currency/hryvnia-sign/index.html
-      update  build/currency/cedi-sign/index.html
-      update  build/currency/livre-tournois-sign/index.html
-      update  build/currency/tenge-sign/index.html
-      update  build/currency/indian-rupee-sign/index.html
-      update  build/currency/turkish-lira-sign/index.html
-      update  build/currency/manat-sign/index.html
-      update  build/currency/ruble-sign/index.html
-      update  build/currency/bengali-rupee-mark/index.html
-      update  build/currency/bengali-rupee-sign/index.html
-      update  build/currency/gujarati-rupee-sign/index.html
-      update  build/currency/tamil-rupee-sign/index.html
-      update  build/currency/thai-currency-symbol-baht/index.html
-      update  build/currency/khmer-currency-symbol-riel/index.html
-      update  build/currency/square-yuan/index.html
-      update  build/currency/yuan-character-in-china/index.html
-      update  build/currency/yen-character/index.html
-      update  build/currency/yen-yuan-character-variant-one/index.html
-      update  build/currency/yen-yuan-character-variant-two/index.html
-      update  build/currency/yuan-character-in-hong-kong-and-taiwan/index.html
-      update  build/currency/yen-yuan-character-variant-three/index.html
-      update  build/currency/won-character/index.html
-      update  build/currency/rial-sign/index.html
-      update  build/currency/fullwidth-dollar-sign/index.html
-      update  build/currency/fullwidth-cent-sign/index.html
-      update  build/currency/fullwidth-pound-sign/index.html
-      update  build/currency/fullwidth-yen-sign/index.html
-      update  build/currency/fullwidth-won-sign/index.html
-      update  build/letters/uppercase-a/index.html
-      update  build/letters/uppercase-b/index.html
-      update  build/letters/uppercase-c/index.html
-      update  build/letters/uppercase-d/index.html
-      update  build/letters/uppercase-e/index.html
-      update  build/letters/uppercase-f/index.html
-      update  build/letters/uppercase-g/index.html
-      update  build/letters/uppercase-h/index.html
-      update  build/letters/uppercase-i/index.html
-      update  build/letters/uppercase-j/index.html
-      update  build/letters/uppercase-k/index.html
-      update  build/letters/uppercase-l/index.html
-      update  build/letters/uppercase-m/index.html
-      update  build/letters/uppercase-n/index.html
-      update  build/letters/uppercase-o/index.html
-      update  build/letters/uppercase-p/index.html
-      update  build/letters/uppercase-q/index.html
-      update  build/letters/uppercase-r/index.html
-      update  build/letters/uppercase-s/index.html
-      update  build/letters/uppercase-t/index.html
-      update  build/letters/uppercase-u/index.html
-      update  build/letters/uppercase-v/index.html
-      update  build/letters/uppercase-w/index.html
-      update  build/letters/uppercase-x/index.html
-      update  build/letters/uppercase-y/index.html
-      update  build/letters/uppercase-z/index.html
-      update  build/letters/lowercase-a/index.html
-      update  build/letters/lowercase-b/index.html
-      update  build/letters/lowercase-c/index.html
-      update  build/letters/lowercase-d/index.html
-      update  build/letters/lowercase-e/index.html
-      update  build/letters/lowercase-f/index.html
-      update  build/letters/lowercase-g/index.html
-      update  build/letters/lowercase-h/index.html
-      update  build/letters/lowercase-i/index.html
-      update  build/letters/lowercase-j/index.html
-      update  build/letters/lowercase-k/index.html
-      update  build/letters/lowercase-l/index.html
-      update  build/letters/lowercase-m/index.html
-      update  build/letters/lowercase-n/index.html
-      update  build/letters/lowercase-o/index.html
-      update  build/letters/lowercase-p/index.html
-      update  build/letters/lowercase-q/index.html
-      update  build/letters/lowercase-r/index.html
-      update  build/letters/lowercase-s/index.html
-      update  build/letters/lowercase-t/index.html
-      update  build/letters/lowercase-u/index.html
-      update  build/letters/lowercase-v/index.html
-      update  build/letters/lowercase-w/index.html
-      update  build/letters/lowercase-x/index.html
-      update  build/letters/lowercase-y/index.html
-      update  build/letters/lowercase-z/index.html
-      update  build/letters/uppercase-a-with-grave/index.html
-      update  build/letters/uppercase-a-with-acute/index.html
-      update  build/letters/uppercase-a-with-circumflex/index.html
-      update  build/letters/uppercase-a-with-tilde/index.html
-      update  build/letters/uppercase-a-with-umlaut/index.html
-      update  build/letters/uppercase-a-with-ring/index.html
-      update  build/letters/uppercase-ae/index.html
-      update  build/letters/uppercase-c-with-cedilla/index.html
-      update  build/letters/uppercase-e-with-grave/index.html
-      update  build/letters/uppercase-e-with-acute/index.html
-      update  build/letters/uppercase-e-with-circumflex/index.html
-      update  build/letters/uppercase-e-with-umlaut/index.html
-      update  build/letters/uppercase-l-with-grave/index.html
-      update  build/letters/uppercase-l-with-acute/index.html
-      update  build/letters/uppercase-l-with-circumflex/index.html
-      update  build/letters/uppercase-l-with-umlaut/index.html
-      update  build/letters/uppercase-eth/index.html
-      update  build/letters/uppercase-n-with-tilde/index.html
-      update  build/letters/uppercase-o-with-grave/index.html
-      update  build/letters/uppercase-o-with-acute/index.html
-      update  build/letters/uppercase-o-with-circumflex/index.html
-      update  build/letters/uppercase-o-with-tilde/index.html
-      update  build/letters/uppercase-o-with-umlaut/index.html
-      update  build/letters/uppercase-o-with-slash/index.html
-      update  build/letters/uppercase-u-with-grave/index.html
-      update  build/letters/uppercase-u-with-acute/index.html
-      update  build/letters/uppercase-u-with-circumflex/index.html
-      update  build/letters/uppercase-u-with-umlaut/index.html
-      update  build/letters/uppercase-y-with-acute/index.html
-      update  build/letters/uppercase-thorn/index.html
-      update  build/letters/lowercase-ess-zed/index.html
-      update  build/letters/lowercase-a-with-grave/index.html
-      update  build/letters/lowercase-a-with-acute/index.html
-      update  build/letters/lowercase-a-with-circumflex/index.html
-      update  build/letters/lowercase-a-with-tilde/index.html
-      update  build/letters/lowercase-a-with-umlaut/index.html
-      update  build/letters/lowercase-a-with-ring/index.html
-      update  build/letters/lowercase-ae/index.html
-      update  build/letters/lowercase-c-with-cedilla/index.html
-      update  build/letters/lowercase-e-with-grave/index.html
-      update  build/letters/lowercase-e-with-acute/index.html
-      update  build/letters/lowercase-e-with-circumflex/index.html
-      update  build/letters/lowercase-e-with-umlaut/index.html
-      update  build/letters/lowercase-i-with-grave/index.html
-      update  build/letters/lowercase-i-with-acute/index.html
-      update  build/letters/lowercase-i-with-circumflex/index.html
-      update  build/letters/lowercase-i-with-umlaut/index.html
-      update  build/letters/lowercase-eth/index.html
-      update  build/letters/lowercase-n-with-tilde/index.html
-      update  build/letters/lowercase-o-with-grave/index.html
-      update  build/letters/lowercase-o-with-acute/index.html
-      update  build/letters/lowercase-o-with-circumflex/index.html
-      update  build/letters/lowercase-o-with-tilde/index.html
-      update  build/letters/lowercase-o-with-umlaut/index.html
-      update  build/letters/lowercase-o-with-slash/index.html
-      update  build/letters/lowercase-u-with-grave/index.html
-      update  build/letters/lowercase-u-with-acute/index.html
-      update  build/letters/lowercase-u-with-circumflex/index.html
-      update  build/letters/lowercase-u-with-umlaut/index.html
-      update  build/letters/lowercase-y-with-acute/index.html
-      update  build/letters/lowercase-thorn/index.html
-      update  build/letters/lowercase-y-with-umlaut/index.html
-      update  build/letters/uppercase-oe/index.html
-      update  build/letters/lowercase-oe/index.html
-      update  build/letters/uppercase-s-with-caron/index.html
-      update  build/letters/lowercase-s-with-caron/index.html
-      update  build/letters/uppercase-y-with-umlaut/index.html
-      update  build/math/for-all/index.html
-      update  build/math/complement/index.html
-      update  build/math/partial-differential/index.html
-      update  build/math/there-exists/index.html
-      update  build/math/there-does-not-exist/index.html
-      update  build/math/empty-set/index.html
-      update  build/math/increment/index.html
-      update  build/math/nabla/index.html
-      update  build/math/element-of/index.html
-      update  build/math/not-an-element-of/index.html
-      update  build/math/small-element-of/index.html
-      update  build/math/contains-as-member/index.html
-      update  build/math/does-not-contain-as-member/index.html
-      update  build/math/small-contains-as-member/index.html
-      update  build/math/end-of-proof/index.html
-      update  build/math/n-ary-product/index.html
-      update  build/math/n-ary-coproduct/index.html
-      update  build/math/n-ary-summation/index.html
-      update  build/math/minus-sign/index.html
-      update  build/math/minus-or-plus-sign/index.html
-      update  build/math/dot-plus/index.html
-      update  build/math/division-slash/index.html
-      update  build/math/set-minus/index.html
-      update  build/math/asterisk-operator/index.html
-      update  build/math/ring-operator/index.html
-      update  build/math/bullet-operator/index.html
-      update  build/math/square-root/index.html
-      update  build/math/cube-root/index.html
-      update  build/math/fourth-root/index.html
-      update  build/math/proportional-to/index.html
-      update  build/math/infinity/index.html
-      update  build/math/right-angle/index.html
-      update  build/math/angle/index.html
-      update  build/math/measured-angle/index.html
-      update  build/math/spherical-angle/index.html
-      update  build/math/divides/index.html
-      update  build/math/does-not-divide/index.html
-      update  build/math/parallel-to/index.html
-      update  build/math/not-parallel-to/index.html
-      update  build/math/logical-and/index.html
-      update  build/math/logical-or/index.html
-      update  build/math/intersection/index.html
-      update  build/math/union/index.html
-      update  build/math/integral/index.html
-      update  build/math/double-integral/index.html
-      update  build/math/triple-integral/index.html
-      update  build/math/contour-integral/index.html
-      update  build/math/surface-integral/index.html
-      update  build/math/volume-integral/index.html
-      update  build/math/clockwise-integral/index.html
-      update  build/math/clockwise-contour-integral/index.html
-      update  build/math/anticlockwise-contour-integral/index.html
-      update  build/math/therefore/index.html
-      update  build/math/because/index.html
-      update  build/math/ratio/index.html
-      update  build/math/proportion/index.html
-      update  build/math/dot-minus/index.html
-      update  build/math/excess/index.html
-      update  build/math/geometric-proportion/index.html
-      update  build/math/homothetic/index.html
-      update  build/math/tilde-operator/index.html
-      update  build/math/reversed-tilde/index.html
-      update  build/math/inverted-lazy-s/index.html
-      update  build/math/sine-wave/index.html
-      update  build/math/wreath-product/index.html
-      update  build/math/not-tilde/index.html
-      update  build/math/minus-tilde/index.html
-      update  build/math/asymptotically-equal-to/index.html
-      update  build/math/not-asymptotically-equal-to/index.html
-      update  build/math/approximately-equal-to/index.html
-      update  build/math/approximately-but-not-actually-equal-to/index.html
-      update  build/math/neither-approximately-nor-actually-equal-to/index.html
-      update  build/math/almost-equal-to/index.html
-      update  build/math/not-almost-equal-to/index.html
-      update  build/math/almost-equal-or-equal-to/index.html
-      update  build/math/triple-tilde/index.html
-      update  build/math/all-equal-to/index.html
-      update  build/math/equivalent-to/index.html
-      update  build/math/geometrically-equivalent-to/index.html
-      update  build/math/difference-between/index.html
-      update  build/math/approaches-the-limit/index.html
-      update  build/math/geometrically-equal-to/index.html
-      update  build/math/approximately-equal-to-or-the-image-of/index.html
-      update  build/math/image-of-or-approximately-equal-to/index.html
-      update  build/math/colon-equals/index.html
-      update  build/math/equals-colon/index.html
-      update  build/math/ring-in-equal-to/index.html
-      update  build/math/ring-equal-to/index.html
-      update  build/math/corresponds-to/index.html
-      update  build/math/estimates/index.html
-      update  build/math/equiangular-to/index.html
-      update  build/math/star-equals/index.html
-      update  build/math/delta-equal-to/index.html
-      update  build/math/equal-to-by-definition/index.html
-      update  build/math/measured-by/index.html
-      update  build/math/questioned-equal-to/index.html
-      update  build/math/not-equal-to/index.html
-      update  build/math/identical-to/index.html
-      update  build/math/not-identical-to/index.html
-      update  build/math/strictly-equivalent-to/index.html
-      update  build/math/less-than-or-equal-to/index.html
-      update  build/math/greater-than-or-equal-to/index.html
-      update  build/math/less-than-over-equal-to/index.html
-      update  build/math/greater-than-over-equal-to/index.html
-      update  build/math/less-than-but-not-equal-to/index.html
-      update  build/math/greater-than-but-not-equal-to/index.html
-      update  build/math/much-less-than/index.html
-      update  build/math/much-greater-than/index.html
-      update  build/math/between/index.html
-      update  build/math/not-equivalent-to/index.html
-      update  build/math/not-less-than/index.html
-      update  build/math/not-greater-than/index.html
-      update  build/math/neither-less-than-nor-equal-to/index.html
-      update  build/math/neither-greater-than-nor-equal-to/index.html
-      update  build/math/less-than-or-equivalent-to/index.html
-      update  build/math/greater-than-or-equivalent-to/index.html
-      update  build/math/neither-less-than-nor-equivalent-to/index.html
-      update  build/math/neither-greater-than-nor-equivalent-to/index.html
-      update  build/math/less-than-or-greater-than/index.html
-      update  build/math/greater-than-or-less-than/index.html
-      update  build/math/neither-less-than-nor-greater-than/index.html
-      update  build/math/neither-greater-than-nor-less-than/index.html
-      update  build/math/precedes/index.html
-      update  build/math/succeeds/index.html
-      update  build/math/precedes-or-equal-to/index.html
-      update  build/math/succeeds-or-equal-to/index.html
-      update  build/math/precedes-or-equivalent-to/index.html
-      update  build/math/succeeds-or-equivalent-to/index.html
-      update  build/math/does-not-precede/index.html
-      update  build/math/does-not-succeed/index.html
-      update  build/math/subset-of/index.html
-      update  build/math/superset-of/index.html
-      update  build/math/not-a-subset-of/index.html
-      update  build/math/not-a-superset-of/index.html
-      update  build/math/subset-of-or-equal-to/index.html
-      update  build/math/superset-of-or-equal-to/index.html
-      update  build/math/neither-a-subset-of-nor-equal-to/index.html
-      update  build/math/neither-a-superset-of-nor-equal-to/index.html
-      update  build/math/subset-of-with-not-equal-to/index.html
-      update  build/math/superset-of-with-not-equal-to/index.html
-      update  build/math/multiset/index.html
-      update  build/math/multiset-multiplication/index.html
-      update  build/math/multiset-union/index.html
-      update  build/math/square-image-of/index.html
-      update  build/math/square-original-of/index.html
-      update  build/math/square-image-of-or-equal-to/index.html
-      update  build/math/square-original-of-or-equal-to/index.html
-      update  build/math/square-cap/index.html
-      update  build/math/square-cup/index.html
-      update  build/math/circled-plus/index.html
-      update  build/math/circled-minus/index.html
-      update  build/math/circled-times/index.html
-      update  build/math/circled-division-slash/index.html
-      update  build/math/circled-dot-operator/index.html
-      update  build/math/circled-ring-operator/index.html
-      update  build/math/circled-asterisk-operator/index.html
-      update  build/math/circled-equals/index.html
-      update  build/math/circled-dash/index.html
-      update  build/math/squared-plus/index.html
-      update  build/math/squared-minus/index.html
-      update  build/math/squared-times/index.html
-      update  build/math/squared-dot-operator/index.html
-      update  build/math/right-tack/index.html
-      update  build/math/left-tack/index.html
-      update  build/math/down-tack/index.html
+      create  build/arrows/leftwards-arrow/index.html
+      create  build/arrows/upwards-arrow/index.html
+      create  build/arrows/rightwards-arrow/index.html
+      create  build/arrows/downwards-arrow/index.html
+      create  build/arrows/left-right-arrow/index.html
+      create  build/arrows/up-down-arrow/index.html
+      create  build/arrows/north-west-arrow/index.html
+      create  build/arrows/north-east-arrow/index.html
+      create  build/arrows/south-east-arrow/index.html
+      create  build/arrows/south-west-arrow/index.html
+      create  build/arrows/leftwards-arrow-with-stroke/index.html
+      create  build/arrows/rightwards-arrow-with-stroke/index.html
+      create  build/arrows/leftwards-wave-arrow/index.html
+      create  build/arrows/rightwards-wave-arrow/index.html
+      create  build/arrows/leftwards-two-headed-arrow/index.html
+      create  build/arrows/upwards-two-headed-arrow/index.html
+      create  build/arrows/rightwards-two-headed-arrow/index.html
+      create  build/arrows/downwards-two-headed-arrow/index.html
+      create  build/arrows/leftwards-arrow-with-tail/index.html
+      create  build/arrows/rightwards-arrow-with-tail/index.html
+      create  build/arrows/leftwards-arrow-from-bar/index.html
+      create  build/arrows/upwards-arrow-from-bar/index.html
+      create  build/arrows/rightwards-arrow-from-bar/index.html
+      create  build/arrows/downwards-arrow-from-bar/index.html
+      create  build/arrows/up-down-arrow-with-base/index.html
+      create  build/arrows/leftwards-arrow-with-hook/index.html
+      create  build/arrows/rightwards-arrow-with-hook/index.html
+      create  build/arrows/leftwards-arrow-with-loop/index.html
+      create  build/arrows/rightwards-arrow-with-loop/index.html
+      create  build/arrows/left-right-wave-arrow/index.html
+      create  build/arrows/left-right-arrow-with-stroke/index.html
+      create  build/arrows/downwards-zigzag-arrow/index.html
+      create  build/arrows/upwards-arrow-with-tip-leftwards/index.html
+      create  build/arrows/upwards-arrow-with-tip-rightwards/index.html
+      create  build/arrows/downwards-arrow-with-tip-leftwards/index.html
+      create  build/arrows/downwards-arrow-with-tip-rightwards/index.html
+      create  build/arrows/rightwards-arrow-with-corner-downwards/index.html
+      create  build/arrows/downwards-arrow-with-corner-leftwards/index.html
+      create  build/arrows/anticlockwise-top-semicircle-arrow/index.html
+      create  build/arrows/clockwise-top-semicircle-arrow/index.html
+      create  build/arrows/north-west-arrow-to-long-bar/index.html
+      create  build/arrows/leftwards-arrow-to-bar-over-rightwards-arrow-to-bar/index.html
+      create  build/arrows/anticlockwise-open-circle-arrow/index.html
+      create  build/arrows/clockwise-open-circle-arrow/index.html
+      create  build/arrows/leftwards-harpoon-with-barb-upwards/index.html
+      create  build/arrows/leftwards-harpoon-with-barb-downwards/index.html
+      create  build/arrows/upwards-harpoon-with-barb-rightwards/index.html
+      create  build/arrows/upwards-harpoon-with-barb-leftwards/index.html
+      create  build/arrows/rightwards-harpoon-with-barb-upwards/index.html
+      create  build/arrows/rightwards-harpoon-with-barb-downwards/index.html
+      create  build/arrows/downwards-harpoon-with-barb-rightwards/index.html
+      create  build/arrows/downwards-harpoon-with-barb-leftwards/index.html
+      create  build/arrows/rightwards-arrow-over-leftwards-arrow/index.html
+      create  build/arrows/upwards-arrow-leftwards-of-downwards-arrow/index.html
+      create  build/arrows/leftwards-arrow-over-rightwards-arrow/index.html
+      create  build/arrows/leftwards-paired-arrows/index.html
+      create  build/arrows/upwards-paired-arrows/index.html
+      create  build/arrows/rightwards-paired-arrows/index.html
+      create  build/arrows/downwards-paired-arrows/index.html
+      create  build/arrows/leftwards-harpoon-over-rightwards-harpoon/index.html
+      create  build/arrows/rightwards-harpoon-over-leftwards-harpoon/index.html
+      create  build/arrows/leftwards-double-arrow-with-stroke/index.html
+      create  build/arrows/left-right-double-arrow-with-stroke/index.html
+      create  build/arrows/rightwards-double-arrow-with-stroke/index.html
+      create  build/arrows/leftwards-double-arrow/index.html
+      create  build/arrows/upwards-double-arrow/index.html
+      create  build/arrows/rightwards-double-arrow/index.html
+      create  build/arrows/downwards-double-arrow/index.html
+      create  build/arrows/left-right-double-arrow/index.html
+      create  build/arrows/up-down-double-arrow/index.html
+      create  build/arrows/north-west-double-arrow/index.html
+      create  build/arrows/north-east-double-arrow/index.html
+      create  build/arrows/south-east-double-arrow/index.html
+      create  build/arrows/south-west-double-arrow/index.html
+      create  build/arrows/leftwards-triple-arrow/index.html
+      create  build/arrows/rightwards-triple-arrow/index.html
+      create  build/arrows/leftwards-squiggle-arrow/index.html
+      create  build/arrows/rightwards-squiggle-arrow/index.html
+      create  build/arrows/upwards-arrow-with-double-stroke/index.html
+      create  build/arrows/downwards-arrow-with-double-stroke/index.html
+      create  build/arrows/leftwards-dashed-arrow/index.html
+      create  build/arrows/upwards-dashed-arrow/index.html
+      create  build/arrows/rightwards-dashed-arrow/index.html
+      create  build/arrows/downwards-dashed-arrow/index.html
+      create  build/arrows/leftwards-arrow-to-bar/index.html
+      create  build/arrows/rightwards-arrow-to-bar/index.html
+      create  build/arrows/leftwards-white-arrow/index.html
+      create  build/arrows/upwards-white-arrow/index.html
+      create  build/arrows/rightwards-white-arrow/index.html
+      create  build/arrows/downwards-white-arrow/index.html
+      create  build/arrows/upwards-white-arrow-from-bar/index.html
+      create  build/arrows/upwards-white-arrow-on-pedestal/index.html
+      create  build/arrows/upwards-white-arrow-on-pedestal-with-horizontal-bar/index.html
+      create  build/arrows/upwards-white-arrow-on-pedestal-with-vertical-bar/index.html
+      create  build/arrows/upwards-white-double-arrow/index.html
+      create  build/arrows/upwards-white-double-arrow-on-pedestal/index.html
+      create  build/arrows/rightwards-white-arrow-from-wall/index.html
+      create  build/arrows/north-west-arrow-to-corner/index.html
+      create  build/arrows/south-east-arrow-to-corner/index.html
+      create  build/arrows/up-down-white-arrow/index.html
+      create  build/arrows/right-arrow-with-small-circle/index.html
+      create  build/arrows/downwards-arrow-leftwards-of-upwards-arrow/index.html
+      create  build/arrows/three-rightwards-arrows/index.html
+      create  build/arrows/leftwards-arrow-with-vertical-stroke/index.html
+      create  build/arrows/rightwards-arrow-with-vertical-stroke/index.html
+      create  build/arrows/left-right-arrow-with-vertical-stroke/index.html
+      create  build/arrows/leftwards-arrow-with-double-vertical-stroke/index.html
+      create  build/arrows/rightwards-arrow-with-double-vertical-stroke/index.html
+      create  build/arrows/left-right-arrow-with-double-vertical-stroke/index.html
+      create  build/arrows/leftwards-open-headed-arrow/index.html
+      create  build/arrows/rightwards-open-headed-arrow/index.html
+      create  build/arrows/left-right-open-headed-arrow/index.html
+      create  build/currency/dollar-sign/index.html
+      create  build/currency/cent-sign/index.html
+      create  build/currency/pound-sign/index.html
+      create  build/currency/currency-sign/index.html
+      create  build/currency/yen-sign/index.html
+      create  build/currency/euro-currency-sign/index.html
+      create  build/currency/colon-sign/index.html
+      create  build/currency/cruzeiro-sign/index.html
+      create  build/currency/french-franc-sign/index.html
+      create  build/currency/lira-sign/index.html
+      create  build/currency/mill-sign/index.html
+      create  build/currency/naira-sign/index.html
+      create  build/currency/peseta-sign/index.html
+      create  build/currency/rupee-sign/index.html
+      create  build/currency/won-sign/index.html
+      create  build/currency/new-sheqel-sign/index.html
+      create  build/currency/dong-sign/index.html
+      create  build/currency/euro-sign/index.html
+      create  build/currency/kip-sign/index.html
+      create  build/currency/tugrik-sign/index.html
+      create  build/currency/drachma-sign/index.html
+      create  build/currency/german-penny-symbol/index.html
+      create  build/currency/peso-sign/index.html
+      create  build/currency/guarani-sign/index.html
+      create  build/currency/austral-sign/index.html
+      create  build/currency/hryvnia-sign/index.html
+      create  build/currency/cedi-sign/index.html
+      create  build/currency/livre-tournois-sign/index.html
+      create  build/currency/tenge-sign/index.html
+      create  build/currency/indian-rupee-sign/index.html
+      create  build/currency/turkish-lira-sign/index.html
+      create  build/currency/manat-sign/index.html
+      create  build/currency/ruble-sign/index.html
+      create  build/currency/bengali-rupee-mark/index.html
+      create  build/currency/bengali-rupee-sign/index.html
+      create  build/currency/gujarati-rupee-sign/index.html
+      create  build/currency/tamil-rupee-sign/index.html
+      create  build/currency/thai-currency-symbol-baht/index.html
+      create  build/currency/khmer-currency-symbol-riel/index.html
+      create  build/currency/square-yuan/index.html
+      create  build/currency/yuan-character-in-china/index.html
+      create  build/currency/yen-character/index.html
+      create  build/currency/yen-yuan-character-variant-one/index.html
+      create  build/currency/yen-yuan-character-variant-two/index.html
+      create  build/currency/yuan-character-in-hong-kong-and-taiwan/index.html
+      create  build/currency/yen-yuan-character-variant-three/index.html
+      create  build/currency/won-character/index.html
+      create  build/currency/rial-sign/index.html
+      create  build/currency/fullwidth-dollar-sign/index.html
+      create  build/currency/fullwidth-cent-sign/index.html
+      create  build/currency/fullwidth-pound-sign/index.html
+      create  build/currency/fullwidth-yen-sign/index.html
+      create  build/currency/fullwidth-won-sign/index.html
+      create  build/letters/uppercase-a/index.html
+      create  build/letters/uppercase-b/index.html
+      create  build/letters/uppercase-c/index.html
+      create  build/letters/uppercase-d/index.html
+      create  build/letters/uppercase-e/index.html
+      create  build/letters/uppercase-f/index.html
+      create  build/letters/uppercase-g/index.html
+      create  build/letters/uppercase-h/index.html
+      create  build/letters/uppercase-i/index.html
+      create  build/letters/uppercase-j/index.html
+      create  build/letters/uppercase-k/index.html
+      create  build/letters/uppercase-l/index.html
+      create  build/letters/uppercase-m/index.html
+      create  build/letters/uppercase-n/index.html
+      create  build/letters/uppercase-o/index.html
+      create  build/letters/uppercase-p/index.html
+      create  build/letters/uppercase-q/index.html
+      create  build/letters/uppercase-r/index.html
+      create  build/letters/uppercase-s/index.html
+      create  build/letters/uppercase-t/index.html
+      create  build/letters/uppercase-u/index.html
+      create  build/letters/uppercase-v/index.html
+      create  build/letters/uppercase-w/index.html
+      create  build/letters/uppercase-x/index.html
+      create  build/letters/uppercase-y/index.html
+      create  build/letters/uppercase-z/index.html
+      create  build/letters/lowercase-a/index.html
+      create  build/letters/lowercase-b/index.html
+      create  build/letters/lowercase-c/index.html
+      create  build/letters/lowercase-d/index.html
+      create  build/letters/lowercase-e/index.html
+      create  build/letters/lowercase-f/index.html
+      create  build/letters/lowercase-g/index.html
+      create  build/letters/lowercase-h/index.html
+      create  build/letters/lowercase-i/index.html
+      create  build/letters/lowercase-j/index.html
+      create  build/letters/lowercase-k/index.html
+      create  build/letters/lowercase-l/index.html
+      create  build/letters/lowercase-m/index.html
+      create  build/letters/lowercase-n/index.html
+      create  build/letters/lowercase-o/index.html
+      create  build/letters/lowercase-p/index.html
+      create  build/letters/lowercase-q/index.html
+      create  build/letters/lowercase-r/index.html
+      create  build/letters/lowercase-s/index.html
+      create  build/letters/lowercase-t/index.html
+      create  build/letters/lowercase-u/index.html
+      create  build/letters/lowercase-v/index.html
+      create  build/letters/lowercase-w/index.html
+      create  build/letters/lowercase-x/index.html
+      create  build/letters/lowercase-y/index.html
+      create  build/letters/lowercase-z/index.html
+      create  build/letters/uppercase-a-with-grave/index.html
+      create  build/letters/uppercase-a-with-acute/index.html
+      create  build/letters/uppercase-a-with-circumflex/index.html
+      create  build/letters/uppercase-a-with-tilde/index.html
+      create  build/letters/uppercase-a-with-umlaut/index.html
+      create  build/letters/uppercase-a-with-ring/index.html
+      create  build/letters/uppercase-ae/index.html
+      create  build/letters/uppercase-c-with-cedilla/index.html
+      create  build/letters/uppercase-e-with-grave/index.html
+      create  build/letters/uppercase-e-with-acute/index.html
+      create  build/letters/uppercase-e-with-circumflex/index.html
+      create  build/letters/uppercase-e-with-umlaut/index.html
+      create  build/letters/uppercase-l-with-grave/index.html
+      create  build/letters/uppercase-l-with-acute/index.html
+      create  build/letters/uppercase-l-with-circumflex/index.html
+      create  build/letters/uppercase-l-with-umlaut/index.html
+      create  build/letters/uppercase-eth/index.html
+      create  build/letters/uppercase-n-with-tilde/index.html
+      create  build/letters/uppercase-o-with-grave/index.html
+      create  build/letters/uppercase-o-with-acute/index.html
+      create  build/letters/uppercase-o-with-circumflex/index.html
+      create  build/letters/uppercase-o-with-tilde/index.html
+      create  build/letters/uppercase-o-with-umlaut/index.html
+      create  build/letters/uppercase-o-with-slash/index.html
+      create  build/letters/uppercase-u-with-grave/index.html
+      create  build/letters/uppercase-u-with-acute/index.html
+      create  build/letters/uppercase-u-with-circumflex/index.html
+      create  build/letters/uppercase-u-with-umlaut/index.html
+      create  build/letters/uppercase-y-with-acute/index.html
+      create  build/letters/uppercase-thorn/index.html
+      create  build/letters/lowercase-ess-zed/index.html
+      create  build/letters/lowercase-a-with-grave/index.html
+      create  build/letters/lowercase-a-with-acute/index.html
+      create  build/letters/lowercase-a-with-circumflex/index.html
+      create  build/letters/lowercase-a-with-tilde/index.html
+      create  build/letters/lowercase-a-with-umlaut/index.html
+      create  build/letters/lowercase-a-with-ring/index.html
+      create  build/letters/lowercase-ae/index.html
+      create  build/letters/lowercase-c-with-cedilla/index.html
+      create  build/letters/lowercase-e-with-grave/index.html
+      create  build/letters/lowercase-e-with-acute/index.html
+      create  build/letters/lowercase-e-with-circumflex/index.html
+      create  build/letters/lowercase-e-with-umlaut/index.html
+      create  build/letters/lowercase-i-with-grave/index.html
+      create  build/letters/lowercase-i-with-acute/index.html
+      create  build/letters/lowercase-i-with-circumflex/index.html
+      create  build/letters/lowercase-i-with-umlaut/index.html
+      create  build/letters/lowercase-eth/index.html
+      create  build/letters/lowercase-n-with-tilde/index.html
+      create  build/letters/lowercase-o-with-grave/index.html
+      create  build/letters/lowercase-o-with-acute/index.html
+      create  build/letters/lowercase-o-with-circumflex/index.html
+      create  build/letters/lowercase-o-with-tilde/index.html
+      create  build/letters/lowercase-o-with-umlaut/index.html
+      create  build/letters/lowercase-o-with-slash/index.html
+      create  build/letters/lowercase-u-with-grave/index.html
+      create  build/letters/lowercase-u-with-acute/index.html
+      create  build/letters/lowercase-u-with-circumflex/index.html
+      create  build/letters/lowercase-u-with-umlaut/index.html
+      create  build/letters/lowercase-y-with-acute/index.html
+      create  build/letters/lowercase-thorn/index.html
+      create  build/letters/lowercase-y-with-umlaut/index.html
+      create  build/letters/uppercase-oe/index.html
+      create  build/letters/lowercase-oe/index.html
+      create  build/letters/uppercase-s-with-caron/index.html
+      create  build/letters/lowercase-s-with-caron/index.html
+      create  build/letters/uppercase-y-with-umlaut/index.html
+      create  build/math/for-all/index.html
+      create  build/math/complement/index.html
+      create  build/math/partial-differential/index.html
+      create  build/math/there-exists/index.html
+      create  build/math/there-does-not-exist/index.html
+      create  build/math/empty-set/index.html
+      create  build/math/increment/index.html
+      create  build/math/nabla/index.html
+      create  build/math/element-of/index.html
+      create  build/math/not-an-element-of/index.html
+      create  build/math/small-element-of/index.html
+      create  build/math/contains-as-member/index.html
+      create  build/math/does-not-contain-as-member/index.html
+      create  build/math/small-contains-as-member/index.html
+      create  build/math/end-of-proof/index.html
+      create  build/math/n-ary-product/index.html
+      create  build/math/n-ary-coproduct/index.html
+      create  build/math/n-ary-summation/index.html
+      create  build/math/minus-sign/index.html
+      create  build/math/minus-or-plus-sign/index.html
+      create  build/math/dot-plus/index.html
+      create  build/math/division-slash/index.html
+      create  build/math/set-minus/index.html
+      create  build/math/asterisk-operator/index.html
+      create  build/math/ring-operator/index.html
+      create  build/math/bullet-operator/index.html
+      create  build/math/square-root/index.html
+      create  build/math/cube-root/index.html
+      create  build/math/fourth-root/index.html
+      create  build/math/proportional-to/index.html
+      create  build/math/infinity/index.html
+      create  build/math/right-angle/index.html
+      create  build/math/angle/index.html
+      create  build/math/measured-angle/index.html
+      create  build/math/spherical-angle/index.html
+      create  build/math/divides/index.html
+      create  build/math/does-not-divide/index.html
+      create  build/math/parallel-to/index.html
+      create  build/math/not-parallel-to/index.html
+      create  build/math/logical-and/index.html
+      create  build/math/logical-or/index.html
+      create  build/math/intersection/index.html
+      create  build/math/union/index.html
+      create  build/math/integral/index.html
+      create  build/math/double-integral/index.html
+      create  build/math/triple-integral/index.html
+      create  build/math/contour-integral/index.html
+      create  build/math/surface-integral/index.html
+      create  build/math/volume-integral/index.html
+      create  build/math/clockwise-integral/index.html
+      create  build/math/clockwise-contour-integral/index.html
+      create  build/math/anticlockwise-contour-integral/index.html
+      create  build/math/therefore/index.html
+      create  build/math/because/index.html
+      create  build/math/ratio/index.html
+      create  build/math/proportion/index.html
+      create  build/math/dot-minus/index.html
+      create  build/math/excess/index.html
+      create  build/math/geometric-proportion/index.html
+      create  build/math/homothetic/index.html
+      create  build/math/tilde-operator/index.html
+      create  build/math/reversed-tilde/index.html
+      create  build/math/inverted-lazy-s/index.html
+      create  build/math/sine-wave/index.html
+      create  build/math/wreath-product/index.html
+      create  build/math/not-tilde/index.html
+      create  build/math/minus-tilde/index.html
+      create  build/math/asymptotically-equal-to/index.html
+      create  build/math/not-asymptotically-equal-to/index.html
+      create  build/math/approximately-equal-to/index.html
+      create  build/math/approximately-but-not-actually-equal-to/index.html
+      create  build/math/neither-approximately-nor-actually-equal-to/index.html
+      create  build/math/almost-equal-to/index.html
+      create  build/math/not-almost-equal-to/index.html
+      create  build/math/almost-equal-or-equal-to/index.html
+      create  build/math/triple-tilde/index.html
+      create  build/math/all-equal-to/index.html
+      create  build/math/equivalent-to/index.html
+      create  build/math/geometrically-equivalent-to/index.html
+      create  build/math/difference-between/index.html
+      create  build/math/approaches-the-limit/index.html
+      create  build/math/geometrically-equal-to/index.html
+      create  build/math/approximately-equal-to-or-the-image-of/index.html
+      create  build/math/image-of-or-approximately-equal-to/index.html
+      create  build/math/colon-equals/index.html
+      create  build/math/equals-colon/index.html
+      create  build/math/ring-in-equal-to/index.html
+      create  build/math/ring-equal-to/index.html
+      create  build/math/corresponds-to/index.html
+      create  build/math/estimates/index.html
+      create  build/math/equiangular-to/index.html
+      create  build/math/star-equals/index.html
+      create  build/math/delta-equal-to/index.html
+      create  build/math/equal-to-by-definition/index.html
+      create  build/math/measured-by/index.html
+      create  build/math/questioned-equal-to/index.html
+      create  build/math/not-equal-to/index.html
+      create  build/math/identical-to/index.html
+      create  build/math/not-identical-to/index.html
+      create  build/math/strictly-equivalent-to/index.html
+      create  build/math/less-than-or-equal-to/index.html
+      create  build/math/greater-than-or-equal-to/index.html
+      create  build/math/less-than-over-equal-to/index.html
+      create  build/math/greater-than-over-equal-to/index.html
+      create  build/math/less-than-but-not-equal-to/index.html
+      create  build/math/greater-than-but-not-equal-to/index.html
+      create  build/math/much-less-than/index.html
+      create  build/math/much-greater-than/index.html
+      create  build/math/between/index.html
+      create  build/math/not-equivalent-to/index.html
+      create  build/math/not-less-than/index.html
+      create  build/math/not-greater-than/index.html
+      create  build/math/neither-less-than-nor-equal-to/index.html
+      create  build/math/neither-greater-than-nor-equal-to/index.html
+      create  build/math/less-than-or-equivalent-to/index.html
+      create  build/math/greater-than-or-equivalent-to/index.html
+      create  build/math/neither-less-than-nor-equivalent-to/index.html
+      create  build/math/neither-greater-than-nor-equivalent-to/index.html
+      create  build/math/less-than-or-greater-than/index.html
+      create  build/math/greater-than-or-less-than/index.html
+      create  build/math/neither-less-than-nor-greater-than/index.html
+      create  build/math/neither-greater-than-nor-less-than/index.html
+      create  build/math/precedes/index.html
+      create  build/math/succeeds/index.html
+      create  build/math/precedes-or-equal-to/index.html
+      create  build/math/succeeds-or-equal-to/index.html
+      create  build/math/precedes-or-equivalent-to/index.html
+      create  build/math/succeeds-or-equivalent-to/index.html
+      create  build/math/does-not-precede/index.html
+      create  build/math/does-not-succeed/index.html
+      create  build/math/subset-of/index.html
+      create  build/math/superset-of/index.html
+      create  build/math/not-a-subset-of/index.html
+      create  build/math/not-a-superset-of/index.html
+      create  build/math/subset-of-or-equal-to/index.html
+      create  build/math/superset-of-or-equal-to/index.html
+      create  build/math/neither-a-subset-of-nor-equal-to/index.html
+      create  build/math/neither-a-superset-of-nor-equal-to/index.html
+      create  build/math/subset-of-with-not-equal-to/index.html
+      create  build/math/superset-of-with-not-equal-to/index.html
+      create  build/math/multiset/index.html
+      create  build/math/multiset-multiplication/index.html
+      create  build/math/multiset-union/index.html
+      create  build/math/square-image-of/index.html
+      create  build/math/square-original-of/index.html
+      create  build/math/square-image-of-or-equal-to/index.html
+      create  build/math/square-original-of-or-equal-to/index.html
+      create  build/math/square-cap/index.html
+      create  build/math/square-cup/index.html
+      create  build/math/circled-plus/index.html
+      create  build/math/circled-minus/index.html
+      create  build/math/circled-times/index.html
+      create  build/math/circled-division-slash/index.html
+      create  build/math/circled-dot-operator/index.html
+      create  build/math/circled-ring-operator/index.html
+      create  build/math/circled-asterisk-operator/index.html
+      create  build/math/circled-equals/index.html
+      create  build/math/circled-dash/index.html
+      create  build/math/squared-plus/index.html
+      create  build/math/squared-minus/index.html
+      create  build/math/squared-times/index.html
+      create  build/math/squared-dot-operator/index.html
+      create  build/math/right-tack/index.html
+      create  build/math/left-tack/index.html
+      create  build/math/down-tack/index.html
+      create  build/math/up-tack/index.html
+      create  build/math/assertion/index.html
+      create  build/math/models/index.html
+      create  build/math/true/index.html
+      create  build/math/forces/index.html
+      create  build/math/triple-vertical-bar-right-turnstile/index.html
+      create  build/math/double-vertical-bar-double-right-turnstile/index.html
+      create  build/math/does-not-prove/index.html
+      create  build/math/not-true/index.html
+      create  build/math/does-not-force/index.html
+      create  build/math/negated-double-vertical-bar-double-right-turnstile/index.html
+      create  build/math/precedes-under-relation/index.html
+      create  build/math/succeeds-under-relation/index.html
+      create  build/math/normal-subgroup-of/index.html
+      create  build/math/contains-as-normal-subgroup/index.html
+      create  build/math/normal-subgroup-of-or-equal-to/index.html
+      create  build/math/contains-as-normal-subgroup-or-equal-to/index.html
+      create  build/math/original-of/index.html
+      create  build/math/image-of/index.html
+      create  build/math/multimap/index.html
+      create  build/math/hermitian-conjugate-matrix/index.html
+      create  build/math/intercalate/index.html
+      create  build/math/xor/index.html
+      create  build/math/nand/index.html
+      create  build/math/nor/index.html
+      create  build/math/right-angle-with-arc/index.html
+      create  build/math/right-triangle/index.html
+      create  build/math/n-ary-logical-and/index.html
+      create  build/math/n-ary-logical-or/index.html
+      create  build/math/n-ary-intersection/index.html
+      create  build/math/n-ary-union/index.html
+      create  build/math/diamond-operator/index.html
+      create  build/math/dot-operator/index.html
+      create  build/math/star-operator/index.html
+      create  build/math/division-times/index.html
+      create  build/math/bowtie/index.html
+      create  build/math/left-normal-factor-semidirect-product/index.html
+      create  build/math/right-normal-factor-semidirect-product/index.html
+      create  build/math/left-semidirect-product/index.html
+      create  build/math/right-semidirect-product/index.html
+      create  build/math/reversed-tilde-equals/index.html
+      create  build/math/curly-logical-or/index.html
+      create  build/math/curly-logical-and/index.html
+      create  build/math/double-subset/index.html
+      create  build/math/double-superset/index.html
+      create  build/math/double-intersection/index.html
+      create  build/math/double-union/index.html
+      create  build/math/pitchfork/index.html
+      create  build/math/equal-and-parallel-to/index.html
+      create  build/math/less-than-with-dot/index.html
+      create  build/math/greater-than-with-dot/index.html
+      create  build/math/very-much-less-than/index.html
+      create  build/math/very-much-greater-than/index.html
+      create  build/math/less-than-equal-to-or-greater-than/index.html
+      create  build/math/greater-than-equal-to-or-less-than/index.html
+      create  build/math/equal-to-or-less-than/index.html
+      create  build/math/equal-to-or-greater-than/index.html
+      create  build/math/equal-to-or-precedes/index.html
+      create  build/math/equal-to-or-succeeds/index.html
+      create  build/math/does-not-precede-or-equal/index.html
+      create  build/math/does-not-succeed-or-equal/index.html
+      create  build/math/not-square-image-of-or-equal-to/index.html
+      create  build/math/not-square-original-of-or-equal-to/index.html
+      create  build/math/square-image-of-or-not-equal-to/index.html
+      create  build/math/square-original-of-or-not-equal-to/index.html
+      create  build/math/less-than-but-not-equivalent-to/index.html
+      create  build/math/greater-than-but-not-equivalent-to/index.html
+      create  build/math/precedes-but-not-equivalent-to/index.html
+      create  build/math/succeeds-but-not-equivalent-to/index.html
+      create  build/math/not-normal-subgroup-of/index.html
+      create  build/math/does-not-contain-as-normal-subgroup/index.html
+      create  build/math/not-normal-subgroup-of-or-equal-to/index.html
+      create  build/math/does-not-contain-as-normal-subgroup-or-equal/index.html
+      create  build/math/vertical-ellipsis/index.html
+      create  build/math/midline-horizontal-ellipsis/index.html
+      create  build/numbers/small-roman-numeral-nine/index.html
+      create  build/math/down-right-diagonal-ellipsis/index.html
+      create  build/math/element-of-with-long-horizontal-stroke/index.html
+      create  build/numbers/small-roman-numeral-ten/index.html
+      create  build/math/small-element-of-with-vertical-bar-at-end-of-horizontal-stroke/index.html
+      create  build/math/element-of-with-dot-above/index.html
+      create  build/math/element-of-with-overbar/index.html
+      create  build/math/small-element-of-with-overbar/index.html
+      create  build/math/element-of-with-underbar/index.html
+      create  build/math/element-of-with-two-horizontal-strokes/index.html
+      create  build/math/contains-with-long-horizontal-stroke/index.html
+      create  build/math/contains-with-vertical-bar-at-end-of-horizontal-stroke/index.html
+      create  build/math/small-contains-with-vertical-bar-at-end-of-horizontal-stroke/index.html
+      create  build/math/contains-with-overbar/index.html
+      create  build/math/small-contains-with-overbar/index.html
+      create  build/math/z-notation-bag-membership/index.html
+      create  build/numbers/zero/index.html
+      create  build/numbers/one/index.html
+      create  build/numbers/two/index.html
+      create  build/numbers/three/index.html
+      create  build/numbers/four/index.html
+      create  build/numbers/five/index.html
+      create  build/numbers/six/index.html
+      create  build/numbers/seven/index.html
+      create  build/numbers/eight/index.html
+      create  build/numbers/nine/index.html
+      create  build/numbers/vulgar-fraction-one-seventh/index.html
+      create  build/numbers/vulgar-fraction-one-ninth/index.html
+      create  build/numbers/vulgar-fraction-one-tenth/index.html
+      create  build/numbers/vulgar-fraction-one-third/index.html
+      create  build/numbers/vulgar-fraction-two-thirds/index.html
+      create  build/numbers/vulgar-fraction-one-fifth/index.html
+      create  build/numbers/vulgar-fraction-two-fifths/index.html
+      create  build/numbers/vulgar-fraction-three-fifths/index.html
+      create  build/numbers/vulgar-fraction-four-fifths/index.html
+      create  build/numbers/vulgar-fraction-one-sixth/index.html
+      create  build/numbers/vulgar-fraction-five-sixths/index.html
+      create  build/numbers/vulgar-fraction-one-eighth/index.html
+      create  build/numbers/vulgar-fraction-three-eighths/index.html
+      create  build/numbers/vulgar-fraction-five-eighths/index.html
+      create  build/numbers/vulgar-fraction-seven-eighths/index.html
+      create  build/numbers/fraction-numerator-one/index.html
+      create  build/numbers/roman-numeral-one/index.html
+      create  build/numbers/roman-numeral-two/index.html
+      create  build/numbers/roman-numeral-three/index.html
+      create  build/numbers/roman-numeral-four/index.html
+      create  build/numbers/roman-numeral-five/index.html
+      create  build/numbers/roman-numeral-six/index.html
+      create  build/numbers/roman-numeral-seven/index.html
+      create  build/numbers/roman-numeral-eight/index.html
+      create  build/numbers/roman-numeral-nine/index.html
+      create  build/numbers/roman-numeral-ten/index.html
+      create  build/numbers/roman-numeral-eleven/index.html
+      create  build/numbers/roman-numeral-twelve/index.html
+      create  build/numbers/roman-numeral-fifty/index.html
+      create  build/numbers/roman-numeral-one-hundred/index.html
+      create  build/numbers/roman-numeral-five-hundred/index.html
+      create  build/numbers/roman-numeral-one-thousand/index.html
+      create  build/numbers/small-roman-numeral-one/index.html
+      create  build/numbers/small-roman-numeral-two/index.html
+      create  build/numbers/small-roman-numeral-three/index.html
+      create  build/numbers/small-roman-numeral-four/index.html
+      create  build/numbers/small-roman-numeral-five/index.html
+      create  build/numbers/small-roman-numeral-six/index.html
+      create  build/numbers/small-roman-numeral-seven/index.html
+      create  build/numbers/small-roman-numeral-eight/index.html
+      create  build/math/up-right-diagonal-ellipsis/index.html
+      create  build/numbers/small-roman-numeral-eleven/index.html
+      create  build/numbers/small-roman-numeral-twelve/index.html
+      create  build/numbers/small-roman-numeral-fifty/index.html
+      create  build/numbers/small-roman-numeral-one-hundred/index.html
+      create  build/numbers/small-roman-numeral-five-hundred/index.html
+      create  build/numbers/small-roman-numeral-one-thousand/index.html
+      create  build/numbers/roman-numeral-one-thousand-c-d/index.html
+      create  build/numbers/roman-numeral-five-thousand/index.html
+      create  build/numbers/roman-numeral-ten-thousand/index.html
+      create  build/numbers/roman-numeral-reversed-one-hundred/index.html
+      create  build/numbers/latin-small-letter-reversed-c/index.html
+      create  build/numbers/roman-numeral-six-late-form/index.html
+      create  build/numbers/roman-numeral-fifty-early-form/index.html
+      create  build/numbers/vulgar-fraction-zero-thirds/index.html
+      create  build/arrows/index.html
+        gzip  build/arrows/anticlockwise-open-circle-arrow/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/clockwise-open-circle-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/clockwise-top-semicircle-arrow/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/anticlockwise-top-semicircle-arrow/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/downwards-arrow/index.html.gz (5.7 KB smaller)
+        gzip  build/arrows/downwards-arrow-from-bar/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/downwards-arrow-leftwards-of-upwards-arrow/index.html.gz (6 KB smaller)
+        gzip  build/arrows/downwards-arrow-with-corner-leftwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/downwards-arrow-with-double-stroke/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/downwards-arrow-with-tip-leftwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/downwards-dashed-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/downwards-double-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/downwards-arrow-with-tip-rightwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/downwards-harpoon-with-barb-rightwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/downwards-harpoon-with-barb-leftwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/downwards-paired-arrows/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/downwards-two-headed-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/downwards-white-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/left-right-arrow/index.html.gz (5.7 KB smaller)
+        gzip  build/arrows/downwards-zigzag-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/index.html.gz (64.2 KB smaller)
+        gzip  build/arrows/left-right-arrow-with-double-vertical-stroke/index.html.gz (6 KB smaller)
+        gzip  build/arrows/left-right-arrow-with-vertical-stroke/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/left-right-arrow-with-stroke/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/left-right-double-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/left-right-open-headed-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/left-right-wave-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/left-right-double-arrow-with-stroke/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/leftwards-arrow/index.html.gz (5.7 KB smaller)
+        gzip  build/arrows/leftwards-arrow-from-bar/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-arrow-to-bar/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-arrow-over-rightwards-arrow/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/leftwards-arrow-to-bar-over-rightwards-arrow-to-bar/index.html.gz (6 KB smaller)
+        gzip  build/arrows/leftwards-arrow-with-hook/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-arrow-with-double-vertical-stroke/index.html.gz (6 KB smaller)
+        gzip  build/arrows/leftwards-arrow-with-loop/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-arrow-with-tail/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-arrow-with-stroke/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-arrow-with-vertical-stroke/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/leftwards-double-arrow-with-stroke/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/leftwards-dashed-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-double-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-harpoon-over-rightwards-harpoon/index.html.gz (6 KB smaller)
+        gzip  build/arrows/leftwards-harpoon-with-barb-downwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/leftwards-harpoon-with-barb-upwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/leftwards-squiggle-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-open-headed-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-paired-arrows/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-triple-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-two-headed-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-wave-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/leftwards-white-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/north-east-arrow/index.html.gz (5.7 KB smaller)
+        gzip  build/arrows/north-east-double-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/north-west-arrow/index.html.gz (5.7 KB smaller)
+        gzip  build/arrows/north-west-arrow-to-corner/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/north-west-arrow-to-long-bar/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/north-west-double-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-arrow/index.html.gz (5.7 KB smaller)
+        gzip  build/arrows/right-arrow-with-small-circle/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-arrow-from-bar/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-arrow-to-bar/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-arrow-over-leftwards-arrow/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/rightwards-arrow-with-double-vertical-stroke/index.html.gz (6 KB smaller)
+        gzip  build/arrows/rightwards-arrow-with-corner-downwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/rightwards-arrow-with-hook/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-arrow-with-loop/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-arrow-with-stroke/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-dashed-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-arrow-with-tail/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-arrow-with-vertical-stroke/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/rightwards-double-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-double-arrow-with-stroke/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/rightwards-harpoon-over-leftwards-harpoon/index.html.gz (6 KB smaller)
+        gzip  build/arrows/rightwards-harpoon-with-barb-downwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/rightwards-harpoon-with-barb-upwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/rightwards-open-headed-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-paired-arrows/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-squiggle-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-triple-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-two-headed-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-wave-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/rightwards-white-arrow-from-wall/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/rightwards-white-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/south-east-arrow/index.html.gz (5.7 KB smaller)
+        gzip  build/arrows/south-east-arrow-to-corner/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/south-east-double-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/south-west-arrow/index.html.gz (5.7 KB smaller)
+        gzip  build/arrows/three-rightwards-arrows/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/south-west-double-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/up-down-arrow/index.html.gz (5.7 KB smaller)
+        gzip  build/arrows/up-down-double-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/up-down-arrow-with-base/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/upwards-arrow/index.html.gz (5.7 KB smaller)
+        gzip  build/arrows/up-down-white-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/upwards-arrow-from-bar/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/upwards-arrow-leftwards-of-downwards-arrow/index.html.gz (6 KB smaller)
+        gzip  build/arrows/upwards-arrow-with-double-stroke/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/upwards-arrow-with-tip-leftwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/upwards-arrow-with-tip-rightwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/upwards-dashed-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/upwards-harpoon-with-barb-leftwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/upwards-double-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/upwards-harpoon-with-barb-rightwards/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/upwards-paired-arrows/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/upwards-two-headed-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/upwards-white-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/upwards-white-arrow-from-bar/index.html.gz (5.8 KB smaller)
+        gzip  build/arrows/upwards-white-arrow-on-pedestal/index.html.gz (5.9 KB smaller)
+        gzip  build/arrows/upwards-white-arrow-on-pedestal-with-horizontal-bar/index.html.gz (6 KB smaller)
+        gzip  build/arrows/upwards-white-arrow-on-pedestal-with-vertical-bar/index.html.gz (6 KB smaller)
+        gzip  build/arrows/upwards-white-double-arrow-on-pedestal/index.html.gz (5.9 KB smaller)
+        gzip  build/assets/javascripts/classie-60d57e07.js.gz (453 Bytes smaller)
+        gzip  build/arrows/upwards-white-double-arrow/index.html.gz (5.8 KB smaller)
+        gzip  build/assets/javascripts/body-dfa32a34.js.gz (10.5 KB smaller)
+        gzip  build/assets/javascripts/head-da39a3ee.js.gz (20 Bytes larger)
+        gzip  build/assets/javascripts/fontscale-a57fb809.js.gz (605 Bytes smaller)
+        gzip  build/assets/javascripts/hydrogen-0.0.1-cce3b673.js.gz (487 Bytes smaller)
+        gzip  build/assets/javascripts/fastclick-1.0.6.min-2973f0ad.js.gz (5.2 KB smaller)
+        gzip  build/assets/javascripts/headroom-0.7.0.min-fadd0d12.js.gz (2.8 KB smaller)
+        gzip  build/assets/javascripts/jquery-bigtext-1.3.0-b82e3dbb.js.gz (2 KB smaller)
+        gzip  build/assets/stylesheets/normalize-7efa2312.css.gz (864 Bytes smaller)
+        gzip  build/assets/stylesheets/all-0e537fc0.css.gz (30 KB smaller)
+        gzip  build/assets/stylesheets/hydrogen-18094b14.css.gz (27.2 KB smaller)
+        gzip  build/currency/austral-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/bengali-rupee-mark/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/cedi-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/bengali-rupee-sign/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/cent-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/cruzeiro-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/colon-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/currency-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/dollar-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/dong-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/drachma-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/euro-currency-sign/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/french-franc-sign/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/euro-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/assets/javascripts/jquery-1.11.2.min-6d2507ac.js.gz (61.6 KB smaller)
+        gzip  build/currency/fullwidth-pound-sign/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/fullwidth-cent-sign/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/fullwidth-dollar-sign/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/fullwidth-won-sign/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/fullwidth-yen-sign/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/german-penny-symbol/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/guarani-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/gujarati-rupee-sign/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/hryvnia-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/indian-rupee-sign/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/khmer-currency-symbol-riel/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/kip-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/index.html.gz (30.6 KB smaller)
+        gzip  build/currency/lira-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/livre-tournois-sign/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/manat-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/naira-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/mill-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/new-sheqel-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/peseta-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/pound-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/rial-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/peso-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/ruble-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/rupee-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/tamil-rupee-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/square-yuan/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/thai-currency-symbol-baht/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/tenge-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/tugrik-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/turkish-lira-sign/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/won-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/won-character/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/yen-character/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/yen-yuan-character-variant-one/index.html.gz (5.9 KB smaller)
+        gzip  build/currency/yen-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/currency/yen-yuan-character-variant-three/index.html.gz (5.9 KB smaller)
+        gzip  build/currency/yen-yuan-character-variant-two/index.html.gz (5.9 KB smaller)
+        gzip  build/currency/yuan-character-in-china/index.html.gz (5.8 KB smaller)
+        gzip  build/currency/yuan-character-in-hong-kong-and-taiwan/index.html.gz (5.9 KB smaller)
+        gzip  build/letters/lowercase-a/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-a-with-acute/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-a-with-circumflex/index.html.gz (5.8 KB smaller)
+        gzip  build/index.html.gz (82.1 KB smaller)
+        gzip  build/letters/lowercase-a-with-grave/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/index.html.gz (63.7 KB smaller)
+        gzip  build/letters/lowercase-a-with-ring/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-a-with-tilde/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-ae/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-a-with-umlaut/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-b/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-c/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-c-with-cedilla/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-e/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-d/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-e-with-acute/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-e-with-circumflex/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-e-with-umlaut/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-e-with-grave/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-eth/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-ess-zed/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-f/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-g/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-h/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-i/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-i-with-acute/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-i-with-circumflex/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-i-with-grave/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-i-with-umlaut/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-j/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-k/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-l/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-n/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-m/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-n-with-tilde/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-o/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-o-with-acute/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-o-with-circumflex/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-o-with-slash/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-o-with-grave/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-o-with-tilde/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-p/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-o-with-umlaut/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-oe/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-q/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-r/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-s/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-s-with-caron/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-t/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-thorn/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-u/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-u-with-acute/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-u-with-circumflex/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-u-with-grave/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-u-with-umlaut/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-w/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-v/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-y/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-y-with-acute/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/lowercase-x/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-y-with-umlaut/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-a/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/lowercase-z/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-a-with-circumflex/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-a-with-acute/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-a-with-grave/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-a-with-ring/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-a-with-umlaut/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-a-with-tilde/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-b/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-ae/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-c-with-cedilla/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-c/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-e/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-d/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-e-with-acute/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-e-with-circumflex/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-e-with-grave/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-e-with-umlaut/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-eth/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-f/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-h/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-g/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-i/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-j/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-k/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-l/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-l-with-circumflex/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-l-with-acute/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-l-with-grave/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-l-with-umlaut/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-n/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-m/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-n-with-tilde/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-o/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-o-with-acute/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-o-with-circumflex/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-o-with-grave/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-o-with-slash/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-o-with-tilde/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-oe/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-o-with-umlaut/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-q/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-p/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-s/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-r/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-t/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-s-with-caron/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-u/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-thorn/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-u-with-acute/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-u-with-circumflex/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-u-with-umlaut/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-u-with-grave/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-v/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-w/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-x/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-y-with-acute/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-y/index.html.gz (5.7 KB smaller)
+        gzip  build/letters/uppercase-y-with-umlaut/index.html.gz (5.8 KB smaller)
+        gzip  build/letters/uppercase-z/index.html.gz (5.7 KB smaller)
+        gzip  build/math/all-equal-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/almost-equal-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/almost-equal-or-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/angle/index.html.gz (5.6 KB smaller)
+        gzip  build/math/anticlockwise-contour-integral/index.html.gz (5.8 KB smaller)
+        gzip  build/math/approaches-the-limit/index.html.gz (5.8 KB smaller)
+        gzip  build/math/approximately-but-not-actually-equal-to/index.html.gz (5.9 KB smaller)
+        gzip  build/math/approximately-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/approximately-equal-to-or-the-image-of/index.html.gz (5.9 KB smaller)
+        gzip  build/math/asterisk-operator/index.html.gz (5.7 KB smaller)
+        gzip  build/math/assertion/index.html.gz (5.7 KB smaller)
+        gzip  build/math/because/index.html.gz (5.6 KB smaller)
+        gzip  build/math/asymptotically-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/between/index.html.gz (5.6 KB smaller)
+        gzip  build/math/bowtie/index.html.gz (5.6 KB smaller)
+        gzip  build/math/bullet-operator/index.html.gz (5.7 KB smaller)
+        gzip  build/math/circled-asterisk-operator/index.html.gz (5.8 KB smaller)
+        gzip  build/math/circled-dash/index.html.gz (5.7 KB smaller)
+        gzip  build/math/circled-division-slash/index.html.gz (5.8 KB smaller)
+        gzip  build/math/circled-dot-operator/index.html.gz (5.8 KB smaller)
+        gzip  build/math/circled-equals/index.html.gz (5.7 KB smaller)
+        gzip  build/math/circled-minus/index.html.gz (5.7 KB smaller)
+        gzip  build/math/circled-plus/index.html.gz (5.7 KB smaller)
+        gzip  build/math/circled-ring-operator/index.html.gz (5.8 KB smaller)
+        gzip  build/math/circled-times/index.html.gz (5.7 KB smaller)
+        gzip  build/math/clockwise-contour-integral/index.html.gz (5.8 KB smaller)
+        gzip  build/math/clockwise-integral/index.html.gz (5.7 KB smaller)
+        gzip  build/math/colon-equals/index.html.gz (5.7 KB smaller)
+        gzip  build/math/complement/index.html.gz (5.7 KB smaller)
+        gzip  build/math/contains-as-member/index.html.gz (5.7 KB smaller)
+        gzip  build/math/contains-as-normal-subgroup/index.html.gz (5.8 KB smaller)
+        gzip  build/math/contains-as-normal-subgroup-or-equal-to/index.html.gz (5.9 KB smaller)
+        gzip  build/math/contains-with-long-horizontal-stroke/index.html.gz (5.9 KB smaller)
+        gzip  build/math/contains-with-overbar/index.html.gz (5.8 KB smaller)
+        gzip  build/math/contains-with-vertical-bar-at-end-of-horizontal-stroke/index.html.gz (6 KB smaller)
+        gzip  build/math/contour-integral/index.html.gz (5.7 KB smaller)
+        gzip  build/math/corresponds-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/cube-root/index.html.gz (5.7 KB smaller)
+        gzip  build/math/curly-logical-and/index.html.gz (5.7 KB smaller)
+        gzip  build/math/curly-logical-or/index.html.gz (5.7 KB smaller)
+        gzip  build/math/delta-equal-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/difference-between/index.html.gz (5.7 KB smaller)
+        gzip  build/math/diamond-operator/index.html.gz (5.7 KB smaller)
+        gzip  build/math/divides/index.html.gz (5.6 KB smaller)
+        gzip  build/math/division-slash/index.html.gz (5.7 KB smaller)
+        gzip  build/math/does-not-contain-as-member/index.html.gz (5.8 KB smaller)
+        gzip  build/math/division-times/index.html.gz (5.7 KB smaller)
+        gzip  build/math/does-not-contain-as-normal-subgroup/index.html.gz (5.9 KB smaller)
+        gzip  build/math/does-not-divide/index.html.gz (5.7 KB smaller)
+        gzip  build/math/does-not-force/index.html.gz (5.7 KB smaller)
+        gzip  build/math/does-not-contain-as-normal-subgroup-or-equal/index.html.gz (6 KB smaller)
+        gzip  build/math/does-not-precede/index.html.gz (5.7 KB smaller)
+        gzip  build/math/does-not-precede-or-equal/index.html.gz (5.8 KB smaller)
+        gzip  build/math/does-not-prove/index.html.gz (5.7 KB smaller)
+        gzip  build/math/does-not-succeed-or-equal/index.html.gz (5.8 KB smaller)
+        gzip  build/math/dot-minus/index.html.gz (5.7 KB smaller)
+        gzip  build/math/does-not-succeed/index.html.gz (5.7 KB smaller)
+        gzip  build/math/dot-operator/index.html.gz (5.7 KB smaller)
+        gzip  build/math/double-integral/index.html.gz (5.7 KB smaller)
+        gzip  build/math/dot-plus/index.html.gz (5.7 KB smaller)
+        gzip  build/math/double-intersection/index.html.gz (5.8 KB smaller)
+        gzip  build/math/double-superset/index.html.gz (5.7 KB smaller)
+        gzip  build/math/double-union/index.html.gz (5.7 KB smaller)
+        gzip  build/math/double-subset/index.html.gz (5.7 KB smaller)
+        gzip  build/math/double-vertical-bar-double-right-turnstile/index.html.gz (5.9 KB smaller)
+        gzip  build/math/element-of/index.html.gz (5.7 KB smaller)
+        gzip  build/math/down-tack/index.html.gz (5.7 KB smaller)
+        gzip  build/math/down-right-diagonal-ellipsis/index.html.gz (5.8 KB smaller)
+        gzip  build/math/element-of-with-dot-above/index.html.gz (5.8 KB smaller)
+        gzip  build/math/element-of-with-overbar/index.html.gz (5.8 KB smaller)
+        gzip  build/math/element-of-with-long-horizontal-stroke/index.html.gz (5.9 KB smaller)
+        gzip  build/math/element-of-with-two-horizontal-strokes/index.html.gz (5.9 KB smaller)
+        gzip  build/math/element-of-with-underbar/index.html.gz (5.8 KB smaller)
+        gzip  build/math/element-of-with-vertical-bar-at-end-of-horizontal-stroke/index.html.gz (6.1 KB smaller)
+        gzip  build/math/end-of-proof/index.html.gz (5.7 KB smaller)
+        gzip  build/math/empty-set/index.html.gz (5.7 KB smaller)
+        gzip  build/math/equal-and-parallel-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/equal-to-or-greater-than/index.html.gz (5.8 KB smaller)
+        gzip  build/math/equal-to-or-less-than/index.html.gz (5.8 KB smaller)
+        gzip  build/math/equal-to-by-definition/index.html.gz (5.8 KB smaller)
+        gzip  build/math/equal-to-or-precedes/index.html.gz (5.8 KB smaller)
+        gzip  build/math/equal-to-or-succeeds/index.html.gz (5.8 KB smaller)
+        gzip  build/math/equiangular-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/equals-colon/index.html.gz (5.7 KB smaller)
+        gzip  build/math/equivalent-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/estimates/index.html.gz (5.7 KB smaller)
+        gzip  build/math/excess/index.html.gz (5.6 KB smaller)
+        gzip  build/math/forces/index.html.gz (5.6 KB smaller)
+        gzip  build/math/for-all/index.html.gz (5.6 KB smaller)
+        gzip  build/math/fourth-root/index.html.gz (5.7 KB smaller)
+        gzip  build/math/geometrically-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/geometric-proportion/index.html.gz (5.8 KB smaller)
+        gzip  build/math/geometrically-equivalent-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/greater-than-but-not-equivalent-to/index.html.gz (5.9 KB smaller)
+        gzip  build/math/greater-than-but-not-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/greater-than-or-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/greater-than-equal-to-or-less-than/index.html.gz (5.9 KB smaller)
+        gzip  build/math/greater-than-or-equivalent-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/greater-than-or-less-than/index.html.gz (5.8 KB smaller)
+        gzip  build/math/greater-than-over-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/hermitian-conjugate-matrix/index.html.gz (5.8 KB smaller)
+        gzip  build/math/greater-than-with-dot/index.html.gz (5.8 KB smaller)
+        gzip  build/math/identical-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/homothetic/index.html.gz (5.7 KB smaller)
+        gzip  build/math/image-of/index.html.gz (5.7 KB smaller)
+        gzip  build/math/image-of-or-approximately-equal-to/index.html.gz (5.9 KB smaller)
+        gzip  build/math/increment/index.html.gz (5.7 KB smaller)
+        gzip  build/math/infinity/index.html.gz (5.7 KB smaller)
+        gzip  build/math/integral/index.html.gz (5.7 KB smaller)
+        gzip  build/math/intercalate/index.html.gz (5.7 KB smaller)
+        gzip  build/math/intersection/index.html.gz (5.7 KB smaller)
+        gzip  build/math/inverted-lazy-s/index.html.gz (5.7 KB smaller)
+        gzip  build/math/left-normal-factor-semidirect-product/index.html.gz (5.9 KB smaller)
+        gzip  build/math/left-semidirect-product/index.html.gz (5.8 KB smaller)
+        gzip  build/math/left-tack/index.html.gz (5.7 KB smaller)
+        gzip  build/math/less-than-but-not-equivalent-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/less-than-but-not-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/less-than-equal-to-or-greater-than/index.html.gz (5.9 KB smaller)
+        gzip  build/math/less-than-or-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/index.html.gz (132.2 KB smaller)
+        gzip  build/math/less-than-or-equivalent-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/less-than-or-greater-than/index.html.gz (5.8 KB smaller)
+        gzip  build/math/less-than-over-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/less-than-with-dot/index.html.gz (5.7 KB smaller)
+        gzip  build/math/logical-and/index.html.gz (5.7 KB smaller)
+        gzip  build/math/measured-angle/index.html.gz (5.7 KB smaller)
+        gzip  build/math/logical-or/index.html.gz (5.7 KB smaller)
+        gzip  build/math/measured-by/index.html.gz (5.7 KB smaller)
+        gzip  build/math/midline-horizontal-ellipsis/index.html.gz (5.8 KB smaller)
+        gzip  build/math/minus-or-plus-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/math/minus-sign/index.html.gz (5.7 KB smaller)
+        gzip  build/math/minus-tilde/index.html.gz (5.7 KB smaller)
+        gzip  build/math/models/index.html.gz (5.6 KB smaller)
+        gzip  build/math/much-greater-than/index.html.gz (5.7 KB smaller)
+        gzip  build/math/much-less-than/index.html.gz (5.7 KB smaller)
+        gzip  build/math/multimap/index.html.gz (5.7 KB smaller)
+        gzip  build/math/multiset/index.html.gz (5.7 KB smaller)
+        gzip  build/math/multiset-union/index.html.gz (5.7 KB smaller)
+        gzip  build/math/n-ary-coproduct/index.html.gz (5.7 KB smaller)
+        gzip  build/math/multiset-multiplication/index.html.gz (5.8 KB smaller)
+        gzip  build/math/n-ary-intersection/index.html.gz (5.7 KB smaller)
+        gzip  build/math/n-ary-logical-and/index.html.gz (5.7 KB smaller)
+        gzip  build/math/n-ary-logical-or/index.html.gz (5.7 KB smaller)
+        gzip  build/math/n-ary-product/index.html.gz (5.7 KB smaller)
+        gzip  build/math/n-ary-summation/index.html.gz (5.7 KB smaller)
+        gzip  build/math/nabla/index.html.gz (5.6 KB smaller)
+        gzip  build/math/n-ary-union/index.html.gz (5.7 KB smaller)
+        gzip  build/math/nand/index.html.gz (5.6 KB smaller)
+        gzip  build/math/negated-double-vertical-bar-double-right-turnstile/index.html.gz (6 KB smaller)
+        gzip  build/math/neither-a-superset-of-nor-equal-to/index.html.gz (5.9 KB smaller)
+        gzip  build/math/neither-approximately-nor-actually-equal-to/index.html.gz (6 KB smaller)
+        gzip  build/math/neither-a-subset-of-nor-equal-to/index.html.gz (5.9 KB smaller)
+        gzip  build/math/neither-greater-than-nor-equivalent-to/index.html.gz (5.9 KB smaller)
+        gzip  build/math/neither-greater-than-nor-equal-to/index.html.gz (5.9 KB smaller)
+        gzip  build/math/neither-greater-than-nor-less-than/index.html.gz (5.9 KB smaller)
+        gzip  build/math/neither-less-than-nor-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/neither-less-than-nor-equivalent-to/index.html.gz (5.9 KB smaller)
+        gzip  build/math/nor/index.html.gz (5.6 KB smaller)
+        gzip  build/math/neither-less-than-nor-greater-than/index.html.gz (5.9 KB smaller)
+        gzip  build/math/normal-subgroup-of/index.html.gz (5.7 KB smaller)
+        gzip  build/math/normal-subgroup-of-or-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/not-a-superset-of/index.html.gz (5.7 KB smaller)
+        gzip  build/math/not-almost-equal-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/not-a-subset-of/index.html.gz (5.7 KB smaller)
+        gzip  build/math/not-an-element-of/index.html.gz (5.7 KB smaller)
+        gzip  build/math/not-asymptotically-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/not-equal-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/not-equivalent-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/not-greater-than/index.html.gz (5.7 KB smaller)
+        gzip  build/math/not-identical-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/not-less-than/index.html.gz (5.7 KB smaller)
+        gzip  build/math/not-normal-subgroup-of/index.html.gz (5.8 KB smaller)
+        gzip  build/math/not-parallel-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/not-normal-subgroup-of-or-equal-to/index.html.gz (5.9 KB smaller)
+        gzip  build/math/not-square-image-of-or-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/not-square-original-of-or-equal-to/index.html.gz (5.9 KB smaller)
+        gzip  build/math/not-tilde/index.html.gz (5.7 KB smaller)
+        gzip  build/math/original-of/index.html.gz (5.7 KB smaller)
+        gzip  build/math/not-true/index.html.gz (5.7 KB smaller)
+        gzip  build/math/parallel-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/partial-differential/index.html.gz (5.8 KB smaller)
+        gzip  build/math/pitchfork/index.html.gz (5.7 KB smaller)
+        gzip  build/math/precedes/index.html.gz (5.7 KB smaller)
+        gzip  build/math/precedes-but-not-equivalent-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/precedes-or-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/precedes-or-equivalent-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/proportion/index.html.gz (5.7 KB smaller)
+        gzip  build/math/precedes-under-relation/index.html.gz (5.8 KB smaller)
+        gzip  build/math/proportional-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/questioned-equal-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/ratio/index.html.gz (5.6 KB smaller)
+        gzip  build/math/right-angle/index.html.gz (5.7 KB smaller)
+        gzip  build/math/reversed-tilde/index.html.gz (5.7 KB smaller)
+        gzip  build/math/reversed-tilde-equals/index.html.gz (5.8 KB smaller)
+        gzip  build/math/right-normal-factor-semidirect-product/index.html.gz (5.9 KB smaller)
+        gzip  build/math/right-angle-with-arc/index.html.gz (5.8 KB smaller)
+        gzip  build/math/right-semidirect-product/index.html.gz (5.8 KB smaller)
+        gzip  build/math/right-tack/index.html.gz (5.7 KB smaller)
+        gzip  build/math/right-triangle/index.html.gz (5.7 KB smaller)
+        gzip  build/math/ring-equal-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/ring-in-equal-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/ring-operator/index.html.gz (5.7 KB smaller)
+        gzip  build/math/sine-wave/index.html.gz (5.7 KB smaller)
+        gzip  build/math/set-minus/index.html.gz (5.7 KB smaller)
+        gzip  build/math/small-contains-with-overbar/index.html.gz (5.8 KB smaller)
+        gzip  build/math/small-contains-as-member/index.html.gz (5.8 KB smaller)
+        gzip  build/math/small-element-of/index.html.gz (5.7 KB smaller)
+        gzip  build/math/small-contains-with-vertical-bar-at-end-of-horizontal-stroke/index.html.gz (6.1 KB smaller)
+        gzip  build/math/small-element-of-with-vertical-bar-at-end-of-horizontal-stroke/index.html.gz (6.1 KB smaller)
+        gzip  build/math/small-element-of-with-overbar/index.html.gz (5.8 KB smaller)
+        gzip  build/math/spherical-angle/index.html.gz (5.7 KB smaller)
+        gzip  build/math/square-cap/index.html.gz (5.7 KB smaller)
+        gzip  build/math/square-image-of/index.html.gz (5.7 KB smaller)
+        gzip  build/math/square-image-of-or-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/square-cup/index.html.gz (5.7 KB smaller)
+        gzip  build/math/square-image-of-or-not-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/square-original-of/index.html.gz (5.7 KB smaller)
+        gzip  build/math/square-original-of-or-not-equal-to/index.html.gz (5.9 KB smaller)
+        gzip  build/math/square-original-of-or-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/square-root/index.html.gz (5.7 KB smaller)
+        gzip  build/math/squared-dot-operator/index.html.gz (5.8 KB smaller)
+        gzip  build/math/squared-plus/index.html.gz (5.7 KB smaller)
+        gzip  build/math/squared-minus/index.html.gz (5.7 KB smaller)
+        gzip  build/math/star-equals/index.html.gz (5.7 KB smaller)
+        gzip  build/math/squared-times/index.html.gz (5.7 KB smaller)
+        gzip  build/math/star-operator/index.html.gz (5.7 KB smaller)
+        gzip  build/math/strictly-equivalent-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/subset-of-or-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/subset-of/index.html.gz (5.7 KB smaller)
+        gzip  build/math/subset-of-with-not-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/succeeds/index.html.gz (5.7 KB smaller)
+        gzip  build/math/succeeds-or-equal-to/index.html.gz (5.7 KB smaller)
+        gzip  build/math/succeeds-or-equivalent-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/succeeds-but-not-equivalent-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/succeeds-under-relation/index.html.gz (5.8 KB smaller)
+        gzip  build/math/superset-of/index.html.gz (5.7 KB smaller)
+        gzip  build/math/superset-of-or-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/superset-of-with-not-equal-to/index.html.gz (5.8 KB smaller)
+        gzip  build/math/there-does-not-exist/index.html.gz (5.8 KB smaller)
+        gzip  build/math/surface-integral/index.html.gz (5.7 KB smaller)
+        gzip  build/math/there-exists/index.html.gz (5.7 KB smaller)
+        gzip  build/math/therefore/index.html.gz (5.7 KB smaller)
+        gzip  build/math/tilde-operator/index.html.gz (5.7 KB smaller)
+        gzip  build/math/triple-tilde/index.html.gz (5.7 KB smaller)
+        gzip  build/math/triple-integral/index.html.gz (5.7 KB smaller)
+        gzip  build/math/triple-vertical-bar-right-turnstile/index.html.gz (5.9 KB smaller)
+        gzip  build/math/true/index.html.gz (5.6 KB smaller)
+        gzip  build/math/union/index.html.gz (5.6 KB smaller)
+        gzip  build/math/up-right-diagonal-ellipsis/index.html.gz (5.8 KB smaller)
+        gzip  build/math/up-tack/index.html.gz (5.6 KB smaller)
+        gzip  build/math/vertical-ellipsis/index.html.gz (5.7 KB smaller)
+        gzip  build/math/very-much-greater-than/index.html.gz (5.8 KB smaller)
+        gzip  build/math/very-much-less-than/index.html.gz (5.7 KB smaller)
+        gzip  build/math/volume-integral/index.html.gz (5.7 KB smaller)
+        gzip  build/math/z-notation-bag-membership/index.html.gz (5.8 KB smaller)
+        gzip  build/math/wreath-product/index.html.gz (5.7 KB smaller)
+        gzip  build/math/xor/index.html.gz (5.6 KB smaller)
+        gzip  build/numbers/eight/index.html.gz (5.6 KB smaller)
+        gzip  build/numbers/five/index.html.gz (5.6 KB smaller)
+        gzip  build/numbers/four/index.html.gz (5.6 KB smaller)
+        gzip  build/numbers/fraction-numerator-one/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/latin-small-letter-reversed-c/index.html.gz (5.9 KB smaller)
+        gzip  build/numbers/nine/index.html.gz (5.6 KB smaller)
+        gzip  build/numbers/index.html.gz (38.2 KB smaller)
+        gzip  build/numbers/one/index.html.gz (5.6 KB smaller)
+        gzip  build/numbers/roman-numeral-eight/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-eleven/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-fifty/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-fifty-early-form/index.html.gz (5.9 KB smaller)
+        gzip  build/numbers/roman-numeral-five/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-five-hundred/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-five-thousand/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-four/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-nine/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-one-hundred/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-one/index.html.gz (5.7 KB smaller)
+        gzip  build/numbers/roman-numeral-one-thousand/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-one-thousand-c-d/index.html.gz (5.9 KB smaller)
+        gzip  build/numbers/roman-numeral-reversed-one-hundred/index.html.gz (5.9 KB smaller)
+        gzip  build/numbers/roman-numeral-seven/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-six/index.html.gz (5.7 KB smaller)
+        gzip  build/numbers/roman-numeral-six-late-form/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-ten/index.html.gz (5.7 KB smaller)
+        gzip  build/numbers/roman-numeral-ten-thousand/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-three/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/roman-numeral-two/index.html.gz (5.7 KB smaller)
+        gzip  build/numbers/roman-numeral-twelve/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/six/index.html.gz (5.6 KB smaller)
+        gzip  build/numbers/seven/index.html.gz (5.6 KB smaller)
+        gzip  build/numbers/small-roman-numeral-eleven/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/small-roman-numeral-eight/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/small-roman-numeral-fifty/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/small-roman-numeral-four/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/small-roman-numeral-five-hundred/index.html.gz (5.9 KB smaller)
+        gzip  build/numbers/small-roman-numeral-five/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/small-roman-numeral-nine/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/small-roman-numeral-one/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/small-roman-numeral-one-hundred/index.html.gz (5.9 KB smaller)
+        gzip  build/numbers/small-roman-numeral-one-thousand/index.html.gz (5.9 KB smaller)
+        gzip  build/numbers/small-roman-numeral-seven/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/small-roman-numeral-ten/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/small-roman-numeral-six/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/small-roman-numeral-three/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/small-roman-numeral-twelve/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/small-roman-numeral-two/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/three/index.html.gz (5.6 KB smaller)
+        gzip  build/numbers/vulgar-fraction-five-eighths/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/two/index.html.gz (5.6 KB smaller)
+        gzip  build/numbers/vulgar-fraction-five-sixths/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/vulgar-fraction-four-fifths/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/vulgar-fraction-one-eighth/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/vulgar-fraction-one-fifth/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/vulgar-fraction-one-seventh/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/vulgar-fraction-one-ninth/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/vulgar-fraction-one-tenth/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/vulgar-fraction-one-sixth/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/vulgar-fraction-seven-eighths/index.html.gz (5.9 KB smaller)
+        gzip  build/numbers/vulgar-fraction-one-third/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/vulgar-fraction-three-eighths/index.html.gz (5.9 KB smaller)
+        gzip  build/numbers/vulgar-fraction-three-fifths/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/vulgar-fraction-two-fifths/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/vulgar-fraction-two-thirds/index.html.gz (5.8 KB smaller)
+        gzip  build/numbers/zero/index.html.gz (5.6 KB smaller)
+        gzip  build/numbers/vulgar-fraction-zero-thirds/index.html.gz (5.8 KB smaller)
+        gzip  build/punctuation/index.html.gz (38.5 KB smaller)
+        gzip  build/symbols/index.html.gz (38.2 KB smaller)
+        gzip  build/sitemap.xml.gz (115.2 KB smaller)
+        gzip  Total gzip savings: 4.1 MB
+There were errors during this build, re-run with `middleman build --verbose` to see the full exception.

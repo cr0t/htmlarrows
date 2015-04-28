@@ -1,7 +1,7 @@
 ---
 typeof: CollectionPage
-title: HTML Symbols — HTML Arrows
-description: HTML arrow codes and ascii characters, currency, copyright and trademark symbols, and all the other &wtf;, html, hex and ascii codes you can't remember.
+title: HTML Symbols, Entities and Codes — HTML Arrows
+description: The most beautiful HTML symbol codes and ASCII characters you will ever see, plus all those other HTML, ASCII and HEX codes you can never remember.
 image: 
 changefreq: "daily"
 priority: 1.0
@@ -20,7 +20,7 @@ priority: 1.0
 <%# Page Content %>
 <section class="row index symbols">
 
-	<% data.numbers.entities.each do |entity| %>
+	<% data.symbols.entities.each do |entity| %>
 		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
 	<% end %>
 

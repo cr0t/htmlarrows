@@ -50,6 +50,33 @@ window.onresize = function() {
   fontScale();
 }
 
+// click selector
+function selector(element) {
+  var doc = document, 
+      text = element,
+      range, 
+      selection
+  ;    
+  if (doc.body.createTextRange) {
+      range = doc.body.createTextRange();
+      range.moveToElementText(text);
+      range.select();
+  } else if (window.getSelection) {
+      selection = window.getSelection();        
+      range = doc.createRange();
+      range.selectNodeContents(text);
+      selection.removeAllRanges();
+      selection.addRange(range);
+  }
+}
+
+document.onclick = function(e) {
+  var target = e.target
+  if (target.className === 'selectable') {
+      selector(target);
+  }
+};
+
 // social popups
 // $('.popup').click(function(event) {
 //   var width  = 600,

@@ -181,6 +181,51 @@
 			]
 		},
 		{
+      "name" : "Fraction One Quarter",
+      "slug" : "fraction-one-quarter",
+      "unicode" : "U+000BC",
+      "hex_code" : "#xbc;",
+      "html_code" : "#188;",
+      "html4_entity" : "frac14;",
+      "html5_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Fraction One Half",
+      "slug" : "fraction-one-half",
+      "unicode" : "U+000BD",
+      "hex_code" : "#xbd;",
+      "html_code" : "#189;",
+      "html4_entity" : "frac12;",
+      "html5_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Fraction Three Quarters",
+      "slug" : "fraction-three-quarters",
+      "unicode" : "U+000BE",
+      "hex_code" : "#xbe;",
+      "html_code" : "#190;",
+      "html4_entity" : "frac34;",
+      "html5_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+		{
 		  "name" : "Vulgar Fraction One Seventh",
 		  "slug" : "vulgar-fraction-one-seventh",
 		  "unicode" : "U+02150",

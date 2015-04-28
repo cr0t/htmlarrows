@@ -1,0 +1,1819 @@
+{
+	"entities" : [
+	{
+			"name" : "Exclamation Mark",
+			"slug" : "exclamation-mark",
+			"unicode" : "U+00021",
+			"hex_code" : "#x21;",
+			"html_code" : "#33;",
+			"html4_entity" : "",
+			"html5_entity" : "excl;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Quotation Mark",
+			"slug" : "quotation-mark",
+			"unicode" : "U+00022",
+			"hex_code" : "#x22;",
+			"html_code" : "#34;",
+			"html4_entity" : "",
+			"html5_entity" : "quot;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Number Sign",
+			"slug" : "number-sign",
+			"unicode" : "U+00023",
+			"hex_code" : "#x23;",
+			"html_code" : "#35;",
+			"html4_entity" : "",
+			"html5_entity" : "num;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Percent Sign",
+			"slug" : "percent-sign",
+			"unicode" : "U+00025",
+			"hex_code" : "#x25;",
+			"html_code" : "#37;",
+			"html4_entity" : "",
+			"html5_entity" : "percnt;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				}
+			]
+		},
+		{
+			"name" : "Ampersand",
+			"slug" : "ampersand",
+			"unicode" : "U+00026",
+			"hex_code" : "#x26;",
+			"html_code" : "#38;",
+			"html4_entity" : "amp;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Apostrophe",
+			"slug" : "apostrophe",
+			"unicode" : "U+00027",
+			"hex_code" : "#x27;",
+			"html_code" : "#39;",
+			"html4_entity" : "",
+			"html5_entity" : "apos;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Left Parenthesis",
+			"slug" : "left-parenthesis",
+			"unicode" : "U+00028",
+			"hex_code" : "#x28;",
+			"html_code" : "#40;",
+			"html4_entity" : "",
+			"html5_entity" : "lpar;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Right Parenthesis",
+			"slug" : "right-parenthesis",
+			"unicode" : "U+00029",
+			"hex_code" : "#x29;",
+			"html_code" : "#41;",
+			"html4_entity" : "",
+			"html5_entity" : "rpar;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Asterisk",
+			"slug" : "asterisk",
+			"unicode" : "U+0002A",
+			"hex_code" : "#x2a;",
+			"html_code" : "#42;",
+			"html4_entity" : "",
+			"html5_entity" : "ast;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Comma",
+			"slug" : "comma",
+			"unicode" : "U+0002C",
+			"hex_code" : "#x2c;",
+			"html_code" : "#44;",
+			"html4_entity" : "",
+			"html5_entity" : "comma;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Period",
+			"slug" : "period",
+			"unicode" : "U+0002E",
+			"hex_code" : "#x2e;",
+			"html_code" : "#46;",
+			"html4_entity" : "",
+			"html5_entity" : "period;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Slash",
+			"slug" : "slash",
+			"unicode" : "U+0002F",
+			"hex_code" : "#x2f;",
+			"html_code" : "#47;",
+			"html4_entity" : "",
+			"html5_entity" : "sol;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Colon",
+			"slug" : "colon",
+			"unicode" : "U+0003A",
+			"hex_code" : "#x3a;",
+			"html_code" : "#58;",
+			"html4_entity" : "",
+			"html5_entity" : "colon;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Semicolon",
+			"slug" : "semicolon",
+			"unicode" : "U+0003B",
+			"hex_code" : "#x3b;",
+			"html_code" : "#59;",
+			"html4_entity" : "",
+			"html5_entity" : "semi;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Question Mark",
+			"slug" : "question-mark",
+			"unicode" : "U+0003F",
+			"hex_code" : "#x3f;",
+			"html_code" : "#63;",
+			"html4_entity" : "",
+			"html5_entity" : "quest;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "At Symbol",
+			"slug" : "at-symbol",
+			"unicode" : "U+00040",
+			"hex_code" : "#x40;",
+			"html_code" : "#64;",
+			"html4_entity" : "",
+			"html5_entity" : "commat;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Left Bracket",
+			"slug" : "left-bracket",
+			"unicode" : "U+0005B",
+			"hex_code" : "#x5b;",
+			"html_code" : "#91;",
+			"html4_entity" : "",
+			"html5_entity" : "lbrack;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Backslash",
+			"slug" : "backslash",
+			"unicode" : "U+0005C",
+			"hex_code" : "#x5c;",
+			"html_code" : "#92;",
+			"html4_entity" : "",
+			"html5_entity" : "bsol;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Right Bracket",
+			"slug" : "right-bracket",
+			"unicode" : "U+0005D",
+			"hex_code" : "#x5d;",
+			"html_code" : "#93;",
+			"html4_entity" : "",
+			"html5_entity" : "rbrack;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Caret",
+			"slug" : "caret",
+			"unicode" : "U+0005E",
+			"hex_code" : "#x5e;",
+			"html_code" : "#94;",
+			"html4_entity" : "",
+			"html5_entity" : "Hat",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Underscore",
+			"slug" : "underscore",
+			"unicode" : "U+0005F",
+			"hex_code" : "#x5f;",
+			"html_code" : "#95;",
+			"html4_entity" : "",
+			"html5_entity" : "lowbar;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Grave Accent",
+			"slug" : "grave-accent",
+			"unicode" : "U+00060",
+			"hex_code" : "#x60;",
+			"html_code" : "#96;",
+			"html4_entity" : "",
+			"html5_entity" : "grave;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "diacritics"
+				}
+			]
+		},
+		{
+			"name" : "Left Brace",
+			"slug" : "left-brace",
+			"unicode" : "U+0007B",
+			"hex_code" : "#x7b;",
+			"html_code" : "#123;",
+			"html4_entity" : "",
+			"html5_entity" : "lbrace;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Vertical Bar",
+			"slug" : "vertical-bar",
+			"unicode" : "U+0007C",
+			"hex_code" : "#x7c;",
+			"html_code" : "#124;",
+			"html4_entity" : "",
+			"html5_entity" : "vert;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Right Brace",
+			"slug" : "right-brace",
+			"unicode" : "U+0007D",
+			"hex_code" : "#x7d;",
+			"html_code" : "#125;",
+			"html4_entity" : "",
+			"html5_entity" : "rbrace;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Tilde",
+			"slug" : "tilde",
+			"unicode" : "U+0007E",
+			"hex_code" : "#x7e;",
+			"html_code" : "#126;",
+			"html4_entity" : "",
+			"html5_entity" : "tilde;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Non-breaking Space",
+			"slug" : "non-breaking-space",
+			"unicode" : "U+000A0",
+			"hex_code" : "#xa0;",
+			"html_code" : "#160;",
+			"html4_entity" : "nbsp;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Inverted Exclamation Mark",
+			"slug" : "inverted-exclamation-mark",
+			"unicode" : "U+000A1",
+			"hex_code" : "#xa1;",
+			"html_code" : "#161;",
+			"html4_entity" : "iexcl;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Broken Vertical Bar",
+			"slug" : "broken-vertical-bar",
+			"unicode" : "U+000A6",
+			"hex_code" : "#xa6;",
+			"html_code" : "#166;",
+			"html4_entity" : "brvbar;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Section Sign",
+			"slug" : "section-sign",
+			"unicode" : "U+000A7",
+			"hex_code" : "#xa7;",
+			"html_code" : "#167;",
+			"html4_entity" : "sect;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Umlaut",
+			"slug" : "umlaut",
+			"unicode" : "U+000A8",
+			"hex_code" : "#xa8;",
+			"html_code" : "#168;",
+			"html4_entity" : "uml;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Copyright Sign",
+			"slug" : "copyright-sign",
+			"unicode" : "U+000A9",
+			"hex_code" : "#xa9;",
+			"html_code" : "#169;",
+			"html4_entity" : "copy;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Feminine Ordinal Indicator",
+			"slug" : "feminine-ordinal-indicator",
+			"unicode" : "U+000AA",
+			"hex_code" : "#xaa;",
+			"html_code" : "#170;",
+			"html4_entity" : "ordf;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Double Left-Pointing Angle Quotation Mark",
+			"slug" : "double-left-pointing-angle-quotation-mark",
+			"unicode" : "U+000AB",
+			"hex_code" : "#xab;",
+			"html_code" : "#171;",
+			"html4_entity" : "laquo;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Not Sign",
+			"slug" : "not-sign",
+			"unicode" : "U+000AC",
+			"hex_code" : "#xac;",
+			"html_code" : "#172;",
+			"html4_entity" : "not;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Soft Hyphen",
+			"slug" : "soft-hyphen",
+			"unicode" : "U+000AD",
+			"hex_code" : "#xad;",
+			"html_code" : "#173;",
+			"html4_entity" : "shy;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Registered Trade Mark Sign",
+			"slug" : "registered-trade-mark-sign",
+			"unicode" : "U+000AE",
+			"hex_code" : "#xae;",
+			"html_code" : "#174;",
+			"html4_entity" : "reg;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Spacing Macron",
+			"slug" : "spacing-macron",
+			"unicode" : "U+000AF",
+			"hex_code" : "#xaf;",
+			"html_code" : "#175;",
+			"html4_entity" : "macr;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Superscript Two",
+			"slug" : "superscript-two",
+			"unicode" : "U+000B2",
+			"hex_code" : "#xb2;",
+			"html_code" : "#178;",
+			"html4_entity" : "sup2;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				}
+			]
+		},
+		{
+			"name" : "Superscript Three",
+			"slug" : "superscript-three",
+			"unicode" : "U+000B3",
+			"hex_code" : "#xb3;",
+			"html_code" : "#179;",
+			"html4_entity" : "sup3;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				}
+			]
+		},
+		{
+			"name" : "Acute Accent",
+			"slug" : "acute-accent",
+			"unicode" : "U+000B4",
+			"hex_code" : "#xb4;",
+			"html_code" : "#180;",
+			"html4_entity" : "acute;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Micro Sign",
+			"slug" : "micro-sign",
+			"unicode" : "U+000B5",
+			"hex_code" : "#xb5;",
+			"html_code" : "#181;",
+			"html4_entity" : "micro;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				}
+			]
+		},
+		{
+			"name" : "Paragraph Sign",
+			"slug" : "paragraph-sign",
+			"unicode" : "U+000B6",
+			"hex_code" : "#xb6;",
+			"html_code" : "#182;",
+			"html4_entity" : "para;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Middle Dot",
+			"slug" : "middle-dot",
+			"unicode" : "U+000B7",
+			"hex_code" : "#xb7;",
+			"html_code" : "#183;",
+			"html4_entity" : "middot;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Spacing Cedilla",
+			"slug" : "spacing-cedilla",
+			"unicode" : "U+000B8",
+			"hex_code" : "#xb8;",
+			"html_code" : "#184;",
+			"html4_entity" : "cedil;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Superscript One",
+			"slug" : "superscript-one",
+			"unicode" : "U+000B9",
+			"hex_code" : "#xb9;",
+			"html_code" : "#185;",
+			"html4_entity" : "sup1;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				}
+			]
+		},
+		{
+			"name" : "Masculine Ordinal Indicator",
+			"slug" : "masculine-ordinal-indicator",
+			"unicode" : "U+000BA",
+			"hex_code" : "#xba;",
+			"html_code" : "#186;",
+			"html4_entity" : "ordm;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Double Right-Pointing Angle Quotation Mark",
+			"slug" : "double-right-pointing-angle-quotation-mark",
+			"unicode" : "U+000BB",
+			"hex_code" : "#xbb;",
+			"html_code" : "#187;",
+			"html4_entity" : "raquo;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Inverted Question Mark",
+			"slug" : "inverted-question-mark",
+			"unicode" : "U+000BF",
+			"hex_code" : "#xbf;",
+			"html_code" : "#191;",
+			"html4_entity" : "iquest;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+		  "name" : "Hyphen",
+		  "slug" : "hyphen",
+		  "unicode" : "U+02010",
+		  "hex_code" : "#x2010;",
+		  "html_code" : "#8208;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Non-Breaking Hyphen",
+		  "slug" : "non-breaking-hyphen",
+		  "unicode" : "U+02011",
+		  "hex_code" : "#x2011;",
+		  "html_code" : "#8209;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Figure Dash",
+		  "slug" : "figure-dash",
+		  "unicode" : "U+02012",
+		  "hex_code" : "#x2012;",
+		  "html_code" : "#8210;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "En Dash",
+		  "slug" : "en-dash",
+		  "unicode" : "U+02013",
+		  "hex_code" : "#x2013;",
+		  "html_code" : "#8211;",
+		  "html4_entity" : "ndash;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Em Dash",
+		  "slug" : "em-dash",
+		  "unicode" : "U+02014",
+		  "hex_code" : "#x2014;",
+		  "html_code" : "#8212;",
+		  "html4_entity" : "mdash;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Horizontal Bar",
+		  "slug" : "horizontal-bar",
+		  "unicode" : "U+02015",
+		  "hex_code" : "#x2015;",
+		  "html_code" : "#8213;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double Vertical Line",
+		  "slug" : "double-vertical-line",
+		  "unicode" : "U+02016",
+		  "hex_code" : "#x2016;",
+		  "html_code" : "#8214;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double Low Line",
+		  "slug" : "double-low-line",
+		  "unicode" : "U+02017",
+		  "hex_code" : "#x2017;",
+		  "html_code" : "#8215;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Left Single Quotation Mark",
+		  "slug" : "left-single-quotation-mark",
+		  "unicode" : "U+02018",
+		  "hex_code" : "#x2018;",
+		  "html_code" : "#8216;",
+		  "html4_entity" : "lsquo;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Right Single Quotation Mark",
+		  "slug" : "right-single-quotation-mark",
+		  "unicode" : "U+02019",
+		  "hex_code" : "#x2019;",
+		  "html_code" : "#8217;",
+		  "html4_entity" : "rsquo;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Single Low-9 Quotation Mark",
+		  "slug" : "single-low-9-quotation-mark",
+		  "unicode" : "U+0201A",
+		  "hex_code" : "#x201A;",
+		  "html_code" : "#8218;",
+		  "html4_entity" : "sbquo;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Single High-Reversed-9 Quotation Mark",
+		  "slug" : "single-high-reversed-9-quotation-mark",
+		  "unicode" : "U+0201B",
+		  "hex_code" : "#x201B;",
+		  "html_code" : "#8219;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Left Double Quotation Mark",
+		  "slug" : "left-double-quotation-mark",
+		  "unicode" : "U+0201C",
+		  "hex_code" : "#x201C;",
+		  "html_code" : "#8220;",
+		  "html4_entity" : "ldquo;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Right Double Quotation Mark",
+		  "slug" : "right-double-quotation-mark",
+		  "unicode" : "U+0201D",
+		  "hex_code" : "#x201D;",
+		  "html_code" : "#8221;",
+		  "html4_entity" : "rdquo;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double Low-9 Quotation Mark",
+		  "slug" : "double-low-9-quotation-mark",
+		  "unicode" : "U+0201E",
+		  "hex_code" : "#x201E;",
+		  "html_code" : "#8222;",
+		  "html4_entity" : "bdquo;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double High-Reversed-9 Quotation Mark",
+		  "slug" : "double-high-reversed-9-quotation-mark",
+		  "unicode" : "U+0201F",
+		  "hex_code" : "#x201F;",
+		  "html_code" : "#8223;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dagger",
+		  "slug" : "dagger",
+		  "unicode" : "U+02020",
+		  "hex_code" : "#x2020;",
+		  "html_code" : "#8224;",
+		  "html4_entity" : "dagger;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double Dagger",
+		  "slug" : "double-dagger",
+		  "unicode" : "U+02021",
+		  "hex_code" : "#x2021;",
+		  "html_code" : "#8225;",
+		  "html4_entity" : "Dagger;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Bullet",
+		  "slug" : "bullet",
+		  "unicode" : "U+02022",
+		  "hex_code" : "#x2022;",
+		  "html_code" : "#8226;",
+		  "html4_entity" : "bull;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Triangular Bullet",
+		  "slug" : "triangular-bullet",
+		  "unicode" : "U+02023",
+		  "hex_code" : "#x2023;",
+		  "html_code" : "#8227;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "One Dot Leader",
+		  "slug" : "one-dot-leader",
+		  "unicode" : "U+02024",
+		  "hex_code" : "#x2024;",
+		  "html_code" : "#8228;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Two Dot Leader",
+		  "slug" : "two-dot-leader",
+		  "unicode" : "U+02025",
+		  "hex_code" : "#x2025;",
+		  "html_code" : "#8229;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Horizontal Ellipsis",
+		  "slug" : "horizontal-ellipsis",
+		  "unicode" : "U+02026",
+		  "hex_code" : "#x2026;",
+		  "html_code" : "#8230;",
+		  "html4_entity" : "hellip;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Hyphenation Point",
+		  "slug" : "hyphenation-point",
+		  "unicode" : "U+02027",
+		  "hex_code" : "#x2027;",
+		  "html_code" : "#8231;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Per Mille Sign",
+		  "slug" : "per-mille-sign",
+		  "unicode" : "U+02030",
+		  "hex_code" : "#x2030;",
+		  "html_code" : "#8240;",
+		  "html4_entity" : "permil;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Per Ten Thousand Sign",
+		  "slug" : "per-ten-thousand-sign",
+		  "unicode" : "U+02031",
+		  "hex_code" : "#x2031;",
+		  "html_code" : "#8241;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Prime",
+		  "slug" : "prime",
+		  "unicode" : "U+02032",
+		  "hex_code" : "#x2032;",
+		  "html_code" : "#8242;",
+		  "html4_entity" : "prime;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double Prime",
+		  "slug" : "double-prime",
+		  "unicode" : "U+02033",
+		  "hex_code" : "#x2033;",
+		  "html_code" : "#8243;",
+		  "html4_entity" : "Prime;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Triple Prime",
+		  "slug" : "triple-prime",
+		  "unicode" : "U+02034",
+		  "hex_code" : "#x2034;",
+		  "html_code" : "#8244;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Reversed Prime",
+		  "slug" : "reversed-prime",
+		  "unicode" : "U+02035",
+		  "hex_code" : "#x2035;",
+		  "html_code" : "#8245;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Reversed Double Prime",
+		  "slug" : "reversed-double-prime",
+		  "unicode" : "U+02036",
+		  "hex_code" : "#x2036;",
+		  "html_code" : "#8246;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Reversed Triple Prime",
+		  "slug" : "reversed-triple-prime",
+		  "unicode" : "U+02037",
+		  "hex_code" : "#x2037;",
+		  "html_code" : "#8247;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Caret",
+		  "slug" : "caret",
+		  "unicode" : "U+02038",
+		  "hex_code" : "#x2038;",
+		  "html_code" : "#8248;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Single Left-Pointing Angle Quotation Mark",
+		  "slug" : "single-left-pointing-angle-quotation-mark",
+		  "unicode" : "U+02039",
+		  "hex_code" : "#x2039;",
+		  "html_code" : "#8249;",
+		  "html4_entity" : "lsaquo;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Single Right-Pointing Angle Quotation Mark",
+		  "slug" : "single-right-pointing-angle-quotation-mark",
+		  "unicode" : "U+0203A",
+		  "hex_code" : "#x203A;",
+		  "html_code" : "#8250;",
+		  "html4_entity" : "rsaquo;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Reference Mark",
+		  "slug" : "reference-mark",
+		  "unicode" : "U+0203B",
+		  "hex_code" : "#x203B;",
+		  "html_code" : "#8251;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double Exclamation Mark",
+		  "slug" : "double-exclamation-mark",
+		  "unicode" : "U+0203C",
+		  "hex_code" : "#x203C;",
+		  "html_code" : "#8252;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Interrobang",
+		  "slug" : "interrobang",
+		  "unicode" : "U+0203D",
+		  "hex_code" : "#x203D;",
+		  "html_code" : "#8253;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Overline",
+		  "slug" : "overline",
+		  "unicode" : "U+0203E",
+		  "hex_code" : "#x203E;",
+		  "html_code" : "#8254;",
+		  "html4_entity" : "oline;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Undertie",
+		  "slug" : "undertie",
+		  "unicode" : "U+0203F",
+		  "hex_code" : "#x203F;",
+		  "html_code" : "#8255;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Character Tie",
+		  "slug" : "character-tie",
+		  "unicode" : "U+02040",
+		  "hex_code" : "#x2040;",
+		  "html_code" : "#8256;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Caret Insertion Point",
+		  "slug" : "caret-insertion-point",
+		  "unicode" : "U+02041",
+		  "hex_code" : "#x2041;",
+		  "html_code" : "#8257;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Asterism",
+		  "slug" : "asterism",
+		  "unicode" : "U+02042",
+		  "hex_code" : "#x2042;",
+		  "html_code" : "#8258;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Hyphen Bullet",
+		  "slug" : "hyphen-bullet",
+		  "unicode" : "U+02043",
+		  "hex_code" : "#x2043;",
+		  "html_code" : "#8259;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Fraction Slash",
+		  "slug" : "fraction-slash",
+		  "unicode" : "U+02044",
+		  "hex_code" : "#x2044;",
+		  "html_code" : "#8260;",
+		  "html4_entity" : "frasl;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Left Square Bracket With Quill",
+		  "slug" : "left-square-bracket-with-quill",
+		  "unicode" : "U+02045",
+		  "hex_code" : "#x2045;",
+		  "html_code" : "#8261;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Right Square Bracket With Quill",
+		  "slug" : "right-square-bracket-with-quill",
+		  "unicode" : "U+02046",
+		  "hex_code" : "#x2046;",
+		  "html_code" : "#8262;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double Question Mark",
+		  "slug" : "double-question-mark",
+		  "unicode" : "U+02047",
+		  "hex_code" : "#x2047;",
+		  "html_code" : "#8263;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Question Exclamation Mark",
+		  "slug" : "question-exclamation-mark",
+		  "unicode" : "U+02048",
+		  "hex_code" : "#x2048;",
+		  "html_code" : "#8264;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Exclamation Question Mark",
+		  "slug" : "exclamation-question-mark",
+		  "unicode" : "U+02049",
+		  "hex_code" : "#x2049;",
+		  "html_code" : "#8265;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Tironian Sign Et",
+		  "slug" : "tironian-sign-et",
+		  "unicode" : "U+0204A",
+		  "hex_code" : "#x204A;",
+		  "html_code" : "#8266;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Reversed Pilcrow Sign",
+		  "slug" : "reversed-pilcrow-sign",
+		  "unicode" : "U+0204B",
+		  "hex_code" : "#x204B;",
+		  "html_code" : "#8267;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Leftwards Bullet",
+		  "slug" : "black-leftwards-bullet",
+		  "unicode" : "U+0204C",
+		  "hex_code" : "#x204C;",
+		  "html_code" : "#8268;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Rightwards Bullet",
+		  "slug" : "black-rightwards-bullet",
+		  "unicode" : "U+0204D",
+		  "hex_code" : "#x204D;",
+		  "html_code" : "#8269;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Low Asterisk",
+		  "slug" : "low-asterisk",
+		  "unicode" : "U+0204E",
+		  "hex_code" : "#x204E;",
+		  "html_code" : "#8270;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Reversed Semicolon",
+		  "slug" : "reversed-semicolon",
+		  "unicode" : "U+0204F",
+		  "hex_code" : "#x204F;",
+		  "html_code" : "#8271;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Close Up",
+		  "slug" : "close-up",
+		  "unicode" : "U+02050",
+		  "hex_code" : "#x2050;",
+		  "html_code" : "#8272;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Two Asterisks Aligned Vertically",
+		  "slug" : "two-asterisks-aligned-vertically",
+		  "unicode" : "U+02051",
+		  "hex_code" : "#x2051;",
+		  "html_code" : "#8273;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Commercial Minus Sign",
+		  "slug" : "commercial-minus-sign",
+		  "unicode" : "U+02052",
+		  "hex_code" : "#x2052;",
+		  "html_code" : "#8274;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Swung Dash",
+		  "slug" : "swung-dash",
+		  "unicode" : "U+02053",
+		  "hex_code" : "#x2053;",
+		  "html_code" : "#8275;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Inverted Undertie",
+		  "slug" : "inverted-undertie",
+		  "unicode" : "U+02054",
+		  "hex_code" : "#x2054;",
+		  "html_code" : "#8276;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Flower Punctuation Mark",
+		  "slug" : "flower-punctuation-mark",
+		  "unicode" : "U+02055",
+		  "hex_code" : "#x2055;",
+		  "html_code" : "#8277;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Three Dot Punctuation",
+		  "slug" : "three-dot-punctuation",
+		  "unicode" : "U+02056",
+		  "hex_code" : "#x2056;",
+		  "html_code" : "#8278;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Quadruple Prime",
+		  "slug" : "quadruple-prime",
+		  "unicode" : "U+02057",
+		  "hex_code" : "#x2057;",
+		  "html_code" : "#8279;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Four Dot Punctuation",
+		  "slug" : "four-dot-punctuation",
+		  "unicode" : "U+02058",
+		  "hex_code" : "#x2058;",
+		  "html_code" : "#8280;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Five Dot Punctuation",
+		  "slug" : "five-dot-punctuation",
+		  "unicode" : "U+02059",
+		  "hex_code" : "#x2059;",
+		  "html_code" : "#8281;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Two Dot Punctuation",
+		  "slug" : "two-dot-punctuation",
+		  "unicode" : "U+0205A",
+		  "hex_code" : "#x205A;",
+		  "html_code" : "#8282;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Four Dot Mark",
+		  "slug" : "four-dot-mark",
+		  "unicode" : "U+0205B",
+		  "hex_code" : "#x205B;",
+		  "html_code" : "#8283;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dotted Cross",
+		  "slug" : "dotted-cross",
+		  "unicode" : "U+0205C",
+		  "hex_code" : "#x205C;",
+		  "html_code" : "#8284;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Tricolon",
+		  "slug" : "tricolon",
+		  "unicode" : "U+0205D",
+		  "hex_code" : "#x205D;",
+		  "html_code" : "#8285;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vertical Four Dots",
+		  "slug" : "vertical-four-dots",
+		  "unicode" : "U+0205E",
+		  "hex_code" : "#x205E;",
+		  "html_code" : "#8286;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+			"name" : "Trade Mark Sign",
+			"slug" : "trade-mark-sign",
+			"unicode" : "U+02122",
+			"hex_code" : "#x2122;",
+			"html_code" : "#8482;",
+			"html4_entity" : "",
+			"html5_entity" : "trade;",
+			"oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		}
+	]
+}

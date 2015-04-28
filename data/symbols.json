@@ -1,0 +1,1249 @@
+{
+	"entities" : [
+		{
+			"name" : "Copyright Sign",
+			"slug" : "copyright-sign",
+			"unicode" : "U+000A9",
+			"hex_code" : "#xa9;",
+			"html_code" : "#169;",
+			"html4_entity" : "copy;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Registered Trade Mark Sign",
+			"slug" : "registered-trade-mark-sign",
+			"unicode" : "U+000AE",
+			"hex_code" : "#xae;",
+			"html_code" : "#174;",
+			"html4_entity" : "reg;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Trade Mark Sign",
+			"slug" : "trade-mark-sign",
+			"unicode" : "U+02122",
+			"hex_code" : "#x2122;",
+			"html_code" : "#8482;",
+			"html4_entity" : "trade;",
+			"html5_entity" : "",
+			"oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "At Symbol",
+			"slug" : "at-symbol",
+			"unicode" : "U+00040",
+			"hex_code" : "#x40;",
+			"html_code" : "#64;",
+			"html4_entity" : "",
+			"html5_entity" : "commat;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Paragraph Sign",
+			"slug" : "paragraph-sign",
+			"unicode" : "U+000B6",
+			"hex_code" : "#xb6;",
+			"html_code" : "#182;",
+			"html4_entity" : "para;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Section Sign",
+			"slug" : "section-sign",
+			"unicode" : "U+000A7",
+			"hex_code" : "#xa7;",
+			"html_code" : "#167;",
+			"html4_entity" : "sect;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+		  "name" : "Account Of",
+		  "slug" : "account-of",
+		  "unicode" : "U+02100",
+		  "hex_code" : "#x2100;",
+		  "html_code" : "#8448;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Addressed to the Subject",
+		  "slug" : "addressed-to-the-subject",
+		  "unicode" : "U+02101",
+		  "hex_code" : "#x2101;",
+		  "html_code" : "#8449;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Capital C",
+		  "slug" : "double-struck-capital-c",
+		  "unicode" : "U+02102",
+		  "hex_code" : "#x2102;",
+		  "html_code" : "#8450;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Degree Celsius",
+		  "slug" : "degree-celsius",
+		  "unicode" : "U+02103",
+		  "hex_code" : "#x2103;",
+		  "html_code" : "#8451;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Centre Line Symbol",
+		  "slug" : "centre-line-symbol",
+		  "unicode" : "U+02104",
+		  "hex_code" : "#x2104;",
+		  "html_code" : "#8452;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Care Of",
+		  "slug" : "care-of",
+		  "unicode" : "U+02105",
+		  "hex_code" : "#x2105;",
+		  "html_code" : "#8453;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Cada Una",
+		  "slug" : "cada-una",
+		  "unicode" : "U+02106",
+		  "hex_code" : "#x2106;",
+		  "html_code" : "#8454;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Euler Constant",
+		  "slug" : "euler-constant",
+		  "unicode" : "U+02107",
+		  "hex_code" : "#x2107;",
+		  "html_code" : "#8455;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Scruple",
+		  "slug" : "scruple",
+		  "unicode" : "U+02108",
+		  "hex_code" : "#x2108;",
+		  "html_code" : "#8456;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Degree Fahrenheit",
+		  "slug" : "degree-fahrenheit",
+		  "unicode" : "U+02109",
+		  "hex_code" : "#x2109;",
+		  "html_code" : "#8457;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Small G",
+		  "slug" : "script-small-g",
+		  "unicode" : "U+0210A",
+		  "hex_code" : "#x210A;",
+		  "html_code" : "#8458;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Capital H",
+		  "slug" : "script-capital-h",
+		  "unicode" : "U+0210B",
+		  "hex_code" : "#x210B;",
+		  "html_code" : "#8459;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black-Letter Capital H",
+		  "slug" : "black-letter-capital-h",
+		  "unicode" : "U+0210C",
+		  "hex_code" : "#x210C;",
+		  "html_code" : "#8460;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Capital H",
+		  "slug" : "double-struck-capital-h",
+		  "unicode" : "U+0210D",
+		  "hex_code" : "#x210D;",
+		  "html_code" : "#8461;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Planck Constant",
+		  "slug" : "planck-constant",
+		  "unicode" : "U+0210E",
+		  "hex_code" : "#x210E;",
+		  "html_code" : "#8462;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Planck Constant Over Two Pi",
+		  "slug" : "planck-constant-over-two-pi",
+		  "unicode" : "U+0210F",
+		  "hex_code" : "#x210F;",
+		  "html_code" : "#8463;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Capital I",
+		  "slug" : "script-capital-i",
+		  "unicode" : "U+02110",
+		  "hex_code" : "#x2110;",
+		  "html_code" : "#8464;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black-Letter Capital I",
+		  "slug" : "black-letter-capital-i",
+		  "unicode" : "U+02111",
+		  "hex_code" : "#x2111;",
+		  "html_code" : "#8465;",
+		  "html4_entity" : "image;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Capital L",
+		  "slug" : "script-capital-l",
+		  "unicode" : "U+02112",
+		  "hex_code" : "#x2112;",
+		  "html_code" : "#8466;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Small L",
+		  "slug" : "script-small-l",
+		  "unicode" : "U+02113",
+		  "hex_code" : "#x2113;",
+		  "html_code" : "#8467;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "L B Bar Symbol",
+		  "slug" : "l-b-bar-symbol",
+		  "unicode" : "U+02114",
+		  "hex_code" : "#x2114;",
+		  "html_code" : "#8468;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Capital N",
+		  "slug" : "double-struck-capital-n",
+		  "unicode" : "U+02115",
+		  "hex_code" : "#x2115;",
+		  "html_code" : "#8469;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Numero Sign",
+		  "slug" : "numero-sign",
+		  "unicode" : "U+02116",
+		  "hex_code" : "#x2116;",
+		  "html_code" : "#8470;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Sound Recording Copyright",
+		  "slug" : "sound-recording-copyright",
+		  "unicode" : "U+02117",
+		  "hex_code" : "#x2117;",
+		  "html_code" : "#8471;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Capital P",
+		  "slug" : "script-capital-p",
+		  "unicode" : "U+02118",
+		  "hex_code" : "#x2118;",
+		  "html_code" : "#8472;",
+		  "html4_entity" : "weierp;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Capital P",
+		  "slug" : "double-struck-capital-p",
+		  "unicode" : "U+02119",
+		  "hex_code" : "#x2119;",
+		  "html_code" : "#8473;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Capital Q",
+		  "slug" : "double-struck-capital-q",
+		  "unicode" : "U+0211A",
+		  "hex_code" : "#x211A;",
+		  "html_code" : "#8474;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Capital R",
+		  "slug" : "script-capital-r",
+		  "unicode" : "U+0211B",
+		  "hex_code" : "#x211B;",
+		  "html_code" : "#8475;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black-Letter Capital R",
+		  "slug" : "black-letter-capital-r",
+		  "unicode" : "U+0211C",
+		  "hex_code" : "#x211C;",
+		  "html_code" : "#8476;",
+		  "html4_entity" : "real;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Capital R",
+		  "slug" : "double-struck-capital-r",
+		  "unicode" : "U+0211D",
+		  "hex_code" : "#x211D;",
+		  "html_code" : "#8477;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Prescription Take",
+		  "slug" : "prescription-take",
+		  "unicode" : "U+0211E",
+		  "hex_code" : "#x211E;",
+		  "html_code" : "#8478;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Response",
+		  "slug" : "response",
+		  "unicode" : "U+0211F",
+		  "hex_code" : "#x211F;",
+		  "html_code" : "#8479;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Service Mark",
+		  "slug" : "service-mark",
+		  "unicode" : "U+02120",
+		  "hex_code" : "#x2120;",
+		  "html_code" : "#8480;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Telephone Sign",
+		  "slug" : "telephone-sign",
+		  "unicode" : "U+02121",
+		  "hex_code" : "#x2121;",
+		  "html_code" : "#8481;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Versicle",
+		  "slug" : "versicle",
+		  "unicode" : "U+02123",
+		  "hex_code" : "#x2123;",
+		  "html_code" : "#8483;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Capital Z",
+		  "slug" : "double-struck-capital-z",
+		  "unicode" : "U+02124",
+		  "hex_code" : "#x2124;",
+		  "html_code" : "#8484;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Ounce Sign",
+		  "slug" : "ounce-sign",
+		  "unicode" : "U+02125",
+		  "hex_code" : "#x2125;",
+		  "html_code" : "#8485;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Ohm Sign",
+		  "slug" : "ohm-sign",
+		  "unicode" : "U+02126",
+		  "hex_code" : "#x2126;",
+		  "html_code" : "#8486;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Inverted Ohm Sign",
+		  "slug" : "inverted-ohm-sign",
+		  "unicode" : "U+02127",
+		  "hex_code" : "#x2127;",
+		  "html_code" : "#8487;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black-Letter Capital Z",
+		  "slug" : "black-letter-capital-z",
+		  "unicode" : "U+02128",
+		  "hex_code" : "#x2128;",
+		  "html_code" : "#8488;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Turned Greek Small Letter Iota",
+		  "slug" : "turned-greek-small-letter-iota",
+		  "unicode" : "U+02129",
+		  "hex_code" : "#x2129;",
+		  "html_code" : "#8489;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Kelvin Sign",
+		  "slug" : "kelvin-sign",
+		  "unicode" : "U+0212A",
+		  "hex_code" : "#x212A;",
+		  "html_code" : "#8490;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Angstrom Sign",
+		  "slug" : "angstrom-sign",
+		  "unicode" : "U+0212B",
+		  "hex_code" : "#x212B;",
+		  "html_code" : "#8491;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Capital B",
+		  "slug" : "script-capital-b",
+		  "unicode" : "U+0212C",
+		  "hex_code" : "#x212C;",
+		  "html_code" : "#8492;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black-Letter Capital C",
+		  "slug" : "black-letter-capital-c",
+		  "unicode" : "U+0212D",
+		  "hex_code" : "#x212D;",
+		  "html_code" : "#8493;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Estimated Symbol",
+		  "slug" : "estimated-symbol",
+		  "unicode" : "U+0212E",
+		  "hex_code" : "#x212E;",
+		  "html_code" : "#8494;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Small E",
+		  "slug" : "script-small-e",
+		  "unicode" : "U+0212F",
+		  "hex_code" : "#x212F;",
+		  "html_code" : "#8495;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Capital E",
+		  "slug" : "script-capital-e",
+		  "unicode" : "U+02130",
+		  "hex_code" : "#x2130;",
+		  "html_code" : "#8496;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Capital F",
+		  "slug" : "script-capital-f",
+		  "unicode" : "U+02131",
+		  "hex_code" : "#x2131;",
+		  "html_code" : "#8497;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Turned Capital F",
+		  "slug" : "turned-capital-f",
+		  "unicode" : "U+02132",
+		  "hex_code" : "#x2132;",
+		  "html_code" : "#8498;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Capital M",
+		  "slug" : "script-capital-m",
+		  "unicode" : "U+02133",
+		  "hex_code" : "#x2133;",
+		  "html_code" : "#8499;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Script Small O",
+		  "slug" : "script-small-o",
+		  "unicode" : "U+02134",
+		  "hex_code" : "#x2134;",
+		  "html_code" : "#8500;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Alef Symbol",
+		  "slug" : "alef-symbol",
+		  "unicode" : "U+02135",
+		  "hex_code" : "#x2135;",
+		  "html_code" : "#8501;",
+		  "html4_entity" : "alefsym;",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Bet Symbol",
+		  "slug" : "bet-symbol",
+		  "unicode" : "U+02136",
+		  "hex_code" : "#x2136;",
+		  "html_code" : "#8502;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Gimel Symbol",
+		  "slug" : "gimel-symbol",
+		  "unicode" : "U+02137",
+		  "hex_code" : "#x2137;",
+		  "html_code" : "#8503;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dalet Symbol",
+		  "slug" : "dalet-symbol",
+		  "unicode" : "U+02138",
+		  "hex_code" : "#x2138;",
+		  "html_code" : "#8504;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Information Source",
+		  "slug" : "information-source",
+		  "unicode" : "U+02139",
+		  "hex_code" : "#x2139;",
+		  "html_code" : "#8505;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Rotated Capital Q",
+		  "slug" : "rotated-capital-q",
+		  "unicode" : "U+0213A",
+		  "hex_code" : "#x213A;",
+		  "html_code" : "#8506;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Facsimile Sign",
+		  "slug" : "facsimile-sign",
+		  "unicode" : "U+0213B",
+		  "hex_code" : "#x213B;",
+		  "html_code" : "#8507;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Small Pi",
+		  "slug" : "double-struck-small-pi",
+		  "unicode" : "U+0213C",
+		  "hex_code" : "#x213C;",
+		  "html_code" : "#8508;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Small Gamma",
+		  "slug" : "double-struck-small-gamma",
+		  "unicode" : "U+0213D",
+		  "hex_code" : "#x213D;",
+		  "html_code" : "#8509;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Capital Gamma",
+		  "slug" : "double-struck-capital-gamma",
+		  "unicode" : "U+0213E",
+		  "hex_code" : "#x213E;",
+		  "html_code" : "#8510;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Capital Pi",
+		  "slug" : "double-struck-capital-pi",
+		  "unicode" : "U+0213F",
+		  "hex_code" : "#x213F;",
+		  "html_code" : "#8511;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck N-Ary Summation",
+		  "slug" : "double-struck-n-ary-summation",
+		  "unicode" : "U+02140",
+		  "hex_code" : "#x2140;",
+		  "html_code" : "#8512;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Turned Sans-Serif Capital G",
+		  "slug" : "turned-sans-serif-capital-g",
+		  "unicode" : "U+02141",
+		  "hex_code" : "#x2141;",
+		  "html_code" : "#8513;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Turned Sans-Serif Capital L",
+		  "slug" : "turned-sans-serif-capital-l",
+		  "unicode" : "U+02142",
+		  "hex_code" : "#x2142;",
+		  "html_code" : "#8514;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Reversed Sans-Serif Capital L",
+		  "slug" : "reversed-sans-serif-capital-l",
+		  "unicode" : "U+02143",
+		  "hex_code" : "#x2143;",
+		  "html_code" : "#8515;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Turned Sans-Serif Capital Y",
+		  "slug" : "turned-sans-serif-capital-y",
+		  "unicode" : "U+02144",
+		  "hex_code" : "#x2144;",
+		  "html_code" : "#8516;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Italic Capital D",
+		  "slug" : "double-struck-italic-capital-d",
+		  "unicode" : "U+02145",
+		  "hex_code" : "#x2145;",
+		  "html_code" : "#8517;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Italic Small D",
+		  "slug" : "double-struck-italic-small-d",
+		  "unicode" : "U+02146",
+		  "hex_code" : "#x2146;",
+		  "html_code" : "#8518;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Italic Small E",
+		  "slug" : "double-struck-italic-small-e",
+		  "unicode" : "U+02147",
+		  "hex_code" : "#x2147;",
+		  "html_code" : "#8519;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Italic Small I",
+		  "slug" : "double-struck-italic-small-i",
+		  "unicode" : "U+02148",
+		  "hex_code" : "#x2148;",
+		  "html_code" : "#8520;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Double-Struck Italic Small J",
+		  "slug" : "double-struck-italic-small-j",
+		  "unicode" : "U+02149",
+		  "hex_code" : "#x2149;",
+		  "html_code" : "#8521;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Property Line",
+		  "slug" : "property-line",
+		  "unicode" : "U+0214A",
+		  "hex_code" : "#x214A;",
+		  "html_code" : "#8522;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Turned Ampersand",
+		  "slug" : "turned-ampersand",
+		  "unicode" : "U+0214B",
+		  "hex_code" : "#x214B;",
+		  "html_code" : "#8523;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Aktieselskab",
+		  "slug" : "aktieselskab",
+		  "unicode" : "U+0214D",
+		  "hex_code" : "#x214D;",
+		  "html_code" : "#8525;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Turned Small F",
+		  "slug" : "turned-small-f",
+		  "unicode" : "U+0214E",
+		  "hex_code" : "#x214E;",
+		  "html_code" : "#8526;",
+		  "html4_entity" : "",
+		  "html5_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		}
+	]
+}

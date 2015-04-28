@@ -25,9 +25,13 @@ data.numbers.entities.each do |entity|
   proxy "/numbers/#{entity["slug"]}.html", "/numbers/template.html", :locals => { :entity => entity }, :ignore => true
 end
 
-# data.website.suminagashi.each do |paper|
-#   proxy "/suminagashi/#{paper["slug"]}.html", "/suminagashi/template.html", :locals => { :paper => paper }, :ignore => true
-# end
+data.punctuation.entities.each do |entity|
+  proxy "/punctuation/#{entity["slug"]}.html", "/punctuation/template.html", :locals => { :entity => entity }, :ignore => true
+end
+
+data.symbols.entities.each do |entity|
+  proxy "/symbols/#{entity["slug"]}.html", "/symbols/template.html", :locals => { :entity => entity }, :ignore => true
+end
 
 
 

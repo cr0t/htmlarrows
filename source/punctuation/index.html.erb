@@ -1,7 +1,7 @@
 ---
-typeof: WebPage
-title: HTML Punctuation Symbols — HTML Arrows
-description: HTML arrow codes and ascii characters, currency, copyright and trademark symbols, and all the other &wtf;, html, hex and ascii codes you can't remember.
+typeof: CollectionPage
+title: HTML Punctuation Symbols, Entities and Codes — HTML Arrows
+description: The most beautiful HTML punctuation symbol codes and ASCII characters you will ever see, plus all those other HTML, ASCII and HEX codes you can never remember.
 image: 
 changefreq: "daily"
 priority: 1.0
@@ -20,7 +20,7 @@ priority: 1.0
 <%# Page Content %>
 <section class="row index punctuation">
 
-	<% data.numbers.entities.each do |entity| %>
+	<% data.punctuation.entities.each do |entity| %>
 		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
 	<% end %>
 

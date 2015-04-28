@@ -1,0 +1,130 @@
+{
+	"entities" : [
+		{
+			"name" : "Leftwards Arrow",
+			"slug" : "leftwards-arrow",
+			"unicode" : "U+02190",
+			"hex_code" : "#x2190;",
+			"html_code" : "#8592;",
+			"html4_entity" : "",
+			"html5_entity" : "larr;",
+			"oversize" : "false",
+			"tags" : [
+				{
+					"name" : "default"
+				},
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Rightwards Arrow",
+			"slug" : "rightwards-arrow",
+			"unicode" : "U+02192",
+			"hex_code" : "#x2192;",
+			"html_code" : "#8594;",
+			"html4_entity" : "",
+			"html5_entity" : "rarr;",
+			"oversize" : "false",
+			"tags" : [
+				{
+					"name" : "default"
+				},
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Ampersand",
+			"slug" : "ampersand",
+			"unicode" : "U+00026",
+			"hex_code" : "#x26;",
+			"html_code" : "#38;",
+			"html4_entity" : "amp;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Percent Sign",
+			"slug" : "percent-sign",
+			"unicode" : "U+00025",
+			"hex_code" : "#x25;",
+			"html_code" : "#37;",
+			"html4_entity" : "",
+			"html5_entity" : "percnt;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "math"
+				}
+			]
+		},
+		{
+			"name" : "At Symbol",
+			"slug" : "at-symbol",
+			"unicode" : "U+00040",
+			"hex_code" : "#x40;",
+			"html_code" : "#64;",
+			"html4_entity" : "",
+			"html5_entity" : "commat;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Copyright Sign",
+			"slug" : "copyright-sign",
+			"unicode" : "U+000A9",
+			"hex_code" : "#xa9;",
+			"html_code" : "#169;",
+			"html4_entity" : "copy;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Registered Trade Mark Sign",
+			"slug" : "registered-trade-mark-sign",
+			"unicode" : "U+000AE",
+			"hex_code" : "#xae;",
+			"html_code" : "#174;",
+			"html4_entity" : "reg;",
+			"html5_entity" : "",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Trade Mark Sign",
+			"slug" : "trade-mark-sign",
+			"unicode" : "U+02122",
+			"hex_code" : "#x2122;",
+			"html_code" : "#8482;",
+			"html4_entity" : "trade;",
+			"html5_entity" : "",
+			"oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		}
+	]
+}

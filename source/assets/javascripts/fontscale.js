@@ -12,10 +12,12 @@ function fontScale() {
 	}
 
 	function setStyle() {
-		elem.style.visibilty = "hidden";
-		elem.setAttribute("style", "display:inline-block;clear:both;float:left;font-size:800px;line-height:1;white-space:nowrap;text-align:center;position:relative;padding:0;margin:0;left:50%;top:50%;");
+		if( elem ) {
+			elem.style.visibilty = "hidden",
+			elem.setAttribute("style", "visibility:hidden;display:inline-block;clear:both;float:left;font-size:800px;line-height:1;white-space:nowrap;text-align:center;position:relative;padding:0;margin:0;left:50%;top:50%;")
 		
-		fontCalc();
+			fontCalc();
+		}
 	}
 
 	function fontCalc() {
