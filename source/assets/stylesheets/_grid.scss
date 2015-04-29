@@ -53,7 +53,7 @@ section.grid {
 
 //--- mobile only styles ---//
 @media screen and (max-width: 40em) {
-	section.index {
+	section.grid {
 		code {
 			@include font-size($font-size-base);
 		}
@@ -62,7 +62,7 @@ section.grid {
 
 //--- tablet(h) and desktop only styles ---//
 @media screen and (min-width: 48.063em) {
-	section.index,
+	section.grid,
 	section.table {
 		&.arrows div.symbol a {
 			&:hover {

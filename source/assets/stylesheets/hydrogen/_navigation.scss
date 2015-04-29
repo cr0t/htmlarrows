@@ -302,8 +302,62 @@ html, body {
           display: inline-block;
           vertical-align: middle;
         }
+        h6 {
+          padding-right: 1.5em;
+        }
         img {
-          padding: 0.375em;
+          padding: 0.375em 0.25em 0.375em 0;
+        }
+      }
+      ul li.toggle a {
+        @include opacity(0.5);
+        &.active {
+          @include opacity(1);
+        }
+        &:hover {
+          @include opacity(1);
+        }
+      }
+      ul li input {
+        background: none;
+        border: none;
+        display: inline-block;
+        vertical-align: middle;
+        // margin-top: 0.125em;
+        color: $body-font-color;
+        font-style: normal;
+        font-weight: 400;
+        @include font-size($font-size-base);
+        width: 90%;
+        &:focus {
+          outline: 0;
+          opacity: 0.5;
+          -ms-transition: opacity 0.2s ease-in-out;
+          transition: opacity 0.2s ease-in-out;
+        }
+      }
+      .results {
+        > div {
+          padding-top: 3em;
+        }
+        .symbol {
+          text-align: center;
+        }
+        .symbol a {
+          color: $body-font-color;
+          @include font-size(60px);
+          &:hover {
+            @include opacity(0.5);
+          }
+        }
+        code {
+          font-family: $font-family-primary;
+          font-weight: 700;
+          letter-spacing: 0.025em;
+          color: $body-font-color;
+          @include font-size($font-size-base);
+          display: block;
+          margin: 0.5em 0;
         }
       }
     }

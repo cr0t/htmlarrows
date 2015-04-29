@@ -3,6 +3,7 @@
 //= require fontscale
 //= require classie
 //= require hydrogen-0.0.1
+//= require search
 
 fontScale();
 setLayout();
@@ -53,17 +54,17 @@ window.onresize = function() {
 
 // one click code selector
 function selector(element) {
-  var doc = document, 
+  var doc = document,
       text = element,
-      range, 
+      range,
       selection
-  ;    
+  ;
   if (doc.body.createTextRange) {
       range = doc.body.createTextRange();
       range.moveToElementText(text);
       range.select();
   } else if (window.getSelection) {
-      selection = window.getSelection();        
+      selection = window.getSelection();
       range = doc.createRange();
       range.selectNodeContents(text);
       selection.removeAllRanges();
@@ -74,23 +75,33 @@ function selector(element) {
 var selectables = document.querySelectorAll('.selectable');
 for( var i = 0; i < selectables.length; i++ ){
   selectables[i].addEventListener( 'click', function(e) {
+
     var target = e.target
+    console.log(target)
     selector(target);
   }, false );
 }
 
 // toggle layout on click
 function toggleLayout(layout) {
-  var section = document.getElementById('index');
+  var section = document.getElementById( 'index' )
   if ( classie.has( section, layout )) {
     return
   } else {
     if ( layout === 'table' ){
-      classie.remove( section, 'grid');
-      classie.add( section, layout);
+      var active = document.getElementById( 'table' );
+      var inactive = document.getElementById( 'grid' );
+      classie.remove( section, 'grid' );
+      classie.remove( inactive, 'active' );
+      classie.add( section, layout );
+      classie.add( active, 'active' );
     } else {
+      var active = document.getElementById( 'grid' );
+      var inactive = document.getElementById( 'table' );
       classie.remove( section, 'table');
+      classie.remove( inactive, 'active' );
       classie.add( section, 'grid');
+      classie.add( active, 'active' );
     }
   setCookie(layout);
   }
@@ -109,7 +120,7 @@ function setLayout(layout) {
 // set a cookie for user preferred layout
 function setCookie(layout) {
   var date = new Date();
-  date.setTime(date.getTime() + (1024*24*60*60*1000));
+  date.setTime(date.getTime() + (2048*24*60*60*1000));
   var expires = "expires=" + date.toUTCString();
   document.cookie = "htmlarrows=" + layout + "; " + expires + "; path=/";
 }
@@ -157,11 +168,3 @@ for( var i = 0; i < socialLinks.length; i++ ){
     return false;
   }, false);
 }
-
-
-
-
-// social popups
-// $('.popup').click(function(event) {
-//   
-// });
