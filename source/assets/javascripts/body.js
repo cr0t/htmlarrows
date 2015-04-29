@@ -88,12 +88,24 @@ function toggleLayout(layout) {
     return null
   } else {
     if ( layout === 'table' ){
+      classie.add( section, 'hide' );
+      classie.remove( section, 'fadeIn' );
       classie.remove( section, 'grid' );
       classie.add( section, layout );
+      setTimeout(function() {
+        classie.add( section, 'fadeIn' );
+        classie.remove( section, 'hide' );
+      }, 250)
       toggleActive();
     } else {
+      classie.add( section, 'hide' );
+      classie.remove( section, 'fadeIn' )
       classie.remove( section, 'table');
-      classie.add( section, 'grid');
+      classie.add( section, layout);
+      setTimeout(function() {
+        classie.add( section, 'fadeIn' );
+        classie.remove( section, 'hide' );
+      }, 375)
       toggleActive();
     }
   setCookie(layout);
