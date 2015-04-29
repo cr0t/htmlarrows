@@ -23,11 +23,12 @@
   searchField.addEventListener("keyup", function(e){
     var value = e.srcElement.value;
     var results = document.querySelector(".results");
-    var regex = new RegExp(value, "i");
+    var regex = new RegExp("\\b" + value, "i");
+
     var output = '<div class="row">';
     var count = 1;
 
-    // Only return results if there's more than 2 char
+    // Only return results if there's more than 1 char
     if (value.length < 1){
       results.innerHTML = "";
       return;

@@ -77,7 +77,6 @@ for( var i = 0; i < selectables.length; i++ ){
   selectables[i].addEventListener( 'click', function(e) {
 
     var target = e.target
-    console.log(target)
     selector(target);
   }, false );
 }
@@ -136,6 +135,7 @@ function getCookie(name) {
 var layoutToggles = document.querySelectorAll('.layout-toggle');
 for( var i = 0; i < layoutToggles.length; i++ ){
   layoutToggles[i].addEventListener( 'click', function(e) {
+    e.preventDefault();
     if ( e.target.id ) {
       var layout = e.target.id;
     } else {
@@ -149,6 +149,7 @@ for( var i = 0; i < layoutToggles.length; i++ ){
 var socialLinks = document.querySelectorAll('.social-link');
 for( var i = 0; i < socialLinks.length; i++ ){
   socialLinks[i].addEventListener( 'click', function(e) {
+    e.preventDefault();
     if ( e.target.id ) {
       var target = e.target;
     } else {
@@ -165,7 +166,7 @@ for( var i = 0; i < socialLinks.length; i++ ){
                  ',height=' + height +
                  ',top='    + top    +
                  ',left='   + left;
-    
+
     window.open(url, name, opts);
     return false;
   }, false);

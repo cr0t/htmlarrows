@@ -27,6 +27,7 @@ html, body {
     bottom: 0;
     right: 0;
     margin:0;
+    backface-visibility: hidden;
     ul {
       padding:11px 24px 0;
     }
@@ -118,6 +119,8 @@ html, body {
     z-index: $z3;
     background-color: $body-background;
     padding:1em 0;
+    top: 0;
+    backface-visibility: hidden;
     h2 {
       margin-left: 0.25em;
     }
@@ -168,10 +171,13 @@ html, body {
   // align navigation
   #nav {
     position: fixed;
-    width: 100%;
     display: block;
     color: $body-background;
     z-index: $z3;
+    top: 0;
+    left: 0;
+    right: 0;
+    backface-visibility: hidden;
     section.links {
       background-color: $body-background;
       ul {
@@ -329,6 +335,7 @@ html, body {
         @include opacity(0.5);
         &.active {
           @include opacity(1);
+          outline: none;
         }
         &:hover {
           @include opacity(1);
