@@ -9,43 +9,88 @@
 
 // search bar colors
 body {
-  section.search {
+  section.search,
+  section.results {
     background-color: lighten(rgb(50, 50, 50), 10%);
   }
   &.arrows {
-    section.search {
+    section.search,
+    section.results {
       background-color: lighten($color-arrows, 10%);
     }
   }
   &.currency {
-    section.search {
+    section.search,
+    section.results {
       background-color: lighten($color-currency, 10%);
     }
   }
   &.letters {
-    section.search {
+    section.search,
+    section.results {
       background-color: lighten($color-letters, 10%);
     }
   }
   &.math {
-    section.search {
+    section.search,
+    section.results {
       background-color: lighten($color-math, 10%);
     }
   }
   &.numbers {
-    section.search {
+    section.search,
+    section.results {
       background-color: lighten($color-numbers, 5%);
     }
   }
   &.punctuation {
-    section.search {
+    section.search,
+    section.results {
       background-color: lighten($color-punctuation, 10%);
     }
   }
   &.symbols {
-    section.search {
+    section.search,
+    section.results {
       background-color: lighten($color-symbols, 10%);
     }
+  }
+}
+
+section.results {
+  > div {
+    padding-top: 11.125em;
+    padding-bottom: 3em;
+    margin-bottom: -6em;
+  }
+  .symbol {
+    display: block;
+    text-align: center;
+    height:108px;
+    max-height:108px;
+    text-align: center;
+  }
+  .symbol a {
+    color: $body-font-color;
+    @include font-size(60px);
+    &:hover {
+      @include opacity(0.5);
+    }
+  }
+  .codes {
+    padding: 0.25em 0;
+    margin-bottom: 1.5em;
+    border-top:1px solid $body-font-color;
+    border-bottom:1px solid $body-font-color;
+  }
+  code {
+    font-family: $font-family-primary;
+    font-weight: 700;
+    letter-spacing: 0.025em;
+    color: $body-font-color;
+    @include font-size($font-size-base);
+    display: block;
+    margin: 0.5em 0;
   }
 }
 
@@ -60,17 +105,12 @@ input::-moz-placeholder {
 }
 
 // main content
-article {
-	footer {
-		margin-top: 4.5em;
-		padding-top: 3em;
-		padding-bottom: 4.5em;
-		color: $color-primary;
-		background-color: $body-background;
-	}
-  a:hover {
-    color: $color-secondary;
-  }
+footer {
+	margin-top: 4.5em;
+	padding-top: 3em;
+	padding-bottom: 4.5em;
+	color: $color-primary;
+	background-color: $body-background;
   .break {
     margin: 3em 0 4.5em 0;
   }
@@ -90,9 +130,6 @@ article {
     img {
       margin-top: 0.25em;
       margin-right: 0.5em;
-      &:hover {
-        @include opacity(0.58);
-      }
     }
   }
   .contact h6,
@@ -117,6 +154,26 @@ article {
 @media screen and (max-width: 48em) {
   .breadcrumbs {
     margin-bottom: 3em;
+  }
+}
+
+//-- tablet(h) and desktop only styles ---//
+@media screen and (min-width: 48.063) {
+  footer {
+    a:hover {
+      color: $color-secondary;
+    }
+    .contact,
+    .social,
+    .breadcrumbs,
+    .colophon,
+    .inspiration {
+      img {
+        &:hover {
+          @include opacity(0.58);
+        }
+      }
+    }
   }
 }
 

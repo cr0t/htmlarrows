@@ -5,6 +5,7 @@ section.table {
 	// custom headers
 	div.theader {
 		margin-bottom: 0em;
+		@include opacity(0.5);
 		div.name,
 		div.symbol,
 		code {
@@ -65,7 +66,7 @@ section.table {
 // index table alternating row colors
 section.table {
 	&.home > div:nth-child(even) {
-		background-color: lighten($color-arrows, 5%);
+		background-color: lighten($color-home, 5%);
 	}
 	&.arrows > div:nth-child(even) {
 		background-color: lighten($color-arrows, 5%);
@@ -93,6 +94,7 @@ section.table {
 //--- mobile only styles ---//
 @media screen and (max-width: 40em) {
 	section.table {
+		margin-top: 5.375em;
 		div.name {
 			display: none;
 		}
@@ -114,10 +116,10 @@ section.table {
 	}
 }
 
-
 //--- tablet(v) only styles ---//
 @media screen and (min-width: 40.063em) and (max-width: 48em) {
 	section.table {
+		margin-top: 7.375em;
 		div.name {
 			display: none;
 		}
@@ -130,57 +132,66 @@ section.table {
 	}
 }
 
-
-//--- tablet(h) and desktop only styles ---//
-@media screen and (min-width: 48.063em) {
-	section.table {
-		&.home > div {
-			@include transition(all 0.25s ease-in);
-			&:hover {
-				background-color: lighten($color-arrows, 10%);
-			}
-		}
-		&.arrows > div {
-			@include transition(all 0.25s ease-in);
-			&:hover {
-				background-color: lighten($color-arrows, 10%);
-			}
-		}
-		&.currency > div {
-			@include transition(all 0.25s ease-in);
-			&:hover {
-				background-color: lighten($color-currency, 10%);
-			}
-		}
-		&.letters > div {
-			@include transition(all 0.25s ease-in);
-			&:hover {
-				background-color: lighten($color-letters, 10%);
-			}
-		}
-		&.math > div {
-			@include transition(all 0.25s ease-in);
-			&:hover {
-				background-color: lighten($color-math, 10%);
-			}
-		}
-		&.numbers > div {
-			@include transition(all 0.25s ease-in);
-			&:hover {
-				background-color: lighten($color-numbers, 10%);
-			}
-		}
-		&.punctuation > div {
-			@include transition(all 0.25s ease-in);
-			&:hover {
-				background-color: lighten($color-punctuation, 10%);
-			}
-		}
-		&.symbols > div {
-			@include transition(all 0.25s ease-in);
-			&:hover {
-				background-color: lighten($color-symbols, 10%);
-			}
+//--- mobile only styles ---//
+@media screen and (max-width: 40em) {
+	section.grid {
+		margin-top: 1.5em;
+		code {
+			@include font-size($font-size-base);
 		}
 	}
 }
+
+//--- tablet(h) and desktop only styles ---//
+// @media screen and (min-width: 48.063em) {
+// 	section.table {
+// 		&.home > div {
+// 			@include transition(all 0.25s ease-in);
+// 			&:hover {
+// 				background-color: lighten($color-home, 10%);
+// 			}
+// 		}
+// 		&.arrows > div {
+// 			@include transition(all 0.25s ease-in);
+// 			&:hover {
+// 				background-color: lighten($color-arrows, 10%);
+// 			}
+// 		}
+// 		&.currency > div {
+// 			@include transition(all 0.25s ease-in);
+// 			&:hover {
+// 				background-color: lighten($color-currency, 10%);
+// 			}
+// 		}
+// 		&.letters > div {
+// 			@include transition(all 0.25s ease-in);
+// 			&:hover {
+// 				background-color: lighten($color-letters, 10%);
+// 			}
+// 		}
+// 		&.math > div {
+// 			@include transition(all 0.25s ease-in);
+// 			&:hover {
+// 				background-color: lighten($color-math, 10%);
+// 			}
+// 		}
+// 		&.numbers > div {
+// 			@include transition(all 0.25s ease-in);
+// 			&:hover {
+// 				background-color: lighten($color-numbers, 10%);
+// 			}
+// 		}
+// 		&.punctuation > div {
+// 			@include transition(all 0.25s ease-in);
+// 			&:hover {
+// 				background-color: lighten($color-punctuation, 10%);
+// 			}
+// 		}
+// 		&.symbols > div {
+// 			@include transition(all 0.25s ease-in);
+// 			&:hover {
+// 				background-color: lighten($color-symbols, 10%);
+// 			}
+// 		}
+// 	}
+// }

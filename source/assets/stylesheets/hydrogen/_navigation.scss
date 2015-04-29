@@ -51,6 +51,22 @@ html, body {
         @include font-size($font-size-small);
       }
     }
+    ul li.toggle {
+      margin-top: 0.125em;
+      margin-left: 2.25em;
+      margin-bottom: 2.25em;
+      img {
+        display: inline-block;
+        vertical-align: middle;
+        padding-right: 1em;
+      }
+    }
+    ul li.toggle a {
+      @include opacity(0.5);
+      &.active {
+        @include opacity(1);
+      }
+    }
     a.active {
       li.arrows {
         color: $color-arrows;
@@ -323,7 +339,6 @@ html, body {
         border: none;
         display: inline-block;
         vertical-align: middle;
-        // margin-top: 0.125em;
         color: $body-font-color;
         font-style: normal;
         font-weight: 400;
@@ -336,11 +351,15 @@ html, body {
           transition: opacity 0.2s ease-in-out;
         }
       }
-      .results {
+      section.results {
         > div {
           padding-top: 3em;
         }
         .symbol {
+          display: block;
+          text-align: center;
+          height:108px;
+          max-height:108px;
           text-align: center;
         }
         .symbol a {
@@ -349,6 +368,12 @@ html, body {
           &:hover {
             @include opacity(0.5);
           }
+        }
+        .codes {
+          padding: 0.25em 0;
+          margin-bottom: 1.5em;
+          border-top:1px solid $body-font-color;
+          border-bottom:1px solid $body-font-color;
         }
         code {
           font-family: $font-family-primary;

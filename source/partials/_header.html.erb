@@ -6,8 +6,16 @@
 				<span class="icon show-md"><%= link_to "by Zeppelin", "http://zeppelin.io/" %></span>
 			</li>
 
-			<li class="col-md-3 hide-md home">
-				<h3><%= link_to "Home", "/" %></h3>
+			<li class="col-md-3 hide-md toggle toggle-mobile">
+				<% link_to "#", id: "grid", class: "layout-toggle active" do %>
+					<%= image_tag("grid-layout-button-dark.svg") %>
+					<!-- <h6>GRID</h6> -->
+				<% end %>
+
+				<% link_to "#", id: "table", class: "layout-toggle" do %>
+					<%= image_tag("table-layout-button-dark.svg") %>
+					<!-- <h6>TABLE</h6> -->
+				<% end %>
 			</li>
 
 			<% active_link "/arrows/", property: "url" do %>
@@ -83,9 +91,6 @@
 					<%= image_tag("table-layout-button.svg") %>
 					<h6>TABLE</h6>
 				<% end %>
-			</li>
-
-			<li class="col-md-18 col-md-offset-3 results">
 			</li>
 		</ul>
 	</section>

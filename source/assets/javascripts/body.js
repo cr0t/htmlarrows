@@ -86,24 +86,26 @@ for( var i = 0; i < selectables.length; i++ ){
 function toggleLayout(layout) {
   var section = document.getElementById( 'index' )
   if ( classie.has( section, layout )) {
-    return
+    return null
   } else {
     if ( layout === 'table' ){
-      var active = document.getElementById( 'table' );
-      var inactive = document.getElementById( 'grid' );
       classie.remove( section, 'grid' );
-      classie.remove( inactive, 'active' );
       classie.add( section, layout );
-      classie.add( active, 'active' );
+      toggleActive();
     } else {
-      var active = document.getElementById( 'grid' );
-      var inactive = document.getElementById( 'table' );
       classie.remove( section, 'table');
-      classie.remove( inactive, 'active' );
       classie.add( section, 'grid');
-      classie.add( active, 'active' );
+      toggleActive();
     }
   setCookie(layout);
+  }
+}
+
+// toggle table/grid selector active class
+function toggleActive() {
+  var layoutToggles = document.querySelectorAll('.layout-toggle');
+  for( var i = 0; i < layoutToggles.length; i++ ) {
+    classie.toggle( layoutToggles[i], 'active' )
   }
 }
 
@@ -113,7 +115,7 @@ function setLayout(layout) {
   if ( cookie === 'table' ) {
     toggleLayout('table');
   } else {
-    return
+    return null
   }
 }
 

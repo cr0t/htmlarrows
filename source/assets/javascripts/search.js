@@ -43,10 +43,11 @@
         if ( key.name.search(regex) != -1 ){
           var link = "'/" + key.tags[0].name + "/" + key.slug + "/'"
           var icon = "<div class='symbol'><a href=" + link + ">&" + key.html_code + "</a></div>"
-          var hex = "<code>&amp;" + key.hex_code + "</code>"
-          var html = "<code>&amp;" + key.html_code + "</code>"
+          var unicode = "<code class='selectable'>" + key.unicode + "</code>"
+          var hex = "<code class='selectable'>&amp;" + key.hex_code + "</code>"
+          var html = "<code class='selectable'>&amp;" + key.html_code + "</code>"
 
-          output += "<div class='col-md-4'>" + icon + hex + html + "</div>"
+          output += "<div class='col-md-3'>" + icon + "<div class='codes'>" + unicode + hex + html + "</div></div>"
         }
       });
 

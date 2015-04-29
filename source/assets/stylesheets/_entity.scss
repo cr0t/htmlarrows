@@ -1,7 +1,6 @@
 // template pages
 section.template {
 	margin-top: 11em;
-	
 	#symbol {
 		font-weight: 700;
 		text-align: center;
@@ -45,9 +44,10 @@ section.template {
 	}
 }
 
-// small symbol on mobile
+//--- mobile only styles ---//
 @media screen and (max-width: 40em) {
 	section.template {
+		margin-top: 6em;
 		div.symbol {
 			&.small {
 				margin: 24px 0;
@@ -56,5 +56,12 @@ section.template {
 				@include font-size(200px);
 			}
 		}
+	}
+}
+
+//--- mobile and tablet(v) only styles ---//
+@media screen and (min-width: 40.063em) and (max-width: 48em) {
+	section.template {
+		margin-top: 8em;	
 	}
 }
