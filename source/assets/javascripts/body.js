@@ -3,6 +3,7 @@
 //= require fontscale
 //= require classie
 //= require hydrogen-0.0.1
+//= require search
 
 fontScale();
 
@@ -52,17 +53,17 @@ window.onresize = function() {
 
 // click selector
 function selector(element) {
-  var doc = document, 
+  var doc = document,
       text = element,
-      range, 
+      range,
       selection
-  ;    
+  ;
   if (doc.body.createTextRange) {
       range = doc.body.createTextRange();
       range.moveToElementText(text);
       range.select();
   } else if (window.getSelection) {
-      selection = window.getSelection();        
+      selection = window.getSelection();
       range = doc.createRange();
       range.selectNodeContents(text);
       selection.removeAllRanges();
@@ -89,7 +90,7 @@ document.onclick = function(e) {
 //                ',height=' + height +
 //                ',top='    + top    +
 //                ',left='   + left;
-  
+
 //   window.open(url, 'twitter', opts);
 
 //   return false;
