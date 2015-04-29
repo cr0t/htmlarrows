@@ -2,9 +2,52 @@
 
 @import "normalize";
 @import "hydrogen";
-@import "index";
+@import "grid";
 @import "table";
 @import "entity";
+@improt "search";
+
+// search bar colors
+body {
+  section.search {
+    background-color: lighten(rgb(50, 50, 50), 10%);
+  }
+  &.arrows {
+    section.search {
+      background-color: lighten($color-arrows, 10%);
+    }
+  }
+  &.currency {
+    section.search {
+      background-color: lighten($color-currency, 10%);
+    }
+  }
+  &.letters {
+    section.search {
+      background-color: lighten($color-letters, 10%);
+    }
+  }
+  &.math {
+    section.search {
+      background-color: lighten($color-math, 10%);
+    }
+  }
+  &.numbers {
+    section.search {
+      background-color: lighten($color-numbers, 5%);
+    }
+  }
+  &.punctuation {
+    section.search {
+      background-color: lighten($color-punctuation, 10%);
+    }
+  }
+  &.symbols {
+    section.search {
+      background-color: lighten($color-symbols, 10%);
+    }
+  }
+}
 
 // main content
 article {
@@ -15,20 +58,55 @@ article {
 		color: $color-primary;
 		background-color: $body-background;
 	}
+  a:hover {
+    color: $color-secondary;
+  }
+  .break {
+    margin: 3em 0 4.5em 0;
+  }
   .credit {
     h5 {
       margin-bottom: 0.25em;
     }
   }
+  .contact,
   .social,
-  .breadcrumbs {
+  .breadcrumbs,
+  .colophon,
+  .inspiration {
     h5 {
       margin-bottom: 0.5em;
     }
     img {
       margin-top: 0.25em;
       margin-right: 0.5em;
+      &:hover {
+        @include opacity(0.58);
+      }
     }
+  }
+  .contact h6,
+  .colophon h6,
+  .inspiration h6 {
+    margin-bottom: 0.25em;
+  }
+}
+
+//--- mobile only styles ---//
+@media screen and (max-width: 40em) {
+  .credit,
+  .social,
+  .breadcrumbs,
+  .about {
+    margin-bottom: 3em;
+  }
+}
+
+
+//--- tablet(v) only styles ---//
+@media screen and (max-width: 48em) {
+  .breadcrumbs {
+    margin-bottom: 3em;
   }
 }
 

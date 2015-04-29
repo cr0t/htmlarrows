@@ -25,6 +25,10 @@ section.template {
 		width: 10em;
 	}
 
+	h4 span.asterisk {
+		@include font-size($font-size-base);
+	}
+
 	div.codes {
 		padding: 1.5em 0;
 		border-top:1px solid $body-font-color;

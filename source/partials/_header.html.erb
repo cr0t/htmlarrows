@@ -1,69 +1,89 @@
 <nav id="nav" class="nav-right" vocab="http://schema.org/" typeof="SiteNavigationElement">
-	<ul class="row">
-
-		<li class="col-md-3 show-md home">
-			<h2 property="name"><% link_to "/", property: "url" do %>HTML &nbsp;<span class="logo">&#8594;</span><% end %></h2>
-			<span class="icon show-md"><%= link_to "by Zeppelin", "http://zeppelin.io/" %></span>
-		</li>
-
-		<li class="col-md-3 hide-md home">
-			<h3><%= link_to "Home", "/" %></h3>
-		</li>
-
-		<% active_link "/arrows/", property: "url" do %>
-			<li class="col-md-3 arrows">
-				<h3 property="name"><span class="icon hide-md">&#8593;&#8594;</span>Arrows</h3>
-				<span class="icon show-md">&#8593;&#8594;</span>
+	<section class="links">
+		<ul class="row">
+			<li class="col-md-3 show-md home">
+				<h2 property="name"><% link_to "/", property: "url" do %>HTML &nbsp;<span class="logo">&#8594;</span><% end %></h2>
+				<span class="icon show-md"><%= link_to "by Zeppelin", "http://zeppelin.io/" %></span>
 			</li>
-		<% end %>
 
-		<% active_link "/currency/", property: "url" do %>
-			<li class="col-md-3 currency">
-				<h3 property="name"><span class="icon hide-md">&#36;&#162;</span>Currency</h3>
-				<span class="icon show-md">&#36;&#162;</span>
+			<li class="col-md-3 hide-md home">
+				<h3><%= link_to "Home", "/" %></h3>
 			</li>
-		<% end %>
 
-		<% active_link "/letters/", property: "url" do %>
-			<li class="col-md-3 letters">
-				<h3 property="name"><span class="icon hide-md">A&#246;</span>Letters</h3>
-				<span class="icon show-md">A&#246;</span>
+			<% active_link "/arrows/", property: "url" do %>
+				<li class="col-md-3 arrows">
+					<h3 property="name"><span class="icon hide-md">&#8593;&#8594;</span>Arrows</h3>
+					<span class="icon show-md">&#8593;&#8594;</span>
+				</li>
+			<% end %>
+
+			<% active_link "/currency/", property: "url" do %>
+				<li class="col-md-3 currency">
+					<h3 property="name"><span class="icon hide-md">&#36;&#162;</span>Currency</h3>
+					<span class="icon show-md">&#36;&#162;</span>
+				</li>
+			<% end %>
+
+			<% active_link "/letters/", property: "url" do %>
+				<li class="col-md-3 letters">
+					<h3 property="name"><span class="icon hide-md">A&#246;</span>Letters</h3>
+					<span class="icon show-md">A&#246;</span>
+				</li>
+			<% end %>
+
+			<% active_link "/math/", property: "url" do %>
+				<li class="col-md-3 math">
+					<h3 property="name"><span class="icon hide-md">&#37;&#43;</span>Math</h3>
+					<span class="icon show-md">&#37;&#43;</span>
+				</li>
+			<% end %>
+
+			<% active_link "/numbers/", property: "url" do %>
+				<li class="col-md-3 numbers">
+					<h3 property="name"><span class="icon hide-md">1&#190;</span>Numbers</h3>
+					<span class="icon show-md">1&#190;</span>
+				</li>
+			<% end %>
+
+			<% active_link "/punctuation/", property: "url" do %>
+				<li class="col-md-3 punctuation">
+					<h3 property="name"><span class="icon hide-md">&#38;&#8212;</span>Punctuation</h3>
+					<span class="icon show-md">&#38;&#8212;</span>
+				</li>
+			<% end %>
+
+			<% active_link "/symbols/", property: "url" do %>
+				<li class="col-md-3 symbols">
+					<h3 property="name"><span class="icon hide-md">&#169;&#8482;</span>Symbols</h3>
+					<span class="icon show-md">&#169;&#8482;</span>
+				</li>
+			<% end %>
+
+			<li class="hide-md credits">
+				<h4>Designed by</h4>
+				<h2><%= link_to "Zeppelin", "http://zeppelin.io/" %></h2>
+				<h5 style="margin-top:0.5em;">&#169; 2015</h5>
 			</li>
-		<% end %>
+		</ul>
+	</section>
 
-		<% active_link "/math/", property: "url" do %>
-			<li class="col-md-3 math">
-				<h3 property="name"><span class="icon hide-md">&#37;&#43;</span>Math</h3>
-				<span class="icon show-md">&#37;&#43;</span>
+	<section class="search">
+		<ul class="row">
+			<li class="col-md-15 col-md-offset-3">
+				<h3>Search</h3>
 			</li>
-		<% end %>
+			<li class="col-md-6">
+				<% link_to "#", id: "grid", class: "layout-toggle" do %>
+					<%= image_tag("grid-layout-button.svg") %>
+					<h6>GRID</h6>
+				<% end %>
 
-		<% active_link "/numbers/", property: "url" do %>
-			<li class="col-md-3 numbers">
-				<h3 property="name"><span class="icon hide-md">1&#190;</span>Numbers</h3>
-				<span class="icon show-md">1&#190;</span>
+				<% link_to "#", id: "table", class: "layout-toggle" do %>
+					<%= image_tag("table-layout-button.svg") %>
+					<h6>TABLE</h6>
+				<% end %>
 			</li>
-		<% end %>
+		</ul>
+	</section>
 
-		<% active_link "/punctuation/", property: "url" do %>
-			<li class="col-md-3 punctuation">
-				<h3 property="name"><span class="icon hide-md">&#38;&#8212;</span>Punctuation</h3>
-				<span class="icon show-md">&#38;&#8212;</span>
-			</li>
-		<% end %>
-
-		<% active_link "/symbols/", property: "url" do %>
-			<li class="col-md-3 symbols">
-				<h3 property="name"><span class="icon hide-md">&#169;&#8482;</span>Symbols</h3>
-				<span class="icon show-md">&#169;&#8482;</span>
-			</li>
-		<% end %>
-
-		<li class="hide-md credits">
-			<h4>Designed by</h4>
-			<h2><%= link_to "Zeppelin", "http://zeppelin.io/" %></h2>
-			<h5 style="margin-top:0.5em;">&#169; 2015</h5>
-		</li>
-
-	</ul>
 </nav>

@@ -155,141 +155,155 @@ html, body {
     width: 100%;
     display: block;
     color: $body-background;
-    background-color: $body-background;
     z-index: $z3;
-    ul {
-      padding-bottom: 1em;
-    }
-    ul li {
-      padding-top: 0.5em;
-      color: $color-primary;
-      border-top: 0.25em solid $body-font-color;
-      @include transition(all .25s ease-in);
-      .logo {
-        line-height: 0;
-        @include font-size($font-size-large);
+    section.links {
+      background-color: $body-background;
+      ul {
+        padding-bottom: 1em;
       }
-      .icon {
-        display:block;
-        margin-top:-0.125em;
-        color: $color-secondary;
-        @include font-size($font-size-small);
+      ul li {
+        padding-top: 0.5em;
+        color: $color-primary;
+        border-top: 0.25em solid $body-font-color;
+        @include transition(all .25s ease-in);
+        .logo {
+          line-height: 0;
+          @include font-size($font-size-large);
+        }
+        .icon {
+          display:block;
+          margin-top:-0.125em;
+          color: $color-secondary;
+          @include font-size($font-size-small);
+          &:hover {
+            color: $color-primary;
+          }
+        }
+      }
+      ul li.arrows {
         &:hover {
-          color: $color-primary;
-        }
-      }
-    }
-    ul li.arrows {
-      &:hover {
-        color: $color-arrows;
-        border-top: 0.25em solid $color-arrows;
-        .icon {
           color: $color-arrows;
+          border-top: 0.25em solid $color-arrows;
+          .icon {
+            color: $color-arrows;
+          }
         }
       }
-    }
-    ul li.currency {
-      &:hover {
-        color: $color-currency;
-        border-top: 0.25em solid $color-currency;
-        .icon {
+      ul li.currency {
+        &:hover {
           color: $color-currency;
+          border-top: 0.25em solid $color-currency;
+          .icon {
+            color: $color-currency;
+          }
         }
       }
-    }
-    ul li.letters {
-      &:hover {
-        color: $color-letters;
-        border-top: 0.25em solid $color-letters;
-        .icon {
+      ul li.letters {
+        &:hover {
           color: $color-letters;
+          border-top: 0.25em solid $color-letters;
+          .icon {
+            color: $color-letters;
+          }
         }
       }
-    }
-    ul li.math {
-      &:hover {
-        color: $color-math;
-        border-top: 0.25em solid $color-math;
-        .icon {
+      ul li.math {
+        &:hover {
           color: $color-math;
+          border-top: 0.25em solid $color-math;
+          .icon {
+            color: $color-math;
+          }
         }
       }
-    }
-    ul li.numbers {
-      &:hover {
-        color: $color-numbers;
-        border-top: 0.25em solid $color-numbers;
-        .icon {
+      ul li.numbers {
+        &:hover {
           color: $color-numbers;
+          border-top: 0.25em solid $color-numbers;
+          .icon {
+            color: $color-numbers;
+          }
         }
       }
-    }
-    ul li.punctuation {
-      &:hover {
-        color: $color-punctuation;
-        border-top: 0.25em solid $color-punctuation;
-        .icon {
+      ul li.punctuation {
+        &:hover {
           color: $color-punctuation;
+          border-top: 0.25em solid $color-punctuation;
+          .icon {
+            color: $color-punctuation;
+          }
         }
       }
-    }
-    ul li.symbols {
-      &:hover {
-        color: $color-symbols;
-        border-top: 0.25em solid $color-symbols;
-        .icon {
+      ul li.symbols {
+        &:hover {
           color: $color-symbols;
+          border-top: 0.25em solid $color-symbols;
+          .icon {
+            color: $color-symbols;
+          }
         }
       }
-    }
-    a.active {
-      li.arrows {
-        color: $color-arrows;
-        border-top: 0.25em solid $color-arrows;
-        .icon {
+      a.active {
+        li.arrows {
           color: $color-arrows;
+          border-top: 0.25em solid $color-arrows;
+          .icon {
+            color: $color-arrows;
+          }
         }
-      }
-      li.currency {
-        color: $color-currency;
-        border-top: 0.25em solid $color-currency;
-        .icon {
+        li.currency {
           color: $color-currency;
+          border-top: 0.25em solid $color-currency;
+          .icon {
+            color: $color-currency;
+          }
         }
-      }
-      li.letters {
-        color: $color-letters;
-        border-top: 0.25em solid $color-letters;
-        .icon {
+        li.letters {
           color: $color-letters;
+          border-top: 0.25em solid $color-letters;
+          .icon {
+            color: $color-letters;
+          }
         }
-      }
-      li.math {
-        color: $color-math;
-        border-top: 0.25em solid $color-math;
-        .icon {
+        li.math {
           color: $color-math;
+          border-top: 0.25em solid $color-math;
+          .icon {
+            color: $color-math;
+          }
         }
-      }
-      li.numbers {
-        color: $color-numbers;
-        border-top: 0.25em solid $color-numbers;
-        .icon {
+        li.numbers {
           color: $color-numbers;
+          border-top: 0.25em solid $color-numbers;
+          .icon {
+            color: $color-numbers;
+          }
         }
-      }
-      li.punctuation {
-        color: $color-punctuation;
-        border-top: 0.25em solid $color-punctuation;
-        .icon {
+        li.punctuation {
           color: $color-punctuation;
+          border-top: 0.25em solid $color-punctuation;
+          .icon {
+            color: $color-punctuation;
+          }
+        }
+        li.symbols {
+          color: $color-symbols;
+          border-top: 0.25em solid $color-symbols;
+          .icon {
+            color: $color-symbols;
+          }
         }
       }
-      li.symbols {
-        color: $color-symbols;
-        border-top: 0.25em solid $color-symbols;
-        .icon {
-          color: $color-symbols;
+    }
+    section.search {
+      padding: 0.5em 0;
+      ul li {
+        h6, img {
+          display: inline-block;
+          vertical-align: middle;
+        }
+        img {
+          padding: 0.375em;
         }
       }
     }

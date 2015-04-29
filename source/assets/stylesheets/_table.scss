@@ -1,10 +1,10 @@
 // index table pages
 section.table {
-	margin-top: 8.375em;
+	margin-top: 10.375em;
 
 	// custom headers
 	div.theader {
-		padding-bottom: 0.75em;
+		margin-bottom: 0em;
 		div.name,
 		div.symbol,
 		code {
@@ -16,15 +16,13 @@ section.table {
 			@include font-size($font-size-micro);
 		}
 		div.name {
-			
+			padding: 0 16px;
 		}
 	}
 
 	div.entity {
 		width: 100%;
 		padding: 0.5em 0 0.425em 0;
-		// border-bottom: 1px solid;
-		// border-color: lighten($color-numbers, 15%);
 	}
 
 	div.name {
@@ -107,9 +105,9 @@ section.table {
 			code {
 				width: 50%;
 			}
-			code.unicode,
-			code.html4-entity,
-			code.html5-entity {
+			code#unicode,
+			code#html4-entity,
+			code#html5-entity {
 				display: none;
 			}
 		}
@@ -139,49 +137,49 @@ section.table {
 		&.home > div {
 			@include transition(all 0.25s ease-in);
 			&:hover {
-				background-color: lighten($color-arrows, 15%);
+				background-color: lighten($color-arrows, 10%);
 			}
 		}
 		&.arrows > div {
 			@include transition(all 0.25s ease-in);
 			&:hover {
-				background-color: lighten($color-arrows, 15%);
+				background-color: lighten($color-arrows, 10%);
 			}
 		}
 		&.currency > div {
 			@include transition(all 0.25s ease-in);
 			&:hover {
-				background-color: lighten($color-currency, 15%);
+				background-color: lighten($color-currency, 10%);
 			}
 		}
 		&.letters > div {
 			@include transition(all 0.25s ease-in);
 			&:hover {
-				background-color: lighten($color-letters, 15%);
+				background-color: lighten($color-letters, 10%);
 			}
 		}
 		&.math > div {
 			@include transition(all 0.25s ease-in);
 			&:hover {
-				background-color: lighten($color-math, 15%);
+				background-color: lighten($color-math, 10%);
 			}
 		}
 		&.numbers > div {
 			@include transition(all 0.25s ease-in);
 			&:hover {
-				background-color: lighten($color-numbers, 15%);
+				background-color: lighten($color-numbers, 10%);
 			}
 		}
 		&.punctuation > div {
 			@include transition(all 0.25s ease-in);
 			&:hover {
-				background-color: lighten($color-punctuation, 15%);
+				background-color: lighten($color-punctuation, 10%);
 			}
 		}
 		&.symbols > div {
 			@include transition(all 0.25s ease-in);
 			&:hover {
-				background-color: lighten($color-symbols, 15%);
+				background-color: lighten($color-symbols, 10%);
 			}
 		}
 	}

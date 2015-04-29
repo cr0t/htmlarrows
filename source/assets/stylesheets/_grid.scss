@@ -1,6 +1,6 @@
 // index card pages
-section.index {
-	margin-top: 4.5em;
+section.grid {
+	margin-top: 6.5em;
 
 	div.theader {
 		display: none;
@@ -31,7 +31,7 @@ section.index {
 		padding: 0.5em 0;
 		border-top:1px solid $body-font-color;
 		border-bottom:1px solid $body-font-color;
-		.html5-entity {
+		#html5-entity {
 			display: none;
 		}
 	}

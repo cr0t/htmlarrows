@@ -5,6 +5,7 @@
 //= require hydrogen-0.0.1
 
 fontScale();
+setLayout();
 
 // headroom sticky header on scroll
 var desktop = document.querySelector("#nav");
@@ -42,7 +43,7 @@ function headroom_init() {
 // init headroom
 headroom_init();
 
-// re-init headroom on window resize
+// re-init headroom and fontscale on window resize
 window.onresize = function() {
 	desktop_headroom.destroy();
 	mobile_headroom.destroy();
@@ -50,7 +51,7 @@ window.onresize = function() {
   fontScale();
 }
 
-// click selector
+// one click code selector
 function selector(element) {
   var doc = document, 
       text = element,
@@ -70,27 +71,97 @@ function selector(element) {
   }
 }
 
-document.onclick = function(e) {
-  var target = e.target
-  if (target.className === 'selectable') {
-      selector(target);
+var selectables = document.querySelectorAll('.selectable');
+for( var i = 0; i < selectables.length; i++ ){
+  selectables[i].addEventListener( 'click', function(e) {
+    var target = e.target
+    selector(target);
+  }, false );
+}
+
+// toggle layout on click
+function toggleLayout(layout) {
+  var section = document.getElementById('index');
+  if ( classie.has( section, layout )) {
+    return
+  } else {
+    if ( layout === 'table' ){
+      classie.remove( section, 'grid');
+      classie.add( section, layout);
+    } else {
+      classie.remove( section, 'table');
+      classie.add( section, 'grid');
+    }
+  setCookie(layout);
   }
-};
+}
+
+// set the layout from user cookie
+function setLayout(layout) {
+  var cookie = getCookie('htmlarrows')
+  if ( cookie === 'table' ) {
+    toggleLayout('table');
+  } else {
+    return
+  }
+}
+
+// set a cookie for user preferred layout
+function setCookie(layout) {
+  var date = new Date();
+  date.setTime(date.getTime() + (1024*24*60*60*1000));
+  var expires = "expires=" + date.toUTCString();
+  document.cookie = "htmlarrows=" + layout + "; " + expires + "; path=/";
+}
+
+// get cookie (borrowed from https://developer.mozilla.org/en-US/docs/Web/API/document/cookie)
+function getCookie(name) {
+  if (!name) { return null; }
+  return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(name).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+}
+
+var layoutToggles = document.querySelectorAll('.layout-toggle');
+for( var i = 0; i < layoutToggles.length; i++ ){
+  layoutToggles[i].addEventListener( 'click', function(e) {
+    if ( e.target.id ) {
+      var layout = e.target.id;
+    } else {
+      var layout = e.target.parentNode.id;
+    }
+    toggleLayout(layout);
+  });
+}
+
+// social popups
+var socialLinks = document.querySelectorAll('.social-link');
+for( var i = 0; i < socialLinks.length; i++ ){
+  socialLinks[i].addEventListener( 'click', function(e) {
+    if ( e.target.id ) {
+      var target = e.target;
+    } else {
+      var target = e.target.parentNode;
+    }
+    var name = target.id,
+        width  = 600,
+        height = 375,
+        left   = (window.innerWidth - width)  / 2,
+        top    = (window.innerHeight - height) / 2,
+        url    = target.href,
+        opts   = 'status=1' +
+                 ',width='  + width  +
+                 ',height=' + height +
+                 ',top='    + top    +
+                 ',left='   + left;
+    
+    window.open(url, name, opts);
+    return false;
+  }, false);
+}
+
+
+
 
 // social popups
 // $('.popup').click(function(event) {
-//   var width  = 600,
-//       height = 375,
-//       left   = ($(window).width()  - width)  / 2,
-//       top    = ($(window).height() - height) / 2,
-//       url    = this.href,
-//       opts   = 'status=1' +
-//                ',width='  + width  +
-//                ',height=' + height +
-//                ',top='    + top    +
-//                ',left='   + left;
-  
-//   window.open(url, 'twitter', opts);
-
-//   return false;
+//   
 // });

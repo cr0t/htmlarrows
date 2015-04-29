@@ -14,11 +14,11 @@ priority: 1.0
 
 <%# Colors %>
 <% content_for :stylesheets do %>
-	article {background-color: rgb(45, 50, 55);}
+	article {background-color: rgb(50, 50, 50);}
 <% end %>
 
 <%# Page Content %>
-<section class="row index home">
+<section id="index" class="row grid home">
 
 	<% data.home.entities.each do |entity| %>
 		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>

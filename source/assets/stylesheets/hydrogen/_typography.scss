@@ -64,18 +64,25 @@ p { // paper descriptions (18px normal serif)
 	font-family: $font-family-primary;
 	font-style: normal;
 	font-weight: 400;
-	letter-spacing: $base-letter-spacing;
+	letter-spacing: 0.025em;
 	line-height: 1.625;
-	@include font-size($font-size-medium);
+	margin-top: 0.25em;
+	@include font-size(16px);
+	a {
+		border-bottom: 1px solid $color-primary;
+		&:hover {
+			border-bottom: 1px solid $color-secondary;
+		}
+	}
 }
 
 i { // paper subtitle (16px italic serif)
 	font-family: $font-family-primary;
 	font-style: italic;
 	font-weight: 400;
-	letter-spacing: $base-letter-spacing;
+	// letter-spacing: 0.025em;
 	line-height: 1.75;
-	@include font-size($font-size-base);
+	@include font-size($font-size-medium);
 }
 
 a { // anchors (inherit)

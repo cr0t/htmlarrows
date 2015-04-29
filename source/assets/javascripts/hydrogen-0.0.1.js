@@ -10,8 +10,15 @@ if ('addEventListener' in document) {
 
 
 (function() {
-
-	// mobile nav based on Codrops (http://tympanus.net/codrops/2014/09/16/off-canvas-menu-effects/)
+	/* Mobile nav based on Codrops (http://tympanus.net/codrops/2014/09/16/off-canvas-menu-effects/)
+	 * Original License:
+	 *
+	 * Licensed under the MIT license.
+	 * http://www.opensource.org/licenses/mit-license.php
+	 * 
+	 * Copyright 2014, Codrops
+	 * http://www.codrops.com
+	*/
 	var body = document.body,
 		  main = document.querySelector( '#main' ),
 		  htmlElement = document.querySelector("html"),

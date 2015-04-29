@@ -7,18 +7,18 @@
 	</div>
 
 	<div class="codes">
-		<h4 class="type">UNICODE</h4><code class="selectable" property="sampleType"><%= entity.unicode %></code><br>
-		<h4 class="type">HEX CODE</h4><code class="selectable" property="sampleType">&amp;<%= entity.hex_code %></code><br>
-		<h4 class="type">HTML CODE</h4><code class="selectable" property="sampleType">&amp;<%= entity.html_code %></code><br>
+		<h4 class="type" title="Unicode">UNICODE</h4><code class="selectable" property="sampleType"><%= entity.unicode %></code><br>
+		<h4 class="type" title="Hexadecimal Code">HEX CODE</h4><code class="selectable" property="sampleType">&amp;<%= entity.hex_code %></code><br>
+		<h4 class="type" title="HTML Code">HTML CODE</h4><code class="selectable" property="sampleType">&amp;<%= entity.html_code %></code><br>
 		<% if entity.html4_entity.blank? %>
-			<h4 class="type">HTML4 ENTITY</h4><code property="sampleType">&mdash;</code><br>
+			<h4 class="type" title="HTML Entity">HTML ENTITY</h4><code property="sampleType">&mdash;</code><br>
 		<% else %>
-			<h4 class="type">HTML4 ENTITY</h4><code class="selectable" property="sampleType">&amp;<%= entity.html4_entity %></code><br>
+			<h4 class="type" title="HTML Entity">HTML ENTITY</h4><code class="selectable" property="sampleType">&amp;<%= entity.html4_entity %></code><br>
 		<% end %>
 		<% if entity.html5_entity.blank? %>
-			<h4 class="type">HTML5 ENTITY</h4><code property="sampleType">&mdash;</code><br>
+			<h4 class="type" title="Unofficial HTML Entity">HTML ENTITY<span class="asterisk">*</span></h4><code property="sampleType">&mdash;</code><br>
 		<% else %>
-			<h4 class="type">HTML5 ENTITY</h4><code class="selectable" property="sampleType">&amp;<%= entity.html5_entity %></code><br>
+			<h4 class="type" title="Unofficial HTML Entity">HTML ENTITY<span class="asterisk">*</span></h4><code class="selectable" property="sampleType">&amp;<%= entity.html5_entity %></code><br>
 		<% end %>
 	</div>
 </div>
