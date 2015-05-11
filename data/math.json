@@ -6,8 +6,7 @@
       "unicode" : "U+0002B",
       "hex_code" : "#x2b;",
       "html_code" : "#43;",
-      "html4_entity" : "",
-      "html5_entity" : "plus;",
+      "html_entity" : "plus;",
       "oversize" : "false",
       "tags" : [
         {
@@ -21,8 +20,7 @@
       "unicode" : "U+02212",
       "hex_code" : "#x2212;",
       "html_code" : "#8722;",
-      "html4_entity" : "minus;",
-      "html5_entity" : "",
+      "html_entity" : "minus;",
       "oversize" : "false",
       "tags" : [
         {
@@ -36,8 +34,7 @@
       "unicode" : "U+000D7",
       "hex_code" : "#xd7;",
       "html_code" : "#215;",
-      "html4_entity" : "times;",
-      "html5_entity" : "",
+      "html_entity" : "times;",
       "oversize" : "false",
       "tags" : [
         {
@@ -51,8 +48,7 @@
       "unicode" : "U+000F7",
       "hex_code" : "#xf7;",
       "html_code" : "#247;",
-      "html4_entity" : "divide;",
-      "html5_entity" : "",
+      "html_entity" : "divide;",
       "oversize" : "false",
       "tags" : [
         {
@@ -66,8 +62,7 @@
       "unicode" : "U+0003D",
       "hex_code" : "#x3d;",
       "html_code" : "#61;",
-      "html4_entity" : "",
-      "html5_entity" : "equals;",
+      "html_entity" : "equals;",
       "oversize" : "false",
       "tags" : [
         {
@@ -81,8 +76,7 @@
       "unicode" : "U+02260",
       "hex_code" : "#x2260;",
       "html_code" : "#8800;",
-      "html4_entity" : "ne;",
-      "html5_entity" : "",
+      "html_entity" : "ne;",
       "oversize" : "false",
       "tags" : [
         {
@@ -96,8 +90,7 @@
       "unicode" : "U+000B1",
       "hex_code" : "#xb1;",
       "html_code" : "#177;",
-      "html4_entity" : "plusmn;",
-      "html5_entity" : "",
+      "html_entity" : "plusmn;",
       "oversize" : "false",
       "tags" : [
         {
@@ -111,12 +104,11 @@
       "unicode" : "U+000AC",
       "hex_code" : "#xac;",
       "html_code" : "#172;",
-      "html4_entity" : "not;",
-      "html5_entity" : "",
+      "html_entity" : "not;",
       "oversize" : "false",
       "tags" : [
         {
-          "name" : "punctuation"
+          "name" : "math"
         }
       ]
     },
@@ -126,8 +118,7 @@
       "unicode" : "U+0003C",
       "hex_code" : "#x3c;",
       "html_code" : "#60;",
-      "html4_entity" : "lt;",
-      "html5_entity" : "",
+      "html_entity" : "lt;",
       "oversize" : "false",
       "tags" : [
         {
@@ -141,8 +132,7 @@
       "unicode" : "U+0003E",
       "hex_code" : "#x3e;",
       "html_code" : "#62;",
-      "html4_entity" : "gt;",
-      "html5_entity" : "",
+      "html_entity" : "gt;",
       "oversize" : "false",
       "tags" : [
         {
@@ -156,8 +146,7 @@
       "unicode" : "U+022DC",
       "hex_code" : "#x22DC;",
       "html_code" : "#8924;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -171,8 +160,7 @@
       "unicode" : "U+022DD",
       "hex_code" : "#x22DD;",
       "html_code" : "#8925;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -186,8 +174,7 @@
       "unicode" : "U+000B0",
       "hex_code" : "#xb0;",
       "html_code" : "#176;",
-      "html4_entity" : "deg;",
-      "html5_entity" : "",
+      "html_entity" : "deg;",
       "oversize" : "false",
       "tags" : [
         {
@@ -201,8 +188,7 @@
       "unicode" : "U+000B9",
       "hex_code" : "#xb9;",
       "html_code" : "#185;",
-      "html4_entity" : "sup1;",
-      "html5_entity" : "",
+      "html_entity" : "sup1;",
       "oversize" : "false",
       "tags" : [
         {
@@ -216,8 +202,7 @@
       "unicode" : "U+000B2",
       "hex_code" : "#xb2;",
       "html_code" : "#178;",
-      "html4_entity" : "sup2;",
-      "html5_entity" : "",
+      "html_entity" : "sup2;",
       "oversize" : "false",
       "tags" : [
         {
@@ -231,8 +216,7 @@
       "unicode" : "U+000B3",
       "hex_code" : "#xb3;",
       "html_code" : "#179;",
-      "html4_entity" : "sup3;",
-      "html5_entity" : "",
+      "html_entity" : "sup3;",
       "oversize" : "false",
       "tags" : [
         {
@@ -246,8 +230,7 @@
       "unicode" : "U+00192",
       "hex_code" : "#x192;",
       "html_code" : "#402;",
-      "html4_entity" : "",
-      "html5_entity" : "fnof;",
+      "html_entity" : "fnof;",
       "oversize" : "false",
       "tags" : [
         {
@@ -261,8 +244,7 @@
       "unicode" : "U+00025",
       "hex_code" : "#x25;",
       "html_code" : "#37;",
-      "html4_entity" : "",
-      "html5_entity" : "percnt;",
+      "html_entity" : "percnt;",
       "oversize" : "false",
       "tags" : [
         {
@@ -271,13 +253,12 @@
       ]
     },
     {
-      "name" : "Per Thousand Sign",
-      "slug" : "per-thousand-sign",
-      "unicode" : "U+02030",
-      "hex_code" : "#x2030;",
-      "html_code" : "#8240;",
-      "html4_entity" : "",
-      "html5_entity" : "permil;",
+      "name" : "Per Mille Sign",
+      "slug" : "per-mille-sign",
+      "unicode" : "U+00089",
+      "hex_code" : "#x89;",
+      "html_code" : "#137;",
+      "html_entity" : "permil;",
       "oversize" : "false",
       "tags" : [
         {
@@ -291,8 +272,7 @@
       "unicode" : "U+02031",
       "hex_code" : "#x2031;",
       "html_code" : "#8241;",
-      "html4_entity" : "",
-      "html5_entity" : "pertenk;",
+      "html_entity" : "pertenk;",
       "oversize" : "false",
       "tags" : [
         {
@@ -306,8 +286,7 @@
       "unicode" : "U+02200",
       "hex_code" : "#x2200;",
       "html_code" : "#8704;",
-      "html4_entity" : "forall;",
-      "html5_entity" : "",
+      "html_entity" : "forall;",
       "oversize" : "false",
       "tags" : [
         {
@@ -321,8 +300,7 @@
       "unicode" : "U+02201",
       "hex_code" : "#x2201;",
       "html_code" : "#8705;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "comp;",
       "oversize" : "false",
       "tags" : [
         {
@@ -336,8 +314,7 @@
       "unicode" : "U+02202",
       "hex_code" : "#x2202;",
       "html_code" : "#8706;",
-      "html4_entity" : "part;",
-      "html5_entity" : "",
+      "html_entity" : "part;",
       "oversize" : "false",
       "tags" : [
         {
@@ -351,8 +328,7 @@
       "unicode" : "U+02203",
       "hex_code" : "#x2203;",
       "html_code" : "#8707;",
-      "html4_entity" : "exist;",
-      "html5_entity" : "",
+      "html_entity" : "exist;",
       "oversize" : "false",
       "tags" : [
         {
@@ -366,8 +342,7 @@
       "unicode" : "U+02204",
       "hex_code" : "#x2204;",
       "html_code" : "#8708;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nexist;",
       "oversize" : "false",
       "tags" : [
         {
@@ -381,8 +356,7 @@
       "unicode" : "U+02205",
       "hex_code" : "#x2205;",
       "html_code" : "#8709;",
-      "html4_entity" : "empty;",
-      "html5_entity" : "",
+      "html_entity" : "empty;",
       "oversize" : "false",
       "tags" : [
         {
@@ -396,8 +370,7 @@
       "unicode" : "U+02206",
       "hex_code" : "#x2206;",
       "html_code" : "#8710;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -411,8 +384,7 @@
       "unicode" : "U+02207",
       "hex_code" : "#x2207;",
       "html_code" : "#8711;",
-      "html4_entity" : "nabla;",
-      "html5_entity" : "",
+      "html_entity" : "nabla;",
       "oversize" : "false",
       "tags" : [
         {
@@ -426,8 +398,7 @@
       "unicode" : "U+02208",
       "hex_code" : "#x2208;",
       "html_code" : "#8712;",
-      "html4_entity" : "isin;",
-      "html5_entity" : "",
+      "html_entity" : "isin;",
       "oversize" : "false",
       "tags" : [
         {
@@ -441,8 +412,7 @@
       "unicode" : "U+02209",
       "hex_code" : "#x2209;",
       "html_code" : "#8713;",
-      "html4_entity" : "notin;",
-      "html5_entity" : "",
+      "html_entity" : "notin;",
       "oversize" : "false",
       "tags" : [
         {
@@ -456,8 +426,7 @@
       "unicode" : "U+0220A",
       "hex_code" : "#x220A;",
       "html_code" : "#8714;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -471,8 +440,7 @@
       "unicode" : "U+0220B",
       "hex_code" : "#x220B;",
       "html_code" : "#8715;",
-      "html4_entity" : "ni;",
-      "html5_entity" : "",
+      "html_entity" : "ni;",
       "oversize" : "false",
       "tags" : [
         {
@@ -486,8 +454,7 @@
       "unicode" : "U+0220C",
       "hex_code" : "#x220C;",
       "html_code" : "#8716;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "notni;",
       "oversize" : "false",
       "tags" : [
         {
@@ -501,8 +468,7 @@
       "unicode" : "U+0220D",
       "hex_code" : "#x220D;",
       "html_code" : "#8717;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -516,8 +482,7 @@
       "unicode" : "U+0220E",
       "hex_code" : "#x220E;",
       "html_code" : "#8718;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -531,8 +496,7 @@
       "unicode" : "U+0220F",
       "hex_code" : "#x220F;",
       "html_code" : "#8719;",
-      "html4_entity" : "prod;",
-      "html5_entity" : "",
+      "html_entity" : "prod;",
       "oversize" : "false",
       "tags" : [
         {
@@ -546,8 +510,7 @@
       "unicode" : "U+02210",
       "hex_code" : "#x2210;",
       "html_code" : "#8720;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "coprod;",
       "oversize" : "false",
       "tags" : [
         {
@@ -561,8 +524,7 @@
       "unicode" : "U+02211",
       "hex_code" : "#x2211;",
       "html_code" : "#8721;",
-      "html4_entity" : "sum;",
-      "html5_entity" : "",
+      "html_entity" : "sum;",
       "oversize" : "false",
       "tags" : [
         {
@@ -576,8 +538,7 @@
       "unicode" : "U+02213",
       "hex_code" : "#x2213;",
       "html_code" : "#8723;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "mnplus;",
       "oversize" : "false",
       "tags" : [
         {
@@ -591,8 +552,7 @@
       "unicode" : "U+02214",
       "hex_code" : "#x2214;",
       "html_code" : "#8724;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "plusdo;",
       "oversize" : "false",
       "tags" : [
         {
@@ -606,8 +566,7 @@
       "unicode" : "U+02215",
       "hex_code" : "#x2215;",
       "html_code" : "#8725;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -621,8 +580,7 @@
       "unicode" : "U+02216",
       "hex_code" : "#x2216;",
       "html_code" : "#8726;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "setminus;",
       "oversize" : "false",
       "tags" : [
         {
@@ -636,8 +594,7 @@
       "unicode" : "U+02217",
       "hex_code" : "#x2217;",
       "html_code" : "#8727;",
-      "html4_entity" : "lowast;",
-      "html5_entity" : "",
+      "html_entity" : "lowast;",
       "oversize" : "false",
       "tags" : [
         {
@@ -651,8 +608,7 @@
       "unicode" : "U+02218",
       "hex_code" : "#x2218;",
       "html_code" : "#8728;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "compfn;",
       "oversize" : "false",
       "tags" : [
         {
@@ -666,8 +622,7 @@
       "unicode" : "U+02219",
       "hex_code" : "#x2219;",
       "html_code" : "#8729;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -681,8 +636,7 @@
       "unicode" : "U+0221A",
       "hex_code" : "#x221A;",
       "html_code" : "#8730;",
-      "html4_entity" : "radic;",
-      "html5_entity" : "",
+      "html_entity" : "radic;",
       "oversize" : "false",
       "tags" : [
         {
@@ -696,8 +650,7 @@
       "unicode" : "U+0221B",
       "hex_code" : "#x221B;",
       "html_code" : "#8731;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -711,8 +664,7 @@
       "unicode" : "U+0221C",
       "hex_code" : "#x221C;",
       "html_code" : "#8732;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -726,8 +678,7 @@
       "unicode" : "U+0221D",
       "hex_code" : "#x221D;",
       "html_code" : "#8733;",
-      "html4_entity" : "prop;",
-      "html5_entity" : "",
+      "html_entity" : "prop;",
       "oversize" : "false",
       "tags" : [
         {
@@ -741,8 +692,7 @@
       "unicode" : "U+0221E",
       "hex_code" : "#x221E;",
       "html_code" : "#8734;",
-      "html4_entity" : "infin;",
-      "html5_entity" : "",
+      "html_entity" : "infin;",
       "oversize" : "false",
       "tags" : [
         {
@@ -756,8 +706,7 @@
       "unicode" : "U+0221F",
       "hex_code" : "#x221F;",
       "html_code" : "#8735;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "angrt;",
       "oversize" : "false",
       "tags" : [
         {
@@ -771,8 +720,7 @@
       "unicode" : "U+02220",
       "hex_code" : "#x2220;",
       "html_code" : "#8736;",
-      "html4_entity" : "ang;",
-      "html5_entity" : "",
+      "html_entity" : "ang;",
       "oversize" : "false",
       "tags" : [
         {
@@ -786,8 +734,7 @@
       "unicode" : "U+02221",
       "hex_code" : "#x2221;",
       "html_code" : "#8737;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "angmsd;",
       "oversize" : "false",
       "tags" : [
         {
@@ -801,8 +748,7 @@
       "unicode" : "U+02222",
       "hex_code" : "#x2222;",
       "html_code" : "#8738;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "angsph;",
       "oversize" : "false",
       "tags" : [
         {
@@ -816,8 +762,7 @@
       "unicode" : "U+02223",
       "hex_code" : "#x2223;",
       "html_code" : "#8739;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "mid;",
       "oversize" : "false",
       "tags" : [
         {
@@ -831,8 +776,7 @@
       "unicode" : "U+02224",
       "hex_code" : "#x2224;",
       "html_code" : "#8740;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nmid;",
       "oversize" : "false",
       "tags" : [
         {
@@ -846,8 +790,7 @@
       "unicode" : "U+02225",
       "hex_code" : "#x2225;",
       "html_code" : "#8741;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "parallel;",
       "oversize" : "false",
       "tags" : [
         {
@@ -861,8 +804,7 @@
       "unicode" : "U+02226",
       "hex_code" : "#x2226;",
       "html_code" : "#8742;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "npar;",
       "oversize" : "false",
       "tags" : [
         {
@@ -876,8 +818,7 @@
       "unicode" : "U+02227",
       "hex_code" : "#x2227;",
       "html_code" : "#8743;",
-      "html4_entity" : "and;",
-      "html5_entity" : "",
+      "html_entity" : "and;",
       "oversize" : "false",
       "tags" : [
         {
@@ -891,8 +832,7 @@
       "unicode" : "U+02228",
       "hex_code" : "#x2228;",
       "html_code" : "#8744;",
-      "html4_entity" : "or;",
-      "html5_entity" : "",
+      "html_entity" : "or;",
       "oversize" : "false",
       "tags" : [
         {
@@ -906,8 +846,7 @@
       "unicode" : "U+02229",
       "hex_code" : "#x2229;",
       "html_code" : "#8745;",
-      "html4_entity" : "cap;",
-      "html5_entity" : "",
+      "html_entity" : "cap;",
       "oversize" : "false",
       "tags" : [
         {
@@ -921,8 +860,7 @@
       "unicode" : "U+0222A",
       "hex_code" : "#x222A;",
       "html_code" : "#8746;",
-      "html4_entity" : "cup;",
-      "html5_entity" : "",
+      "html_entity" : "cup;",
       "oversize" : "false",
       "tags" : [
         {
@@ -936,8 +874,7 @@
       "unicode" : "U+0222B",
       "hex_code" : "#x222B;",
       "html_code" : "#8747;",
-      "html4_entity" : "int;",
-      "html5_entity" : "",
+      "html_entity" : "int;",
       "oversize" : "false",
       "tags" : [
         {
@@ -951,8 +888,7 @@
       "unicode" : "U+0222C",
       "hex_code" : "#x222C;",
       "html_code" : "#8748;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Int;",
       "oversize" : "false",
       "tags" : [
         {
@@ -966,8 +902,7 @@
       "unicode" : "U+0222D",
       "hex_code" : "#x222D;",
       "html_code" : "#8749;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "iiint;",
       "oversize" : "false",
       "tags" : [
         {
@@ -981,8 +916,7 @@
       "unicode" : "U+0222E",
       "hex_code" : "#x222E;",
       "html_code" : "#8750;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "conint;",
       "oversize" : "false",
       "tags" : [
         {
@@ -996,8 +930,7 @@
       "unicode" : "U+0222F",
       "hex_code" : "#x222F;",
       "html_code" : "#8751;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Conint;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1011,8 +944,7 @@
       "unicode" : "U+02230",
       "hex_code" : "#x2230;",
       "html_code" : "#8752;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Cconint;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1026,8 +958,7 @@
       "unicode" : "U+02231",
       "hex_code" : "#x2231;",
       "html_code" : "#8753;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "cwint;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1041,8 +972,7 @@
       "unicode" : "U+02232",
       "hex_code" : "#x2232;",
       "html_code" : "#8754;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "cwconint;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1056,8 +986,7 @@
       "unicode" : "U+02233",
       "hex_code" : "#x2233;",
       "html_code" : "#8755;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "awconint;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1071,8 +1000,7 @@
       "unicode" : "U+02234",
       "hex_code" : "#x2234;",
       "html_code" : "#8756;",
-      "html4_entity" : "there4;",
-      "html5_entity" : "",
+      "html_entity" : "there4;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1086,8 +1014,7 @@
       "unicode" : "U+02235",
       "hex_code" : "#x2235;",
       "html_code" : "#8757;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "because;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1101,8 +1028,7 @@
       "unicode" : "U+02236",
       "hex_code" : "#x2236;",
       "html_code" : "#8758;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ratio;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1116,8 +1042,7 @@
       "unicode" : "U+02237",
       "hex_code" : "#x2237;",
       "html_code" : "#8759;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Colon;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1131,8 +1056,7 @@
       "unicode" : "U+02238",
       "hex_code" : "#x2238;",
       "html_code" : "#8760;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "minusd;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1146,8 +1070,7 @@
       "unicode" : "U+02239",
       "hex_code" : "#x2239;",
       "html_code" : "#8761;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -1161,8 +1084,7 @@
       "unicode" : "U+0223A",
       "hex_code" : "#x223A;",
       "html_code" : "#8762;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "mDDot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1176,8 +1098,7 @@
       "unicode" : "U+0223B",
       "hex_code" : "#x223B;",
       "html_code" : "#8763;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "homtht;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1191,8 +1112,7 @@
       "unicode" : "U+0223C",
       "hex_code" : "#x223C;",
       "html_code" : "#8764;",
-      "html4_entity" : "sim;",
-      "html5_entity" : "",
+      "html_entity" : "sim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1206,8 +1126,7 @@
       "unicode" : "U+0223D",
       "hex_code" : "#x223D;",
       "html_code" : "#8765;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "bsim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1221,8 +1140,7 @@
       "unicode" : "U+0223E",
       "hex_code" : "#x223E;",
       "html_code" : "#8766;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ac;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1236,8 +1154,7 @@
       "unicode" : "U+0223F",
       "hex_code" : "#x223F;",
       "html_code" : "#8767;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "acd;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1251,8 +1168,7 @@
       "unicode" : "U+02240",
       "hex_code" : "#x2240;",
       "html_code" : "#8768;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "wreath;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1266,8 +1182,7 @@
       "unicode" : "U+02241",
       "hex_code" : "#x2241;",
       "html_code" : "#8769;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nsim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1281,8 +1196,7 @@
       "unicode" : "U+02242",
       "hex_code" : "#x2242;",
       "html_code" : "#8770;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "esim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1296,8 +1210,7 @@
       "unicode" : "U+02243",
       "hex_code" : "#x2243;",
       "html_code" : "#8771;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "sime;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1311,8 +1224,7 @@
       "unicode" : "U+02244",
       "hex_code" : "#x2244;",
       "html_code" : "#8772;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nsime;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1326,8 +1238,7 @@
       "unicode" : "U+02245",
       "hex_code" : "#x2245;",
       "html_code" : "#8773;",
-      "html4_entity" : "cong;",
-      "html5_entity" : "",
+      "html_entity" : "cong;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1341,8 +1252,7 @@
       "unicode" : "U+02246",
       "hex_code" : "#x2246;",
       "html_code" : "#8774;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "simne;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1356,8 +1266,7 @@
       "unicode" : "U+02247",
       "hex_code" : "#x2247;",
       "html_code" : "#8775;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ncong;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1371,8 +1280,7 @@
       "unicode" : "U+02248",
       "hex_code" : "#x2248;",
       "html_code" : "#8776;",
-      "html4_entity" : "asymp;",
-      "html5_entity" : "",
+      "html_entity" : "asymp;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1386,8 +1294,7 @@
       "unicode" : "U+02249",
       "hex_code" : "#x2249;",
       "html_code" : "#8777;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nap;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1401,8 +1308,7 @@
       "unicode" : "U+0224A",
       "hex_code" : "#x224A;",
       "html_code" : "#8778;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "approxeq;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1416,8 +1322,7 @@
       "unicode" : "U+0224B",
       "hex_code" : "#x224B;",
       "html_code" : "#8779;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "apid;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1431,8 +1336,7 @@
       "unicode" : "U+0224C",
       "hex_code" : "#x224C;",
       "html_code" : "#8780;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "bcong;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1446,8 +1350,7 @@
       "unicode" : "U+0224D",
       "hex_code" : "#x224D;",
       "html_code" : "#8781;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "asympeq;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1461,8 +1364,7 @@
       "unicode" : "U+0224E",
       "hex_code" : "#x224E;",
       "html_code" : "#8782;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "bump;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1476,8 +1378,7 @@
       "unicode" : "U+0224F",
       "hex_code" : "#x224F;",
       "html_code" : "#8783;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "bumpe;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1491,8 +1392,7 @@
       "unicode" : "U+02250",
       "hex_code" : "#x2250;",
       "html_code" : "#8784;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "esdot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1506,8 +1406,7 @@
       "unicode" : "U+02251",
       "hex_code" : "#x2251;",
       "html_code" : "#8785;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "eDot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1521,8 +1420,7 @@
       "unicode" : "U+02252",
       "hex_code" : "#x2252;",
       "html_code" : "#8786;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "efDot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1536,8 +1434,7 @@
       "unicode" : "U+02253",
       "hex_code" : "#x2253;",
       "html_code" : "#8787;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "erDot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1551,8 +1448,7 @@
       "unicode" : "U+02254",
       "hex_code" : "#x2254;",
       "html_code" : "#8788;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "colone;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1566,8 +1462,7 @@
       "unicode" : "U+02255",
       "hex_code" : "#x2255;",
       "html_code" : "#8789;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ecolon;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1581,8 +1476,7 @@
       "unicode" : "U+02256",
       "hex_code" : "#x2256;",
       "html_code" : "#8790;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ecir;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1596,8 +1490,7 @@
       "unicode" : "U+02257",
       "hex_code" : "#x2257;",
       "html_code" : "#8791;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "cire;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1611,8 +1504,7 @@
       "unicode" : "U+02258",
       "hex_code" : "#x2258;",
       "html_code" : "#8792;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -1626,8 +1518,7 @@
       "unicode" : "U+02259",
       "hex_code" : "#x2259;",
       "html_code" : "#8793;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "wedgeq;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1641,8 +1532,7 @@
       "unicode" : "U+0225A",
       "hex_code" : "#x225A;",
       "html_code" : "#8794;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "veeeq;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1656,8 +1546,7 @@
       "unicode" : "U+0225B",
       "hex_code" : "#x225B;",
       "html_code" : "#8795;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -1671,8 +1560,7 @@
       "unicode" : "U+0225C",
       "hex_code" : "#x225C;",
       "html_code" : "#8796;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "trie;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1686,8 +1574,7 @@
       "unicode" : "U+0225D",
       "hex_code" : "#x225D;",
       "html_code" : "#8797;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -1701,8 +1588,7 @@
       "unicode" : "U+0225E",
       "hex_code" : "#x225E;",
       "html_code" : "#8798;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -1716,8 +1602,7 @@
       "unicode" : "U+0225F",
       "hex_code" : "#x225F;",
       "html_code" : "#8799;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "equest;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1731,8 +1616,7 @@
       "unicode" : "U+02261",
       "hex_code" : "#x2261;",
       "html_code" : "#8801;",
-      "html4_entity" : "equiv;",
-      "html5_entity" : "",
+      "html_entity" : "equiv;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1746,8 +1630,7 @@
       "unicode" : "U+02262",
       "hex_code" : "#x2262;",
       "html_code" : "#8802;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nequiv;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1761,8 +1644,7 @@
       "unicode" : "U+02263",
       "hex_code" : "#x2263;",
       "html_code" : "#8803;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -1776,8 +1658,7 @@
       "unicode" : "U+02264",
       "hex_code" : "#x2264;",
       "html_code" : "#8804;",
-      "html4_entity" : "le;",
-      "html5_entity" : "",
+      "html_entity" : "le;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1791,8 +1672,7 @@
       "unicode" : "U+02265",
       "hex_code" : "#x2265;",
       "html_code" : "#8805;",
-      "html4_entity" : "ge;",
-      "html5_entity" : "",
+      "html_entity" : "ge;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1806,8 +1686,7 @@
       "unicode" : "U+02266",
       "hex_code" : "#x2266;",
       "html_code" : "#8806;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "lE;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1821,8 +1700,7 @@
       "unicode" : "U+02267",
       "hex_code" : "#x2267;",
       "html_code" : "#8807;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "gE;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1836,8 +1714,7 @@
       "unicode" : "U+02268",
       "hex_code" : "#x2268;",
       "html_code" : "#8808;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "lnE;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1851,8 +1728,7 @@
       "unicode" : "U+02269",
       "hex_code" : "#x2269;",
       "html_code" : "#8809;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "gnE;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1866,8 +1742,7 @@
       "unicode" : "U+0226A",
       "hex_code" : "#x226A;",
       "html_code" : "#8810;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Lt;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1881,8 +1756,7 @@
       "unicode" : "U+0226B",
       "hex_code" : "#x226B;",
       "html_code" : "#8811;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Gt;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1896,8 +1770,7 @@
       "unicode" : "U+0226C",
       "hex_code" : "#x226C;",
       "html_code" : "#8812;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "between;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1911,8 +1784,7 @@
       "unicode" : "U+0226D",
       "hex_code" : "#x226D;",
       "html_code" : "#8813;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "NotCupCap;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1926,8 +1798,7 @@
       "unicode" : "U+0226E",
       "hex_code" : "#x226E;",
       "html_code" : "#8814;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nlt;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1941,8 +1812,7 @@
       "unicode" : "U+0226F",
       "hex_code" : "#x226F;",
       "html_code" : "#8815;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ngt;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1956,8 +1826,7 @@
       "unicode" : "U+02270",
       "hex_code" : "#x2270;",
       "html_code" : "#8816;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nle;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1971,8 +1840,7 @@
       "unicode" : "U+02271",
       "hex_code" : "#x2271;",
       "html_code" : "#8817;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nge;",
       "oversize" : "false",
       "tags" : [
         {
@@ -1986,8 +1854,7 @@
       "unicode" : "U+02272",
       "hex_code" : "#x2272;",
       "html_code" : "#8818;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "lsim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2001,8 +1868,7 @@
       "unicode" : "U+02273",
       "hex_code" : "#x2273;",
       "html_code" : "#8819;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "gsim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2016,8 +1882,7 @@
       "unicode" : "U+02274",
       "hex_code" : "#x2274;",
       "html_code" : "#8820;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nlsim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2031,8 +1896,7 @@
       "unicode" : "U+02275",
       "hex_code" : "#x2275;",
       "html_code" : "#8821;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ngsim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2046,8 +1910,7 @@
       "unicode" : "U+02276",
       "hex_code" : "#x2276;",
       "html_code" : "#8822;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "lg;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2061,8 +1924,7 @@
       "unicode" : "U+02277",
       "hex_code" : "#x2277;",
       "html_code" : "#8823;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "gl;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2076,8 +1938,7 @@
       "unicode" : "U+02278",
       "hex_code" : "#x2278;",
       "html_code" : "#8824;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ntlg;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2091,8 +1952,7 @@
       "unicode" : "U+02279",
       "hex_code" : "#x2279;",
       "html_code" : "#8825;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ntgl;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2106,8 +1966,7 @@
       "unicode" : "U+0227A",
       "hex_code" : "#x227A;",
       "html_code" : "#8826;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "pr;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2121,8 +1980,7 @@
       "unicode" : "U+0227B",
       "hex_code" : "#x227B;",
       "html_code" : "#8827;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "sc;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2136,8 +1994,7 @@
       "unicode" : "U+0227C",
       "hex_code" : "#x227C;",
       "html_code" : "#8828;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "prcue;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2151,8 +2008,7 @@
       "unicode" : "U+0227D",
       "hex_code" : "#x227D;",
       "html_code" : "#8829;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "sccue;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2166,8 +2022,7 @@
       "unicode" : "U+0227E",
       "hex_code" : "#x227E;",
       "html_code" : "#8830;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "prsim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2181,8 +2036,7 @@
       "unicode" : "U+0227F",
       "hex_code" : "#x227F;",
       "html_code" : "#8831;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "scsim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2196,8 +2050,7 @@
       "unicode" : "U+02280",
       "hex_code" : "#x2280;",
       "html_code" : "#8832;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "npr;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2211,8 +2064,7 @@
       "unicode" : "U+02281",
       "hex_code" : "#x2281;",
       "html_code" : "#8833;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nsc;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2226,8 +2078,7 @@
       "unicode" : "U+02282",
       "hex_code" : "#x2282;",
       "html_code" : "#8834;",
-      "html4_entity" : "sub;",
-      "html5_entity" : "",
+      "html_entity" : "sub;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2241,8 +2092,7 @@
       "unicode" : "U+02283",
       "hex_code" : "#x2283;",
       "html_code" : "#8835;",
-      "html4_entity" : "sup;",
-      "html5_entity" : "",
+      "html_entity" : "sup;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2256,8 +2106,7 @@
       "unicode" : "U+02284",
       "hex_code" : "#x2284;",
       "html_code" : "#8836;",
-      "html4_entity" : "nsub;",
-      "html5_entity" : "",
+      "html_entity" : "nsub;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2271,8 +2120,7 @@
       "unicode" : "U+02285",
       "hex_code" : "#x2285;",
       "html_code" : "#8837;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nsup;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2286,8 +2134,7 @@
       "unicode" : "U+02286",
       "hex_code" : "#x2286;",
       "html_code" : "#8838;",
-      "html4_entity" : "sube;",
-      "html5_entity" : "",
+      "html_entity" : "sube;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2301,8 +2148,7 @@
       "unicode" : "U+02287",
       "hex_code" : "#x2287;",
       "html_code" : "#8839;",
-      "html4_entity" : "supe;",
-      "html5_entity" : "",
+      "html_entity" : "supe;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2316,8 +2162,7 @@
       "unicode" : "U+02288",
       "hex_code" : "#x2288;",
       "html_code" : "#8840;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nsube;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2331,8 +2176,7 @@
       "unicode" : "U+02289",
       "hex_code" : "#x2289;",
       "html_code" : "#8841;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nsupe;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2346,8 +2190,7 @@
       "unicode" : "U+0228A",
       "hex_code" : "#x228A;",
       "html_code" : "#8842;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "subne;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2361,8 +2204,7 @@
       "unicode" : "U+0228B",
       "hex_code" : "#x228B;",
       "html_code" : "#8843;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "supne;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2376,8 +2218,7 @@
       "unicode" : "U+0228C",
       "hex_code" : "#x228C;",
       "html_code" : "#8844;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -2391,8 +2232,7 @@
       "unicode" : "U+0228D",
       "hex_code" : "#x228D;",
       "html_code" : "#8845;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "cupdot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2406,8 +2246,7 @@
       "unicode" : "U+0228E",
       "hex_code" : "#x228E;",
       "html_code" : "#8846;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "uplus;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2421,8 +2260,7 @@
       "unicode" : "U+0228F",
       "hex_code" : "#x228F;",
       "html_code" : "#8847;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "sqsub;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2436,8 +2274,7 @@
       "unicode" : "U+02290",
       "hex_code" : "#x2290;",
       "html_code" : "#8848;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "sqsup;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2451,8 +2288,7 @@
       "unicode" : "U+02291",
       "hex_code" : "#x2291;",
       "html_code" : "#8849;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "sqsube;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2466,8 +2302,7 @@
       "unicode" : "U+02292",
       "hex_code" : "#x2292;",
       "html_code" : "#8850;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "sqsupe;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2481,8 +2316,7 @@
       "unicode" : "U+02293",
       "hex_code" : "#x2293;",
       "html_code" : "#8851;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "sqcap;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2496,8 +2330,7 @@
       "unicode" : "U+02294",
       "hex_code" : "#x2294;",
       "html_code" : "#8852;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "sqcup;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2511,8 +2344,7 @@
       "unicode" : "U+02295",
       "hex_code" : "#x2295;",
       "html_code" : "#8853;",
-      "html4_entity" : "oplus;",
-      "html5_entity" : "",
+      "html_entity" : "oplus;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2526,8 +2358,7 @@
       "unicode" : "U+02296",
       "hex_code" : "#x2296;",
       "html_code" : "#8854;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ominus;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2541,8 +2372,7 @@
       "unicode" : "U+02297",
       "hex_code" : "#x2297;",
       "html_code" : "#8855;",
-      "html4_entity" : "otimes;",
-      "html5_entity" : "",
+      "html_entity" : "otimes;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2556,8 +2386,7 @@
       "unicode" : "U+02298",
       "hex_code" : "#x2298;",
       "html_code" : "#8856;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "osol;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2571,8 +2400,7 @@
       "unicode" : "U+02299",
       "hex_code" : "#x2299;",
       "html_code" : "#8857;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "odot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2586,8 +2414,7 @@
       "unicode" : "U+0229A",
       "hex_code" : "#x229A;",
       "html_code" : "#8858;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ocir;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2601,8 +2428,7 @@
       "unicode" : "U+0229B",
       "hex_code" : "#x229B;",
       "html_code" : "#8859;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "oast;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2616,8 +2442,7 @@
       "unicode" : "U+0229C",
       "hex_code" : "#x229C;",
       "html_code" : "#8860;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -2631,8 +2456,7 @@
       "unicode" : "U+0229D",
       "hex_code" : "#x229D;",
       "html_code" : "#8861;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "odash;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2646,8 +2470,7 @@
       "unicode" : "U+0229E",
       "hex_code" : "#x229E;",
       "html_code" : "#8862;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "plusb;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2661,8 +2484,7 @@
       "unicode" : "U+0229F",
       "hex_code" : "#x229F;",
       "html_code" : "#8863;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "minusb;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2676,8 +2498,7 @@
       "unicode" : "U+022A0",
       "hex_code" : "#x22A0;",
       "html_code" : "#8864;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "timesb;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2691,8 +2512,7 @@
       "unicode" : "U+022A1",
       "hex_code" : "#x22A1;",
       "html_code" : "#8865;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "sdotb;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2706,8 +2526,7 @@
       "unicode" : "U+022A2",
       "hex_code" : "#x22A2;",
       "html_code" : "#8866;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "vdash;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2721,8 +2540,7 @@
       "unicode" : "U+022A3",
       "hex_code" : "#x22A3;",
       "html_code" : "#8867;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "dashv;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2736,8 +2554,7 @@
       "unicode" : "U+022A4",
       "hex_code" : "#x22A4;",
       "html_code" : "#8868;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "top;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2751,8 +2568,7 @@
       "unicode" : "U+022A5",
       "hex_code" : "#x22A5;",
       "html_code" : "#8869;",
-      "html4_entity" : "perp;",
-      "html5_entity" : "",
+      "html_entity" : "perp;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2766,8 +2582,7 @@
       "unicode" : "U+022A6",
       "hex_code" : "#x22A6;",
       "html_code" : "#8870;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -2781,8 +2596,7 @@
       "unicode" : "U+022A7",
       "hex_code" : "#x22A7;",
       "html_code" : "#8871;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "models;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2796,8 +2610,7 @@
       "unicode" : "U+022A8",
       "hex_code" : "#x22A8;",
       "html_code" : "#8872;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "vDash;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2811,8 +2624,7 @@
       "unicode" : "U+022A9",
       "hex_code" : "#x22A9;",
       "html_code" : "#8873;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Vdash;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2826,8 +2638,7 @@
       "unicode" : "U+022AA",
       "hex_code" : "#x22AA;",
       "html_code" : "#8874;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Vvdash;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2841,8 +2652,7 @@
       "unicode" : "U+022AB",
       "hex_code" : "#x22AB;",
       "html_code" : "#8875;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "VDash;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2856,8 +2666,7 @@
       "unicode" : "U+022AC",
       "hex_code" : "#x22AC;",
       "html_code" : "#8876;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nvdash;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2871,8 +2680,7 @@
       "unicode" : "U+022AD",
       "hex_code" : "#x22AD;",
       "html_code" : "#8877;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nvDash;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2886,8 +2694,7 @@
       "unicode" : "U+022AE",
       "hex_code" : "#x22AE;",
       "html_code" : "#8878;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nVdash;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2901,8 +2708,7 @@
       "unicode" : "U+022AF",
       "hex_code" : "#x22AF;",
       "html_code" : "#8879;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nVDash;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2916,8 +2722,7 @@
       "unicode" : "U+022B0",
       "hex_code" : "#x22B0;",
       "html_code" : "#8880;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "prurel;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2931,8 +2736,7 @@
       "unicode" : "U+022B1",
       "hex_code" : "#x22B1;",
       "html_code" : "#8881;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -2946,8 +2750,7 @@
       "unicode" : "U+022B2",
       "hex_code" : "#x22B2;",
       "html_code" : "#8882;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "vltri;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2961,8 +2764,7 @@
       "unicode" : "U+022B3",
       "hex_code" : "#x22B3;",
       "html_code" : "#8883;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "vrtri;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2976,8 +2778,7 @@
       "unicode" : "U+022B4",
       "hex_code" : "#x22B4;",
       "html_code" : "#8884;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ltrie;",
       "oversize" : "false",
       "tags" : [
         {
@@ -2991,8 +2792,7 @@
       "unicode" : "U+022B5",
       "hex_code" : "#x22B5;",
       "html_code" : "#8885;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "rtrie;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3006,8 +2806,7 @@
       "unicode" : "U+022B6",
       "hex_code" : "#x22B6;",
       "html_code" : "#8886;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "origof;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3021,8 +2820,7 @@
       "unicode" : "U+022B7",
       "hex_code" : "#x22B7;",
       "html_code" : "#8887;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "imof;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3036,8 +2834,7 @@
       "unicode" : "U+022B8",
       "hex_code" : "#x22B8;",
       "html_code" : "#8888;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "mumap;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3051,8 +2848,7 @@
       "unicode" : "U+022B9",
       "hex_code" : "#x22B9;",
       "html_code" : "#8889;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "hercon;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3066,8 +2862,7 @@
       "unicode" : "U+022BA",
       "hex_code" : "#x22BA;",
       "html_code" : "#8890;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "intcal;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3081,8 +2876,7 @@
       "unicode" : "U+022BB",
       "hex_code" : "#x22BB;",
       "html_code" : "#8891;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "veebar;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3096,8 +2890,7 @@
       "unicode" : "U+022BC",
       "hex_code" : "#x22BC;",
       "html_code" : "#8892;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -3111,8 +2904,7 @@
       "unicode" : "U+022BD",
       "hex_code" : "#x22BD;",
       "html_code" : "#8893;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "barvee;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3126,8 +2918,7 @@
       "unicode" : "U+022BE",
       "hex_code" : "#x22BE;",
       "html_code" : "#8894;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "angrtvb;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3141,8 +2932,7 @@
       "unicode" : "U+022BF",
       "hex_code" : "#x22BF;",
       "html_code" : "#8895;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "lrtri;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3156,8 +2946,7 @@
       "unicode" : "U+022C0",
       "hex_code" : "#x22C0;",
       "html_code" : "#8896;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "xwedge;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3171,8 +2960,7 @@
       "unicode" : "U+022C1",
       "hex_code" : "#x22C1;",
       "html_code" : "#8897;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "xvee;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3186,8 +2974,7 @@
       "unicode" : "U+022C2",
       "hex_code" : "#x22C2;",
       "html_code" : "#8898;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "xcap;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3201,8 +2988,7 @@
       "unicode" : "U+022C3",
       "hex_code" : "#x22C3;",
       "html_code" : "#8899;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "xcup;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3216,8 +3002,7 @@
       "unicode" : "U+022C4",
       "hex_code" : "#x22C4;",
       "html_code" : "#8900;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "diamond;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3231,8 +3016,7 @@
       "unicode" : "U+022C5",
       "hex_code" : "#x22C5;",
       "html_code" : "#8901;",
-      "html4_entity" : "sdot;",
-      "html5_entity" : "",
+      "html_entity" : "sdot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3246,8 +3030,7 @@
       "unicode" : "U+022C6",
       "hex_code" : "#x22C6;",
       "html_code" : "#8902;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Star;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3261,8 +3044,7 @@
       "unicode" : "U+022C7",
       "hex_code" : "#x22C7;",
       "html_code" : "#8903;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "divonx;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3276,8 +3058,7 @@
       "unicode" : "U+022C8",
       "hex_code" : "#x22C8;",
       "html_code" : "#8904;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "bowtie;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3291,8 +3072,7 @@
       "unicode" : "U+022C9",
       "hex_code" : "#x22C9;",
       "html_code" : "#8905;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ltimes;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3306,8 +3086,7 @@
       "unicode" : "U+022CA",
       "hex_code" : "#x22CA;",
       "html_code" : "#8906;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "rtimes;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3321,8 +3100,7 @@
       "unicode" : "U+022CB",
       "hex_code" : "#x22CB;",
       "html_code" : "#8907;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "lthree;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3336,8 +3114,7 @@
       "unicode" : "U+022CC",
       "hex_code" : "#x22CC;",
       "html_code" : "#8908;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "rthree;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3351,8 +3128,7 @@
       "unicode" : "U+022CD",
       "hex_code" : "#x22CD;",
       "html_code" : "#8909;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "bsime;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3366,8 +3142,7 @@
       "unicode" : "U+022CE",
       "hex_code" : "#x22CE;",
       "html_code" : "#8910;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "cuvee;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3381,8 +3156,7 @@
       "unicode" : "U+022CF",
       "hex_code" : "#x22CF;",
       "html_code" : "#8911;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "cuwed;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3396,8 +3170,7 @@
       "unicode" : "U+022D0",
       "hex_code" : "#x22D0;",
       "html_code" : "#8912;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Sub;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3411,8 +3184,7 @@
       "unicode" : "U+022D1",
       "hex_code" : "#x22D1;",
       "html_code" : "#8913;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Sup;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3426,8 +3198,7 @@
       "unicode" : "U+022D2",
       "hex_code" : "#x22D2;",
       "html_code" : "#8914;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Cap;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3441,8 +3212,7 @@
       "unicode" : "U+022D3",
       "hex_code" : "#x22D3;",
       "html_code" : "#8915;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Cup;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3456,8 +3226,7 @@
       "unicode" : "U+022D4",
       "hex_code" : "#x22D4;",
       "html_code" : "#8916;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "fork;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3471,8 +3240,7 @@
       "unicode" : "U+022D5",
       "hex_code" : "#x22D5;",
       "html_code" : "#8917;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "epar;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3486,8 +3254,7 @@
       "unicode" : "U+022D6",
       "hex_code" : "#x22D6;",
       "html_code" : "#8918;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ltdot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3501,8 +3268,7 @@
       "unicode" : "U+022D7",
       "hex_code" : "#x22D7;",
       "html_code" : "#8919;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "gtdot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3516,8 +3282,7 @@
       "unicode" : "U+022D8",
       "hex_code" : "#x22D8;",
       "html_code" : "#8920;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Ll;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3531,8 +3296,7 @@
       "unicode" : "U+022D9",
       "hex_code" : "#x22D9;",
       "html_code" : "#8921;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "Gg;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3546,8 +3310,7 @@
       "unicode" : "U+022DA",
       "hex_code" : "#x22DA;",
       "html_code" : "#8922;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "leg;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3561,8 +3324,7 @@
       "unicode" : "U+022DB",
       "hex_code" : "#x22DB;",
       "html_code" : "#8923;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "gel;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3576,8 +3338,7 @@
       "unicode" : "U+022DE",
       "hex_code" : "#x22DE;",
       "html_code" : "#8926;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "cuepr;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3591,8 +3352,7 @@
       "unicode" : "U+022DF",
       "hex_code" : "#x22DF;",
       "html_code" : "#8927;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "cuesc;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3606,8 +3366,7 @@
       "unicode" : "U+022E0",
       "hex_code" : "#x22E0;",
       "html_code" : "#8928;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nprcue;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3621,8 +3380,7 @@
       "unicode" : "U+022E1",
       "hex_code" : "#x22E1;",
       "html_code" : "#8929;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nsccue;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3636,8 +3394,7 @@
       "unicode" : "U+022E2",
       "hex_code" : "#x22E2;",
       "html_code" : "#8930;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nsqsube;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3651,8 +3408,7 @@
       "unicode" : "U+022E3",
       "hex_code" : "#x22E3;",
       "html_code" : "#8931;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nsqsupe;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3666,8 +3422,7 @@
       "unicode" : "U+022E4",
       "hex_code" : "#x22E4;",
       "html_code" : "#8932;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -3681,8 +3436,7 @@
       "unicode" : "U+022E5",
       "hex_code" : "#x22E5;",
       "html_code" : "#8933;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -3696,8 +3450,7 @@
       "unicode" : "U+022E6",
       "hex_code" : "#x22E6;",
       "html_code" : "#8934;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "lnsim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3711,8 +3464,7 @@
       "unicode" : "U+022E7",
       "hex_code" : "#x22E7;",
       "html_code" : "#8935;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "gnsim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3726,8 +3478,7 @@
       "unicode" : "U+022E8",
       "hex_code" : "#x22E8;",
       "html_code" : "#8936;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "prnsim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3741,8 +3492,7 @@
       "unicode" : "U+022E9",
       "hex_code" : "#x22E9;",
       "html_code" : "#8937;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "scnsim;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3756,8 +3506,7 @@
       "unicode" : "U+022EA",
       "hex_code" : "#x22EA;",
       "html_code" : "#8938;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nltri;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3771,8 +3520,7 @@
       "unicode" : "U+022EB",
       "hex_code" : "#x22EB;",
       "html_code" : "#8939;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nrtri;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3786,8 +3534,7 @@
       "unicode" : "U+022EC",
       "hex_code" : "#x22EC;",
       "html_code" : "#8940;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nltrie;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3801,8 +3548,7 @@
       "unicode" : "U+022ED",
       "hex_code" : "#x22ED;",
       "html_code" : "#8941;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nrtrie;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3816,8 +3562,7 @@
       "unicode" : "U+022EE",
       "hex_code" : "#x22EE;",
       "html_code" : "#8942;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "vellip;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3831,8 +3576,7 @@
       "unicode" : "U+022EF",
       "hex_code" : "#x22EF;",
       "html_code" : "#8943;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "ctdot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3846,8 +3590,7 @@
       "unicode" : "U+022F0",
       "hex_code" : "#x22F0;",
       "html_code" : "#8944;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "utdot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3861,8 +3604,7 @@
       "unicode" : "U+022F1",
       "hex_code" : "#x22F1;",
       "html_code" : "#8945;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "dtdot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3876,8 +3618,7 @@
       "unicode" : "U+022F2",
       "hex_code" : "#x22F2;",
       "html_code" : "#8946;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "disin;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3891,8 +3632,7 @@
       "unicode" : "U+022F3",
       "hex_code" : "#x22F3;",
       "html_code" : "#8947;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "isinsv;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3906,8 +3646,7 @@
       "unicode" : "U+022F4",
       "hex_code" : "#x22F4;",
       "html_code" : "#8948;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "isins;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3921,8 +3660,7 @@
       "unicode" : "U+022F5",
       "hex_code" : "#x22F5;",
       "html_code" : "#8949;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "isindot;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3936,8 +3674,7 @@
       "unicode" : "U+022F6",
       "hex_code" : "#x22F6;",
       "html_code" : "#8950;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "notinvc;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3951,8 +3688,7 @@
       "unicode" : "U+022F7",
       "hex_code" : "#x22F7;",
       "html_code" : "#8951;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "notinvb;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3966,8 +3702,7 @@
       "unicode" : "U+022F8",
       "hex_code" : "#x22F8;",
       "html_code" : "#8952;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {
@@ -3981,8 +3716,7 @@
       "unicode" : "U+022F9",
       "hex_code" : "#x22F9;",
       "html_code" : "#8953;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "isinE;",
       "oversize" : "false",
       "tags" : [
         {
@@ -3996,8 +3730,7 @@
       "unicode" : "U+022FA",
       "hex_code" : "#x22FA;",
       "html_code" : "#8954;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nisd;",
       "oversize" : "false",
       "tags" : [
         {
@@ -4011,8 +3744,7 @@
       "unicode" : "U+022FB",
       "hex_code" : "#x22FB;",
       "html_code" : "#8955;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "xnis;",
       "oversize" : "false",
       "tags" : [
         {
@@ -4026,8 +3758,7 @@
       "unicode" : "U+022FC",
       "hex_code" : "#x22FC;",
       "html_code" : "#8956;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "nis;",
       "oversize" : "false",
       "tags" : [
         {
@@ -4041,8 +3772,7 @@
       "unicode" : "U+022FD",
       "hex_code" : "#x22FD;",
       "html_code" : "#8957;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "notnivc;",
       "oversize" : "false",
       "tags" : [
         {
@@ -4056,8 +3786,7 @@
       "unicode" : "U+022FE",
       "hex_code" : "#x22FE;",
       "html_code" : "#8958;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "notnivb;",
       "oversize" : "false",
       "tags" : [
         {
@@ -4071,8 +3800,483 @@
       "unicode" : "U+022FF",
       "hex_code" : "#x22FF;",
       "html_code" : "#8959;",
-      "html4_entity" : "",
-      "html5_entity" : "",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Zero",
+      "slug" : "superscript-zero",
+      "unicode" : "U+02070",
+      "hex_code" : "#x2070;",
+      "html_code" : "#8304;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Latin Small Letter I",
+      "slug" : "superscript-latin-small-letter-i",
+      "unicode" : "U+02071",
+      "hex_code" : "#x2071;",
+      "html_code" : "#8305;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Four",
+      "slug" : "superscript-four",
+      "unicode" : "U+02074",
+      "hex_code" : "#x2074;",
+      "html_code" : "#8308;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Five",
+      "slug" : "superscript-five",
+      "unicode" : "U+02075",
+      "hex_code" : "#x2075;",
+      "html_code" : "#8309;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Six",
+      "slug" : "superscript-six",
+      "unicode" : "U+02076",
+      "hex_code" : "#x2076;",
+      "html_code" : "#8310;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Seven",
+      "slug" : "superscript-seven",
+      "unicode" : "U+02077",
+      "hex_code" : "#x2077;",
+      "html_code" : "#8311;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Eight",
+      "slug" : "superscript-eight",
+      "unicode" : "U+02078",
+      "hex_code" : "#x2078;",
+      "html_code" : "#8312;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Nine",
+      "slug" : "superscript-nine",
+      "unicode" : "U+02079",
+      "hex_code" : "#x2079;",
+      "html_code" : "#8313;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Plus Sign",
+      "slug" : "superscript-plus-sign",
+      "unicode" : "U+0207A",
+      "hex_code" : "#x207A;",
+      "html_code" : "#8314;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Minus",
+      "slug" : "superscript-minus",
+      "unicode" : "U+0207B",
+      "hex_code" : "#x207B;",
+      "html_code" : "#8315;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Equals Sign",
+      "slug" : "superscript-equals-sign",
+      "unicode" : "U+0207C",
+      "hex_code" : "#x207C;",
+      "html_code" : "#8316;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Left Parenthesis",
+      "slug" : "superscript-left-parenthesis",
+      "unicode" : "U+0207D",
+      "hex_code" : "#x207D;",
+      "html_code" : "#8317;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Right Parenthesis",
+      "slug" : "superscript-right-parenthesis",
+      "unicode" : "U+0207E",
+      "hex_code" : "#x207E;",
+      "html_code" : "#8318;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Superscript Latin Small Letter N",
+      "slug" : "superscript-latin-small-letter-n",
+      "unicode" : "U+0207F",
+      "hex_code" : "#x207F;",
+      "html_code" : "#8319;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Zero",
+      "slug" : "subscript-zero",
+      "unicode" : "U+02080",
+      "hex_code" : "#x2080;",
+      "html_code" : "#8320;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript One",
+      "slug" : "subscript-one",
+      "unicode" : "U+02081",
+      "hex_code" : "#x2081;",
+      "html_code" : "#8321;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Two",
+      "slug" : "subscript-two",
+      "unicode" : "U+02082",
+      "hex_code" : "#x2082;",
+      "html_code" : "#8322;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Three",
+      "slug" : "subscript-three",
+      "unicode" : "U+02083",
+      "hex_code" : "#x2083;",
+      "html_code" : "#8323;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Four",
+      "slug" : "subscript-four",
+      "unicode" : "U+02084",
+      "hex_code" : "#x2084;",
+      "html_code" : "#8324;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Five",
+      "slug" : "subscript-five",
+      "unicode" : "U+02085",
+      "hex_code" : "#x2085;",
+      "html_code" : "#8325;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Six",
+      "slug" : "subscript-six",
+      "unicode" : "U+02086",
+      "hex_code" : "#x2086;",
+      "html_code" : "#8326;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Seven",
+      "slug" : "subscript-seven",
+      "unicode" : "U+02087",
+      "hex_code" : "#x2087;",
+      "html_code" : "#8327;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Eight",
+      "slug" : "subscript-eight",
+      "unicode" : "U+02088",
+      "hex_code" : "#x2088;",
+      "html_code" : "#8328;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Nine",
+      "slug" : "subscript-nine",
+      "unicode" : "U+02089",
+      "hex_code" : "#x2089;",
+      "html_code" : "#8329;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Plus Sign",
+      "slug" : "subscript-plus-sign",
+      "unicode" : "U+0208A",
+      "hex_code" : "#x208A;",
+      "html_code" : "#8330;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Minus",
+      "slug" : "subscript-minus",
+      "unicode" : "U+0208B",
+      "hex_code" : "#x208B;",
+      "html_code" : "#8331;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Equals Sign",
+      "slug" : "subscript-equals-sign",
+      "unicode" : "U+0208C",
+      "hex_code" : "#x208C;",
+      "html_code" : "#8332;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Left Parenthesis",
+      "slug" : "subscript-left-parenthesis",
+      "unicode" : "U+0208D",
+      "hex_code" : "#x208D;",
+      "html_code" : "#8333;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Subscript Right Parenthesis",
+      "slug" : "subscript-right-parenthesis",
+      "unicode" : "U+0208E",
+      "hex_code" : "#x208E;",
+      "html_code" : "#8334;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Latin Subscript Small Letter A",
+      "slug" : "latin-subscript-small-letter-a",
+      "unicode" : "U+02090",
+      "hex_code" : "#x2090;",
+      "html_code" : "#8336;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Latin Subscript Small Letter E",
+      "slug" : "latin-subscript-small-letter-e",
+      "unicode" : "U+02091",
+      "hex_code" : "#x2091;",
+      "html_code" : "#8337;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Latin Subscript Small Letter O",
+      "slug" : "latin-subscript-small-letter-o",
+      "unicode" : "U+02092",
+      "hex_code" : "#x2092;",
+      "html_code" : "#8338;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Latin Subscript Small Letter X",
+      "slug" : "latin-subscript-small-letter-x",
+      "unicode" : "U+02093",
+      "hex_code" : "#x2093;",
+      "html_code" : "#8339;",
+      "html_entity" : "",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Latin Subscript Small Letter Schwa",
+      "slug" : "latin-subscript-small-letter-schwa",
+      "unicode" : "U+02094",
+      "hex_code" : "#x2094;",
+      "html_code" : "#8340;",
+      "html_entity" : "",
       "oversize" : "false",
       "tags" : [
         {

@@ -1,94 +1,88 @@
 {
 	"entities" : [
 		{
-			"name" : "Copyright Sign",
-			"slug" : "copyright-sign",
-			"unicode" : "U+000A9",
-			"hex_code" : "#xa9;",
-			"html_code" : "#169;",
-			"html4_entity" : "copy;",
-			"html5_entity" : "",
+		  "name" : "Copyright Sign",
+		  "slug" : "copyright-sign",
+		  "unicode" : "U+000A9",
+		  "hex_code" : "#xa9;",
+		  "html_code" : "#169;",
+		  "html_entity" : "copy;",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "punctuation"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
 		},
 		{
-			"name" : "Registered Trade Mark Sign",
-			"slug" : "registered-trade-mark-sign",
-			"unicode" : "U+000AE",
-			"hex_code" : "#xae;",
-			"html_code" : "#174;",
-			"html4_entity" : "reg;",
-			"html5_entity" : "",
+		  "name" : "Registered Trade Mark Sign",
+		  "slug" : "registered-trade-mark-sign",
+		  "unicode" : "U+000AE",
+		  "hex_code" : "#xae;",
+		  "html_code" : "#174;",
+		  "html_entity" : "reg;",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "punctuation"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
 		},
 		{
-			"name" : "Trade Mark Sign",
-			"slug" : "trade-mark-sign",
-			"unicode" : "U+02122",
-			"hex_code" : "#x2122;",
-			"html_code" : "#8482;",
-			"html4_entity" : "trade;",
-			"html5_entity" : "",
-			"oversize" : "false",
-			"tags" : [
-				{
-					"name" : "punctuation"
-				}
-			]
+		  "name" : "Trade Mark Sign",
+		  "slug" : "trade-mark-sign",
+		  "unicode" : "U+02122",
+		  "hex_code" : "#x2122;",
+		  "html_code" : "#8482;",
+		  "html_entity" : "trade;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
 		},
 		{
-			"name" : "At Symbol",
-			"slug" : "at-symbol",
-			"unicode" : "U+00040",
-			"hex_code" : "#x40;",
-			"html_code" : "#64;",
-			"html4_entity" : "",
-			"html5_entity" : "commat;",
+		  "name" : "At Symbol",
+		  "slug" : "at-symbol",
+		  "unicode" : "U+00040",
+		  "hex_code" : "#x40;",
+		  "html_code" : "#64;",
+		  "html_entity" : "commat;",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "punctuation"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
 		},
 		{
-			"name" : "Paragraph Sign",
-			"slug" : "paragraph-sign",
-			"unicode" : "U+000B6",
-			"hex_code" : "#xb6;",
-			"html_code" : "#182;",
-			"html4_entity" : "para;",
-			"html5_entity" : "",
+		  "name" : "Paragraph Sign",
+		  "slug" : "paragraph-sign",
+		  "unicode" : "U+000B6",
+		  "hex_code" : "#xb6;",
+		  "html_code" : "#182;",
+		  "html_entity" : "para;",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "punctuation"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
 		},
 		{
-			"name" : "Section Sign",
-			"slug" : "section-sign",
-			"unicode" : "U+000A7",
-			"hex_code" : "#xa7;",
-			"html_code" : "#167;",
-			"html4_entity" : "sect;",
-			"html5_entity" : "",
+		  "name" : "Section Sign",
+		  "slug" : "section-sign",
+		  "unicode" : "U+000A7",
+		  "hex_code" : "#xa7;",
+		  "html_code" : "#167;",
+		  "html_entity" : "sect;",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "punctuation"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
 		},
 		{
 		  "name" : "Account Of",
@@ -96,8 +90,7 @@
 		  "unicode" : "U+02100",
 		  "hex_code" : "#x2100;",
 		  "html_code" : "#8448;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -111,8 +104,7 @@
 		  "unicode" : "U+02101",
 		  "hex_code" : "#x2101;",
 		  "html_code" : "#8449;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -126,8 +118,7 @@
 		  "unicode" : "U+02102",
 		  "hex_code" : "#x2102;",
 		  "html_code" : "#8450;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Copf;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -141,8 +132,7 @@
 		  "unicode" : "U+02103",
 		  "hex_code" : "#x2103;",
 		  "html_code" : "#8451;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -156,8 +146,7 @@
 		  "unicode" : "U+02104",
 		  "hex_code" : "#x2104;",
 		  "html_code" : "#8452;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -171,8 +160,7 @@
 		  "unicode" : "U+02105",
 		  "hex_code" : "#x2105;",
 		  "html_code" : "#8453;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "incare;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -186,8 +174,7 @@
 		  "unicode" : "U+02106",
 		  "hex_code" : "#x2106;",
 		  "html_code" : "#8454;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -201,8 +188,7 @@
 		  "unicode" : "U+02107",
 		  "hex_code" : "#x2107;",
 		  "html_code" : "#8455;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -216,8 +202,7 @@
 		  "unicode" : "U+02108",
 		  "hex_code" : "#x2108;",
 		  "html_code" : "#8456;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -231,8 +216,7 @@
 		  "unicode" : "U+02109",
 		  "hex_code" : "#x2109;",
 		  "html_code" : "#8457;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -246,8 +230,7 @@
 		  "unicode" : "U+0210A",
 		  "hex_code" : "#x210A;",
 		  "html_code" : "#8458;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "gscr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -261,8 +244,7 @@
 		  "unicode" : "U+0210B",
 		  "hex_code" : "#x210B;",
 		  "html_code" : "#8459;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "hamilt;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -276,8 +258,7 @@
 		  "unicode" : "U+0210C",
 		  "hex_code" : "#x210C;",
 		  "html_code" : "#8460;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Hfr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -291,8 +272,7 @@
 		  "unicode" : "U+0210D",
 		  "hex_code" : "#x210D;",
 		  "html_code" : "#8461;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Hopf;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -306,8 +286,7 @@
 		  "unicode" : "U+0210E",
 		  "hex_code" : "#x210E;",
 		  "html_code" : "#8462;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "planckh;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -321,8 +300,7 @@
 		  "unicode" : "U+0210F",
 		  "hex_code" : "#x210F;",
 		  "html_code" : "#8463;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "planck;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -336,8 +314,7 @@
 		  "unicode" : "U+02110",
 		  "hex_code" : "#x2110;",
 		  "html_code" : "#8464;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Iscr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -351,8 +328,7 @@
 		  "unicode" : "U+02111",
 		  "hex_code" : "#x2111;",
 		  "html_code" : "#8465;",
-		  "html4_entity" : "image;",
-		  "html5_entity" : "",
+		  "html_entity" : "image;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -366,8 +342,7 @@
 		  "unicode" : "U+02112",
 		  "hex_code" : "#x2112;",
 		  "html_code" : "#8466;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Lscr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -381,8 +356,7 @@
 		  "unicode" : "U+02113",
 		  "hex_code" : "#x2113;",
 		  "html_code" : "#8467;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "ell;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -396,8 +370,7 @@
 		  "unicode" : "U+02114",
 		  "hex_code" : "#x2114;",
 		  "html_code" : "#8468;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -411,8 +384,7 @@
 		  "unicode" : "U+02115",
 		  "hex_code" : "#x2115;",
 		  "html_code" : "#8469;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Nopf;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -426,8 +398,7 @@
 		  "unicode" : "U+02116",
 		  "hex_code" : "#x2116;",
 		  "html_code" : "#8470;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "numero;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -441,8 +412,7 @@
 		  "unicode" : "U+02117",
 		  "hex_code" : "#x2117;",
 		  "html_code" : "#8471;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "copysr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -456,8 +426,7 @@
 		  "unicode" : "U+02118",
 		  "hex_code" : "#x2118;",
 		  "html_code" : "#8472;",
-		  "html4_entity" : "weierp;",
-		  "html5_entity" : "",
+		  "html_entity" : "weierp;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -471,8 +440,7 @@
 		  "unicode" : "U+02119",
 		  "hex_code" : "#x2119;",
 		  "html_code" : "#8473;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Popf;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -486,8 +454,7 @@
 		  "unicode" : "U+0211A",
 		  "hex_code" : "#x211A;",
 		  "html_code" : "#8474;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Qopf;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -501,8 +468,7 @@
 		  "unicode" : "U+0211B",
 		  "hex_code" : "#x211B;",
 		  "html_code" : "#8475;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Rscr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -516,8 +482,7 @@
 		  "unicode" : "U+0211C",
 		  "hex_code" : "#x211C;",
 		  "html_code" : "#8476;",
-		  "html4_entity" : "real;",
-		  "html5_entity" : "",
+		  "html_entity" : "real;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -531,8 +496,7 @@
 		  "unicode" : "U+0211D",
 		  "hex_code" : "#x211D;",
 		  "html_code" : "#8477;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Ropf;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -546,8 +510,7 @@
 		  "unicode" : "U+0211E",
 		  "hex_code" : "#x211E;",
 		  "html_code" : "#8478;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "rx;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -561,8 +524,7 @@
 		  "unicode" : "U+0211F",
 		  "hex_code" : "#x211F;",
 		  "html_code" : "#8479;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -576,8 +538,7 @@
 		  "unicode" : "U+02120",
 		  "hex_code" : "#x2120;",
 		  "html_code" : "#8480;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -591,8 +552,7 @@
 		  "unicode" : "U+02121",
 		  "hex_code" : "#x2121;",
 		  "html_code" : "#8481;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -606,8 +566,7 @@
 		  "unicode" : "U+02123",
 		  "hex_code" : "#x2123;",
 		  "html_code" : "#8483;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -621,8 +580,7 @@
 		  "unicode" : "U+02124",
 		  "hex_code" : "#x2124;",
 		  "html_code" : "#8484;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Zopf;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -636,8 +594,7 @@
 		  "unicode" : "U+02125",
 		  "hex_code" : "#x2125;",
 		  "html_code" : "#8485;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -651,8 +608,7 @@
 		  "unicode" : "U+02126",
 		  "hex_code" : "#x2126;",
 		  "html_code" : "#8486;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -666,8 +622,7 @@
 		  "unicode" : "U+02127",
 		  "hex_code" : "#x2127;",
 		  "html_code" : "#8487;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "mho;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -681,8 +636,7 @@
 		  "unicode" : "U+02128",
 		  "hex_code" : "#x2128;",
 		  "html_code" : "#8488;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Zfr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -696,8 +650,7 @@
 		  "unicode" : "U+02129",
 		  "hex_code" : "#x2129;",
 		  "html_code" : "#8489;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "iiota;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -711,8 +664,7 @@
 		  "unicode" : "U+0212A",
 		  "hex_code" : "#x212A;",
 		  "html_code" : "#8490;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -726,8 +678,7 @@
 		  "unicode" : "U+0212B",
 		  "hex_code" : "#x212B;",
 		  "html_code" : "#8491;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -741,8 +692,7 @@
 		  "unicode" : "U+0212C",
 		  "hex_code" : "#x212C;",
 		  "html_code" : "#8492;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "bernou;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -756,8 +706,7 @@
 		  "unicode" : "U+0212D",
 		  "hex_code" : "#x212D;",
 		  "html_code" : "#8493;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Cfr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -771,8 +720,7 @@
 		  "unicode" : "U+0212E",
 		  "hex_code" : "#x212E;",
 		  "html_code" : "#8494;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -786,8 +734,7 @@
 		  "unicode" : "U+0212F",
 		  "hex_code" : "#x212F;",
 		  "html_code" : "#8495;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "escr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -801,8 +748,7 @@
 		  "unicode" : "U+02130",
 		  "hex_code" : "#x2130;",
 		  "html_code" : "#8496;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Escr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -816,8 +762,7 @@
 		  "unicode" : "U+02131",
 		  "hex_code" : "#x2131;",
 		  "html_code" : "#8497;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Fscr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -831,8 +776,7 @@
 		  "unicode" : "U+02132",
 		  "hex_code" : "#x2132;",
 		  "html_code" : "#8498;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -846,8 +790,7 @@
 		  "unicode" : "U+02133",
 		  "hex_code" : "#x2133;",
 		  "html_code" : "#8499;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "Mscr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -861,8 +804,7 @@
 		  "unicode" : "U+02134",
 		  "hex_code" : "#x2134;",
 		  "html_code" : "#8500;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "oscr;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -876,8 +818,7 @@
 		  "unicode" : "U+02135",
 		  "hex_code" : "#x2135;",
 		  "html_code" : "#8501;",
-		  "html4_entity" : "alefsym;",
-		  "html5_entity" : "",
+		  "html_entity" : "alefsym;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -891,8 +832,7 @@
 		  "unicode" : "U+02136",
 		  "hex_code" : "#x2136;",
 		  "html_code" : "#8502;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "beth;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -906,8 +846,7 @@
 		  "unicode" : "U+02137",
 		  "hex_code" : "#x2137;",
 		  "html_code" : "#8503;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "gimel;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -921,8 +860,7 @@
 		  "unicode" : "U+02138",
 		  "hex_code" : "#x2138;",
 		  "html_code" : "#8504;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "daleth;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -936,8 +874,7 @@
 		  "unicode" : "U+02139",
 		  "hex_code" : "#x2139;",
 		  "html_code" : "#8505;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -951,8 +888,7 @@
 		  "unicode" : "U+0213A",
 		  "hex_code" : "#x213A;",
 		  "html_code" : "#8506;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -966,8 +902,7 @@
 		  "unicode" : "U+0213B",
 		  "hex_code" : "#x213B;",
 		  "html_code" : "#8507;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -981,8 +916,7 @@
 		  "unicode" : "U+0213C",
 		  "hex_code" : "#x213C;",
 		  "html_code" : "#8508;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -996,8 +930,7 @@
 		  "unicode" : "U+0213D",
 		  "hex_code" : "#x213D;",
 		  "html_code" : "#8509;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1011,8 +944,7 @@
 		  "unicode" : "U+0213E",
 		  "hex_code" : "#x213E;",
 		  "html_code" : "#8510;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1026,8 +958,7 @@
 		  "unicode" : "U+0213F",
 		  "hex_code" : "#x213F;",
 		  "html_code" : "#8511;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1041,8 +972,7 @@
 		  "unicode" : "U+02140",
 		  "hex_code" : "#x2140;",
 		  "html_code" : "#8512;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1056,8 +986,7 @@
 		  "unicode" : "U+02141",
 		  "hex_code" : "#x2141;",
 		  "html_code" : "#8513;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1071,8 +1000,7 @@
 		  "unicode" : "U+02142",
 		  "hex_code" : "#x2142;",
 		  "html_code" : "#8514;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1086,8 +1014,7 @@
 		  "unicode" : "U+02143",
 		  "hex_code" : "#x2143;",
 		  "html_code" : "#8515;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1101,8 +1028,7 @@
 		  "unicode" : "U+02144",
 		  "hex_code" : "#x2144;",
 		  "html_code" : "#8516;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1116,8 +1042,7 @@
 		  "unicode" : "U+02145",
 		  "hex_code" : "#x2145;",
 		  "html_code" : "#8517;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "DD;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1131,8 +1056,7 @@
 		  "unicode" : "U+02146",
 		  "hex_code" : "#x2146;",
 		  "html_code" : "#8518;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "dd;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1146,8 +1070,7 @@
 		  "unicode" : "U+02147",
 		  "hex_code" : "#x2147;",
 		  "html_code" : "#8519;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "ee;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1161,8 +1084,7 @@
 		  "unicode" : "U+02148",
 		  "hex_code" : "#x2148;",
 		  "html_code" : "#8520;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "ii;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1176,8 +1098,7 @@
 		  "unicode" : "U+02149",
 		  "hex_code" : "#x2149;",
 		  "html_code" : "#8521;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1191,8 +1112,7 @@
 		  "unicode" : "U+0214A",
 		  "hex_code" : "#x214A;",
 		  "html_code" : "#8522;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1206,8 +1126,7 @@
 		  "unicode" : "U+0214B",
 		  "hex_code" : "#x214B;",
 		  "html_code" : "#8523;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1221,8 +1140,7 @@
 		  "unicode" : "U+0214D",
 		  "hex_code" : "#x214D;",
 		  "html_code" : "#8525;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
@@ -1236,8 +1154,4711 @@
 		  "unicode" : "U+0214E",
 		  "hex_code" : "#x214E;",
 		  "html_code" : "#8526;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Sun With Rays",
+		  "slug" : "black-sun-with-rays",
+		  "unicode" : "U+02600",
+		  "hex_code" : "#x2600;",
+		  "html_code" : "#9728;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Cloud",
+		  "slug" : "cloud",
+		  "unicode" : "U+02601",
+		  "hex_code" : "#x2601;",
+		  "html_code" : "#9729;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Umbrella",
+		  "slug" : "umbrella",
+		  "unicode" : "U+02602",
+		  "hex_code" : "#x2602;",
+		  "html_code" : "#9730;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Snowman",
+		  "slug" : "snowman",
+		  "unicode" : "U+02603",
+		  "hex_code" : "#x2603;",
+		  "html_code" : "#9731;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Comet",
+		  "slug" : "comet",
+		  "unicode" : "U+02604",
+		  "hex_code" : "#x2604;",
+		  "html_code" : "#9732;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Star",
+		  "slug" : "black-star",
+		  "unicode" : "U+02605",
+		  "hex_code" : "#x2605;",
+		  "html_code" : "#9733;",
+		  "html_entity" : "starf;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Star",
+		  "slug" : "white-star",
+		  "unicode" : "U+02606",
+		  "hex_code" : "#x2606;",
+		  "html_code" : "#9734;",
+		  "html_entity" : "star;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Lightning",
+		  "slug" : "lightning",
+		  "unicode" : "U+02607",
+		  "hex_code" : "#x2607;",
+		  "html_code" : "#9735;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Thunderstorm",
+		  "slug" : "thunderstorm",
+		  "unicode" : "U+02608",
+		  "hex_code" : "#x2608;",
+		  "html_code" : "#9736;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Sun",
+		  "slug" : "sun",
+		  "unicode" : "U+02609",
+		  "hex_code" : "#x2609;",
+		  "html_code" : "#9737;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Ascending Node",
+		  "slug" : "ascending-node",
+		  "unicode" : "U+0260A",
+		  "hex_code" : "#x260A;",
+		  "html_code" : "#9738;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Descending Node",
+		  "slug" : "descending-node",
+		  "unicode" : "U+0260B",
+		  "hex_code" : "#x260B;",
+		  "html_code" : "#9739;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Conjunction",
+		  "slug" : "conjunction",
+		  "unicode" : "U+0260C",
+		  "hex_code" : "#x260C;",
+		  "html_code" : "#9740;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Opposition",
+		  "slug" : "opposition",
+		  "unicode" : "U+0260D",
+		  "hex_code" : "#x260D;",
+		  "html_code" : "#9741;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Telephone",
+		  "slug" : "black-telephone",
+		  "unicode" : "U+0260E",
+		  "hex_code" : "#x260E;",
+		  "html_code" : "#9742;",
+		  "html_entity" : "phone;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Telephone",
+		  "slug" : "white-telephone",
+		  "unicode" : "U+0260F",
+		  "hex_code" : "#x260F;",
+		  "html_code" : "#9743;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Ballot Box",
+		  "slug" : "ballot-box",
+		  "unicode" : "U+02610",
+		  "hex_code" : "#x2610;",
+		  "html_code" : "#9744;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Ballot Box With Check",
+		  "slug" : "ballot-box-with-check",
+		  "unicode" : "U+02611",
+		  "hex_code" : "#x2611;",
+		  "html_code" : "#9745;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Ballot Box With X",
+		  "slug" : "ballot-box-with-x",
+		  "unicode" : "U+02612",
+		  "hex_code" : "#x2612;",
+		  "html_code" : "#9746;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Saltire",
+		  "slug" : "saltire",
+		  "unicode" : "U+02613",
+		  "hex_code" : "#x2613;",
+		  "html_code" : "#9747;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Shogi Piece",
+		  "slug" : "white-shogi-piece",
+		  "unicode" : "U+02616",
+		  "hex_code" : "#x2616;",
+		  "html_code" : "#9750;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Shogi Piece",
+		  "slug" : "black-shogi-piece",
+		  "unicode" : "U+02617",
+		  "hex_code" : "#x2617;",
+		  "html_code" : "#9751;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Shamrock",
+		  "slug" : "shamrock",
+		  "unicode" : "U+02618",
+		  "hex_code" : "#x2618;",
+		  "html_code" : "#9752;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Reversed Rotated Floral Heart Bullet",
+		  "slug" : "reversed-rotated-floral-heart-bullet",
+		  "unicode" : "U+02619",
+		  "hex_code" : "#x2619;",
+		  "html_code" : "#9753;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Left Pointing Index",
+		  "slug" : "black-left-pointing-index",
+		  "unicode" : "U+0261A",
+		  "hex_code" : "#x261A;",
+		  "html_code" : "#9754;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Right Pointing Index",
+		  "slug" : "black-right-pointing-index",
+		  "unicode" : "U+0261B",
+		  "hex_code" : "#x261B;",
+		  "html_code" : "#9755;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Left Pointing Index",
+		  "slug" : "white-left-pointing-index",
+		  "unicode" : "U+0261C",
+		  "hex_code" : "#x261C;",
+		  "html_code" : "#9756;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Up Pointing Index",
+		  "slug" : "white-up-pointing-index",
+		  "unicode" : "U+0261D",
+		  "hex_code" : "#x261D;",
+		  "html_code" : "#9757;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Right Pointing Index",
+		  "slug" : "white-right-pointing-index",
+		  "unicode" : "U+0261E",
+		  "hex_code" : "#x261E;",
+		  "html_code" : "#9758;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Down Pointing Index",
+		  "slug" : "white-down-pointing-index",
+		  "unicode" : "U+0261F",
+		  "hex_code" : "#x261F;",
+		  "html_code" : "#9759;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Skull and Crossbones",
+		  "slug" : "skull-and-crossbones",
+		  "unicode" : "U+02620",
+		  "hex_code" : "#x2620;",
+		  "html_code" : "#9760;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Caution Sign",
+		  "slug" : "caution-sign",
+		  "unicode" : "U+02621",
+		  "hex_code" : "#x2621;",
+		  "html_code" : "#9761;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Radioactive Sign",
+		  "slug" : "radioactive-sign",
+		  "unicode" : "U+02622",
+		  "hex_code" : "#x2622;",
+		  "html_code" : "#9762;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Biohazard Sign",
+		  "slug" : "biohazard-sign",
+		  "unicode" : "U+02623",
+		  "hex_code" : "#x2623;",
+		  "html_code" : "#9763;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Caduceus",
+		  "slug" : "caduceus",
+		  "unicode" : "U+02624",
+		  "hex_code" : "#x2624;",
+		  "html_code" : "#9764;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Ankh",
+		  "slug" : "ankh",
+		  "unicode" : "U+02625",
+		  "hex_code" : "#x2625;",
+		  "html_code" : "#9765;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Orthodox Cross",
+		  "slug" : "orthodox-cross",
+		  "unicode" : "U+02626",
+		  "hex_code" : "#x2626;",
+		  "html_code" : "#9766;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Chi Rho",
+		  "slug" : "chi-rho",
+		  "unicode" : "U+02627",
+		  "hex_code" : "#x2627;",
+		  "html_code" : "#9767;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Cross of Lorraine",
+		  "slug" : "cross-of-lorraine",
+		  "unicode" : "U+02628",
+		  "hex_code" : "#x2628;",
+		  "html_code" : "#9768;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Cross of Jerusalem",
+		  "slug" : "cross-of-jerusalem",
+		  "unicode" : "U+02629",
+		  "hex_code" : "#x2629;",
+		  "html_code" : "#9769;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Star and Crescent",
+		  "slug" : "star-and-crescent",
+		  "unicode" : "U+0262A",
+		  "hex_code" : "#x262A;",
+		  "html_code" : "#9770;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Farsi Symbol",
+		  "slug" : "farsi-symbol",
+		  "unicode" : "U+0262B",
+		  "hex_code" : "#x262B;",
+		  "html_code" : "#9771;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Adi Shakti",
+		  "slug" : "adi-shakti",
+		  "unicode" : "U+0262C",
+		  "hex_code" : "#x262C;",
+		  "html_code" : "#9772;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Hammer and Sickle",
+		  "slug" : "hammer-and-sickle",
+		  "unicode" : "U+0262D",
+		  "hex_code" : "#x262D;",
+		  "html_code" : "#9773;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Peace Symbol",
+		  "slug" : "peace-symbol",
+		  "unicode" : "U+0262E",
+		  "hex_code" : "#x262E;",
+		  "html_code" : "#9774;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Yin Yang",
+		  "slug" : "yin-yang",
+		  "unicode" : "U+0262F",
+		  "hex_code" : "#x262F;",
+		  "html_code" : "#9775;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Trigram for Heaven",
+		  "slug" : "trigram-for-heaven",
+		  "unicode" : "U+02630",
+		  "hex_code" : "#x2630;",
+		  "html_code" : "#9776;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Trigram for Lake",
+		  "slug" : "trigram-for-lake",
+		  "unicode" : "U+02631",
+		  "hex_code" : "#x2631;",
+		  "html_code" : "#9777;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Trigram for Fire",
+		  "slug" : "trigram-for-fire",
+		  "unicode" : "U+02632",
+		  "hex_code" : "#x2632;",
+		  "html_code" : "#9778;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Trigram for Thunder",
+		  "slug" : "trigram-for-thunder",
+		  "unicode" : "U+02633",
+		  "hex_code" : "#x2633;",
+		  "html_code" : "#9779;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Trigram for Wind",
+		  "slug" : "trigram-for-wind",
+		  "unicode" : "U+02634",
+		  "hex_code" : "#x2634;",
+		  "html_code" : "#9780;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Trigram for Water",
+		  "slug" : "trigram-for-water",
+		  "unicode" : "U+02635",
+		  "hex_code" : "#x2635;",
+		  "html_code" : "#9781;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Trigram for Mountain",
+		  "slug" : "trigram-for-mountain",
+		  "unicode" : "U+02636",
+		  "hex_code" : "#x2636;",
+		  "html_code" : "#9782;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Trigram for Earth",
+		  "slug" : "trigram-for-earth",
+		  "unicode" : "U+02637",
+		  "hex_code" : "#x2637;",
+		  "html_code" : "#9783;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Wheel of Dharma",
+		  "slug" : "wheel-of-dharma",
+		  "unicode" : "U+02638",
+		  "hex_code" : "#x2638;",
+		  "html_code" : "#9784;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Frowning Face",
+		  "slug" : "white-frowning-face",
+		  "unicode" : "U+02639",
+		  "hex_code" : "#x2639;",
+		  "html_code" : "#9785;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Smiling Face",
+		  "slug" : "white-smiling-face",
+		  "unicode" : "U+0263A",
+		  "hex_code" : "#x263A;",
+		  "html_code" : "#9786;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Smiling Face",
+		  "slug" : "black-smiling-face",
+		  "unicode" : "U+0263B",
+		  "hex_code" : "#x263B;",
+		  "html_code" : "#9787;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Sun With Rays",
+		  "slug" : "white-sun-with-rays",
+		  "unicode" : "U+0263C",
+		  "hex_code" : "#x263C;",
+		  "html_code" : "#9788;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "First Quarter Moon",
+		  "slug" : "first-quarter-moon",
+		  "unicode" : "U+0263D",
+		  "hex_code" : "#x263D;",
+		  "html_code" : "#9789;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Last Quarter Moon",
+		  "slug" : "last-quarter-moon",
+		  "unicode" : "U+0263E",
+		  "hex_code" : "#x263E;",
+		  "html_code" : "#9790;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Mercury",
+		  "slug" : "mercury",
+		  "unicode" : "U+0263F",
+		  "hex_code" : "#x263F;",
+		  "html_code" : "#9791;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Female Sign",
+		  "slug" : "female-sign",
+		  "unicode" : "U+02640",
+		  "hex_code" : "#x2640;",
+		  "html_code" : "#9792;",
+		  "html_entity" : "female;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Earth",
+		  "slug" : "earth",
+		  "unicode" : "U+02641",
+		  "hex_code" : "#x2641;",
+		  "html_code" : "#9793;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Male Sign",
+		  "slug" : "male-sign",
+		  "unicode" : "U+02642",
+		  "hex_code" : "#x2642;",
+		  "html_code" : "#9794;",
+		  "html_entity" : "male;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Jupiter",
+		  "slug" : "jupiter",
+		  "unicode" : "U+02643",
+		  "hex_code" : "#x2643;",
+		  "html_code" : "#9795;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Saturn",
+		  "slug" : "saturn",
+		  "unicode" : "U+02644",
+		  "hex_code" : "#x2644;",
+		  "html_code" : "#9796;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Uranus",
+		  "slug" : "uranus",
+		  "unicode" : "U+02645",
+		  "hex_code" : "#x2645;",
+		  "html_code" : "#9797;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Neptune",
+		  "slug" : "neptune",
+		  "unicode" : "U+02646",
+		  "hex_code" : "#x2646;",
+		  "html_code" : "#9798;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Pluto",
+		  "slug" : "pluto",
+		  "unicode" : "U+02647",
+		  "hex_code" : "#x2647;",
+		  "html_code" : "#9799;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Chess King",
+		  "slug" : "white-chess-king",
+		  "unicode" : "U+02654",
+		  "hex_code" : "#x2654;",
+		  "html_code" : "#9812;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Chess Queen",
+		  "slug" : "white-chess-queen",
+		  "unicode" : "U+02655",
+		  "hex_code" : "#x2655;",
+		  "html_code" : "#9813;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Chess Rook",
+		  "slug" : "white-chess-rook",
+		  "unicode" : "U+02656",
+		  "hex_code" : "#x2656;",
+		  "html_code" : "#9814;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Chess Bishop",
+		  "slug" : "white-chess-bishop",
+		  "unicode" : "U+02657",
+		  "hex_code" : "#x2657;",
+		  "html_code" : "#9815;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Chess Knight",
+		  "slug" : "white-chess-knight",
+		  "unicode" : "U+02658",
+		  "hex_code" : "#x2658;",
+		  "html_code" : "#9816;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Chess Pawn",
+		  "slug" : "white-chess-pawn",
+		  "unicode" : "U+02659",
+		  "hex_code" : "#x2659;",
+		  "html_code" : "#9817;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Chess King",
+		  "slug" : "black-chess-king",
+		  "unicode" : "U+0265A",
+		  "hex_code" : "#x265A;",
+		  "html_code" : "#9818;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Chess Queen",
+		  "slug" : "black-chess-queen",
+		  "unicode" : "U+0265B",
+		  "hex_code" : "#x265B;",
+		  "html_code" : "#9819;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Chess Rook",
+		  "slug" : "black-chess-rook",
+		  "unicode" : "U+0265C",
+		  "hex_code" : "#x265C;",
+		  "html_code" : "#9820;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Chess Bishop",
+		  "slug" : "black-chess-bishop",
+		  "unicode" : "U+0265D",
+		  "hex_code" : "#x265D;",
+		  "html_code" : "#9821;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Chess Knight",
+		  "slug" : "black-chess-knight",
+		  "unicode" : "U+0265E",
+		  "hex_code" : "#x265E;",
+		  "html_code" : "#9822;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Chess Pawn",
+		  "slug" : "black-chess-pawn",
+		  "unicode" : "U+0265F",
+		  "hex_code" : "#x265F;",
+		  "html_code" : "#9823;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Spade Suit",
+		  "slug" : "black-spade-suit",
+		  "unicode" : "U+02660",
+		  "hex_code" : "#x2660;",
+		  "html_code" : "#9824;",
+		  "html_entity" : "spades;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Heart Suit",
+		  "slug" : "white-heart-suit",
+		  "unicode" : "U+02661",
+		  "hex_code" : "#x2661;",
+		  "html_code" : "#9825;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Diamond Suit",
+		  "slug" : "white-diamond-suit",
+		  "unicode" : "U+02662",
+		  "hex_code" : "#x2662;",
+		  "html_code" : "#9826;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Club Suit",
+		  "slug" : "black-club-suit",
+		  "unicode" : "U+02663",
+		  "hex_code" : "#x2663;",
+		  "html_code" : "#9827;",
+		  "html_entity" : "clubs;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Spade Suit",
+		  "slug" : "white-spade-suit",
+		  "unicode" : "U+02664",
+		  "hex_code" : "#x2664;",
+		  "html_code" : "#9828;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Heart Suit",
+		  "slug" : "black-heart-suit",
+		  "unicode" : "U+02665",
+		  "hex_code" : "#x2665;",
+		  "html_code" : "#9829;",
+		  "html_entity" : "hearts;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Diamond Suit",
+		  "slug" : "black-diamond-suit",
+		  "unicode" : "U+02666",
+		  "hex_code" : "#x2666;",
+		  "html_code" : "#9830;",
+		  "html_entity" : "diams;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Club Suit",
+		  "slug" : "white-club-suit",
+		  "unicode" : "U+02667",
+		  "hex_code" : "#x2667;",
+		  "html_code" : "#9831;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Hot Springs",
+		  "slug" : "hot-springs",
+		  "unicode" : "U+02668",
+		  "hex_code" : "#x2668;",
+		  "html_code" : "#9832;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Quarter Note",
+		  "slug" : "quarter-note",
+		  "unicode" : "U+02669",
+		  "hex_code" : "#x2669;",
+		  "html_code" : "#9833;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Eighth Note",
+		  "slug" : "eighth-note",
+		  "unicode" : "U+0266A",
+		  "hex_code" : "#x266A;",
+		  "html_code" : "#9834;",
+		  "html_entity" : "sung;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Beamed Eighth Notes",
+		  "slug" : "beamed-eighth-notes",
+		  "unicode" : "U+0266B",
+		  "hex_code" : "#x266B;",
+		  "html_code" : "#9835;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Beamed Sixteenth Notes",
+		  "slug" : "beamed-sixteenth-notes",
+		  "unicode" : "U+0266C",
+		  "hex_code" : "#x266C;",
+		  "html_code" : "#9836;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Music Flat Sign",
+		  "slug" : "music-flat-sign",
+		  "unicode" : "U+0266D",
+		  "hex_code" : "#x266D;",
+		  "html_code" : "#9837;",
+		  "html_entity" : "flat;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Music Natural Sign",
+		  "slug" : "music-natural-sign",
+		  "unicode" : "U+0266E",
+		  "hex_code" : "#x266E;",
+		  "html_code" : "#9838;",
+		  "html_entity" : "natural;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Music Sharp Sign",
+		  "slug" : "music-sharp-sign",
+		  "unicode" : "U+0266F",
+		  "hex_code" : "#x266F;",
+		  "html_code" : "#9839;",
+		  "html_entity" : "sharp;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "West Syriac Cross",
+		  "slug" : "west-syriac-cross",
+		  "unicode" : "U+02670",
+		  "hex_code" : "#x2670;",
+		  "html_code" : "#9840;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "East Syriac Cross",
+		  "slug" : "east-syriac-cross",
+		  "unicode" : "U+02671",
+		  "hex_code" : "#x2671;",
+		  "html_code" : "#9841;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Universal Recycling Symbol",
+		  "slug" : "universal-recycling-symbol",
+		  "unicode" : "U+02672",
+		  "hex_code" : "#x2672;",
+		  "html_code" : "#9842;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Recycling Symbol for Type-1 Plastics",
+		  "slug" : "recycling-symbol-for-type-1-plastics",
+		  "unicode" : "U+02673",
+		  "hex_code" : "#x2673;",
+		  "html_code" : "#9843;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Recycling Symbol for Type-2 Plastics",
+		  "slug" : "recycling-symbol-for-type-2-plastics",
+		  "unicode" : "U+02674",
+		  "hex_code" : "#x2674;",
+		  "html_code" : "#9844;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Recycling Symbol for Type-3 Plastics",
+		  "slug" : "recycling-symbol-for-type-3-plastics",
+		  "unicode" : "U+02675",
+		  "hex_code" : "#x2675;",
+		  "html_code" : "#9845;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Recycling Symbol for Type-4 Plastics",
+		  "slug" : "recycling-symbol-for-type-4-plastics",
+		  "unicode" : "U+02676",
+		  "hex_code" : "#x2676;",
+		  "html_code" : "#9846;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Recycling Symbol for Type-5 Plastics",
+		  "slug" : "recycling-symbol-for-type-5-plastics",
+		  "unicode" : "U+02677",
+		  "hex_code" : "#x2677;",
+		  "html_code" : "#9847;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Recycling Symbol for Type-6 Plastics",
+		  "slug" : "recycling-symbol-for-type-6-plastics",
+		  "unicode" : "U+02678",
+		  "hex_code" : "#x2678;",
+		  "html_code" : "#9848;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Recycling Symbol for Type-7 Plastics",
+		  "slug" : "recycling-symbol-for-type-7-plastics",
+		  "unicode" : "U+02679",
+		  "hex_code" : "#x2679;",
+		  "html_code" : "#9849;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Recycling Symbol for Generic Materials",
+		  "slug" : "recycling-symbol-for-generic-materials",
+		  "unicode" : "U+0267A",
+		  "hex_code" : "#x267A;",
+		  "html_code" : "#9850;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Universal Recycling Symbol",
+		  "slug" : "black-universal-recycling-symbol",
+		  "unicode" : "U+0267B",
+		  "hex_code" : "#x267B;",
+		  "html_code" : "#9851;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Recycled Paper Symbol",
+		  "slug" : "recycled-paper-symbol",
+		  "unicode" : "U+0267C",
+		  "hex_code" : "#x267C;",
+		  "html_code" : "#9852;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Partially-Recycled Paper Symbol",
+		  "slug" : "partially-recycled-paper-symbol",
+		  "unicode" : "U+0267D",
+		  "hex_code" : "#x267D;",
+		  "html_code" : "#9853;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Permanent Paper Sign",
+		  "slug" : "permanent-paper-sign",
+		  "unicode" : "U+0267E",
+		  "hex_code" : "#x267E;",
+		  "html_code" : "#9854;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Die Face-1",
+		  "slug" : "die-face-1",
+		  "unicode" : "U+02680",
+		  "hex_code" : "#x2680;",
+		  "html_code" : "#9856;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Die Face-2",
+		  "slug" : "die-face-2",
+		  "unicode" : "U+02681",
+		  "hex_code" : "#x2681;",
+		  "html_code" : "#9857;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Die Face-3",
+		  "slug" : "die-face-3",
+		  "unicode" : "U+02682",
+		  "hex_code" : "#x2682;",
+		  "html_code" : "#9858;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Die Face-4",
+		  "slug" : "die-face-4",
+		  "unicode" : "U+02683",
+		  "hex_code" : "#x2683;",
+		  "html_code" : "#9859;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Die Face-5",
+		  "slug" : "die-face-5",
+		  "unicode" : "U+02684",
+		  "hex_code" : "#x2684;",
+		  "html_code" : "#9860;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Die Face-6",
+		  "slug" : "die-face-6",
+		  "unicode" : "U+02685",
+		  "hex_code" : "#x2685;",
+		  "html_code" : "#9861;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Circle With Dot Right",
+		  "slug" : "white-circle-with-dot-right",
+		  "unicode" : "U+02686",
+		  "hex_code" : "#x2686;",
+		  "html_code" : "#9862;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Circle With Two Dots",
+		  "slug" : "white-circle-with-two-dots",
+		  "unicode" : "U+02687",
+		  "hex_code" : "#x2687;",
+		  "html_code" : "#9863;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Circle With White Dot Right",
+		  "slug" : "black-circle-with-white-dot-right",
+		  "unicode" : "U+02688",
+		  "hex_code" : "#x2688;",
+		  "html_code" : "#9864;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Circle With Two White Dots",
+		  "slug" : "black-circle-with-two-white-dots",
+		  "unicode" : "U+02689",
+		  "hex_code" : "#x2689;",
+		  "html_code" : "#9865;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Monogram for Yang",
+		  "slug" : "monogram-for-yang",
+		  "unicode" : "U+0268A",
+		  "hex_code" : "#x268A;",
+		  "html_code" : "#9866;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Monogram for Yin",
+		  "slug" : "monogram-for-yin",
+		  "unicode" : "U+0268B",
+		  "hex_code" : "#x268B;",
+		  "html_code" : "#9867;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Digram for Greater Yang",
+		  "slug" : "digram-for-greater-yang",
+		  "unicode" : "U+0268C",
+		  "hex_code" : "#x268C;",
+		  "html_code" : "#9868;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Digram for Lesser Yin",
+		  "slug" : "digram-for-lesser-yin",
+		  "unicode" : "U+0268D",
+		  "hex_code" : "#x268D;",
+		  "html_code" : "#9869;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Digram for Lesser Yang",
+		  "slug" : "digram-for-lesser-yang",
+		  "unicode" : "U+0268E",
+		  "hex_code" : "#x268E;",
+		  "html_code" : "#9870;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Digram for Greater Yin",
+		  "slug" : "digram-for-greater-yin",
+		  "unicode" : "U+0268F",
+		  "hex_code" : "#x268F;",
+		  "html_code" : "#9871;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Flag",
+		  "slug" : "white-flag",
+		  "unicode" : "U+02690",
+		  "hex_code" : "#x2690;",
+		  "html_code" : "#9872;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Flag",
+		  "slug" : "black-flag",
+		  "unicode" : "U+02691",
+		  "hex_code" : "#x2691;",
+		  "html_code" : "#9873;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Hammer and Pick",
+		  "slug" : "hammer-and-pick",
+		  "unicode" : "U+02692",
+		  "hex_code" : "#x2692;",
+		  "html_code" : "#9874;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Crossed Swords",
+		  "slug" : "crossed-swords",
+		  "unicode" : "U+02694",
+		  "hex_code" : "#x2694;",
+		  "html_code" : "#9876;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Staff of Aesculapius",
+		  "slug" : "staff-of-aesculapius",
+		  "unicode" : "U+02695",
+		  "hex_code" : "#x2695;",
+		  "html_code" : "#9877;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Scales",
+		  "slug" : "scales",
+		  "unicode" : "U+02696",
+		  "hex_code" : "#x2696;",
+		  "html_code" : "#9878;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Alembic",
+		  "slug" : "alembic",
+		  "unicode" : "U+02697",
+		  "hex_code" : "#x2697;",
+		  "html_code" : "#9879;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Flower",
+		  "slug" : "flower",
+		  "unicode" : "U+02698",
+		  "hex_code" : "#x2698;",
+		  "html_code" : "#9880;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Gear",
+		  "slug" : "gear",
+		  "unicode" : "U+02699",
+		  "hex_code" : "#x2699;",
+		  "html_code" : "#9881;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Staff of Hermes",
+		  "slug" : "staff-of-hermes",
+		  "unicode" : "U+0269A",
+		  "hex_code" : "#x269A;",
+		  "html_code" : "#9882;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Atom Symbol",
+		  "slug" : "atom-symbol",
+		  "unicode" : "U+0269B",
+		  "hex_code" : "#x269B;",
+		  "html_code" : "#9883;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Fleur-De-Lis",
+		  "slug" : "fleur-de-lis",
+		  "unicode" : "U+0269C",
+		  "hex_code" : "#x269C;",
+		  "html_code" : "#9884;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Outlined White Star",
+		  "slug" : "outlined-white-star",
+		  "unicode" : "U+0269D",
+		  "hex_code" : "#x269D;",
+		  "html_code" : "#9885;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Three Lines Converging Right",
+		  "slug" : "three-lines-converging-right",
+		  "unicode" : "U+0269E",
+		  "hex_code" : "#x269E;",
+		  "html_code" : "#9886;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Three Lines Converging Left",
+		  "slug" : "three-lines-converging-left",
+		  "unicode" : "U+0269F",
+		  "hex_code" : "#x269F;",
+		  "html_code" : "#9887;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Warning Sign",
+		  "slug" : "warning-sign",
+		  "unicode" : "U+026A0",
+		  "hex_code" : "#x26A0;",
+		  "html_code" : "#9888;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Doubled Female Sign",
+		  "slug" : "doubled-female-sign",
+		  "unicode" : "U+026A2",
+		  "hex_code" : "#x26A2;",
+		  "html_code" : "#9890;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Doubled Male Sign",
+		  "slug" : "doubled-male-sign",
+		  "unicode" : "U+026A3",
+		  "hex_code" : "#x26A3;",
+		  "html_code" : "#9891;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Interlocked Female and Male Sign",
+		  "slug" : "interlocked-female-and-male-sign",
+		  "unicode" : "U+026A4",
+		  "hex_code" : "#x26A4;",
+		  "html_code" : "#9892;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Male and Female Sign",
+		  "slug" : "male-and-female-sign",
+		  "unicode" : "U+026A5",
+		  "hex_code" : "#x26A5;",
+		  "html_code" : "#9893;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Male With Stroke Sign",
+		  "slug" : "male-with-stroke-sign",
+		  "unicode" : "U+026A6",
+		  "hex_code" : "#x26A6;",
+		  "html_code" : "#9894;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Male With Stroke and Male and Female Sign",
+		  "slug" : "male-with-stroke-and-male-and-female-sign",
+		  "unicode" : "U+026A7",
+		  "hex_code" : "#x26A7;",
+		  "html_code" : "#9895;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vertical Male With Stroke Sign",
+		  "slug" : "vertical-male-with-stroke-sign",
+		  "unicode" : "U+026A8",
+		  "hex_code" : "#x26A8;",
+		  "html_code" : "#9896;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Horizontal Male With Stroke Sign",
+		  "slug" : "horizontal-male-with-stroke-sign",
+		  "unicode" : "U+026A9",
+		  "hex_code" : "#x26A9;",
+		  "html_code" : "#9897;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Medium Small White Circle",
+		  "slug" : "medium-small-white-circle",
+		  "unicode" : "U+026AC",
+		  "hex_code" : "#x26AC;",
+		  "html_code" : "#9900;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Marriage Symbol",
+		  "slug" : "marriage-symbol",
+		  "unicode" : "U+026AD",
+		  "hex_code" : "#x26AD;",
+		  "html_code" : "#9901;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Divorce Symbol",
+		  "slug" : "divorce-symbol",
+		  "unicode" : "U+026AE",
+		  "hex_code" : "#x26AE;",
+		  "html_code" : "#9902;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Unmarried Partnership Symbol",
+		  "slug" : "unmarried-partnership-symbol",
+		  "unicode" : "U+026AF",
+		  "hex_code" : "#x26AF;",
+		  "html_code" : "#9903;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Coffin",
+		  "slug" : "coffin",
+		  "unicode" : "U+026B0",
+		  "hex_code" : "#x26B0;",
+		  "html_code" : "#9904;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Funeral Urn",
+		  "slug" : "funeral-urn",
+		  "unicode" : "U+026B1",
+		  "hex_code" : "#x26B1;",
+		  "html_code" : "#9905;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Neuter",
+		  "slug" : "neuter",
+		  "unicode" : "U+026B2",
+		  "hex_code" : "#x26B2;",
+		  "html_code" : "#9906;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Baseball",
+		  "slug" : "baseball",
+		  "unicode" : "U+026BE",
+		  "hex_code" : "#x26BE;",
+		  "html_code" : "#9918;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Astronomical Symbol for Uranus",
+		  "slug" : "astronomical-symbol-for-uranus",
+		  "unicode" : "U+026E2",
+		  "hex_code" : "#x26E2;",
+		  "html_code" : "#9954;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Upper Blade Scissors",
+		  "slug" : "upper-blade-scissors",
+		  "unicode" : "U+02701",
+		  "hex_code" : "#x2701;",
+		  "html_code" : "#9985;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Scissors",
+		  "slug" : "black-scissors",
+		  "unicode" : "U+02702",
+		  "hex_code" : "#x2702;",
+		  "html_code" : "#9986;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Lower Blade Scissors",
+		  "slug" : "lower-blade-scissors",
+		  "unicode" : "U+02703",
+		  "hex_code" : "#x2703;",
+		  "html_code" : "#9987;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Scissors",
+		  "slug" : "white-scissors",
+		  "unicode" : "U+02704",
+		  "hex_code" : "#x2704;",
+		  "html_code" : "#9988;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Telephone Location Sign",
+		  "slug" : "telephone-location-sign",
+		  "unicode" : "U+02706",
+		  "hex_code" : "#x2706;",
+		  "html_code" : "#9990;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Tape Drive",
+		  "slug" : "tape-drive",
+		  "unicode" : "U+02707",
+		  "hex_code" : "#x2707;",
+		  "html_code" : "#9991;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Airplane",
+		  "slug" : "airplane",
+		  "unicode" : "U+02708",
+		  "hex_code" : "#x2708;",
+		  "html_code" : "#9992;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Envelope",
+		  "slug" : "envelope",
+		  "unicode" : "U+02709",
+		  "hex_code" : "#x2709;",
+		  "html_code" : "#9993;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Victory Hand",
+		  "slug" : "victory-hand",
+		  "unicode" : "U+0270C",
+		  "hex_code" : "#x270C;",
+		  "html_code" : "#9996;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Writing Hand",
+		  "slug" : "writing-hand",
+		  "unicode" : "U+0270D",
+		  "hex_code" : "#x270D;",
+		  "html_code" : "#9997;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Lower Right Pencil",
+		  "slug" : "lower-right-pencil",
+		  "unicode" : "U+0270E",
+		  "hex_code" : "#x270E;",
+		  "html_code" : "#9998;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Pencil",
+		  "slug" : "pencil",
+		  "unicode" : "U+0270F",
+		  "hex_code" : "#x270F;",
+		  "html_code" : "#9999;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Upper Right Pencil",
+		  "slug" : "upper-right-pencil",
+		  "unicode" : "U+02710",
+		  "hex_code" : "#x2710;",
+		  "html_code" : "#10000;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Nib",
+		  "slug" : "white-nib",
+		  "unicode" : "U+02711",
+		  "hex_code" : "#x2711;",
+		  "html_code" : "#10001;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Nib",
+		  "slug" : "black-nib",
+		  "unicode" : "U+02712",
+		  "hex_code" : "#x2712;",
+		  "html_code" : "#10002;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Check Mark",
+		  "slug" : "check-mark",
+		  "unicode" : "U+02713",
+		  "hex_code" : "#x2713;",
+		  "html_code" : "#10003;",
+		  "html_entity" : "check;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Check Mark",
+		  "slug" : "heavy-check-mark",
+		  "unicode" : "U+02714",
+		  "hex_code" : "#x2714;",
+		  "html_code" : "#10004;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Multiplication X",
+		  "slug" : "multiplication-x",
+		  "unicode" : "U+02715",
+		  "hex_code" : "#x2715;",
+		  "html_code" : "#10005;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Multiplication X",
+		  "slug" : "heavy-multiplication-x",
+		  "unicode" : "U+02716",
+		  "hex_code" : "#x2716;",
+		  "html_code" : "#10006;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Ballot X",
+		  "slug" : "ballot-x",
+		  "unicode" : "U+02717",
+		  "hex_code" : "#x2717;",
+		  "html_code" : "#10007;",
+		  "html_entity" : "cross;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Ballot X",
+		  "slug" : "heavy-ballot-x",
+		  "unicode" : "U+02718",
+		  "hex_code" : "#x2718;",
+		  "html_code" : "#10008;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Outlined Greek Cross",
+		  "slug" : "outlined-greek-cross",
+		  "unicode" : "U+02719",
+		  "hex_code" : "#x2719;",
+		  "html_code" : "#10009;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Greek Cross",
+		  "slug" : "heavy-greek-cross",
+		  "unicode" : "U+0271A",
+		  "hex_code" : "#x271A;",
+		  "html_code" : "#10010;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Open Centre Cross",
+		  "slug" : "open-centre-cross",
+		  "unicode" : "U+0271B",
+		  "hex_code" : "#x271B;",
+		  "html_code" : "#10011;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Open Centre Cross",
+		  "slug" : "heavy-open-centre-cross",
+		  "unicode" : "U+0271C",
+		  "hex_code" : "#x271C;",
+		  "html_code" : "#10012;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Latin Cross",
+		  "slug" : "latin-cross",
+		  "unicode" : "U+0271D",
+		  "hex_code" : "#x271D;",
+		  "html_code" : "#10013;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Shadowed White Latin Cross",
+		  "slug" : "shadowed-white-latin-cross",
+		  "unicode" : "U+0271E",
+		  "hex_code" : "#x271E;",
+		  "html_code" : "#10014;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Outlined Latin Cross",
+		  "slug" : "outlined-latin-cross",
+		  "unicode" : "U+0271F",
+		  "hex_code" : "#x271F;",
+		  "html_code" : "#10015;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Maltese Cross",
+		  "slug" : "maltese-cross",
+		  "unicode" : "U+02720",
+		  "hex_code" : "#x2720;",
+		  "html_code" : "#10016;",
+		  "html_entity" : "malt;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Star of David",
+		  "slug" : "star-of-david",
+		  "unicode" : "U+02721",
+		  "hex_code" : "#x2721;",
+		  "html_code" : "#10017;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Four Teardrop-Spoked Asterisk",
+		  "slug" : "four-teardrop-spoked-asterisk",
+		  "unicode" : "U+02722",
+		  "hex_code" : "#x2722;",
+		  "html_code" : "#10018;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Four Balloon-Spoked Asterisk",
+		  "slug" : "four-balloon-spoked-asterisk",
+		  "unicode" : "U+02723",
+		  "hex_code" : "#x2723;",
+		  "html_code" : "#10019;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Four Balloon-Spoked Asterisk",
+		  "slug" : "heavy-four-balloon-spoked-asterisk",
+		  "unicode" : "U+02724",
+		  "hex_code" : "#x2724;",
+		  "html_code" : "#10020;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Four Club-Spoked Asterisk",
+		  "slug" : "four-club-spoked-asterisk",
+		  "unicode" : "U+02725",
+		  "hex_code" : "#x2725;",
+		  "html_code" : "#10021;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Four Pointed Star",
+		  "slug" : "black-four-pointed-star",
+		  "unicode" : "U+02726",
+		  "hex_code" : "#x2726;",
+		  "html_code" : "#10022;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Four Pointed Star",
+		  "slug" : "white-four-pointed-star",
+		  "unicode" : "U+02727",
+		  "hex_code" : "#x2727;",
+		  "html_code" : "#10023;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Stress Outlined White Star",
+		  "slug" : "stress-outlined-white-star",
+		  "unicode" : "U+02729",
+		  "hex_code" : "#x2729;",
+		  "html_code" : "#10025;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Circled White Star",
+		  "slug" : "circled-white-star",
+		  "unicode" : "U+0272A",
+		  "hex_code" : "#x272A;",
+		  "html_code" : "#10026;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Open Centre Black Star",
+		  "slug" : "open-centre-black-star",
+		  "unicode" : "U+0272B",
+		  "hex_code" : "#x272B;",
+		  "html_code" : "#10027;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Centre White Star",
+		  "slug" : "black-centre-white-star",
+		  "unicode" : "U+0272C",
+		  "hex_code" : "#x272C;",
+		  "html_code" : "#10028;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Outlined Black Star",
+		  "slug" : "outlined-black-star",
+		  "unicode" : "U+0272D",
+		  "hex_code" : "#x272D;",
+		  "html_code" : "#10029;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Outlined Black Star",
+		  "slug" : "heavy-outlined-black-star",
+		  "unicode" : "U+0272E",
+		  "hex_code" : "#x272E;",
+		  "html_code" : "#10030;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Pinwheel Star",
+		  "slug" : "pinwheel-star",
+		  "unicode" : "U+0272F",
+		  "hex_code" : "#x272F;",
+		  "html_code" : "#10031;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Shadowed White Star",
+		  "slug" : "shadowed-white-star",
+		  "unicode" : "U+02730",
+		  "hex_code" : "#x2730;",
+		  "html_code" : "#10032;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Asterisk",
+		  "slug" : "heavy-asterisk",
+		  "unicode" : "U+02731",
+		  "hex_code" : "#x2731;",
+		  "html_code" : "#10033;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Open Centre Asterisk",
+		  "slug" : "open-centre-asterisk",
+		  "unicode" : "U+02732",
+		  "hex_code" : "#x2732;",
+		  "html_code" : "#10034;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Eight Spoked Asterisk",
+		  "slug" : "eight-spoked-asterisk",
+		  "unicode" : "U+02733",
+		  "hex_code" : "#x2733;",
+		  "html_code" : "#10035;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Eight Pointed Black Star",
+		  "slug" : "eight-pointed-black-star",
+		  "unicode" : "U+02734",
+		  "hex_code" : "#x2734;",
+		  "html_code" : "#10036;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Eight Pointed Pinwheel Star",
+		  "slug" : "eight-pointed-pinwheel-star",
+		  "unicode" : "U+02735",
+		  "hex_code" : "#x2735;",
+		  "html_code" : "#10037;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Six Pointed Black Star",
+		  "slug" : "six-pointed-black-star",
+		  "unicode" : "U+02736",
+		  "hex_code" : "#x2736;",
+		  "html_code" : "#10038;",
+		  "html_entity" : "sext;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Eight Pointed Rectilinear Black Star",
+		  "slug" : "eight-pointed-rectilinear-black-star",
+		  "unicode" : "U+02737",
+		  "hex_code" : "#x2737;",
+		  "html_code" : "#10039;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Eight Pointed Rectilinear Black Star",
+		  "slug" : "heavy-eight-pointed-rectilinear-black-star",
+		  "unicode" : "U+02738",
+		  "hex_code" : "#x2738;",
+		  "html_code" : "#10040;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Twelve Pointed Black Star",
+		  "slug" : "twelve-pointed-black-star",
+		  "unicode" : "U+02739",
+		  "hex_code" : "#x2739;",
+		  "html_code" : "#10041;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Sixteen Pointed Asterisk",
+		  "slug" : "sixteen-pointed-asterisk",
+		  "unicode" : "U+0273A",
+		  "hex_code" : "#x273A;",
+		  "html_code" : "#10042;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Teardrop-Spoked Asterisk",
+		  "slug" : "teardrop-spoked-asterisk",
+		  "unicode" : "U+0273B",
+		  "hex_code" : "#x273B;",
+		  "html_code" : "#10043;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Open Centre Teardrop-Spoked Asterisk",
+		  "slug" : "open-centre-teardrop-spoked-asterisk",
+		  "unicode" : "U+0273C",
+		  "hex_code" : "#x273C;",
+		  "html_code" : "#10044;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Teardrop-Spoked Asterisk",
+		  "slug" : "heavy-teardrop-spoked-asterisk",
+		  "unicode" : "U+0273D",
+		  "hex_code" : "#x273D;",
+		  "html_code" : "#10045;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Six Petalled Black and White Florette",
+		  "slug" : "six-petalled-black-and-white-florette",
+		  "unicode" : "U+0273E",
+		  "hex_code" : "#x273E;",
+		  "html_code" : "#10046;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Florette",
+		  "slug" : "black-florette",
+		  "unicode" : "U+0273F",
+		  "hex_code" : "#x273F;",
+		  "html_code" : "#10047;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White Florette",
+		  "slug" : "white-florette",
+		  "unicode" : "U+02740",
+		  "hex_code" : "#x2740;",
+		  "html_code" : "#10048;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Eight Petalled Outlined Black Florette",
+		  "slug" : "eight-petalled-outlined-black-florette",
+		  "unicode" : "U+02741",
+		  "hex_code" : "#x2741;",
+		  "html_code" : "#10049;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Circled Open Centre Eight Pointed Star",
+		  "slug" : "circled-open-centre-eight-pointed-star",
+		  "unicode" : "U+02742",
+		  "hex_code" : "#x2742;",
+		  "html_code" : "#10050;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Teardrop-Spoked Pinwheel Asterisk",
+		  "slug" : "heavy-teardrop-spoked-pinwheel-asterisk",
+		  "unicode" : "U+02743",
+		  "hex_code" : "#x2743;",
+		  "html_code" : "#10051;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Snowflake",
+		  "slug" : "snowflake",
+		  "unicode" : "U+02744",
+		  "hex_code" : "#x2744;",
+		  "html_code" : "#10052;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Tight Trifoliate Snowflake",
+		  "slug" : "tight-trifoliate-snowflake",
+		  "unicode" : "U+02745",
+		  "hex_code" : "#x2745;",
+		  "html_code" : "#10053;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Chevron Snowflake",
+		  "slug" : "heavy-chevron-snowflake",
+		  "unicode" : "U+02746",
+		  "hex_code" : "#x2746;",
+		  "html_code" : "#10054;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Sparkle",
+		  "slug" : "sparkle",
+		  "unicode" : "U+02747",
+		  "hex_code" : "#x2747;",
+		  "html_code" : "#10055;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Sparkle",
+		  "slug" : "heavy-sparkle",
+		  "unicode" : "U+02748",
+		  "hex_code" : "#x2748;",
+		  "html_code" : "#10056;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Balloon-Spoked Asterisk",
+		  "slug" : "balloon-spoked-asterisk",
+		  "unicode" : "U+02749",
+		  "hex_code" : "#x2749;",
+		  "html_code" : "#10057;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Eight Teardrop-Spoked Propeller Asterisk",
+		  "slug" : "eight-teardrop-spoked-propeller-asterisk",
+		  "unicode" : "U+0274A",
+		  "hex_code" : "#x274A;",
+		  "html_code" : "#10058;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Eight Teardrop-Spoked Propeller Asterisk",
+		  "slug" : "heavy-eight-teardrop-spoked-propeller-asterisk",
+		  "unicode" : "U+0274B",
+		  "hex_code" : "#x274B;",
+		  "html_code" : "#10059;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Shadowed White Circle",
+		  "slug" : "shadowed-white-circle",
+		  "unicode" : "U+0274D",
+		  "hex_code" : "#x274D;",
+		  "html_code" : "#10061;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Lower Right Drop-Shadowed White Square",
+		  "slug" : "lower-right-drop-shadowed-white-square",
+		  "unicode" : "U+0274F",
+		  "hex_code" : "#x274F;",
+		  "html_code" : "#10063;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Upper Right Drop-Shadowed White Square",
+		  "slug" : "upper-right-drop-shadowed-white-square",
+		  "unicode" : "U+02750",
+		  "hex_code" : "#x2750;",
+		  "html_code" : "#10064;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Lower Right Shadowed White Square",
+		  "slug" : "lower-right-shadowed-white-square",
+		  "unicode" : "U+02751",
+		  "hex_code" : "#x2751;",
+		  "html_code" : "#10065;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Upper Right Shadowed White Square",
+		  "slug" : "upper-right-shadowed-white-square",
+		  "unicode" : "U+02752",
+		  "hex_code" : "#x2752;",
+		  "html_code" : "#10066;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Diamond Minus White X",
+		  "slug" : "black-diamond-minus-white-x",
+		  "unicode" : "U+02756",
+		  "hex_code" : "#x2756;",
+		  "html_code" : "#10070;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Light Vertical Bar",
+		  "slug" : "light-vertical-bar",
+		  "unicode" : "U+02758",
+		  "hex_code" : "#x2758;",
+		  "html_code" : "#10072;",
+		  "html_entity" : "VerticalSeparator;",
+		  "oversize" : "true",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Medium Vertical Bar",
+		  "slug" : "medium-vertical-bar",
+		  "unicode" : "U+02759",
+		  "hex_code" : "#x2759;",
+		  "html_code" : "#10073;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Vertical Bar",
+		  "slug" : "heavy-vertical-bar",
+		  "unicode" : "U+0275A",
+		  "hex_code" : "#x275A;",
+		  "html_code" : "#10074;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Single Turned Comma Quotation Mark Ornament",
+		  "slug" : "heavy-single-turned-comma-quotation-mark-ornament",
+		  "unicode" : "U+0275B",
+		  "hex_code" : "#x275B;",
+		  "html_code" : "#10075;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Single Comma Quotation Mark Ornament",
+		  "slug" : "heavy-single-comma-quotation-mark-ornament",
+		  "unicode" : "U+0275C",
+		  "hex_code" : "#x275C;",
+		  "html_code" : "#10076;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Double Turned Comma Quotation Mark Ornament",
+		  "slug" : "heavy-double-turned-comma-quotation-mark-ornament",
+		  "unicode" : "U+0275D",
+		  "hex_code" : "#x275D;",
+		  "html_code" : "#10077;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Double Comma Quotation Mark Ornament",
+		  "slug" : "heavy-double-comma-quotation-mark-ornament",
+		  "unicode" : "U+0275E",
+		  "hex_code" : "#x275E;",
+		  "html_code" : "#10078;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Curved Stem Paragraph Sign Ornament",
+		  "slug" : "curved-stem-paragraph-sign-ornament",
+		  "unicode" : "U+02761",
+		  "hex_code" : "#x2761;",
+		  "html_code" : "#10081;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Exclamation Mark Ornament",
+		  "slug" : "heavy-exclamation-mark-ornament",
+		  "unicode" : "U+02762",
+		  "hex_code" : "#x2762;",
+		  "html_code" : "#10082;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Heart Exclamation Mark Ornament",
+		  "slug" : "heavy-heart-exclamation-mark-ornament",
+		  "unicode" : "U+02763",
+		  "hex_code" : "#x2763;",
+		  "html_code" : "#10083;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Black Heart",
+		  "slug" : "heavy-black-heart",
+		  "unicode" : "U+02764",
+		  "hex_code" : "#x2764;",
+		  "html_code" : "#10084;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Rotated Heavy Black Heart Bullet",
+		  "slug" : "rotated-heavy-black-heart-bullet",
+		  "unicode" : "U+02765",
+		  "hex_code" : "#x2765;",
+		  "html_code" : "#10085;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Floral Heart",
+		  "slug" : "floral-heart",
+		  "unicode" : "U+02766",
+		  "hex_code" : "#x2766;",
+		  "html_code" : "#10086;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Rotated Floral Heart Bullet",
+		  "slug" : "rotated-floral-heart-bullet",
+		  "unicode" : "U+02767",
+		  "hex_code" : "#x2767;",
+		  "html_code" : "#10087;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Medium Left Parenthesis Ornament",
+		  "slug" : "medium-left-parenthesis-ornament",
+		  "unicode" : "U+02768",
+		  "hex_code" : "#x2768;",
+		  "html_code" : "#10088;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Medium Right Parenthesis Ornament",
+		  "slug" : "medium-right-parenthesis-ornament",
+		  "unicode" : "U+02769",
+		  "hex_code" : "#x2769;",
+		  "html_code" : "#10089;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Medium Flattened Left Parenthesis Ornament",
+		  "slug" : "medium-flattened-left-parenthesis-ornament",
+		  "unicode" : "U+0276A",
+		  "hex_code" : "#x276A;",
+		  "html_code" : "#10090;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Medium Flattened Right Parenthesis Ornament",
+		  "slug" : "medium-flattened-right-parenthesis-ornament",
+		  "unicode" : "U+0276B",
+		  "hex_code" : "#x276B;",
+		  "html_code" : "#10091;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Medium Left-Pointing Angle Bracket Ornament",
+		  "slug" : "medium-left-pointing-angle-bracket-ornament",
+		  "unicode" : "U+0276C",
+		  "hex_code" : "#x276C;",
+		  "html_code" : "#10092;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Medium Right-Pointing Angle Bracket Ornament",
+		  "slug" : "medium-right-pointing-angle-bracket-ornament",
+		  "unicode" : "U+0276D",
+		  "hex_code" : "#x276D;",
+		  "html_code" : "#10093;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Left-Pointing Angle Quotation Mark Ornament",
+		  "slug" : "heavy-left-pointing-angle-quotation-mark-ornament",
+		  "unicode" : "U+0276E",
+		  "hex_code" : "#x276E;",
+		  "html_code" : "#10094;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Right-Pointing Angle Quotation Mark Ornament",
+		  "slug" : "heavy-right-pointing-angle-quotation-mark-ornament",
+		  "unicode" : "U+0276F",
+		  "hex_code" : "#x276F;",
+		  "html_code" : "#10095;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Left-Pointing Angle Bracket Ornament",
+		  "slug" : "heavy-left-pointing-angle-bracket-ornament",
+		  "unicode" : "U+02770",
+		  "hex_code" : "#x2770;",
+		  "html_code" : "#10096;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Right-Pointing Angle Bracket Ornament",
+		  "slug" : "heavy-right-pointing-angle-bracket-ornament",
+		  "unicode" : "U+02771",
+		  "hex_code" : "#x2771;",
+		  "html_code" : "#10097;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Light Left Tortoise Shell Bracket Ornament",
+		  "slug" : "light-left-tortoise-shell-bracket-ornament",
+		  "unicode" : "U+02772",
+		  "hex_code" : "#x2772;",
+		  "html_code" : "#10098;",
+		  "html_entity" : "lbbrk;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Light Right Tortoise Shell Bracket Ornament",
+		  "slug" : "light-right-tortoise-shell-bracket-ornament",
+		  "unicode" : "U+02773",
+		  "hex_code" : "#x2773;",
+		  "html_code" : "#10099;",
+		  "html_entity" : "rbbrk;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Medium Left Curly Bracket Ornament",
+		  "slug" : "medium-left-curly-bracket-ornament",
+		  "unicode" : "U+02774",
+		  "hex_code" : "#x2774;",
+		  "html_code" : "#10100;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Medium Right Curly Bracket Ornament",
+		  "slug" : "medium-right-curly-bracket-ornament",
+		  "unicode" : "U+02775",
+		  "hex_code" : "#x2775;",
+		  "html_code" : "#10101;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Digit One",
+		  "slug" : "dingbat-negative-circled-digit-one",
+		  "unicode" : "U+02776",
+		  "hex_code" : "#x2776;",
+		  "html_code" : "#10102;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Digit Two",
+		  "slug" : "dingbat-negative-circled-digit-two",
+		  "unicode" : "U+02777",
+		  "hex_code" : "#x2777;",
+		  "html_code" : "#10103;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Digit Three",
+		  "slug" : "dingbat-negative-circled-digit-three",
+		  "unicode" : "U+02778",
+		  "hex_code" : "#x2778;",
+		  "html_code" : "#10104;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Digit Four",
+		  "slug" : "dingbat-negative-circled-digit-four",
+		  "unicode" : "U+02779",
+		  "hex_code" : "#x2779;",
+		  "html_code" : "#10105;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Digit Five",
+		  "slug" : "dingbat-negative-circled-digit-five",
+		  "unicode" : "U+0277A",
+		  "hex_code" : "#x277A;",
+		  "html_code" : "#10106;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Digit Six",
+		  "slug" : "dingbat-negative-circled-digit-six",
+		  "unicode" : "U+0277B",
+		  "hex_code" : "#x277B;",
+		  "html_code" : "#10107;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Digit Seven",
+		  "slug" : "dingbat-negative-circled-digit-seven",
+		  "unicode" : "U+0277C",
+		  "hex_code" : "#x277C;",
+		  "html_code" : "#10108;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Digit Eight",
+		  "slug" : "dingbat-negative-circled-digit-eight",
+		  "unicode" : "U+0277D",
+		  "hex_code" : "#x277D;",
+		  "html_code" : "#10109;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Digit Nine",
+		  "slug" : "dingbat-negative-circled-digit-nine",
+		  "unicode" : "U+0277E",
+		  "hex_code" : "#x277E;",
+		  "html_code" : "#10110;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Number Ten",
+		  "slug" : "dingbat-negative-circled-number-ten",
+		  "unicode" : "U+0277F",
+		  "hex_code" : "#x277F;",
+		  "html_code" : "#10111;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Circled Sans-Serif Digit One",
+		  "slug" : "dingbat-circled-sans-serif-digit-one",
+		  "unicode" : "U+02780",
+		  "hex_code" : "#x2780;",
+		  "html_code" : "#10112;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Circled Sans-Serif Digit Two",
+		  "slug" : "dingbat-circled-sans-serif-digit-two",
+		  "unicode" : "U+02781",
+		  "hex_code" : "#x2781;",
+		  "html_code" : "#10113;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Circled Sans-Serif Digit Three",
+		  "slug" : "dingbat-circled-sans-serif-digit-three",
+		  "unicode" : "U+02782",
+		  "hex_code" : "#x2782;",
+		  "html_code" : "#10114;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Circled Sans-Serif Digit Four",
+		  "slug" : "dingbat-circled-sans-serif-digit-four",
+		  "unicode" : "U+02783",
+		  "hex_code" : "#x2783;",
+		  "html_code" : "#10115;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Circled Sans-Serif Digit Five",
+		  "slug" : "dingbat-circled-sans-serif-digit-five",
+		  "unicode" : "U+02784",
+		  "hex_code" : "#x2784;",
+		  "html_code" : "#10116;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Circled Sans-Serif Digit Six",
+		  "slug" : "dingbat-circled-sans-serif-digit-six",
+		  "unicode" : "U+02785",
+		  "hex_code" : "#x2785;",
+		  "html_code" : "#10117;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Circled Sans-Serif Digit Seven",
+		  "slug" : "dingbat-circled-sans-serif-digit-seven",
+		  "unicode" : "U+02786",
+		  "hex_code" : "#x2786;",
+		  "html_code" : "#10118;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Circled Sans-Serif Digit Eight",
+		  "slug" : "dingbat-circled-sans-serif-digit-eight",
+		  "unicode" : "U+02787",
+		  "hex_code" : "#x2787;",
+		  "html_code" : "#10119;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Circled Sans-Serif Digit Nine",
+		  "slug" : "dingbat-circled-sans-serif-digit-nine",
+		  "unicode" : "U+02788",
+		  "hex_code" : "#x2788;",
+		  "html_code" : "#10120;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Circled Sans-Serif Number Ten",
+		  "slug" : "dingbat-circled-sans-serif-number-ten",
+		  "unicode" : "U+02789",
+		  "hex_code" : "#x2789;",
+		  "html_code" : "#10121;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Sans-Serif Digit One",
+		  "slug" : "dingbat-negative-circled-sans-serif-digit-one",
+		  "unicode" : "U+0278A",
+		  "hex_code" : "#x278A;",
+		  "html_code" : "#10122;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Sans-Serif Digit Two",
+		  "slug" : "dingbat-negative-circled-sans-serif-digit-two",
+		  "unicode" : "U+0278B",
+		  "hex_code" : "#x278B;",
+		  "html_code" : "#10123;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Sans-Serif Digit Three",
+		  "slug" : "dingbat-negative-circled-sans-serif-digit-three",
+		  "unicode" : "U+0278C",
+		  "hex_code" : "#x278C;",
+		  "html_code" : "#10124;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Sans-Serif Digit Four",
+		  "slug" : "dingbat-negative-circled-sans-serif-digit-four",
+		  "unicode" : "U+0278D",
+		  "hex_code" : "#x278D;",
+		  "html_code" : "#10125;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Sans-Serif Digit Five",
+		  "slug" : "dingbat-negative-circled-sans-serif-digit-five",
+		  "unicode" : "U+0278E",
+		  "hex_code" : "#x278E;",
+		  "html_code" : "#10126;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Sans-Serif Digit Six",
+		  "slug" : "dingbat-negative-circled-sans-serif-digit-six",
+		  "unicode" : "U+0278F",
+		  "hex_code" : "#x278F;",
+		  "html_code" : "#10127;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Sans-Serif Digit Seven",
+		  "slug" : "dingbat-negative-circled-sans-serif-digit-seven",
+		  "unicode" : "U+02790",
+		  "hex_code" : "#x2790;",
+		  "html_code" : "#10128;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Sans-Serif Digit Eight",
+		  "slug" : "dingbat-negative-circled-sans-serif-digit-eight",
+		  "unicode" : "U+02791",
+		  "hex_code" : "#x2791;",
+		  "html_code" : "#10129;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Sans-Serif Digit Nine",
+		  "slug" : "dingbat-negative-circled-sans-serif-digit-nine",
+		  "unicode" : "U+02792",
+		  "hex_code" : "#x2792;",
+		  "html_code" : "#10130;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dingbat Negative Circled Sans-Serif Number Ten",
+		  "slug" : "dingbat-negative-circled-sans-serif-number-ten",
+		  "unicode" : "U+02793",
+		  "hex_code" : "#x2793;",
+		  "html_code" : "#10131;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Wide-Headed Rightwards Arrow",
+		  "slug" : "heavy-wide-headed-rightwards-arrow",
+		  "unicode" : "U+02794",
+		  "hex_code" : "#x2794;",
+		  "html_code" : "#10132;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy South East Arrow",
+		  "slug" : "heavy-south-east-arrow",
+		  "unicode" : "U+02798",
+		  "hex_code" : "#x2798;",
+		  "html_code" : "#10136;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Rightwards Arrow",
+		  "slug" : "heavy-rightwards-arrow",
+		  "unicode" : "U+02799",
+		  "hex_code" : "#x2799;",
+		  "html_code" : "#10137;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy North East Arrow",
+		  "slug" : "heavy-north-east-arrow",
+		  "unicode" : "U+0279A",
+		  "hex_code" : "#x279A;",
+		  "html_code" : "#10138;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Drafting Point Rightwards Arrow",
+		  "slug" : "drafting-point-rightwards-arrow",
+		  "unicode" : "U+0279B",
+		  "hex_code" : "#x279B;",
+		  "html_code" : "#10139;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Round-Tipped Rightwards Arrow",
+		  "slug" : "heavy-round-tipped-rightwards-arrow",
+		  "unicode" : "U+0279C",
+		  "hex_code" : "#x279C;",
+		  "html_code" : "#10140;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Triangle-Headed Rightwards Arrow",
+		  "slug" : "triangle-headed-rightwards-arrow",
+		  "unicode" : "U+0279D",
+		  "hex_code" : "#x279D;",
+		  "html_code" : "#10141;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Triangle-Headed Rightwards Arrow",
+		  "slug" : "heavy-triangle-headed-rightwards-arrow",
+		  "unicode" : "U+0279E",
+		  "hex_code" : "#x279E;",
+		  "html_code" : "#10142;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Dashed Triangle-Headed Rightwards Arrow",
+		  "slug" : "dashed-triangle-headed-rightwards-arrow",
+		  "unicode" : "U+0279F",
+		  "hex_code" : "#x279F;",
+		  "html_code" : "#10143;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Dashed Triangle-Headed Rightwards Arrow",
+		  "slug" : "heavy-dashed-triangle-headed-rightwards-arrow",
+		  "unicode" : "U+027A0",
+		  "hex_code" : "#x27A0;",
+		  "html_code" : "#10144;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Rightwards Arrow",
+		  "slug" : "black-rightwards-arrow",
+		  "unicode" : "U+027A1",
+		  "hex_code" : "#x27A1;",
+		  "html_code" : "#10145;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Three-D Top-Lighted Rightwards Arrowhead",
+		  "slug" : "three-d-top-lighted-rightwards-arrowhead",
+		  "unicode" : "U+027A2",
+		  "hex_code" : "#x27A2;",
+		  "html_code" : "#10146;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Three-D Bottom-Lighted Rightwards Arrowhead",
+		  "slug" : "three-d-bottom-lighted-rightwards-arrowhead",
+		  "unicode" : "U+027A3",
+		  "hex_code" : "#x27A3;",
+		  "html_code" : "#10147;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black Rightwards Arrowhead",
+		  "slug" : "black-rightwards-arrowhead",
+		  "unicode" : "U+027A4",
+		  "hex_code" : "#x27A4;",
+		  "html_code" : "#10148;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Black Curved Downwards and Rightwards Arrow",
+		  "slug" : "heavy-black-curved-downwards-and-rightwards-arrow",
+		  "unicode" : "U+027A5",
+		  "hex_code" : "#x27A5;",
+		  "html_code" : "#10149;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Black Curved Upwards and Rightwards Arrow",
+		  "slug" : "heavy-black-curved-upwards-and-rightwards-arrow",
+		  "unicode" : "U+027A6",
+		  "hex_code" : "#x27A6;",
+		  "html_code" : "#10150;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Squat Black Rightwards Arrow",
+		  "slug" : "squat-black-rightwards-arrow",
+		  "unicode" : "U+027A7",
+		  "hex_code" : "#x27A7;",
+		  "html_code" : "#10151;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Concave-Pointed Black Rightwards Arrow",
+		  "slug" : "heavy-concave-pointed-black-rightwards-arrow",
+		  "unicode" : "U+027A8",
+		  "hex_code" : "#x27A8;",
+		  "html_code" : "#10152;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Right-Shaded White Rightwards Arrow",
+		  "slug" : "right-shaded-white-rightwards-arrow",
+		  "unicode" : "U+027A9",
+		  "hex_code" : "#x27A9;",
+		  "html_code" : "#10153;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Left-Shaded White Rightwards Arrow",
+		  "slug" : "left-shaded-white-rightwards-arrow",
+		  "unicode" : "U+027AA",
+		  "hex_code" : "#x27AA;",
+		  "html_code" : "#10154;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Back-Tilted Shadowed White Rightwards Arrow",
+		  "slug" : "back-tilted-shadowed-white-rightwards-arrow",
+		  "unicode" : "U+027AB",
+		  "hex_code" : "#x27AB;",
+		  "html_code" : "#10155;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Front-Tilted Shadowed White Rightwards Arrow",
+		  "slug" : "front-tilted-shadowed-white-rightwards-arrow",
+		  "unicode" : "U+027AC",
+		  "hex_code" : "#x27AC;",
+		  "html_code" : "#10156;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Lower Right-Shadowed White Rightwards Arrow",
+		  "slug" : "heavy-lower-right-shadowed-white-rightwards-arrow",
+		  "unicode" : "U+027AD",
+		  "hex_code" : "#x27AD;",
+		  "html_code" : "#10157;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Upper Right-Shadowed White Rightwards Arrow",
+		  "slug" : "heavy-upper-right-shadowed-white-rightwards-arrow",
+		  "unicode" : "U+027AE",
+		  "hex_code" : "#x27AE;",
+		  "html_code" : "#10158;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Notched Lower Right-Shadowed White Rightwards Arrow",
+		  "slug" : "notched-lower-right-shadowed-white-rightwards-arrow",
+		  "unicode" : "U+027AF",
+		  "hex_code" : "#x27AF;",
+		  "html_code" : "#10159;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Notched Upper Right-Shadowed White Rightwards Arrow",
+		  "slug" : "notched-upper-right-shadowed-white-rightwards-arrow",
+		  "unicode" : "U+027B1",
+		  "hex_code" : "#x27B1;",
+		  "html_code" : "#10161;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Circled Heavy White Rightwards Arrow",
+		  "slug" : "circled-heavy-white-rightwards-arrow",
+		  "unicode" : "U+027B2",
+		  "hex_code" : "#x27B2;",
+		  "html_code" : "#10162;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "White-Feathered Rightwards Arrow",
+		  "slug" : "white-feathered-rightwards-arrow",
+		  "unicode" : "U+027B3",
+		  "hex_code" : "#x27B3;",
+		  "html_code" : "#10163;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black-Feathered South East Arrow",
+		  "slug" : "black-feathered-south-east-arrow",
+		  "unicode" : "U+027B4",
+		  "hex_code" : "#x27B4;",
+		  "html_code" : "#10164;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black-Feathered Rightwards Arrow",
+		  "slug" : "black-feathered-rightwards-arrow",
+		  "unicode" : "U+027B5",
+		  "hex_code" : "#x27B5;",
+		  "html_code" : "#10165;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Black-Feathered North East Arrow",
+		  "slug" : "black-feathered-north-east-arrow",
+		  "unicode" : "U+027B6",
+		  "hex_code" : "#x27B6;",
+		  "html_code" : "#10166;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Black-Feathered South East Arrow",
+		  "slug" : "heavy-black-feathered-south-east-arrow",
+		  "unicode" : "U+027B7",
+		  "hex_code" : "#x27B7;",
+		  "html_code" : "#10167;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Black-Feathered Rightwards Arrow",
+		  "slug" : "heavy-black-feathered-rightwards-arrow",
+		  "unicode" : "U+027B8",
+		  "hex_code" : "#x27B8;",
+		  "html_code" : "#10168;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Black-Feathered North East Arrow",
+		  "slug" : "heavy-black-feathered-north-east-arrow",
+		  "unicode" : "U+027B9",
+		  "hex_code" : "#x27B9;",
+		  "html_code" : "#10169;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Teardrop-Barbed Rightwards Arrow",
+		  "slug" : "teardrop-barbed-rightwards-arrow",
+		  "unicode" : "U+027BA",
+		  "hex_code" : "#x27BA;",
+		  "html_code" : "#10170;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Teardrop-Shanked Rightwards Arrow",
+		  "slug" : "heavy-teardrop-shanked-rightwards-arrow",
+		  "unicode" : "U+027BB",
+		  "hex_code" : "#x27BB;",
+		  "html_code" : "#10171;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Wedge-Tailed Rightwards Arrow",
+		  "slug" : "wedge-tailed-rightwards-arrow",
+		  "unicode" : "U+027BC",
+		  "hex_code" : "#x27BC;",
+		  "html_code" : "#10172;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Heavy Wedge-Tailed Rightwards Arrow",
+		  "slug" : "heavy-wedge-tailed-rightwards-arrow",
+		  "unicode" : "U+027BD",
+		  "hex_code" : "#x27BD;",
+		  "html_code" : "#10173;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Open-Outlined Rightwards Arrow",
+		  "slug" : "open-outlined-rightwards-arrow",
+		  "unicode" : "U+027BE",
+		  "hex_code" : "#x27BE;",
+		  "html_code" : "#10174;",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {

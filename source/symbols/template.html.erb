@@ -1,5 +1,6 @@
 ---
 typeof: ItemPage
+image: http://htmlarrows.com/assets/images/htmlarrows-symbols-hero.jpg
 changefreq: "monthly"
 priority: 0.5
 ---
@@ -22,11 +23,11 @@ priority: 0.5
 <%# Page Footer %>
 <% content_for :breadcrumbs do %>
   <span typeof="v:Breadcrumb">
-  	<%= link_to "Home", "/", rel: "v:url", property: "v:title" %> &#8250;
+  	<%= link_to "Home", "http://htmlarrows.com/", rel: "v:url", property: "v:title" %> &#8250;
     <span rel="v:child" typeof="v:Breadcrumb">
-      <%= link_to "Symbols", "/symbols/", rel: "v:url", property: "v:title" %> &#8250;
+      <%= link_to "Symbols", "http://htmlarrows.com/symbols/", rel: "v:url", property: "v:title" %> &#8250;
       <span rel="v:child" typeof="v:Breadcrumb">
-      	<%= link_to "#{entity.name}", "/symbols/#{entity.slug}/", rel: "v:url", property: "v:title" %>
+      	<%= link_to "#{entity.name}", "http://htmlarrows.com/symbols/#{entity.slug}/", rel: "v:url", property: "v:title" %>
       </span>
     </span>
   </span>

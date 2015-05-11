@@ -11,12 +11,18 @@
 body {
   section.search,
   section.results {
-    background-color: lighten(rgb(50, 50, 50), 10%);
+    background-color: lighten($color-home, 10%);
   }
   &.arrows {
     section.search,
     section.results {
       background-color: lighten($color-arrows, 10%);
+    }
+    div.example {
+      background-color: lighten($color-arrows, 10%);
+      span {
+        color: lighten($color-arrows, 25%);
+      }
     }
   }
   &.currency {
@@ -24,11 +30,23 @@ body {
     section.results {
       background-color: lighten($color-currency, 10%);
     }
+    div.example {
+      background-color: lighten($color-currency, 10%);
+      span {
+        color: lighten($color-currency, 25%);
+      }
+    }
   }
   &.letters {
     section.search,
     section.results {
       background-color: lighten($color-letters, 10%);
+    }
+    div.example {
+      background-color: lighten($color-letters, 10%);
+      span {
+        color: lighten($color-letters, 25%);
+      }
     }
   }
   &.math {
@@ -36,11 +54,23 @@ body {
     section.results {
       background-color: lighten($color-math, 10%);
     }
+    div.example {
+      background-color: lighten($color-math, 10%);
+      span {
+        color: lighten($color-math, 25%);
+      }
+    }
   }
   &.numbers {
     section.search,
     section.results {
       background-color: lighten($color-numbers, 5%);
+    }
+    div.example {
+      background-color: lighten($color-numbers, 10%);
+      span {
+        color: lighten($color-numbers, 25%);
+      }
     }
   }
   &.punctuation {
@@ -48,11 +78,23 @@ body {
     section.results {
       background-color: lighten($color-punctuation, 10%);
     }
+    div.example {
+      background-color: lighten($color-punctuation, 10%);
+      span {
+        color: lighten($color-punctuation, 25%);
+      }
+    }
   }
   &.symbols {
     section.search,
     section.results {
       background-color: lighten($color-symbols, 10%);
+    }
+    div.example {
+      background-color: lighten($color-symbols, 10%);
+      span {
+        color: lighten($color-symbols, 25%);
+      }
     }
   }
 }

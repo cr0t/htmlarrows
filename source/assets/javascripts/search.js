@@ -34,19 +34,19 @@
       return;
     }
 
-    getJSON('/all.json', function(data) {
+    getJSON('/search-data.json', function(data) {
       if (!cacheResponse){
         cacheResponse = data;
       }
-      var jsonData = JSON.parse(data).entities;
+      var jsonData = JSON.parse(data);
 
       jsonData.forEach(function(key, val){
-        if ( key.name.search(regex) != -1 ){
-          var link = "'/" + key.tags[0].name + "/" + key.slug + "/'"
-          var icon = "<div class='symbol'><a href=" + link + ">&" + key.html_code + "</a></div>"
-          var unicode = "<code>" + key.unicode + "</code>"
-          var hex = "<code>&amp;" + key.hex_code + "</code>"
-          var html = "<code>&amp;" + key.html_code + "</code>"
+        if ( key.n.search(regex) != -1 ){
+          var link = "'/" + key.t + "/" + key.s + "/'"
+          var icon = "<div class='symbol'><a href=" + link + ">&" + key.h + "</a></div>"
+          var unicode = "<code>" + key.u + "</code>"
+          var hex = "<code>&amp;" + key.x + "</code>"
+          var html = "<code>&amp;" + key.h + "</code>"
 
           output += "<div class='col-md-3'>" + icon + "<div class='codes'>" + unicode + hex + html + "</div></div>"
         }

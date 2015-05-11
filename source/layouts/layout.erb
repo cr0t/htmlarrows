@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="http://htmlarrows.com/">
@@ -13,6 +13,10 @@
     <!-- CSS Custom -->
     <style><%= yield_content :stylesheets %></style>
 
+    <!-- Favicons -->
+    <link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/assets/images/favicon.ico">
+    <!--[if IE]><link rel="shortcut icon" href="/path/to/favicon.ico"><![endif]-->
+
     <!-- Google Webmaster Tools -->
     <meta name="google-site-verification" content="d3w5QeEYpedf2k8Lrac0VGOxvPExn466x-H-_JyWQb4" />
 
@@ -20,20 +24,22 @@
     <script type="application/ld+json">
     {  "@context" : "http://schema.org",
        "@type" : "WebSite",
-       "url" : "http://htmlarrows.com",
+       "url" : "http://htmlarrows.com/",
        "name" : "HTML Arrows",
-       "image" : "http://htmlarrows.com/assets/images<%= asset_url('htmlarrows-banner.jpg') %>",
+       "logo" : "http://htmlarrows.com<%= image_path('htmlarrows-logo.png') %>",
+       "image" : "http://htmlarrows.com<%= image_path('htmlarrows-hero.jpg') %>",
        "copyrightHolder" : "Zeppelin Design, LLC",
        "copyrightYear" : "2015",
-       "description" : "HTML arrow codes and ascii characters, currency, copyright and trademark symbols, and all the other &wtf;, html, hex and ascii codes you can't remember."
+       "description" : "The most beautiful HTML arrows, currency and copyright symbols you will ever see, plus all those other pesky ASCII and HEX codes you can never remember.",
        "creator" : [
         { "@type" : "Organization",
           "url" : "http://zeppelin.io/",
           "name" : "Zeppelin",
-          "logo" : "http://htmlarrows.com/assets/images<%= asset_url('zeppelin-logo.svg') %>"
+          "logo" : "http://htmlarrows.com<%= image_path('zeppelin-logo.svg') %>",
           "contactPoint" : [
           { "@type" : "ContactPoint",
-            "email" : "support@zeppelin.io",
+            "url" : "http://zeppelin.io/",
+            "email" : "alex@zeppelin.io",
             "contactType" : "customer service"
           } ]
         } ]
@@ -61,6 +67,7 @@
         </div>
       </header>
 
+      <%# Search Results %>
       <section class="results">
       </section>
 

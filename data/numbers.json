@@ -1,242 +1,240 @@
 {
 	"entities" : [
-				{
-			"name" : "Zero",
-			"slug" : "zero",
-			"unicode" : "U+00030",
-			"hex_code" : "#x30;",
-			"html_code" : "#48;",
-			"html4_entity" : "",
-			"html5_entity" : "",
+		{
+		  "name" : "Zero",
+		  "slug" : "zero",
+		  "unicode" : "U+00030",
+		  "hex_code" : "#x30;",
+		  "html_code" : "#48;",
+		  "html_entity" : "",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "math"
-				},
-				{
-					"name" : "numbers"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
 		},
 		{
-			"name" : "One",
-			"slug" : "one",
-			"unicode" : "U+00031",
-			"hex_code" : "#x31;",
-			"html_code" : "#49;",
-			"html4_entity" : "",
-			"html5_entity" : "",
+		  "name" : "One",
+		  "slug" : "one",
+		  "unicode" : "U+00031",
+		  "hex_code" : "#x31;",
+		  "html_code" : "#49;",
+		  "html_entity" : "",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "math"
-				},
-				{
-					"name" : "numbers"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
 		},
 		{
-			"name" : "Two",
-			"slug" : "two",
-			"unicode" : "U+00032",
-			"hex_code" : "#x32;",
-			"html_code" : "#50;",
-			"html4_entity" : "",
-			"html5_entity" : "",
+		  "name" : "Two",
+		  "slug" : "two",
+		  "unicode" : "U+00032",
+		  "hex_code" : "#x32;",
+		  "html_code" : "#50;",
+		  "html_entity" : "",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "math"
-				},
-				{
-					"name" : "numbers"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
 		},
 		{
-			"name" : "Three",
-			"slug" : "three",
-			"unicode" : "U+00033",
-			"hex_code" : "#x33;",
-			"html_code" : "#51;",
-			"html4_entity" : "",
-			"html5_entity" : "",
+		  "name" : "Three",
+		  "slug" : "three",
+		  "unicode" : "U+00033",
+		  "hex_code" : "#x33;",
+		  "html_code" : "#51;",
+		  "html_entity" : "",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "math"
-				},
-				{
-					"name" : "numbers"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
 		},
 		{
-			"name" : "Four",
-			"slug" : "four",
-			"unicode" : "U+00034",
-			"hex_code" : "#x34;",
-			"html_code" : "#52;",
-			"html4_entity" : "",
-			"html5_entity" : "",
+		  "name" : "Four",
+		  "slug" : "four",
+		  "unicode" : "U+00034",
+		  "hex_code" : "#x34;",
+		  "html_code" : "#52;",
+		  "html_entity" : "",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "math"
-				},
-				{
-					"name" : "numbers"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
 		},
 		{
-			"name" : "Five",
-			"slug" : "five",
-			"unicode" : "U+00035",
-			"hex_code" : "#x35;",
-			"html_code" : "#53;",
-			"html4_entity" : "",
-			"html5_entity" : "",
+		  "name" : "Five",
+		  "slug" : "five",
+		  "unicode" : "U+00035",
+		  "hex_code" : "#x35;",
+		  "html_code" : "#53;",
+		  "html_entity" : "",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "math"
-				},
-				{
-					"name" : "numbers"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
 		},
 		{
-			"name" : "Six",
-			"slug" : "six",
-			"unicode" : "U+00036",
-			"hex_code" : "#x36;",
-			"html_code" : "#54;",
-			"html4_entity" : "",
-			"html5_entity" : "",
+		  "name" : "Six",
+		  "slug" : "six",
+		  "unicode" : "U+00036",
+		  "hex_code" : "#x36;",
+		  "html_code" : "#54;",
+		  "html_entity" : "",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "math"
-				},
-				{
-					"name" : "numbers"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
 		},
 		{
-			"name" : "Seven",
-			"slug" : "seven",
-			"unicode" : "U+00037",
-			"hex_code" : "#x37;",
-			"html_code" : "#55;",
-			"html4_entity" : "",
-			"html5_entity" : "",
+		  "name" : "Seven",
+		  "slug" : "seven",
+		  "unicode" : "U+00037",
+		  "hex_code" : "#x37;",
+		  "html_code" : "#55;",
+		  "html_entity" : "",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "math"
-				},
-				{
-					"name" : "numbers"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
 		},
 		{
-			"name" : "Eight",
-			"slug" : "eight",
-			"unicode" : "U+00038",
-			"hex_code" : "#x38;",
-			"html_code" : "#56;",
-			"html4_entity" : "",
-			"html5_entity" : "",
+		  "name" : "Eight",
+		  "slug" : "eight",
+		  "unicode" : "U+00038",
+		  "hex_code" : "#x38;",
+		  "html_code" : "#56;",
+		  "html_entity" : "",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "math"
-				},
-				{
-					"name" : "numbers"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
 		},
 		{
-			"name" : "Nine",
-			"slug" : "nine",
-			"unicode" : "U+00039",
-			"hex_code" : "#x39;",
-			"html_code" : "#57;",
-			"html4_entity" : "",
-			"html5_entity" : "",
+		  "name" : "Nine",
+		  "slug" : "nine",
+		  "unicode" : "U+00039",
+		  "hex_code" : "#x39;",
+		  "html_code" : "#57;",
+		  "html_entity" : "",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "math"
-				},
-				{
-					"name" : "numbers"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
 		},
 		{
-      "name" : "Fraction One Quarter",
-      "slug" : "fraction-one-quarter",
-      "unicode" : "U+000BC",
-      "hex_code" : "#xbc;",
-      "html_code" : "#188;",
-      "html4_entity" : "frac14;",
-      "html5_entity" : "",
-      "oversize" : "false",
-      "tags" : [
-        {
-          "name" : "math"
-        }
-      ]
-    },
-    {
-      "name" : "Fraction One Half",
-      "slug" : "fraction-one-half",
-      "unicode" : "U+000BD",
-      "hex_code" : "#xbd;",
-      "html_code" : "#189;",
-      "html4_entity" : "frac12;",
-      "html5_entity" : "",
-      "oversize" : "false",
-      "tags" : [
-        {
-          "name" : "math"
-        }
-      ]
-    },
-    {
-      "name" : "Fraction Three Quarters",
-      "slug" : "fraction-three-quarters",
-      "unicode" : "U+000BE",
-      "hex_code" : "#xbe;",
-      "html_code" : "#190;",
-      "html4_entity" : "frac34;",
-      "html5_entity" : "",
-      "oversize" : "false",
-      "tags" : [
-        {
-          "name" : "math"
-        }
-      ]
-    },
+		  "name" : "Fraction One Quarter",
+		  "slug" : "fraction-one-quarter",
+		  "unicode" : "U+000BC",
+		  "hex_code" : "#xbc;",
+		  "html_code" : "#188;",
+		  "html_entity" : "frac14;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Fraction One Half",
+		  "slug" : "fraction-one-half",
+		  "unicode" : "U+000BD",
+		  "hex_code" : "#xbd;",
+		  "html_code" : "#189;",
+		  "html_entity" : "frac12;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Fraction Three Quarters",
+		  "slug" : "fraction-three-quarters",
+		  "unicode" : "U+000BE",
+		  "hex_code" : "#xbe;",
+		  "html_code" : "#190;",
+		  "html_entity" : "frac34;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
+		    }
+		  ]
+		},
 		{
 		  "name" : "Vulgar Fraction One Seventh",
 		  "slug" : "vulgar-fraction-one-seventh",
 		  "unicode" : "U+02150",
 		  "hex_code" : "#x2150;",
 		  "html_code" : "#8528;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -246,12 +244,14 @@
 		  "unicode" : "U+02151",
 		  "hex_code" : "#x2151;",
 		  "html_code" : "#8529;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -261,12 +261,14 @@
 		  "unicode" : "U+02152",
 		  "hex_code" : "#x2152;",
 		  "html_code" : "#8530;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -276,12 +278,14 @@
 		  "unicode" : "U+02153",
 		  "hex_code" : "#x2153;",
 		  "html_code" : "#8531;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "frac13;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -291,12 +295,14 @@
 		  "unicode" : "U+02154",
 		  "hex_code" : "#x2154;",
 		  "html_code" : "#8532;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "frac23;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -306,12 +312,14 @@
 		  "unicode" : "U+02155",
 		  "hex_code" : "#x2155;",
 		  "html_code" : "#8533;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "frac15;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -321,12 +329,14 @@
 		  "unicode" : "U+02156",
 		  "hex_code" : "#x2156;",
 		  "html_code" : "#8534;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "frac25;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -336,12 +346,14 @@
 		  "unicode" : "U+02157",
 		  "hex_code" : "#x2157;",
 		  "html_code" : "#8535;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "frac35;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -351,12 +363,14 @@
 		  "unicode" : "U+02158",
 		  "hex_code" : "#x2158;",
 		  "html_code" : "#8536;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "frac45;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -366,12 +380,14 @@
 		  "unicode" : "U+02159",
 		  "hex_code" : "#x2159;",
 		  "html_code" : "#8537;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "frac16;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -381,12 +397,14 @@
 		  "unicode" : "U+0215A",
 		  "hex_code" : "#x215A;",
 		  "html_code" : "#8538;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "frac56;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -396,12 +414,14 @@
 		  "unicode" : "U+0215B",
 		  "hex_code" : "#x215B;",
 		  "html_code" : "#8539;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "frac18;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -411,12 +431,14 @@
 		  "unicode" : "U+0215C",
 		  "hex_code" : "#x215C;",
 		  "html_code" : "#8540;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "frac38;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -426,12 +448,14 @@
 		  "unicode" : "U+0215D",
 		  "hex_code" : "#x215D;",
 		  "html_code" : "#8541;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "frac58;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -441,12 +465,14 @@
 		  "unicode" : "U+0215E",
 		  "hex_code" : "#x215E;",
 		  "html_code" : "#8542;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "frac78;",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -456,12 +482,14 @@
 		  "unicode" : "U+0215F",
 		  "hex_code" : "#x215F;",
 		  "html_code" : "#8543;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -471,12 +499,14 @@
 		  "unicode" : "U+02160",
 		  "hex_code" : "#x2160;",
 		  "html_code" : "#8544;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -486,12 +516,14 @@
 		  "unicode" : "U+02161",
 		  "hex_code" : "#x2161;",
 		  "html_code" : "#8545;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -501,12 +533,14 @@
 		  "unicode" : "U+02162",
 		  "hex_code" : "#x2162;",
 		  "html_code" : "#8546;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -516,12 +550,14 @@
 		  "unicode" : "U+02163",
 		  "hex_code" : "#x2163;",
 		  "html_code" : "#8547;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -531,12 +567,14 @@
 		  "unicode" : "U+02164",
 		  "hex_code" : "#x2164;",
 		  "html_code" : "#8548;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -546,12 +584,14 @@
 		  "unicode" : "U+02165",
 		  "hex_code" : "#x2165;",
 		  "html_code" : "#8549;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -561,12 +601,14 @@
 		  "unicode" : "U+02166",
 		  "hex_code" : "#x2166;",
 		  "html_code" : "#8550;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -576,12 +618,14 @@
 		  "unicode" : "U+02167",
 		  "hex_code" : "#x2167;",
 		  "html_code" : "#8551;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
-		  "oversize" : "width",
+		  "html_entity" : "",
+		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -591,12 +635,14 @@
 		  "unicode" : "U+02168",
 		  "hex_code" : "#x2168;",
 		  "html_code" : "#8552;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -606,12 +652,14 @@
 		  "unicode" : "U+02169",
 		  "hex_code" : "#x2169;",
 		  "html_code" : "#8553;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -621,12 +669,14 @@
 		  "unicode" : "U+0216A",
 		  "hex_code" : "#x216A;",
 		  "html_code" : "#8554;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -636,12 +686,14 @@
 		  "unicode" : "U+0216B",
 		  "hex_code" : "#x216B;",
 		  "html_code" : "#8555;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -651,12 +703,14 @@
 		  "unicode" : "U+0216C",
 		  "hex_code" : "#x216C;",
 		  "html_code" : "#8556;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -666,12 +720,14 @@
 		  "unicode" : "U+0216D",
 		  "hex_code" : "#x216D;",
 		  "html_code" : "#8557;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -681,12 +737,14 @@
 		  "unicode" : "U+0216E",
 		  "hex_code" : "#x216E;",
 		  "html_code" : "#8558;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -696,12 +754,14 @@
 		  "unicode" : "U+0216F",
 		  "hex_code" : "#x216F;",
 		  "html_code" : "#8559;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -711,12 +771,14 @@
 		  "unicode" : "U+02170",
 		  "hex_code" : "#x2170;",
 		  "html_code" : "#8560;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -726,12 +788,14 @@
 		  "unicode" : "U+02171",
 		  "hex_code" : "#x2171;",
 		  "html_code" : "#8561;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -741,12 +805,14 @@
 		  "unicode" : "U+02172",
 		  "hex_code" : "#x2172;",
 		  "html_code" : "#8562;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -756,12 +822,14 @@
 		  "unicode" : "U+02173",
 		  "hex_code" : "#x2173;",
 		  "html_code" : "#8563;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -771,12 +839,14 @@
 		  "unicode" : "U+02174",
 		  "hex_code" : "#x2174;",
 		  "html_code" : "#8564;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -786,12 +856,14 @@
 		  "unicode" : "U+02175",
 		  "hex_code" : "#x2175;",
 		  "html_code" : "#8565;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -801,12 +873,14 @@
 		  "unicode" : "U+02176",
 		  "hex_code" : "#x2176;",
 		  "html_code" : "#8566;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -816,12 +890,14 @@
 		  "unicode" : "U+02177",
 		  "hex_code" : "#x2177;",
 		  "html_code" : "#8567;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
-		  "oversize" : "width",
+		  "html_entity" : "",
+		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -831,12 +907,14 @@
 		  "unicode" : "U+02178",
 		  "hex_code" : "#x2178;",
 		  "html_code" : "#8568;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -846,12 +924,14 @@
 		  "unicode" : "U+02179",
 		  "hex_code" : "#x2179;",
 		  "html_code" : "#8569;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -861,12 +941,14 @@
 		  "unicode" : "U+0217A",
 		  "hex_code" : "#x217A;",
 		  "html_code" : "#8570;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -876,12 +958,14 @@
 		  "unicode" : "U+0217B",
 		  "hex_code" : "#x217B;",
 		  "html_code" : "#8571;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -891,12 +975,14 @@
 		  "unicode" : "U+0217C",
 		  "hex_code" : "#x217C;",
 		  "html_code" : "#8572;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -906,12 +992,14 @@
 		  "unicode" : "U+0217D",
 		  "hex_code" : "#x217D;",
 		  "html_code" : "#8573;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -921,12 +1009,14 @@
 		  "unicode" : "U+0217E",
 		  "hex_code" : "#x217E;",
 		  "html_code" : "#8574;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -936,12 +1026,14 @@
 		  "unicode" : "U+0217F",
 		  "hex_code" : "#x217F;",
 		  "html_code" : "#8575;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -951,12 +1043,14 @@
 		  "unicode" : "U+02180",
 		  "hex_code" : "#x2180;",
 		  "html_code" : "#8576;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -966,12 +1060,14 @@
 		  "unicode" : "U+02181",
 		  "hex_code" : "#x2181;",
 		  "html_code" : "#8577;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -981,12 +1077,14 @@
 		  "unicode" : "U+02182",
 		  "hex_code" : "#x2182;",
 		  "html_code" : "#8578;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -996,12 +1094,14 @@
 		  "unicode" : "U+02183",
 		  "hex_code" : "#x2183;",
 		  "html_code" : "#8579;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -1011,12 +1111,14 @@
 		  "unicode" : "U+02184",
 		  "hex_code" : "#x2184;",
 		  "html_code" : "#8580;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -1026,12 +1128,14 @@
 		  "unicode" : "U+02185",
 		  "hex_code" : "#x2185;",
 		  "html_code" : "#8581;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -1041,12 +1145,14 @@
 		  "unicode" : "U+02186",
 		  "hex_code" : "#x2186;",
 		  "html_code" : "#8582;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		},
@@ -1056,12 +1162,14 @@
 		  "unicode" : "U+02189",
 		  "hex_code" : "#x2189;",
 		  "html_code" : "#8585;",
-		  "html4_entity" : "",
-		  "html5_entity" : "",
+		  "html_entity" : "",
 		  "oversize" : "false",
 		  "tags" : [
 		    {
 		      "name" : "numbers"
+		    },
+		    {
+		      "name" : "math"
 		    }
 		  ]
 		}

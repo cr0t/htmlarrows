@@ -42,6 +42,18 @@ section.template {
 		display: inline-block;
 		margin:0 0 0.75em;
 	}
+
+	div.example {
+		border-radius: 0.125em;
+		code {
+			color: $body-font-color;
+			font-family: courier;
+			font-weight: 100;
+			letter-spacing: 0.05em;
+			@include font-size(14px);
+			margin: 0.75em 1em 1em;
+		}
+	}
 }
 
 //--- mobile only styles ---//

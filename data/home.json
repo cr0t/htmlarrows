@@ -6,13 +6,23 @@
 			"unicode" : "U+02190",
 			"hex_code" : "#x2190;",
 			"html_code" : "#8592;",
-			"html4_entity" : "",
-			"html5_entity" : "larr;",
+			"html_entity" : "larr;",
 			"oversize" : "false",
 			"tags" : [
 				{
-					"name" : "default"
-				},
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "Upwards Arrow",
+			"slug" : "upwards-arrow",
+			"unicode" : "U+02191",
+			"hex_code" : "#x2191;",
+			"html_code" : "#8593;",
+			"html_entity" : "uarr;",
+			"oversize" : "false",
+			"tags" : [
 				{
 					"name" : "arrows"
 				}
@@ -24,60 +34,81 @@
 			"unicode" : "U+02192",
 			"hex_code" : "#x2192;",
 			"html_code" : "#8594;",
-			"html4_entity" : "",
-			"html5_entity" : "rarr;",
+			"html_entity" : "rarr;",
 			"oversize" : "false",
 			"tags" : [
-				{
-					"name" : "default"
-				},
 				{
 					"name" : "arrows"
 				}
 			]
 		},
 		{
-			"name" : "Ampersand",
-			"slug" : "ampersand",
-			"unicode" : "U+00026",
-			"hex_code" : "#x26;",
-			"html_code" : "#38;",
-			"html4_entity" : "amp;",
-			"html5_entity" : "",
-		  "oversize" : "false",
+			"name" : "Downwards Arrow",
+			"slug" : "downwards-arrow",
+			"unicode" : "U+02193",
+			"hex_code" : "#x2193;",
+			"html_code" : "#8595;",
+			"html_entity" : "darr;",
+			"oversize" : "false",
 			"tags" : [
 				{
-					"name" : "punctuation"
+					"name" : "arrows"
 				}
 			]
 		},
 		{
-			"name" : "Percent Sign",
-			"slug" : "percent-sign",
-			"unicode" : "U+00025",
-			"hex_code" : "#x25;",
-			"html_code" : "#37;",
-			"html4_entity" : "",
-			"html5_entity" : "percnt;",
-		  "oversize" : "false",
+			"name" : "North West Arrow",
+			"slug" : "north-west-arrow",
+			"unicode" : "U+02196",
+			"hex_code" : "#x2196;",
+			"html_code" : "#8598;",
+			"html_entity" : "nwarr;",
+			"oversize" : "false",
 			"tags" : [
 				{
-					"name" : "math"
+					"name" : "arrows"
 				}
 			]
 		},
 		{
-			"name" : "At Symbol",
-			"slug" : "at-symbol",
-			"unicode" : "U+00040",
-			"hex_code" : "#x40;",
-			"html_code" : "#64;",
-			"html4_entity" : "",
-			"html5_entity" : "commat;",
-		  "oversize" : "false",
+			"name" : "North East Arrow",
+			"slug" : "north-east-arrow",
+			"unicode" : "U+02197",
+			"hex_code" : "#x2197;",
+			"html_code" : "#8599;",
+			"html_entity" : "nearr;",
+			"oversize" : "false",
 			"tags" : [
 				{
-					"name" : "punctuation"
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "South East Arrow",
+			"slug" : "south-east-arrow",
+			"unicode" : "U+02198",
+			"hex_code" : "#x2198;",
+			"html_code" : "#8600;",
+			"html_entity" : "searr;",
+			"oversize" : "false",
+			"tags" : [
+				{
+					"name" : "arrows"
+				}
+			]
+		},
+		{
+			"name" : "South West Arrow",
+			"slug" : "south-west-arrow",
+			"unicode" : "U+02199",
+			"hex_code" : "#x2199;",
+			"html_code" : "#8601;",
+			"html_entity" : "swarr;",
+			"oversize" : "false",
+			"tags" : [
+				{
+					"name" : "arrows"
 				}
 			]
 		},
@@ -87,8 +118,7 @@
 			"unicode" : "U+000A9",
 			"hex_code" : "#xa9;",
 			"html_code" : "#169;",
-			"html4_entity" : "copy;",
-			"html5_entity" : "",
+			"html_entity" : "copy;",
 		  "oversize" : "false",
 			"tags" : [
 				{
@@ -102,8 +132,7 @@
 			"unicode" : "U+000AE",
 			"hex_code" : "#xae;",
 			"html_code" : "#174;",
-			"html4_entity" : "reg;",
-			"html5_entity" : "",
+			"html_entity" : "reg;",
 		  "oversize" : "false",
 			"tags" : [
 				{
@@ -117,9 +146,526 @@
 			"unicode" : "U+02122",
 			"hex_code" : "#x2122;",
 			"html_code" : "#8482;",
-			"html4_entity" : "trade;",
-			"html5_entity" : "",
+			"html_entity" : "trade;",
 			"oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "At Symbol",
+			"slug" : "at-symbol",
+			"unicode" : "U+00040",
+			"hex_code" : "#x40;",
+			"html_code" : "#64;",
+			"html_entity" : "commat;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Paragraph Sign",
+			"slug" : "paragraph-sign",
+			"unicode" : "U+000B6",
+			"hex_code" : "#xb6;",
+			"html_code" : "#182;",
+			"html_entity" : "para;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Section Sign",
+			"slug" : "section-sign",
+			"unicode" : "U+000A7",
+			"hex_code" : "#xa7;",
+			"html_code" : "#167;",
+			"html_entity" : "sect;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+		  "name" : "Degree Celsius",
+		  "slug" : "degree-celsius",
+		  "unicode" : "U+02103",
+		  "hex_code" : "#x2103;",
+		  "html_code" : "#8451;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Degree Fahrenheit",
+		  "slug" : "degree-fahrenheit",
+		  "unicode" : "U+02109",
+		  "hex_code" : "#x2109;",
+		  "html_code" : "#8457;",
+		  "html_entity" : "",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
+		},
+		{
+			"name" : "Dollar Sign",
+			"slug" : "dollar-sign",
+			"unicode" : "U+00024",
+			"hex_code" : "#x24;",
+			"html_code" : "#36;",
+			"html_entity" : "dollar;",
+			"oversize" : "false",
+			"tags" : [
+				{
+					"name" : "currency"
+				}
+			]
+		},
+		{
+			"name" : "Cent Sign",
+			"slug" : "cent-sign",
+			"unicode" : "U+000A2",
+			"hex_code" : "#xa2;",
+			"html_code" : "#162;",
+			"html_entity" : "cent;",
+			"oversize" : "false",
+			"tags" : [
+				{
+					"name" : "currency"
+				}
+			]
+		},
+		{
+			"name" : "Pound Sign",
+			"slug" : "pound-sign",
+			"unicode" : "U+000A3",
+			"hex_code" : "#xa3;",
+			"html_code" : "#163;",
+			"html_entity" : "pound;",
+			"oversize" : "false",
+			"tags" : [
+				{
+					"name" : "currency"
+				}
+			]
+		},
+		{
+		  "name" : "Euro Sign",
+		  "slug" : "euro-sign",
+		  "unicode" : "U+020AC",
+		  "hex_code" : "#x20AC;",
+		  "html_code" : "#8364;",
+		  "html_entity" : "euro;",
+			"oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+			"name" : "Yen Sign",
+			"slug" : "yen-sign",
+			"unicode" : "U+000A5",
+			"hex_code" : "#xa5;",
+			"html_code" : "#165;",
+			"html_entity" : "yen;",
+			"oversize" : "false",
+			"tags" : [
+				{
+					"name" : "currency"
+				}
+			]
+		},
+		{
+		  "name" : "Indian Rupee Sign",
+		  "slug" : "indian-rupee-sign",
+		  "unicode" : "U+020B9",
+		  "hex_code" : "#x20B9;",
+		  "html_code" : "#8377;",
+		  "html_entity" : "",
+			"oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Ruble Sign",
+		  "slug" : "ruble-sign",
+		  "unicode" : "U+020BD",
+		  "hex_code" : "#x20BD;",
+		  "html_code" : "#8381;",
+		  "html_entity" : "",
+			"oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Yuan Character, in China",
+		  "slug" : "yuan-character-in-china",
+		  "unicode" : "U+05143",
+		  "hex_code" : "#x5143;",
+		  "html_code" : "#20803;",
+		  "html_entity" : "",
+			"oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "currency"
+		    }
+		  ]
+		},
+		{
+      "name" : "Plus Sign",
+      "slug" : "plus-sign",
+      "unicode" : "U+0002B",
+      "hex_code" : "#x2b;",
+      "html_code" : "#43;",
+      "html_entity" : "plus;",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Minus Sign",
+      "slug" : "minus-sign",
+      "unicode" : "U+02212",
+      "hex_code" : "#x2212;",
+      "html_code" : "#8722;",
+      "html_entity" : "minus;",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Multiplication Sign",
+      "slug" : "multiplication-sign",
+      "unicode" : "U+000D7",
+      "hex_code" : "#xd7;",
+      "html_code" : "#215;",
+      "html_entity" : "times;",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Division Sign",
+      "slug" : "division-sign",
+      "unicode" : "U+000F7",
+      "hex_code" : "#xf7;",
+      "html_code" : "#247;",
+      "html_entity" : "divide;",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Equal Sign",
+      "slug" : "equal-sign",
+      "unicode" : "U+0003D",
+      "hex_code" : "#x3d;",
+      "html_code" : "#61;",
+      "html_entity" : "equals;",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Not Equal To Sign",
+      "slug" : "not-equal-to-sign",
+      "unicode" : "U+02260",
+      "hex_code" : "#x2260;",
+      "html_code" : "#8800;",
+      "html_entity" : "ne;",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Less-Than Sign",
+      "slug" : "less-than-sign",
+      "unicode" : "U+0003C",
+      "hex_code" : "#x3c;",
+      "html_code" : "#60;",
+      "html_entity" : "lt;",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Greater-Than Sign",
+      "slug" : "greater-than-sign",
+      "unicode" : "U+0003E",
+      "hex_code" : "#x3e;",
+      "html_code" : "#62;",
+      "html_entity" : "gt;",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "math"
+        }
+      ]
+    },
+    {
+      "name" : "Fraction One Quarter",
+      "slug" : "fraction-one-quarter",
+      "unicode" : "U+000BC",
+      "hex_code" : "#xbc;",
+      "html_code" : "#188;",
+      "html_entity" : "frac14;",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "numbers"
+        }
+      ]
+    },
+    {
+      "name" : "Fraction One Half",
+      "slug" : "fraction-one-half",
+      "unicode" : "U+000BD",
+      "hex_code" : "#xbd;",
+      "html_code" : "#189;",
+      "html_entity" : "frac12;",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "numbers"
+        }
+      ]
+    },
+    {
+      "name" : "Fraction Three Quarters",
+      "slug" : "fraction-three-quarters",
+      "unicode" : "U+000BE",
+      "hex_code" : "#xbe;",
+      "html_code" : "#190;",
+      "html_entity" : "frac34;",
+      "oversize" : "false",
+      "tags" : [
+        {
+          "name" : "numbers"
+        }
+      ]
+    },
+    {
+		  "name" : "Vulgar Fraction One Third",
+		  "slug" : "vulgar-fraction-one-third",
+		  "unicode" : "U+02153",
+		  "hex_code" : "#x2153;",
+		  "html_code" : "#8531;",
+		  "html_entity" : "frac13;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction Two Thirds",
+		  "slug" : "vulgar-fraction-two-thirds",
+		  "unicode" : "U+02154",
+		  "hex_code" : "#x2154;",
+		  "html_code" : "#8532;",
+		  "html_entity" : "frac23;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction One Eighth",
+		  "slug" : "vulgar-fraction-one-eighth",
+		  "unicode" : "U+0215B",
+		  "hex_code" : "#x215B;",
+		  "html_code" : "#8539;",
+		  "html_entity" : "frac18;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction Three Eighths",
+		  "slug" : "vulgar-fraction-three-eighths",
+		  "unicode" : "U+0215C",
+		  "hex_code" : "#x215C;",
+		  "html_code" : "#8540;",
+		  "html_entity" : "frac38;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Vulgar Fraction Five Eighths",
+		  "slug" : "vulgar-fraction-five-eighths",
+		  "unicode" : "U+0215D",
+		  "hex_code" : "#x215D;",
+		  "html_code" : "#8541;",
+		  "html_entity" : "frac58;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "numbers"
+		    }
+		  ]
+		},
+		{
+			"name" : "Exclamation Mark",
+			"slug" : "exclamation-mark",
+			"unicode" : "U+00021",
+			"hex_code" : "#x21;",
+			"html_code" : "#33;",
+			"html_entity" : "excl;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Question Mark",
+			"slug" : "question-mark",
+			"unicode" : "U+0003F",
+			"hex_code" : "#x3f;",
+			"html_code" : "#63;",
+			"html_entity" : "quest;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+		  "name" : "En Dash",
+		  "slug" : "en-dash",
+		  "unicode" : "U+02013",
+		  "hex_code" : "#x2013;",
+		  "html_code" : "#8211;",
+		  "html_entity" : "ndash;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Em Dash",
+		  "slug" : "em-dash",
+		  "unicode" : "U+02014",
+		  "hex_code" : "#x2014;",
+		  "html_code" : "#8212;",
+		  "html_entity" : "mdash;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Single Left-Pointing Angle Quotation Mark",
+		  "slug" : "single-left-pointing-angle-quotation-mark",
+		  "unicode" : "U+02039",
+		  "hex_code" : "#x2039;",
+		  "html_code" : "#8249;",
+		  "html_entity" : "lsaquo;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+		  "name" : "Single Right-Pointing Angle Quotation Mark",
+		  "slug" : "single-right-pointing-angle-quotation-mark",
+		  "unicode" : "U+0203A",
+		  "hex_code" : "#x203A;",
+		  "html_code" : "#8250;",
+		  "html_entity" : "rsaquo;",
+		  "oversize" : "false",
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
+		},
+		{
+			"name" : "Double Left-Pointing Angle Quotation Mark",
+			"slug" : "double-left-pointing-angle-quotation-mark",
+			"unicode" : "U+000AB",
+			"hex_code" : "#xab;",
+			"html_code" : "#171;",
+			"html_entity" : "laquo;",
+		  "oversize" : "false",
+			"tags" : [
+				{
+					"name" : "punctuation"
+				}
+			]
+		},
+		{
+			"name" : "Double Right-Pointing Angle Quotation Mark",
+			"slug" : "double-right-pointing-angle-quotation-mark",
+			"unicode" : "U+000BB",
+			"hex_code" : "#xbb;",
+			"html_code" : "#187;",
+			"html_entity" : "raquo;",
+		  "oversize" : "false",
 			"tags" : [
 				{
 					"name" : "punctuation"

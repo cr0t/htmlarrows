@@ -72,7 +72,7 @@ task :sync do
   system "aws --profile=zeppelin_deploy s3 sync gzip/ s3://#{bucket}/ --acl=public-read --delete --cache-control='max-age=0, no-cache' --content-encoding='gzip' --exclude '*' --include '*.html' --include '*.xml' --include '*.txt'"
 
   # sync image files
-  system "aws --profile=zeppelin_deploy s3 sync gzip/ s3://#{bucket}/ --acl=public-read --delete --cache-control='max-age=2629000' --exclude '*' --include 'assets/images/*' --include '*.json'"
+  system "aws --profile=zeppelin_deploy s3 sync gzip/ s3://#{bucket}/ --acl=public-read --delete --cache-control='max-age=2629000' --exclude '*' --include 'assets/images/*' --exclude 'assets/images/*.ico' --include '*.json'"
 
 end
 

@@ -10,16 +10,26 @@
 		<h4 class="type" title="Unicode">UNICODE</h4><code class="selectable" property="sampleType"><%= entity.unicode %></code><br>
 		<h4 class="type" title="Hexadecimal Code">HEX CODE</h4><code class="selectable" property="sampleType">&amp;<%= entity.hex_code %></code><br>
 		<h4 class="type" title="HTML Code">HTML CODE</h4><code class="selectable" property="sampleType">&amp;<%= entity.html_code %></code><br>
-		<% if entity.html4_entity.blank? %>
-			<h4 class="type" title="HTML Entity">HTML ENTITY</h4><code property="sampleType">&mdash;</code><br>
+		<% if entity.html_entity.blank? %>
+			<h4 class="type" title="HTML Entity">HTML ENTITY</h4><code>&mdash;</code><br>
 		<% else %>
-			<h4 class="type" title="HTML Entity">HTML ENTITY</h4><code class="selectable" property="sampleType">&amp;<%= entity.html4_entity %></code><br>
+			<h4 class="type" title="HTML Entity">HTML ENTITY</h4><code class="selectable" property="sampleType">&amp;<%= entity.html_entity %></code><br>
 		<% end %>
-		<% if entity.html5_entity.blank? %>
-			<h4 class="type" title="Unofficial HTML Entity">HTML ENTITY<span class="asterisk">*</span></h4><code property="sampleType">&mdash;</code><br>
-		<% else %>
-			<h4 class="type" title="Unofficial HTML Entity">HTML ENTITY<span class="asterisk">*</span></h4><code class="selectable" property="sampleType">&amp;<%= entity.html5_entity %></code><br>
-		<% end %>
+		<h4 class="type" title="CSS Content Code">CSS CODE</h4><code class="selectable" property="sampleType">&#92;<%= entity.unicode.split("U+0").last %></code>
+		<div class="example">
+			<code>
+				<span>// index.html</span><br>
+				&#60;span&#62;&amp;<%= entity.html_code %>&#60;&#47;span&#62;
+			</code>
+		</div><br>
+		<div class="example">
+			<code>
+				<span>// stylesheet.css</span><br>
+				.example {<br>
+					&nbsp;&nbsp;content: "&#92;<%= entity.unicode.split("U+0").last %>";<br>
+				}
+			</code>
+		</div>
 	</div>
 </div>
 
