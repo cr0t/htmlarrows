@@ -175,9 +175,34 @@ section.table {
     animation-name: fadeIn;
 }
 
-
-
 // main content
+section.text {
+  margin-top: 4.5em;
+  h1 {
+    text-transform: none;
+    letter-spacing: 0.025em;
+    font-weight: 700;
+    @include font-size($font-size-huge);
+  }
+  p {
+    @include font-size(24px);
+  }
+  img {
+    width:6em;
+    margin:4.5em 3em 0 0;
+  }
+  a {
+    @include opacity(1);
+    &:hover {
+      @include opacity(0.5);
+    }
+  }
+  .actions {
+    margin-top: 1.5em;
+    margin-bottom: 5.5em;
+  }
+}
+
 footer {
 	margin-top: 4.5em;
 	padding-top: 3em;
@@ -210,6 +235,14 @@ footer {
   .inspiration h6 {
     margin-bottom: 0.25em;
   }
+  p {
+    a {
+    border-bottom: 1px solid $color-primary;
+      &:hover {
+        border-bottom: 1px solid $color-secondary;
+      }
+    }
+  }
 }
 
 //--- mobile only styles ---//
@@ -231,7 +264,7 @@ footer {
 }
 
 //-- tablet(h) and desktop only styles ---//
-@media screen and (min-width: 48.063) {
+@media screen and (min-width: 48.063em) {
   footer {
     a:hover {
       color: $color-secondary;
@@ -242,6 +275,7 @@ footer {
     .colophon,
     .inspiration {
       img {
+        @include transition(all .25s ease-in);
         &:hover {
           @include opacity(0.58);
         }

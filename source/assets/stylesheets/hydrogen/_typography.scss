@@ -68,12 +68,6 @@ p { // paper descriptions (18px normal serif)
 	line-height: 1.625;
 	margin-top: 0.25em;
 	@include font-size(16px);
-	a {
-		border-bottom: 1px solid $color-primary;
-		&:hover {
-			border-bottom: 1px solid $color-secondary;
-		}
-	}
 }
 
 i { // paper subtitle (16px italic serif)
@@ -95,12 +89,6 @@ a { // anchors (inherit)
 	cursor: pointer;
 	color: inherit;
 	@include transition(all .25s ease-in);
-	// &:hover, &:focus {
-	// 	color: $body-font-color;
-	// }
-	// li {
-	// 	color: $color-primary;
-	// }
 }
 
 

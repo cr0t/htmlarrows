@@ -75,7 +75,18 @@
 
 	<section class="search animate-slow fade show-md">
 		<ul class="row">
-			<li class="col-md-15 col-md-offset-3">
+			<li class="col-md-3 social">
+				<% link_to "https://twitter.com/share?text=The%20most%20beautiful%20HTML%20symbol%20codes%20by%20@zeppelin_io%20%23htmlarrows%20%23useful", id: "twitter", class: "social-link", target: "_blank" do %>
+					<%= image_tag("twitter-button-light.svg") %>
+				<% end %>
+				<% link_to "http://www.facebook.com/sharer/sharer.php?u=http://htmlarrows.com#{current_page.url}", id: "facebook", class: "social-link", target: "_blank" do %>
+					<%= image_tag("facebook-button-light.svg") %>
+				<% end %>
+				<% link_to "https://plus.google.com/share?url=http://htmlarrows.com#{current_page.url}", id: "google", class: "social-link", target: "_blank" do %>
+					<%= image_tag("google-button-light.svg") %>
+				<% end %>
+			</li>
+			<li class="col-md-15 search-bar">
 				<%= image_tag("search-button.svg") %>
 			    <input type="search" id="search" placeholder="Search" autocomplete="off">
 			</li>
