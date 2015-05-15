@@ -8737,8 +8737,8 @@
 		  ]
 		},
 		{
-		  "name" : "Combining Upwards Arrow Below",
-		  "slug" : "combining-upwards-arrow-below",
+		  "name" : "Combining Up Arrow Below",
+		  "slug" : "combining-up-arrow-below",
 		  "unicode" : "U+0034E",
 		  "hex_code" : "#x034E;",
 		  "html_code" : "#846;",

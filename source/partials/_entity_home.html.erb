@@ -12,12 +12,17 @@
 
 		<div class="codes">
 			<code id="unicode" class="selectable" title="Unicode" property="sampleType"><%= entity.unicode %></code>
+			<h6>UNICODE</h6>
 			<code id="hex-code" class="selectable" title="Hex Code" property="sampleType">&amp;<%= entity.hex_code %></code>
+			<h6>HEX CODE</h6>
 			<code id="html-code" class="selectable" title="HTML Code" property="sampleType">&amp;<%= entity.html_code %></code>
+			<h6>HTML CODE</h6>
 			<% if entity.html_entity.blank? %>
-				<code id="html-entity" class="selectable" title="HTML Code">&nbsp;</code>
+				<code id="html-entity" class="selectable" title="HTML Entity">&nbsp;</code>
+				<h6>&nbsp;</h6>
 			<% else %>
-				<code id="html-entity" class="selectable" title="HTML Code" property="sampleType">&amp;<%= entity.html_entity %></code>
+				<code id="html-entity" class="selectable" title="HTML Entity" property="sampleType">&amp;<%= entity.html_entity %></code>
+				<h6>HTML ENTITY</h6>
 			<% end %>
 			<code id="css-code" class="selectable" title="CSS Content Code" property="sampleType">&#92;<%= entity.unicode.split("U+0").last %></code>
 		</div>

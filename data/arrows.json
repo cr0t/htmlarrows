@@ -1,8 +1,8 @@
 {
 	"entities" : [
 		{
-		  "name" : "Leftwards Arrow",
-		  "slug" : "leftwards-arrow",
+		  "name" : "Left Arrow",
+		  "slug" : "left-arrow",
 		  "unicode" : "U+02190",
 		  "hex_code" : "#x2190;",
 		  "html_code" : "#8592;",
@@ -15,8 +15,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Arrow",
-		  "slug" : "upwards-arrow",
+		  "name" : "Up Arrow",
+		  "slug" : "up-arrow",
 		  "unicode" : "U+02191",
 		  "hex_code" : "#x2191;",
 		  "html_code" : "#8593;",
@@ -29,8 +29,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow",
-		  "slug" : "rightwards-arrow",
+		  "name" : "Right Arrow",
+		  "slug" : "right-arrow",
 		  "unicode" : "U+02192",
 		  "hex_code" : "#x2192;",
 		  "html_code" : "#8594;",
@@ -43,8 +43,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Arrow",
-		  "slug" : "downwards-arrow",
+		  "name" : "Down Arrow",
+		  "slug" : "down-arrow",
 		  "unicode" : "U+02193",
 		  "hex_code" : "#x2193;",
 		  "html_code" : "#8595;",
@@ -141,8 +141,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow with Stroke",
-		  "slug" : "leftwards-arrow-with-stroke",
+		  "name" : "Left Arrow with Stroke",
+		  "slug" : "left-arrow-with-stroke",
 		  "unicode" : "U+0219A",
 		  "hex_code" : "#x219a;",
 		  "html_code" : "#8602;",
@@ -155,8 +155,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow with Stroke",
-		  "slug" : "rightwards-arrow-with-stroke",
+		  "name" : "Right Arrow with Stroke",
+		  "slug" : "right-arrow-with-stroke",
 		  "unicode" : "U+0219B",
 		  "hex_code" : "#x219b;",
 		  "html_code" : "#8603;",
@@ -169,8 +169,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Wave Arrow",
-		  "slug" : "leftwards-wave-arrow",
+		  "name" : "Left Wave Arrow",
+		  "slug" : "left-wave-arrow",
 		  "unicode" : "U+0219C",
 		  "hex_code" : "#x219c;",
 		  "html_code" : "#8604;",
@@ -183,8 +183,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Wave Arrow",
-		  "slug" : "rightwards-wave-arrow",
+		  "name" : "Right Wave Arrow",
+		  "slug" : "right-wave-arrow",
 		  "unicode" : "U+0219D",
 		  "hex_code" : "#x219d;",
 		  "html_code" : "#8605;",
@@ -197,8 +197,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Two Headed Arrow",
-		  "slug" : "leftwards-two-headed-arrow",
+		  "name" : "Left Two Headed Arrow",
+		  "slug" : "left-two-headed-arrow",
 		  "unicode" : "U+0219E",
 		  "hex_code" : "#x219e;",
 		  "html_code" : "#8606;",
@@ -211,8 +211,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Two Headed Arrow",
-		  "slug" : "upwards-two-headed-arrow",
+		  "name" : "Up Two Headed Arrow",
+		  "slug" : "up-two-headed-arrow",
 		  "unicode" : "U+0219F",
 		  "hex_code" : "#x219f;",
 		  "html_code" : "#8607;",
@@ -225,8 +225,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Two Headed Arrow",
-		  "slug" : "rightwards-two-headed-arrow",
+		  "name" : "Right Two Headed Arrow",
+		  "slug" : "right-two-headed-arrow",
 		  "unicode" : "U+021A0",
 		  "hex_code" : "#x21a0;",
 		  "html_code" : "#8608;",
@@ -239,8 +239,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Two Headed Arrow",
-		  "slug" : "downwards-two-headed-arrow",
+		  "name" : "Down Two Headed Arrow",
+		  "slug" : "down-two-headed-arrow",
 		  "unicode" : "U+021A1",
 		  "hex_code" : "#x21a1;",
 		  "html_code" : "#8609;",
@@ -253,8 +253,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow with Tail",
-		  "slug" : "leftwards-arrow-with-tail",
+		  "name" : "Left Arrow with Tail",
+		  "slug" : "left-arrow-with-tail",
 		  "unicode" : "U+021A2",
 		  "hex_code" : "#x21a2;",
 		  "html_code" : "#8610;",
@@ -267,8 +267,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow with Tail",
-		  "slug" : "rightwards-arrow-with-tail",
+		  "name" : "Right Arrow with Tail",
+		  "slug" : "right-arrow-with-tail",
 		  "unicode" : "U+021A3",
 		  "hex_code" : "#x21a3;",
 		  "html_code" : "#8611;",
@@ -281,8 +281,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow from Bar",
-		  "slug" : "leftwards-arrow-from-bar",
+		  "name" : "Left Arrow from Bar",
+		  "slug" : "left-arrow-from-bar",
 		  "unicode" : "U+021A4",
 		  "hex_code" : "#x21a4;",
 		  "html_code" : "#8612;",
@@ -295,8 +295,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Arrow from Bar",
-		  "slug" : "upwards-arrow-from-bar",
+		  "name" : "Up Arrow from Bar",
+		  "slug" : "up-arrow-from-bar",
 		  "unicode" : "U+021A5",
 		  "hex_code" : "#x21a5;",
 		  "html_code" : "#8613;",
@@ -309,8 +309,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow from Bar",
-		  "slug" : "rightwards-arrow-from-bar",
+		  "name" : "Right Arrow from Bar",
+		  "slug" : "right-arrow-from-bar",
 		  "unicode" : "U+021A6",
 		  "hex_code" : "#x21a6;",
 		  "html_code" : "#8614;",
@@ -323,8 +323,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Arrow from Bar",
-		  "slug" : "downwards-arrow-from-bar",
+		  "name" : "Down Arrow from Bar",
+		  "slug" : "down-arrow-from-bar",
 		  "unicode" : "U+021A7",
 		  "hex_code" : "#x21a7;",
 		  "html_code" : "#8615;",
@@ -351,8 +351,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow with Hook",
-		  "slug" : "leftwards-arrow-with-hook",
+		  "name" : "Left Arrow with Hook",
+		  "slug" : "left-arrow-with-hook",
 		  "unicode" : "U+021A9",
 		  "hex_code" : "#x21a9;",
 		  "html_code" : "#8617;",
@@ -365,8 +365,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow with Hook",
-		  "slug" : "rightwards-arrow-with-hook",
+		  "name" : "Right Arrow with Hook",
+		  "slug" : "right-arrow-with-hook",
 		  "unicode" : "U+021AA",
 		  "hex_code" : "#x21aa;",
 		  "html_code" : "#8618;",
@@ -379,8 +379,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow with Loop",
-		  "slug" : "leftwards-arrow-with-loop",
+		  "name" : "Left Arrow with Loop",
+		  "slug" : "left-arrow-with-loop",
 		  "unicode" : "U+021AB",
 		  "hex_code" : "#x21ab;",
 		  "html_code" : "#8619;",
@@ -393,8 +393,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow with Loop",
-		  "slug" : "rightwards-arrow-with-loop",
+		  "name" : "Right Arrow with Loop",
+		  "slug" : "right-arrow-with-loop",
 		  "unicode" : "U+021AC",
 		  "hex_code" : "#x21ac;",
 		  "html_code" : "#8620;",
@@ -435,8 +435,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Zigzag Arrow",
-		  "slug" : "downwards-zigzag-arrow",
+		  "name" : "Down Zigzag Arrow",
+		  "slug" : "down-zigzag-arrow",
 		  "unicode" : "U+021AF",
 		  "hex_code" : "#x21af;",
 		  "html_code" : "#8623;",
@@ -449,8 +449,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Arrow with Tip Leftwards",
-		  "slug" : "upwards-arrow-with-tip-leftwards",
+		  "name" : "Up Arrow with Tip Left",
+		  "slug" : "up-arrow-with-tip-left",
 		  "unicode" : "U+021B0",
 		  "hex_code" : "#x21b0;",
 		  "html_code" : "#8624;",
@@ -463,8 +463,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Arrow with Tip Rightwards",
-		  "slug" : "upwards-arrow-with-tip-rightwards",
+		  "name" : "Up Arrow with Tip Right",
+		  "slug" : "up-arrow-with-tip-right",
 		  "unicode" : "U+021B1",
 		  "hex_code" : "#x21b1;",
 		  "html_code" : "#8625;",
@@ -477,8 +477,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Arrow with Tip Leftwards",
-		  "slug" : "downwards-arrow-with-tip-leftwards",
+		  "name" : "Down Arrow with Tip Left",
+		  "slug" : "down-arrow-with-tip-left",
 		  "unicode" : "U+021B2",
 		  "hex_code" : "#x21b2;",
 		  "html_code" : "#8626;",
@@ -491,8 +491,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Arrow with Tip Rightwards",
-		  "slug" : "downwards-arrow-with-tip-rightwards",
+		  "name" : "Down Arrow with Tip Right",
+		  "slug" : "down-arrow-with-tip-right",
 		  "unicode" : "U+021B3",
 		  "hex_code" : "#x21b3;",
 		  "html_code" : "#8627;",
@@ -505,8 +505,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow with Corner Downwards",
-		  "slug" : "rightwards-arrow-with-corner-downwards",
+		  "name" : "Right Arrow with Corner Down",
+		  "slug" : "right-arrow-with-corner-down",
 		  "unicode" : "U+021B4",
 		  "hex_code" : "#x21b4;",
 		  "html_code" : "#8628;",
@@ -519,8 +519,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Arrow with Corner Leftwards",
-		  "slug" : "downwards-arrow-with-corner-leftwards",
+		  "name" : "Down Arrow with Corner Left",
+		  "slug" : "down-arrow-with-corner-left",
 		  "unicode" : "U+021B5",
 		  "hex_code" : "#x21b5;",
 		  "html_code" : "#8629;",
@@ -575,8 +575,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow to Bar over Rightwards Arrow to bar",
-		  "slug" : "leftwards-arrow-to-bar-over-rightwards-arrow-to-bar",
+		  "name" : "Left Arrow to Bar over Right Arrow to bar",
+		  "slug" : "left-arrow-to-bar-over-right-arrow-to-bar",
 		  "unicode" : "U+021B9",
 		  "hex_code" : "#x21b9;",
 		  "html_code" : "#8633;",
@@ -617,8 +617,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Harpoon with Barb Upwards",
-		  "slug" : "leftwards-harpoon-with-barb-upwards",
+		  "name" : "Left Harpoon with Barb Up",
+		  "slug" : "left-harpoon-with-barb-up",
 		  "unicode" : "U+021BC",
 		  "hex_code" : "#x21bc;",
 		  "html_code" : "#8636;",
@@ -631,8 +631,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Harpoon with Barb Downwards",
-		  "slug" : "leftwards-harpoon-with-barb-downwards",
+		  "name" : "Left Harpoon with Barb Down",
+		  "slug" : "left-harpoon-with-barb-down",
 		  "unicode" : "U+021BD",
 		  "hex_code" : "#x21bd;",
 		  "html_code" : "#8637;",
@@ -645,8 +645,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Harpoon with Barb Rightwards",
-		  "slug" : "upwards-harpoon-with-barb-rightwards",
+		  "name" : "Up Harpoon with Barb Right",
+		  "slug" : "up-harpoon-with-barb-right",
 		  "unicode" : "U+021BE",
 		  "hex_code" : "#x21be;",
 		  "html_code" : "#8638;",
@@ -659,8 +659,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Harpoon with Barb Leftwards",
-		  "slug" : "upwards-harpoon-with-barb-leftwards",
+		  "name" : "Up Harpoon with Barb Left",
+		  "slug" : "up-harpoon-with-barb-left",
 		  "unicode" : "U+021BF",
 		  "hex_code" : "#x21bf;",
 		  "html_code" : "#8639;",
@@ -673,8 +673,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Harpoon with Barb Upwards",
-		  "slug" : "rightwards-harpoon-with-barb-upwards",
+		  "name" : "Right Harpoon with Barb Up",
+		  "slug" : "right-harpoon-with-barb-up",
 		  "unicode" : "U+021C0",
 		  "hex_code" : "#x21c0;",
 		  "html_code" : "#8640;",
@@ -687,8 +687,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Harpoon with Barb Downwards",
-		  "slug" : "rightwards-harpoon-with-barb-downwards",
+		  "name" : "Right Harpoon with Barb Down",
+		  "slug" : "right-harpoon-with-barb-down",
 		  "unicode" : "U+021C1",
 		  "hex_code" : "#x21c1;",
 		  "html_code" : "#8641;",
@@ -701,8 +701,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Harpoon with Barb Rightwards",
-		  "slug" : "downwards-harpoon-with-barb-rightwards",
+		  "name" : "Down Harpoon with Barb Right",
+		  "slug" : "down-harpoon-with-barb-right",
 		  "unicode" : "U+021C2",
 		  "hex_code" : "#x21c2;",
 		  "html_code" : "#8642;",
@@ -715,8 +715,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Harpoon with Barb Leftwards",
-		  "slug" : "downwards-harpoon-with-barb-leftwards",
+		  "name" : "Down Harpoon with Barb Left",
+		  "slug" : "down-harpoon-with-barb-left",
 		  "unicode" : "U+021C3",
 		  "hex_code" : "#x21c3;",
 		  "html_code" : "#8643;",
@@ -729,8 +729,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow over Leftwards Arrow",
-		  "slug" : "rightwards-arrow-over-leftwards-arrow",
+		  "name" : "Right Arrow over Left Arrow",
+		  "slug" : "right-arrow-over-left-arrow",
 		  "unicode" : "U+021C4",
 		  "hex_code" : "#x21c4;",
 		  "html_code" : "#8644;",
@@ -743,8 +743,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Arrow Leftwards of Downwards Arrow",
-		  "slug" : "upwards-arrow-leftwards-of-downwards-arrow",
+		  "name" : "Up Arrow Left of Down Arrow",
+		  "slug" : "up-arrow-left-of-down-arrow",
 		  "unicode" : "U+021C5",
 		  "hex_code" : "#x21c5;",
 		  "html_code" : "#8645;",
@@ -757,8 +757,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow over Rightwards Arrow",
-		  "slug" : "leftwards-arrow-over-rightwards-arrow",
+		  "name" : "Left Arrow over Right Arrow",
+		  "slug" : "left-arrow-over-right-arrow",
 		  "unicode" : "U+021C6",
 		  "hex_code" : "#x21c6;",
 		  "html_code" : "#8646;",
@@ -771,8 +771,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Paired Arrows",
-		  "slug" : "leftwards-paired-arrows",
+		  "name" : "Left Paired Arrows",
+		  "slug" : "left-paired-arrows",
 		  "unicode" : "U+021C7",
 		  "hex_code" : "#x21c7;",
 		  "html_code" : "#8647;",
@@ -785,8 +785,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Paired Arrows",
-		  "slug" : "upwards-paired-arrows",
+		  "name" : "Up Paired Arrows",
+		  "slug" : "up-paired-arrows",
 		  "unicode" : "U+021C8",
 		  "hex_code" : "#x21c8;",
 		  "html_code" : "#8648;",
@@ -799,8 +799,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Paired Arrows",
-		  "slug" : "rightwards-paired-arrows",
+		  "name" : "Right Paired Arrows",
+		  "slug" : "right-paired-arrows",
 		  "unicode" : "U+021C9",
 		  "hex_code" : "#x21c9;",
 		  "html_code" : "#8649;",
@@ -814,7 +814,7 @@
 		},
 		{
 		  "name" : "Downards Paired Arrows",
-		  "slug" : "downwards-paired-arrows",
+		  "slug" : "down-paired-arrows",
 		  "unicode" : "U+021CA",
 		  "hex_code" : "#x21cA;",
 		  "html_code" : "#8650;",
@@ -827,8 +827,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Harpoon over Rightwards Harpoon",
-		  "slug" : "leftwards-harpoon-over-rightwards-harpoon",
+		  "name" : "Left Harpoon over Right Harpoon",
+		  "slug" : "left-harpoon-over-right-harpoon",
 		  "unicode" : "U+021CB",
 		  "hex_code" : "#x21cb;",
 		  "html_code" : "#8651;",
@@ -841,8 +841,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Harpoon over Leftwards Harpoon",
-		  "slug" : "rightwards-harpoon-over-leftwards-harpoon",
+		  "name" : "Right Harpoon over Left Harpoon",
+		  "slug" : "right-harpoon-over-left-harpoon",
 		  "unicode" : "U+021CC",
 		  "hex_code" : "#x21cc;",
 		  "html_code" : "#8652;",
@@ -855,8 +855,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Double Arrow with Stroke",
-		  "slug" : "leftwards-double-arrow-with-stroke",
+		  "name" : "Left Double Arrow with Stroke",
+		  "slug" : "left-double-arrow-with-stroke",
 		  "unicode" : "U+021CD",
 		  "hex_code" : "#x21cd;",
 		  "html_code" : "#8653;",
@@ -883,8 +883,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Double Arrow with Stroke",
-		  "slug" : "rightwards-double-arrow-with-stroke",
+		  "name" : "Right Double Arrow with Stroke",
+		  "slug" : "right-double-arrow-with-stroke",
 		  "unicode" : "U+021CF",
 		  "hex_code" : "#x21cf;",
 		  "html_code" : "#8655;",
@@ -897,8 +897,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Double Arrow",
-		  "slug" : "leftwards-double-arrow",
+		  "name" : "Left Double Arrow",
+		  "slug" : "left-double-arrow",
 		  "unicode" : "U+021D0",
 		  "hex_code" : "#x21d0;",
 		  "html_code" : "#8656;",
@@ -911,8 +911,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Double Arrow",
-		  "slug" : "upwards-double-arrow",
+		  "name" : "Up Double Arrow",
+		  "slug" : "up-double-arrow",
 		  "unicode" : "U+021D1",
 		  "hex_code" : "#x21d1;",
 		  "html_code" : "#8657;",
@@ -925,8 +925,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Double Arrow",
-		  "slug" : "rightwards-double-arrow",
+		  "name" : "Right Double Arrow",
+		  "slug" : "right-double-arrow",
 		  "unicode" : "U+021D2",
 		  "hex_code" : "#x21d2;",
 		  "html_code" : "#8658;",
@@ -939,8 +939,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Double Arrow",
-		  "slug" : "downwards-double-arrow",
+		  "name" : "Down Double Arrow",
+		  "slug" : "down-double-arrow",
 		  "unicode" : "U+021D3",
 		  "hex_code" : "#x21d3;",
 		  "html_code" : "#8659;",
@@ -1037,8 +1037,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Triple Arrow",
-		  "slug" : "leftwards-triple-arrow",
+		  "name" : "Left Triple Arrow",
+		  "slug" : "left-triple-arrow",
 		  "unicode" : "U+021DA",
 		  "hex_code" : "#x21da;",
 		  "html_code" : "#8666;",
@@ -1051,8 +1051,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Triple Arrow",
-		  "slug" : "rightwards-triple-arrow",
+		  "name" : "Right Triple Arrow",
+		  "slug" : "right-triple-arrow",
 		  "unicode" : "U+021DB",
 		  "hex_code" : "#x21db;",
 		  "html_code" : "#8667;",
@@ -1065,8 +1065,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Squiggle Arrow",
-		  "slug" : "leftwards-squiggle-arrow",
+		  "name" : "Left Squiggle Arrow",
+		  "slug" : "left-squiggle-arrow",
 		  "unicode" : "U+021DC",
 		  "hex_code" : "#x21dc;",
 		  "html_code" : "#8668;",
@@ -1079,8 +1079,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Squiggle Arrow",
-		  "slug" : "rightwards-squiggle-arrow",
+		  "name" : "Right Squiggle Arrow",
+		  "slug" : "right-squiggle-arrow",
 		  "unicode" : "U+021DD",
 		  "hex_code" : "#x21dd;",
 		  "html_code" : "#8669;",
@@ -1093,8 +1093,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Arrow with Double Stroke",
-		  "slug" : "upwards-arrow-with-double-stroke",
+		  "name" : "Up Arrow with Double Stroke",
+		  "slug" : "up-arrow-with-double-stroke",
 		  "unicode" : "U+021DE",
 		  "hex_code" : "#x21de;",
 		  "html_code" : "#8670;",
@@ -1107,8 +1107,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Arrow with Double Stroke",
-		  "slug" : "downwards-arrow-with-double-stroke",
+		  "name" : "Down Arrow with Double Stroke",
+		  "slug" : "down-arrow-with-double-stroke",
 		  "unicode" : "U+021DF",
 		  "hex_code" : "#x21df;",
 		  "html_code" : "#8671;",
@@ -1121,8 +1121,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Dashed Arrow",
-		  "slug" : "leftwards-dashed-arrow",
+		  "name" : "Left Dashed Arrow",
+		  "slug" : "left-dashed-arrow",
 		  "unicode" : "U+021E0",
 		  "hex_code" : "#x21e0;",
 		  "html_code" : "#8672;",
@@ -1135,8 +1135,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Dashed Arrow",
-		  "slug" : "upwards-dashed-arrow",
+		  "name" : "Up Dashed Arrow",
+		  "slug" : "up-dashed-arrow",
 		  "unicode" : "U+021E1",
 		  "hex_code" : "#x21e1;",
 		  "html_code" : "#8673;",
@@ -1149,8 +1149,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Dashed Arrow",
-		  "slug" : "rightwards-dashed-arrow",
+		  "name" : "Right Dashed Arrow",
+		  "slug" : "right-dashed-arrow",
 		  "unicode" : "U+021E2",
 		  "hex_code" : "#x21e2;",
 		  "html_code" : "#8674;",
@@ -1163,8 +1163,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Dashed Arrow",
-		  "slug" : "downwards-dashed-arrow",
+		  "name" : "Down Dashed Arrow",
+		  "slug" : "down-dashed-arrow",
 		  "unicode" : "U+021E3",
 		  "hex_code" : "#x21e3;",
 		  "html_code" : "#8675;",
@@ -1177,8 +1177,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow to Bar",
-		  "slug" : "leftwards-arrow-to-bar",
+		  "name" : "Left Arrow to Bar",
+		  "slug" : "left-arrow-to-bar",
 		  "unicode" : "U+021E4",
 		  "hex_code" : "#x21e4;",
 		  "html_code" : "#8676;",
@@ -1191,8 +1191,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow to Bar",
-		  "slug" : "rightwards-arrow-to-bar",
+		  "name" : "Right Arrow to Bar",
+		  "slug" : "right-arrow-to-bar",
 		  "unicode" : "U+021E5",
 		  "hex_code" : "#x21e5;",
 		  "html_code" : "#8677;",
@@ -1205,8 +1205,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow to Bar",
-		  "slug" : "rightwards-arrow-to-bar",
+		  "name" : "Right Arrow to Bar",
+		  "slug" : "right-arrow-to-bar",
 		  "unicode" : "U+021E5",
 		  "hex_code" : "#x21e5;",
 		  "html_code" : "#8677;",
@@ -1219,8 +1219,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards White Arrow",
-		  "slug" : "leftwards-white-arrow",
+		  "name" : "Left White Arrow",
+		  "slug" : "left-white-arrow",
 		  "unicode" : "U+021E6",
 		  "hex_code" : "#x21e6;",
 		  "html_code" : "#8678;",
@@ -1233,8 +1233,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards White Arrow",
-		  "slug" : "upwards-white-arrow",
+		  "name" : "Up White Arrow",
+		  "slug" : "up-white-arrow",
 		  "unicode" : "U+021E7",
 		  "hex_code" : "#x21e7;",
 		  "html_code" : "#8679;",
@@ -1247,8 +1247,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards White Arrow",
-		  "slug" : "rightwards-white-arrow",
+		  "name" : "Right White Arrow",
+		  "slug" : "right-white-arrow",
 		  "unicode" : "U+021E8",
 		  "hex_code" : "#x21e8;",
 		  "html_code" : "#8680;",
@@ -1261,8 +1261,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards White Arrow",
-		  "slug" : "downwards-white-arrow",
+		  "name" : "Down White Arrow",
+		  "slug" : "down-white-arrow",
 		  "unicode" : "U+021E9",
 		  "hex_code" : "#x21e9;",
 		  "html_code" : "#8681;",
@@ -1275,8 +1275,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards White Arrow from Bar",
-		  "slug" : "upwards-white-arrow-from-bar",
+		  "name" : "Up White Arrow from Bar",
+		  "slug" : "up-white-arrow-from-bar",
 		  "unicode" : "U+021EA",
 		  "hex_code" : "#x21ea;",
 		  "html_code" : "#8682;",
@@ -1289,8 +1289,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards White Arrow on Pedestal",
-		  "slug" : "upwards-white-arrow-on-pedestal",
+		  "name" : "Up White Arrow on Pedestal",
+		  "slug" : "up-white-arrow-on-pedestal",
 		  "unicode" : "U+021EB",
 		  "hex_code" : "#x21eb;",
 		  "html_code" : "#8683;",
@@ -1303,8 +1303,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards White Arrow on Pedestal with Horizontal Bar",
-		  "slug" : "upwards-white-arrow-on-pedestal-with-horizontal-bar",
+		  "name" : "Up White Arrow on Pedestal with Horizontal Bar",
+		  "slug" : "up-white-arrow-on-pedestal-with-horizontal-bar",
 		  "unicode" : "U+021EC",
 		  "hex_code" : "#x21ec;",
 		  "html_code" : "#8684;",
@@ -1317,8 +1317,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards White Arrow on Pedestal with Vertical Bar",
-		  "slug" : "upwards-white-arrow-on-pedestal-with-vertical-bar",
+		  "name" : "Up White Arrow on Pedestal with Vertical Bar",
+		  "slug" : "up-white-arrow-on-pedestal-with-vertical-bar",
 		  "unicode" : "U+021ED",
 		  "hex_code" : "#x21ed;",
 		  "html_code" : "#8685;",
@@ -1331,8 +1331,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards White Double Arrow",
-		  "slug" : "upwards-white-double-arrow",
+		  "name" : "Up White Double Arrow",
+		  "slug" : "up-white-double-arrow",
 		  "unicode" : "U+021EE",
 		  "hex_code" : "#x21ee;",
 		  "html_code" : "#8686;",
@@ -1345,8 +1345,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards White Double Arrow on Pedestal",
-		  "slug" : "upwards-white-double-arrow-on-pedestal",
+		  "name" : "Up White Double Arrow on Pedestal",
+		  "slug" : "up-white-double-arrow-on-pedestal",
 		  "unicode" : "U+021EF",
 		  "hex_code" : "#x21ef;",
 		  "html_code" : "#8687;",
@@ -1359,8 +1359,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards White Arrow from Wall",
-		  "slug" : "rightwards-white-arrow-from-wall",
+		  "name" : "Right White Arrow from Wall",
+		  "slug" : "right-white-arrow-from-wall",
 		  "unicode" : "U+021F0",
 		  "hex_code" : "#x21f0;",
 		  "html_code" : "#8688;",
@@ -1429,8 +1429,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Arrow Leftwards of Upwards Arrow",
-		  "slug" : "downwards-arrow-leftwards-of-upwards-arrow",
+		  "name" : "Down Arrow Left of Up Arrow",
+		  "slug" : "down-arrow-left-of-up-arrow",
 		  "unicode" : "U+021F5",
 		  "hex_code" : "#x21f5;",
 		  "html_code" : "#8693;",
@@ -1443,8 +1443,8 @@
 		  ]
 		},
 		{
-		  "name" : "Three Rightwards Arrows",
-		  "slug" : "three-rightwards-arrows",
+		  "name" : "Three Right Arrows",
+		  "slug" : "three-right-arrows",
 		  "unicode" : "U+021F6",
 		  "hex_code" : "#x21f6;",
 		  "html_code" : "#8694;",
@@ -1457,8 +1457,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow with Vertical Stroke",
-		  "slug" : "leftwards-arrow-with-vertical-stroke",
+		  "name" : "Left Arrow with Vertical Stroke",
+		  "slug" : "left-arrow-with-vertical-stroke",
 		  "unicode" : "U+021F7",
 		  "hex_code" : "#x21f7;",
 		  "html_code" : "#8695;",
@@ -1471,8 +1471,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow with Vertical Stroke",
-		  "slug" : "rightwards-arrow-with-vertical-stroke",
+		  "name" : "Right Arrow with Vertical Stroke",
+		  "slug" : "right-arrow-with-vertical-stroke",
 		  "unicode" : "U+021F8",
 		  "hex_code" : "#x21f8;",
 		  "html_code" : "#8696;",
@@ -1499,8 +1499,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow with Double Vertical Stroke",
-		  "slug" : "leftwards-arrow-with-double-vertical-stroke",
+		  "name" : "Left Arrow with Double Vertical Stroke",
+		  "slug" : "left-arrow-with-double-vertical-stroke",
 		  "unicode" : "U+021FA",
 		  "hex_code" : "#x21fa;",
 		  "html_code" : "#8698;",
@@ -1513,8 +1513,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow with Double Vertical Stroke",
-		  "slug" : "rightwards-arrow-with-double-vertical-stroke",
+		  "name" : "Right Arrow with Double Vertical Stroke",
+		  "slug" : "right-arrow-with-double-vertical-stroke",
 		  "unicode" : "U+021FB",
 		  "hex_code" : "#x21fb;",
 		  "html_code" : "#8699;",
@@ -1541,8 +1541,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Open-headed Arrow",
-		  "slug" : "leftwards-open-headed-arrow",
+		  "name" : "Left Open-headed Arrow",
+		  "slug" : "left-open-headed-arrow",
 		  "unicode" : "U+021FD",
 		  "hex_code" : "#x21fd;",
 		  "html_code" : "#8701;",
@@ -1555,8 +1555,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Open-headed Arrow",
-		  "slug" : "rightwards-open-headed-arrow",
+		  "name" : "Right Open-headed Arrow",
+		  "slug" : "right-open-headed-arrow",
 		  "unicode" : "U+021FE",
 		  "hex_code" : "#x21fe;",
 		  "html_code" : "#8702;",
@@ -1583,8 +1583,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Quadruple Arrow",
-		  "slug" : "upwards-quadruple-arrow",
+		  "name" : "Up Quadruple Arrow",
+		  "slug" : "up-quadruple-arrow",
 		  "unicode" : "U+027F0",
 		  "hex_code" : "#x27F0;",
 		  "html_code" : "#10224;",
@@ -1597,8 +1597,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Quadruple Arrow",
-		  "slug" : "downwards-quadruple-arrow",
+		  "name" : "Down Quadruple Arrow",
+		  "slug" : "down-quadruple-arrow",
 		  "unicode" : "U+027F1",
 		  "hex_code" : "#x27F1;",
 		  "html_code" : "#10225;",
@@ -1653,8 +1653,8 @@
 		  ]
 		},
 		{
-		  "name" : "Long Leftwards Arrow",
-		  "slug" : "long-leftwards-arrow",
+		  "name" : "Long Left Arrow",
+		  "slug" : "long-left-arrow",
 		  "unicode" : "U+027F5",
 		  "hex_code" : "#x27F5;",
 		  "html_code" : "#10229;",
@@ -1667,8 +1667,8 @@
 		  ]
 		},
 		{
-		  "name" : "Long Rightwards Arrow",
-		  "slug" : "long-rightwards-arrow",
+		  "name" : "Long Right Arrow",
+		  "slug" : "long-right-arrow",
 		  "unicode" : "U+027F6",
 		  "hex_code" : "#x27F6;",
 		  "html_code" : "#10230;",
@@ -1695,8 +1695,8 @@
 		  ]
 		},
 		{
-		  "name" : "Long Leftwards Double Arrow",
-		  "slug" : "long-leftwards-double-arrow",
+		  "name" : "Long Left Double Arrow",
+		  "slug" : "long-left-double-arrow",
 		  "unicode" : "U+027F8",
 		  "hex_code" : "#x27F8;",
 		  "html_code" : "#10232;",
@@ -1709,8 +1709,8 @@
 		  ]
 		},
 		{
-		  "name" : "Long Rightwards Double Arrow",
-		  "slug" : "long-rightwards-double-arrow",
+		  "name" : "Long Right Double Arrow",
+		  "slug" : "long-right-double-arrow",
 		  "unicode" : "U+027F9",
 		  "hex_code" : "#x27F9;",
 		  "html_code" : "#10233;",
@@ -1737,8 +1737,8 @@
 		  ]
 		},
 		{
-		  "name" : "Long Leftwards Arrow From Bar",
-		  "slug" : "long-leftwards-arrow-from-bar",
+		  "name" : "Long Left Arrow From Bar",
+		  "slug" : "long-left-arrow-from-bar",
 		  "unicode" : "U+027FB",
 		  "hex_code" : "#x27FB;",
 		  "html_code" : "#10235;",
@@ -1751,8 +1751,8 @@
 		  ]
 		},
 		{
-		  "name" : "Long Rightwards Arrow From Bar",
-		  "slug" : "long-rightwards-arrow-from-bar",
+		  "name" : "Long Right Arrow From Bar",
+		  "slug" : "long-right-arrow-from-bar",
 		  "unicode" : "U+027FC",
 		  "hex_code" : "#x27FC;",
 		  "html_code" : "#10236;",
@@ -1765,8 +1765,8 @@
 		  ]
 		},
 		{
-		  "name" : "Long Leftwards Double Arrow From Bar",
-		  "slug" : "long-leftwards-double-arrow-from-bar",
+		  "name" : "Long Left Double Arrow From Bar",
+		  "slug" : "long-left-double-arrow-from-bar",
 		  "unicode" : "U+027FD",
 		  "hex_code" : "#x27FD;",
 		  "html_code" : "#10237;",
@@ -1779,8 +1779,8 @@
 		  ]
 		},
 		{
-		  "name" : "Long Rightwards Double Arrow From Bar",
-		  "slug" : "long-rightwards-double-arrow-from-bar",
+		  "name" : "Long Right Double Arrow From Bar",
+		  "slug" : "long-right-double-arrow-from-bar",
 		  "unicode" : "U+027FE",
 		  "hex_code" : "#x27FE;",
 		  "html_code" : "#10238;",
@@ -1793,8 +1793,8 @@
 		  ]
 		},
 		{
-		  "name" : "Long Rightwards Squiggle Arrow",
-		  "slug" : "long-rightwards-squiggle-arrow",
+		  "name" : "Long Right Squiggle Arrow",
+		  "slug" : "long-right-squiggle-arrow",
 		  "unicode" : "U+027FF",
 		  "hex_code" : "#x27FF;",
 		  "html_code" : "#10239;",
@@ -1807,8 +1807,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Two-Headed Arrow With Vertical Stroke",
-		  "slug" : "rightwards-two-headed-arrow-with-vertical-stroke",
+		  "name" : "Right Two-Headed Arrow With Vertical Stroke",
+		  "slug" : "right-two-headed-arrow-with-vertical-stroke",
 		  "unicode" : "U+02900",
 		  "hex_code" : "#x2900;",
 		  "html_code" : "#10496;",
@@ -1821,8 +1821,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Two-Headed Arrow With Double Vertical Stroke",
-		  "slug" : "rightwards-two-headed-arrow-with-double-vertical-stroke",
+		  "name" : "Right Two-Headed Arrow With Double Vertical Stroke",
+		  "slug" : "right-two-headed-arrow-with-double-vertical-stroke",
 		  "unicode" : "U+02901",
 		  "hex_code" : "#x2901;",
 		  "html_code" : "#10497;",
@@ -1835,8 +1835,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Double Arrow With Vertical Stroke",
-		  "slug" : "leftwards-double-arrow-with-vertical-stroke",
+		  "name" : "Left Double Arrow With Vertical Stroke",
+		  "slug" : "left-double-arrow-with-vertical-stroke",
 		  "unicode" : "U+02902",
 		  "hex_code" : "#x2902;",
 		  "html_code" : "#10498;",
@@ -1849,8 +1849,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Double Arrow With Vertical Stroke",
-		  "slug" : "rightwards-double-arrow-with-vertical-stroke",
+		  "name" : "Right Double Arrow With Vertical Stroke",
+		  "slug" : "right-double-arrow-with-vertical-stroke",
 		  "unicode" : "U+02903",
 		  "hex_code" : "#x2903;",
 		  "html_code" : "#10499;",
@@ -1877,8 +1877,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Two-Headed Arrow From Bar",
-		  "slug" : "rightwards-two-headed-arrow-from-bar",
+		  "name" : "Right Two-Headed Arrow From Bar",
+		  "slug" : "right-two-headed-arrow-from-bar",
 		  "unicode" : "U+02905",
 		  "hex_code" : "#x2905;",
 		  "html_code" : "#10501;",
@@ -1891,8 +1891,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Double Arrow From Bar",
-		  "slug" : "leftwards-double-arrow-from-bar",
+		  "name" : "Left Double Arrow From Bar",
+		  "slug" : "left-double-arrow-from-bar",
 		  "unicode" : "U+02906",
 		  "hex_code" : "#x2906;",
 		  "html_code" : "#10502;",
@@ -1905,8 +1905,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Double Arrow From Bar",
-		  "slug" : "rightwards-double-arrow-from-bar",
+		  "name" : "Right Double Arrow From Bar",
+		  "slug" : "right-double-arrow-from-bar",
 		  "unicode" : "U+02907",
 		  "hex_code" : "#x2907;",
 		  "html_code" : "#10503;",
@@ -1919,8 +1919,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Arrow With Horizontal Stroke",
-		  "slug" : "downwards-arrow-with-horizontal-stroke",
+		  "name" : "Down Arrow With Horizontal Stroke",
+		  "slug" : "down-arrow-with-horizontal-stroke",
 		  "unicode" : "U+02908",
 		  "hex_code" : "#x2908;",
 		  "html_code" : "#10504;",
@@ -1933,8 +1933,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Arrow With Horizontal Stroke",
-		  "slug" : "upwards-arrow-with-horizontal-stroke",
+		  "name" : "Up Arrow With Horizontal Stroke",
+		  "slug" : "up-arrow-with-horizontal-stroke",
 		  "unicode" : "U+02909",
 		  "hex_code" : "#x2909;",
 		  "html_code" : "#10505;",
@@ -1947,8 +1947,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Triple Arrow",
-		  "slug" : "upwards-triple-arrow",
+		  "name" : "Up Triple Arrow",
+		  "slug" : "up-triple-arrow",
 		  "unicode" : "U+0290A",
 		  "hex_code" : "#x290A;",
 		  "html_code" : "#10506;",
@@ -1961,8 +1961,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Triple Arrow",
-		  "slug" : "downwards-triple-arrow",
+		  "name" : "Down Triple Arrow",
+		  "slug" : "down-triple-arrow",
 		  "unicode" : "U+0290B",
 		  "hex_code" : "#x290B;",
 		  "html_code" : "#10507;",
@@ -1975,8 +1975,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Double Dash Arrow",
-		  "slug" : "leftwards-double-dash-arrow",
+		  "name" : "Left Double Dash Arrow",
+		  "slug" : "left-double-dash-arrow",
 		  "unicode" : "U+0290C",
 		  "hex_code" : "#x290C;",
 		  "html_code" : "#10508;",
@@ -1989,8 +1989,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Double Dash Arrow",
-		  "slug" : "rightwards-double-dash-arrow",
+		  "name" : "Right Double Dash Arrow",
+		  "slug" : "right-double-dash-arrow",
 		  "unicode" : "U+0290D",
 		  "hex_code" : "#x290D;",
 		  "html_code" : "#10509;",
@@ -2003,8 +2003,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Triple Dash Arrow",
-		  "slug" : "leftwards-triple-dash-arrow",
+		  "name" : "Left Triple Dash Arrow",
+		  "slug" : "left-triple-dash-arrow",
 		  "unicode" : "U+0290E",
 		  "hex_code" : "#x290E;",
 		  "html_code" : "#10510;",
@@ -2017,8 +2017,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Triple Dash Arrow",
-		  "slug" : "rightwards-triple-dash-arrow",
+		  "name" : "Right Triple Dash Arrow",
+		  "slug" : "right-triple-dash-arrow",
 		  "unicode" : "U+0290F",
 		  "hex_code" : "#x290F;",
 		  "html_code" : "#10511;",
@@ -2031,8 +2031,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Two-Headed Triple Dash Arrow",
-		  "slug" : "rightwards-two-headed-triple-dash-arrow",
+		  "name" : "Right Two-Headed Triple Dash Arrow",
+		  "slug" : "right-two-headed-triple-dash-arrow",
 		  "unicode" : "U+02910",
 		  "hex_code" : "#x2910;",
 		  "html_code" : "#10512;",
@@ -2045,8 +2045,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow With Dotted Stem",
-		  "slug" : "rightwards-arrow-with-dotted-stem",
+		  "name" : "Right Arrow With Dotted Stem",
+		  "slug" : "right-arrow-with-dotted-stem",
 		  "unicode" : "U+02911",
 		  "hex_code" : "#x2911;",
 		  "html_code" : "#10513;",
@@ -2059,8 +2059,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Arrow to Bar",
-		  "slug" : "upwards-arrow-to-bar",
+		  "name" : "Up Arrow to Bar",
+		  "slug" : "up-arrow-to-bar",
 		  "unicode" : "U+02912",
 		  "hex_code" : "#x2912;",
 		  "html_code" : "#10514;",
@@ -2073,8 +2073,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Arrow to Bar",
-		  "slug" : "downwards-arrow-to-bar",
+		  "name" : "Down Arrow to Bar",
+		  "slug" : "down-arrow-to-bar",
 		  "unicode" : "U+02913",
 		  "hex_code" : "#x2913;",
 		  "html_code" : "#10515;",
@@ -2087,8 +2087,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow With Tail With Vertical Stroke",
-		  "slug" : "rightwards-arrow-with-tail-with-vertical-stroke",
+		  "name" : "Right Arrow With Tail With Vertical Stroke",
+		  "slug" : "right-arrow-with-tail-with-vertical-stroke",
 		  "unicode" : "U+02914",
 		  "hex_code" : "#x2914;",
 		  "html_code" : "#10516;",
@@ -2101,8 +2101,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow With Tail With Double Vertical Stroke",
-		  "slug" : "rightwards-arrow-with-tail-with-double-vertical-stroke",
+		  "name" : "Right Arrow With Tail With Double Vertical Stroke",
+		  "slug" : "right-arrow-with-tail-with-double-vertical-stroke",
 		  "unicode" : "U+02915",
 		  "hex_code" : "#x2915;",
 		  "html_code" : "#10517;",
@@ -2115,8 +2115,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Two-Headed Arrow With Tail",
-		  "slug" : "rightwards-two-headed-arrow-with-tail",
+		  "name" : "Right Two-Headed Arrow With Tail",
+		  "slug" : "right-two-headed-arrow-with-tail",
 		  "unicode" : "U+02916",
 		  "hex_code" : "#x2916;",
 		  "html_code" : "#10518;",
@@ -2129,8 +2129,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Two-Headed Arrow With Tail With Vertical Stroke",
-		  "slug" : "rightwards-two-headed-arrow-with-tail-with-vertical-stroke",
+		  "name" : "Right Two-Headed Arrow With Tail With Vertical Stroke",
+		  "slug" : "right-two-headed-arrow-with-tail-with-vertical-stroke",
 		  "unicode" : "U+02917",
 		  "hex_code" : "#x2917;",
 		  "html_code" : "#10519;",
@@ -2143,8 +2143,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Two-Headed Arrow With Tail With Double Vertical Stroke",
-		  "slug" : "rightwards-two-headed-arrow-with-tail-with-double-vertical-stroke",
+		  "name" : "Right Two-Headed Arrow With Tail With Double Vertical Stroke",
+		  "slug" : "right-two-headed-arrow-with-tail-with-double-vertical-stroke",
 		  "unicode" : "U+02918",
 		  "hex_code" : "#x2918;",
 		  "html_code" : "#10520;",
@@ -2157,8 +2157,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow-Tail",
-		  "slug" : "leftwards-arrow-tail",
+		  "name" : "Left Arrow-Tail",
+		  "slug" : "left-arrow-tail",
 		  "unicode" : "U+02919",
 		  "hex_code" : "#x2919;",
 		  "html_code" : "#10521;",
@@ -2171,8 +2171,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow-Tail",
-		  "slug" : "rightwards-arrow-tail",
+		  "name" : "Right Arrow-Tail",
+		  "slug" : "right-arrow-tail",
 		  "unicode" : "U+0291A",
 		  "hex_code" : "#x291A;",
 		  "html_code" : "#10522;",
@@ -2185,8 +2185,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Double Arrow-Tail",
-		  "slug" : "leftwards-double-arrow-tail",
+		  "name" : "Left Double Arrow-Tail",
+		  "slug" : "left-double-arrow-tail",
 		  "unicode" : "U+0291B",
 		  "hex_code" : "#x291B;",
 		  "html_code" : "#10523;",
@@ -2199,8 +2199,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Double Arrow-Tail",
-		  "slug" : "rightwards-double-arrow-tail",
+		  "name" : "Right Double Arrow-Tail",
+		  "slug" : "right-double-arrow-tail",
 		  "unicode" : "U+0291C",
 		  "hex_code" : "#x291C;",
 		  "html_code" : "#10524;",
@@ -2213,8 +2213,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow to Black Diamond",
-		  "slug" : "leftwards-arrow-to-black-diamond",
+		  "name" : "Left Arrow to Black Diamond",
+		  "slug" : "left-arrow-to-black-diamond",
 		  "unicode" : "U+0291D",
 		  "hex_code" : "#x291D;",
 		  "html_code" : "#10525;",
@@ -2227,8 +2227,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow to Black Diamond",
-		  "slug" : "rightwards-arrow-to-black-diamond",
+		  "name" : "Right Arrow to Black Diamond",
+		  "slug" : "right-arrow-to-black-diamond",
 		  "unicode" : "U+0291E",
 		  "hex_code" : "#x291E;",
 		  "html_code" : "#10526;",
@@ -2241,8 +2241,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow From Bar to Black Diamond",
-		  "slug" : "leftwards-arrow-from-bar-to-black-diamond",
+		  "name" : "Left Arrow From Bar to Black Diamond",
+		  "slug" : "left-arrow-from-bar-to-black-diamond",
 		  "unicode" : "U+0291F",
 		  "hex_code" : "#x291F;",
 		  "html_code" : "#10527;",
@@ -2255,8 +2255,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow From Bar to Black Diamond",
-		  "slug" : "rightwards-arrow-from-bar-to-black-diamond",
+		  "name" : "Right Arrow From Bar to Black Diamond",
+		  "slug" : "right-arrow-from-bar-to-black-diamond",
 		  "unicode" : "U+02920",
 		  "hex_code" : "#x2920;",
 		  "html_code" : "#10528;",
@@ -2535,8 +2535,8 @@
 		  ]
 		},
 		{
-		  "name" : "Arrow Pointing Rightwards Then Curving Upwards",
-		  "slug" : "arrow-pointing-rightwards-then-curving-upwards",
+		  "name" : "Arrow Pointing Right Then Curving Up",
+		  "slug" : "arrow-pointing-right-then-curving-up",
 		  "unicode" : "U+02934",
 		  "hex_code" : "#x2934;",
 		  "html_code" : "#10548;",
@@ -2549,8 +2549,8 @@
 		  ]
 		},
 		{
-		  "name" : "Arrow Pointing Rightwards Then Curving Downwards",
-		  "slug" : "arrow-pointing-rightwards-then-curving-downwards",
+		  "name" : "Arrow Pointing Right Then Curving Down",
+		  "slug" : "arrow-pointing-right-then-curving-down",
 		  "unicode" : "U+02935",
 		  "hex_code" : "#x2935;",
 		  "html_code" : "#10549;",
@@ -2563,8 +2563,8 @@
 		  ]
 		},
 		{
-		  "name" : "Arrow Pointing Downwards Then Curving Leftwards",
-		  "slug" : "arrow-pointing-downwards-then-curving-leftwards",
+		  "name" : "Arrow Pointing Down Then Curving Left",
+		  "slug" : "arrow-pointing-down-then-curving-left",
 		  "unicode" : "U+02936",
 		  "hex_code" : "#x2936;",
 		  "html_code" : "#10550;",
@@ -2577,8 +2577,8 @@
 		  ]
 		},
 		{
-		  "name" : "Arrow Pointing Downwards Then Curving Rightwards",
-		  "slug" : "arrow-pointing-downwards-then-curving-rightwards",
+		  "name" : "Arrow Pointing Down Then Curving Right",
+		  "slug" : "arrow-pointing-down-then-curving-right",
 		  "unicode" : "U+02937",
 		  "hex_code" : "#x2937;",
 		  "html_code" : "#10551;",
@@ -2731,8 +2731,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow Above Short Leftwards Arrow",
-		  "slug" : "rightwards-arrow-above-short-leftwards-arrow",
+		  "name" : "Right Arrow Above Short Left Arrow",
+		  "slug" : "right-arrow-above-short-left-arrow",
 		  "unicode" : "U+02942",
 		  "hex_code" : "#x2942;",
 		  "html_code" : "#10562;",
@@ -2745,8 +2745,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow Above Short Rightwards Arrow",
-		  "slug" : "leftwards-arrow-above-short-rightwards-arrow",
+		  "name" : "Left Arrow Above Short Right Arrow",
+		  "slug" : "left-arrow-above-short-right-arrow",
 		  "unicode" : "U+02943",
 		  "hex_code" : "#x2943;",
 		  "html_code" : "#10563;",
@@ -2759,8 +2759,8 @@
 		  ]
 		},
 		{
-		  "name" : "Short Rightwards Arrow Above Leftwards Arrow",
-		  "slug" : "short-rightwards-arrow-above-leftwards-arrow",
+		  "name" : "Short Right Arrow Above Left Arrow",
+		  "slug" : "short-right-arrow-above-left-arrow",
 		  "unicode" : "U+02944",
 		  "hex_code" : "#x2944;",
 		  "html_code" : "#10564;",
@@ -2773,8 +2773,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow With Plus Below",
-		  "slug" : "rightwards-arrow-with-plus-below",
+		  "name" : "Right Arrow With Plus Below",
+		  "slug" : "right-arrow-with-plus-below",
 		  "unicode" : "U+02945",
 		  "hex_code" : "#x2945;",
 		  "html_code" : "#10565;",
@@ -2787,8 +2787,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow With Plus Below",
-		  "slug" : "leftwards-arrow-with-plus-below",
+		  "name" : "Left Arrow With Plus Below",
+		  "slug" : "left-arrow-with-plus-below",
 		  "unicode" : "U+02946",
 		  "hex_code" : "#x2946;",
 		  "html_code" : "#10566;",
@@ -2801,8 +2801,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow Through X",
-		  "slug" : "rightwards-arrow-through-x",
+		  "name" : "Right Arrow Through X",
+		  "slug" : "right-arrow-through-x",
 		  "unicode" : "U+02947",
 		  "hex_code" : "#x2947;",
 		  "html_code" : "#10567;",
@@ -2829,8 +2829,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Two-Headed Arrow From Small Circle",
-		  "slug" : "upwards-two-headed-arrow-from-small-circle",
+		  "name" : "Up Two-Headed Arrow From Small Circle",
+		  "slug" : "up-two-headed-arrow-from-small-circle",
 		  "unicode" : "U+02949",
 		  "hex_code" : "#x2949;",
 		  "html_code" : "#10569;",
@@ -2955,8 +2955,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Harpoon With Barb Up to Bar",
-		  "slug" : "leftwards-harpoon-with-barb-up-to-bar",
+		  "name" : "Left Harpoon With Barb Up to Bar",
+		  "slug" : "left-harpoon-with-barb-up-to-bar",
 		  "unicode" : "U+02952",
 		  "hex_code" : "#x2952;",
 		  "html_code" : "#10578;",
@@ -2969,8 +2969,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Harpoon With Barb Up to Bar",
-		  "slug" : "rightwards-harpoon-with-barb-up-to-bar",
+		  "name" : "Right Harpoon With Barb Up to Bar",
+		  "slug" : "right-harpoon-with-barb-up-to-bar",
 		  "unicode" : "U+02953",
 		  "hex_code" : "#x2953;",
 		  "html_code" : "#10579;",
@@ -2983,8 +2983,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Harpoon With Barb Right to Bar",
-		  "slug" : "upwards-harpoon-with-barb-right-to-bar",
+		  "name" : "Up Harpoon With Barb Right to Bar",
+		  "slug" : "up-harpoon-with-barb-right-to-bar",
 		  "unicode" : "U+02954",
 		  "hex_code" : "#x2954;",
 		  "html_code" : "#10580;",
@@ -2997,8 +2997,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Harpoon With Barb Right to Bar",
-		  "slug" : "downwards-harpoon-with-barb-right-to-bar",
+		  "name" : "Down Harpoon With Barb Right to Bar",
+		  "slug" : "down-harpoon-with-barb-right-to-bar",
 		  "unicode" : "U+02955",
 		  "hex_code" : "#x2955;",
 		  "html_code" : "#10581;",
@@ -3011,8 +3011,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Harpoon With Barb Down to Bar",
-		  "slug" : "leftwards-harpoon-with-barb-down-to-bar",
+		  "name" : "Left Harpoon With Barb Down to Bar",
+		  "slug" : "left-harpoon-with-barb-down-to-bar",
 		  "unicode" : "U+02956",
 		  "hex_code" : "#x2956;",
 		  "html_code" : "#10582;",
@@ -3025,8 +3025,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Harpoon With Barb Down to Bar",
-		  "slug" : "rightwards-harpoon-with-barb-down-to-bar",
+		  "name" : "Right Harpoon With Barb Down to Bar",
+		  "slug" : "right-harpoon-with-barb-down-to-bar",
 		  "unicode" : "U+02957",
 		  "hex_code" : "#x2957;",
 		  "html_code" : "#10583;",
@@ -3039,8 +3039,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Harpoon With Barb Left to Bar",
-		  "slug" : "upwards-harpoon-with-barb-left-to-bar",
+		  "name" : "Up Harpoon With Barb Left to Bar",
+		  "slug" : "up-harpoon-with-barb-left-to-bar",
 		  "unicode" : "U+02958",
 		  "hex_code" : "#x2958;",
 		  "html_code" : "#10584;",
@@ -3053,8 +3053,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Harpoon With Barb Left to Bar",
-		  "slug" : "downwards-harpoon-with-barb-left-to-bar",
+		  "name" : "Down Harpoon With Barb Left to Bar",
+		  "slug" : "down-harpoon-with-barb-left-to-bar",
 		  "unicode" : "U+02959",
 		  "hex_code" : "#x2959;",
 		  "html_code" : "#10585;",
@@ -3067,8 +3067,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Harpoon With Barb Up From Bar",
-		  "slug" : "leftwards-harpoon-with-barb-up-from-bar",
+		  "name" : "Left Harpoon With Barb Up From Bar",
+		  "slug" : "left-harpoon-with-barb-up-from-bar",
 		  "unicode" : "U+0295A",
 		  "hex_code" : "#x295A;",
 		  "html_code" : "#10586;",
@@ -3081,8 +3081,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Harpoon With Barb Up From Bar",
-		  "slug" : "rightwards-harpoon-with-barb-up-from-bar",
+		  "name" : "Right Harpoon With Barb Up From Bar",
+		  "slug" : "right-harpoon-with-barb-up-from-bar",
 		  "unicode" : "U+0295B",
 		  "hex_code" : "#x295B;",
 		  "html_code" : "#10587;",
@@ -3095,8 +3095,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Harpoon With Barb Right From Bar",
-		  "slug" : "upwards-harpoon-with-barb-right-from-bar",
+		  "name" : "Up Harpoon With Barb Right From Bar",
+		  "slug" : "up-harpoon-with-barb-right-from-bar",
 		  "unicode" : "U+0295C",
 		  "hex_code" : "#x295C;",
 		  "html_code" : "#10588;",
@@ -3109,8 +3109,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Harpoon With Barb Right From Bar",
-		  "slug" : "downwards-harpoon-with-barb-right-from-bar",
+		  "name" : "Down Harpoon With Barb Right From Bar",
+		  "slug" : "down-harpoon-with-barb-right-from-bar",
 		  "unicode" : "U+0295D",
 		  "hex_code" : "#x295D;",
 		  "html_code" : "#10589;",
@@ -3123,8 +3123,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Harpoon With Barb Down From Bar",
-		  "slug" : "leftwards-harpoon-with-barb-down-from-bar",
+		  "name" : "Left Harpoon With Barb Down From Bar",
+		  "slug" : "left-harpoon-with-barb-down-from-bar",
 		  "unicode" : "U+0295E",
 		  "hex_code" : "#x295E;",
 		  "html_code" : "#10590;",
@@ -3137,8 +3137,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Harpoon With Barb Down From Bar",
-		  "slug" : "rightwards-harpoon-with-barb-down-from-bar",
+		  "name" : "Right Harpoon With Barb Down From Bar",
+		  "slug" : "right-harpoon-with-barb-down-from-bar",
 		  "unicode" : "U+0295F",
 		  "hex_code" : "#x295F;",
 		  "html_code" : "#10591;",
@@ -3151,8 +3151,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Harpoon With Barb Left From Bar",
-		  "slug" : "upwards-harpoon-with-barb-left-from-bar",
+		  "name" : "Up Harpoon With Barb Left From Bar",
+		  "slug" : "up-harpoon-with-barb-left-from-bar",
 		  "unicode" : "U+02960",
 		  "hex_code" : "#x2960;",
 		  "html_code" : "#10592;",
@@ -3165,8 +3165,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Harpoon With Barb Left From Bar",
-		  "slug" : "downwards-harpoon-with-barb-left-from-bar",
+		  "name" : "Down Harpoon With Barb Left From Bar",
+		  "slug" : "down-harpoon-with-barb-left-from-bar",
 		  "unicode" : "U+02961",
 		  "hex_code" : "#x2961;",
 		  "html_code" : "#10593;",
@@ -3179,8 +3179,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Harpoon With Barb Up Above Leftwards Harpoon With Barb Down",
-		  "slug" : "leftwards-harpoon-with-barb-up-above-leftwards-harpoon-with-barb-down",
+		  "name" : "Left Harpoon With Barb Up Above Left Harpoon With Barb Down",
+		  "slug" : "left-harpoon-with-barb-up-above-left-harpoon-with-barb-down",
 		  "unicode" : "U+02962",
 		  "hex_code" : "#x2962;",
 		  "html_code" : "#10594;",
@@ -3193,8 +3193,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Harpoon With Barb Left Beside Upwards Harpoon With Barb Right",
-		  "slug" : "upwards-harpoon-with-barb-left-beside-upwards-harpoon-with-barb-right",
+		  "name" : "Up Harpoon With Barb Left Beside Up Harpoon With Barb Right",
+		  "slug" : "up-harpoon-with-barb-left-beside-up-harpoon-with-barb-right",
 		  "unicode" : "U+02963",
 		  "hex_code" : "#x2963;",
 		  "html_code" : "#10595;",
@@ -3207,8 +3207,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Harpoon With Barb Up Above Rightwards Harpoon With Barb Down",
-		  "slug" : "rightwards-harpoon-with-barb-up-above-rightwards-harpoon-with-barb-down",
+		  "name" : "Right Harpoon With Barb Up Above Right Harpoon With Barb Down",
+		  "slug" : "right-harpoon-with-barb-up-above-right-harpoon-with-barb-down",
 		  "unicode" : "U+02964",
 		  "hex_code" : "#x2964;",
 		  "html_code" : "#10596;",
@@ -3221,8 +3221,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Harpoon With Barb Left Beside Downwards Harpoon With Barb Right",
-		  "slug" : "downwards-harpoon-with-barb-left-beside-downwards-harpoon-with-barb-right",
+		  "name" : "Down Harpoon With Barb Left Beside Down Harpoon With Barb Right",
+		  "slug" : "down-harpoon-with-barb-left-beside-down-harpoon-with-barb-right",
 		  "unicode" : "U+02965",
 		  "hex_code" : "#x2965;",
 		  "html_code" : "#10597;",
@@ -3235,8 +3235,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Harpoon With Barb Up Above Rightwards Harpoon With Barb Up",
-		  "slug" : "leftwards-harpoon-with-barb-up-above-rightwards-harpoon-with-barb-up",
+		  "name" : "Left Harpoon With Barb Up Above Right Harpoon With Barb Up",
+		  "slug" : "left-harpoon-with-barb-up-above-right-harpoon-with-barb-up",
 		  "unicode" : "U+02966",
 		  "hex_code" : "#x2966;",
 		  "html_code" : "#10598;",
@@ -3249,8 +3249,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Harpoon With Barb Down Above Rightwards Harpoon With Barb Down",
-		  "slug" : "leftwards-harpoon-with-barb-down-above-rightwards-harpoon-with-barb-down",
+		  "name" : "Left Harpoon With Barb Down Above Right Harpoon With Barb Down",
+		  "slug" : "left-harpoon-with-barb-down-above-right-harpoon-with-barb-down",
 		  "unicode" : "U+02967",
 		  "hex_code" : "#x2967;",
 		  "html_code" : "#10599;",
@@ -3263,8 +3263,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Harpoon With Barb Up Above Leftwards Harpoon With Barb Up",
-		  "slug" : "rightwards-harpoon-with-barb-up-above-leftwards-harpoon-with-barb-up",
+		  "name" : "Right Harpoon With Barb Up Above Left Harpoon With Barb Up",
+		  "slug" : "right-harpoon-with-barb-up-above-left-harpoon-with-barb-up",
 		  "unicode" : "U+02968",
 		  "hex_code" : "#x2968;",
 		  "html_code" : "#10600;",
@@ -3277,8 +3277,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Harpoon With Barb Down Above Leftwards Harpoon With Barb Down",
-		  "slug" : "rightwards-harpoon-with-barb-down-above-leftwards-harpoon-with-barb-down",
+		  "name" : "Right Harpoon With Barb Down Above Left Harpoon With Barb Down",
+		  "slug" : "right-harpoon-with-barb-down-above-left-harpoon-with-barb-down",
 		  "unicode" : "U+02969",
 		  "hex_code" : "#x2969;",
 		  "html_code" : "#10601;",
@@ -3291,8 +3291,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Harpoon With Barb Up Above Long Dash",
-		  "slug" : "leftwards-harpoon-with-barb-up-above-long-dash",
+		  "name" : "Left Harpoon With Barb Up Above Long Dash",
+		  "slug" : "left-harpoon-with-barb-up-above-long-dash",
 		  "unicode" : "U+0296A",
 		  "hex_code" : "#x296A;",
 		  "html_code" : "#10602;",
@@ -3305,8 +3305,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Harpoon With Barb Down Below Long Dash",
-		  "slug" : "leftwards-harpoon-with-barb-down-below-long-dash",
+		  "name" : "Left Harpoon With Barb Down Below Long Dash",
+		  "slug" : "left-harpoon-with-barb-down-below-long-dash",
 		  "unicode" : "U+0296B",
 		  "hex_code" : "#x296B;",
 		  "html_code" : "#10603;",
@@ -3319,8 +3319,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Harpoon With Barb Up Above Long Dash",
-		  "slug" : "rightwards-harpoon-with-barb-up-above-long-dash",
+		  "name" : "Right Harpoon With Barb Up Above Long Dash",
+		  "slug" : "right-harpoon-with-barb-up-above-long-dash",
 		  "unicode" : "U+0296C",
 		  "hex_code" : "#x296C;",
 		  "html_code" : "#10604;",
@@ -3333,8 +3333,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Harpoon With Barb Down Below Long Dash",
-		  "slug" : "rightwards-harpoon-with-barb-down-below-long-dash",
+		  "name" : "Right Harpoon With Barb Down Below Long Dash",
+		  "slug" : "right-harpoon-with-barb-down-below-long-dash",
 		  "unicode" : "U+0296D",
 		  "hex_code" : "#x296D;",
 		  "html_code" : "#10605;",
@@ -3347,8 +3347,8 @@
 		  ]
 		},
 		{
-		  "name" : "Upwards Harpoon With Barb Left Beside Downwards Harpoon With Barb Right",
-		  "slug" : "upwards-harpoon-with-barb-left-beside-downwards-harpoon-with-barb-right",
+		  "name" : "Up Harpoon With Barb Left Beside Down Harpoon With Barb Right",
+		  "slug" : "up-harpoon-with-barb-left-beside-down-harpoon-with-barb-right",
 		  "unicode" : "U+0296E",
 		  "hex_code" : "#x296E;",
 		  "html_code" : "#10606;",
@@ -3361,8 +3361,8 @@
 		  ]
 		},
 		{
-		  "name" : "Downwards Harpoon With Barb Left Beside Upwards Harpoon With Barb Right",
-		  "slug" : "downwards-harpoon-with-barb-left-beside-upwards-harpoon-with-barb-right",
+		  "name" : "Down Harpoon With Barb Left Beside Up Harpoon With Barb Right",
+		  "slug" : "down-harpoon-with-barb-left-beside-up-harpoon-with-barb-right",
 		  "unicode" : "U+0296F",
 		  "hex_code" : "#x296F;",
 		  "html_code" : "#10607;",
@@ -3389,8 +3389,8 @@
 		  ]
 		},
 		{
-		  "name" : "Equals Sign Above Rightwards Arrow",
-		  "slug" : "equals-sign-above-rightwards-arrow",
+		  "name" : "Equals Sign Above Right Arrow",
+		  "slug" : "equals-sign-above-right-arrow",
 		  "unicode" : "U+02971",
 		  "hex_code" : "#x2971;",
 		  "html_code" : "#10609;",
@@ -3403,8 +3403,8 @@
 		  ]
 		},
 		{
-		  "name" : "Tilde Operator Above Rightwards Arrow",
-		  "slug" : "tilde-operator-above-rightwards-arrow",
+		  "name" : "Tilde Operator Above Right Arrow",
+		  "slug" : "tilde-operator-above-right-arrow",
 		  "unicode" : "U+02972",
 		  "hex_code" : "#x2972;",
 		  "html_code" : "#10610;",
@@ -3417,8 +3417,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow Above Tilde Operator",
-		  "slug" : "leftwards-arrow-above-tilde-operator",
+		  "name" : "Left Arrow Above Tilde Operator",
+		  "slug" : "left-arrow-above-tilde-operator",
 		  "unicode" : "U+02973",
 		  "hex_code" : "#x2973;",
 		  "html_code" : "#10611;",
@@ -3431,8 +3431,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow Above Tilde Operator",
-		  "slug" : "rightwards-arrow-above-tilde-operator",
+		  "name" : "Right Arrow Above Tilde Operator",
+		  "slug" : "right-arrow-above-tilde-operator",
 		  "unicode" : "U+02974",
 		  "hex_code" : "#x2974;",
 		  "html_code" : "#10612;",
@@ -3445,8 +3445,8 @@
 		  ]
 		},
 		{
-		  "name" : "Rightwards Arrow Above Almost Equal To",
-		  "slug" : "rightwards-arrow-above-almost-equal-to",
+		  "name" : "Right Arrow Above Almost Equal To",
+		  "slug" : "right-arrow-above-almost-equal-to",
 		  "unicode" : "U+02975",
 		  "hex_code" : "#x2975;",
 		  "html_code" : "#10613;",
@@ -3459,8 +3459,8 @@
 		  ]
 		},
 		{
-		  "name" : "Less-Than Above Leftwards Arrow",
-		  "slug" : "less-than-above-leftwards-arrow",
+		  "name" : "Less-Than Above Left Arrow",
+		  "slug" : "less-than-above-left-arrow",
 		  "unicode" : "U+02976",
 		  "hex_code" : "#x2976;",
 		  "html_code" : "#10614;",
@@ -3473,8 +3473,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow Through Less-Than",
-		  "slug" : "leftwards-arrow-through-less-than",
+		  "name" : "Left Arrow Through Less-Than",
+		  "slug" : "left-arrow-through-less-than",
 		  "unicode" : "U+02977",
 		  "hex_code" : "#x2977;",
 		  "html_code" : "#10615;",
@@ -3487,8 +3487,8 @@
 		  ]
 		},
 		{
-		  "name" : "Greater-Than Above Rightwards Arrow",
-		  "slug" : "greater-than-above-rightwards-arrow",
+		  "name" : "Greater-Than Above Right Arrow",
+		  "slug" : "greater-than-above-right-arrow",
 		  "unicode" : "U+02978",
 		  "hex_code" : "#x2978;",
 		  "html_code" : "#10616;",
@@ -3501,8 +3501,8 @@
 		  ]
 		},
 		{
-		  "name" : "Subset Above Rightwards Arrow",
-		  "slug" : "subset-above-rightwards-arrow",
+		  "name" : "Subset Above Right Arrow",
+		  "slug" : "subset-above-right-arrow",
 		  "unicode" : "U+02979",
 		  "hex_code" : "#x2979;",
 		  "html_code" : "#10617;",
@@ -3515,8 +3515,8 @@
 		  ]
 		},
 		{
-		  "name" : "Leftwards Arrow Through Subset",
-		  "slug" : "leftwards-arrow-through-subset",
+		  "name" : "Left Arrow Through Subset",
+		  "slug" : "left-arrow-through-subset",
 		  "unicode" : "U+0297A",
 		  "hex_code" : "#x297A;",
 		  "html_code" : "#10618;",
@@ -3529,8 +3529,8 @@
 		  ]
 		},
 		{
-		  "name" : "Superset Above Leftwards Arrow",
-		  "slug" : "superset-above-leftwards-arrow",
+		  "name" : "Superset Above Left Arrow",
+		  "slug" : "superset-above-left-arrow",
 		  "unicode" : "U+0297B",
 		  "hex_code" : "#x297B;",
 		  "html_code" : "#10619;",
@@ -3599,8 +3599,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Wide-Headed Rightwards Arrow",
-		  "slug" : "heavy-wide-headed-rightwards-arrow",
+		  "name" : "Heavy Wide-Headed Right Arrow",
+		  "slug" : "heavy-wide-headed-right-arrow",
 		  "unicode" : "U+02794",
 		  "hex_code" : "#x2794;",
 		  "html_code" : "#10132;",
@@ -3627,8 +3627,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Rightwards Arrow",
-		  "slug" : "heavy-rightwards-arrow",
+		  "name" : "Heavy Right Arrow",
+		  "slug" : "heavy-right-arrow",
 		  "unicode" : "U+02799",
 		  "hex_code" : "#x2799;",
 		  "html_code" : "#10137;",
@@ -3655,8 +3655,8 @@
 		  ]
 		},
 		{
-		  "name" : "Drafting Point Rightwards Arrow",
-		  "slug" : "drafting-point-rightwards-arrow",
+		  "name" : "Drafting Point Right Arrow",
+		  "slug" : "drafting-point-right-arrow",
 		  "unicode" : "U+0279B",
 		  "hex_code" : "#x279B;",
 		  "html_code" : "#10139;",
@@ -3669,8 +3669,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Round-Tipped Rightwards Arrow",
-		  "slug" : "heavy-round-tipped-rightwards-arrow",
+		  "name" : "Heavy Round-Tipped Right Arrow",
+		  "slug" : "heavy-round-tipped-right-arrow",
 		  "unicode" : "U+0279C",
 		  "hex_code" : "#x279C;",
 		  "html_code" : "#10140;",
@@ -3683,8 +3683,8 @@
 		  ]
 		},
 		{
-		  "name" : "Triangle-Headed Rightwards Arrow",
-		  "slug" : "triangle-headed-rightwards-arrow",
+		  "name" : "Triangle-Headed Right Arrow",
+		  "slug" : "triangle-headed-right-arrow",
 		  "unicode" : "U+0279D",
 		  "hex_code" : "#x279D;",
 		  "html_code" : "#10141;",
@@ -3697,8 +3697,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Triangle-Headed Rightwards Arrow",
-		  "slug" : "heavy-triangle-headed-rightwards-arrow",
+		  "name" : "Heavy Triangle-Headed Right Arrow",
+		  "slug" : "heavy-triangle-headed-right-arrow",
 		  "unicode" : "U+0279E",
 		  "hex_code" : "#x279E;",
 		  "html_code" : "#10142;",
@@ -3711,8 +3711,8 @@
 		  ]
 		},
 		{
-		  "name" : "Dashed Triangle-Headed Rightwards Arrow",
-		  "slug" : "dashed-triangle-headed-rightwards-arrow",
+		  "name" : "Dashed Triangle-Headed Right Arrow",
+		  "slug" : "dashed-triangle-headed-right-arrow",
 		  "unicode" : "U+0279F",
 		  "hex_code" : "#x279F;",
 		  "html_code" : "#10143;",
@@ -3725,8 +3725,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Dashed Triangle-Headed Rightwards Arrow",
-		  "slug" : "heavy-dashed-triangle-headed-rightwards-arrow",
+		  "name" : "Heavy Dashed Triangle-Headed Right Arrow",
+		  "slug" : "heavy-dashed-triangle-headed-right-arrow",
 		  "unicode" : "U+027A0",
 		  "hex_code" : "#x27A0;",
 		  "html_code" : "#10144;",
@@ -3739,8 +3739,8 @@
 		  ]
 		},
 		{
-		  "name" : "Black Rightwards Arrow",
-		  "slug" : "black-rightwards-arrow",
+		  "name" : "Black Right Arrow",
+		  "slug" : "black-right-arrow",
 		  "unicode" : "U+027A1",
 		  "hex_code" : "#x27A1;",
 		  "html_code" : "#10145;",
@@ -3753,8 +3753,8 @@
 		  ]
 		},
 		{
-		  "name" : "Three-D Top-Lighted Rightwards Arrowhead",
-		  "slug" : "three-d-top-lighted-rightwards-arrowhead",
+		  "name" : "Three-D Top-Lighted Right Arrowhead",
+		  "slug" : "three-d-top-lighted-right-arrowhead",
 		  "unicode" : "U+027A2",
 		  "hex_code" : "#x27A2;",
 		  "html_code" : "#10146;",
@@ -3767,8 +3767,8 @@
 		  ]
 		},
 		{
-		  "name" : "Three-D Bottom-Lighted Rightwards Arrowhead",
-		  "slug" : "three-d-bottom-lighted-rightwards-arrowhead",
+		  "name" : "Three-D Bottom-Lighted Right Arrowhead",
+		  "slug" : "three-d-bottom-lighted-right-arrowhead",
 		  "unicode" : "U+027A3",
 		  "hex_code" : "#x27A3;",
 		  "html_code" : "#10147;",
@@ -3781,8 +3781,8 @@
 		  ]
 		},
 		{
-		  "name" : "Black Rightwards Arrowhead",
-		  "slug" : "black-rightwards-arrowhead",
+		  "name" : "Black Right Arrowhead",
+		  "slug" : "black-right-arrowhead",
 		  "unicode" : "U+027A4",
 		  "hex_code" : "#x27A4;",
 		  "html_code" : "#10148;",
@@ -3795,8 +3795,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Black Curved Downwards and Rightwards Arrow",
-		  "slug" : "heavy-black-curved-downwards-and-rightwards-arrow",
+		  "name" : "Heavy Black Curved Down and Right Arrow",
+		  "slug" : "heavy-black-curved-down-and-right-arrow",
 		  "unicode" : "U+027A5",
 		  "hex_code" : "#x27A5;",
 		  "html_code" : "#10149;",
@@ -3809,8 +3809,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Black Curved Upwards and Rightwards Arrow",
-		  "slug" : "heavy-black-curved-upwards-and-rightwards-arrow",
+		  "name" : "Heavy Black Curved Up and Right Arrow",
+		  "slug" : "heavy-black-curved-up-and-right-arrow",
 		  "unicode" : "U+027A6",
 		  "hex_code" : "#x27A6;",
 		  "html_code" : "#10150;",
@@ -3823,8 +3823,8 @@
 		  ]
 		},
 		{
-		  "name" : "Squat Black Rightwards Arrow",
-		  "slug" : "squat-black-rightwards-arrow",
+		  "name" : "Squat Black Right Arrow",
+		  "slug" : "squat-black-right-arrow",
 		  "unicode" : "U+027A7",
 		  "hex_code" : "#x27A7;",
 		  "html_code" : "#10151;",
@@ -3837,8 +3837,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Concave-Pointed Black Rightwards Arrow",
-		  "slug" : "heavy-concave-pointed-black-rightwards-arrow",
+		  "name" : "Heavy Concave-Pointed Black Right Arrow",
+		  "slug" : "heavy-concave-pointed-black-right-arrow",
 		  "unicode" : "U+027A8",
 		  "hex_code" : "#x27A8;",
 		  "html_code" : "#10152;",
@@ -3851,8 +3851,8 @@
 		  ]
 		},
 		{
-		  "name" : "Right-Shaded White Rightwards Arrow",
-		  "slug" : "right-shaded-white-rightwards-arrow",
+		  "name" : "Right-Shaded White Right Arrow",
+		  "slug" : "right-shaded-white-right-arrow",
 		  "unicode" : "U+027A9",
 		  "hex_code" : "#x27A9;",
 		  "html_code" : "#10153;",
@@ -3865,8 +3865,8 @@
 		  ]
 		},
 		{
-		  "name" : "Left-Shaded White Rightwards Arrow",
-		  "slug" : "left-shaded-white-rightwards-arrow",
+		  "name" : "Left-Shaded White Right Arrow",
+		  "slug" : "left-shaded-white-right-arrow",
 		  "unicode" : "U+027AA",
 		  "hex_code" : "#x27AA;",
 		  "html_code" : "#10154;",
@@ -3879,8 +3879,8 @@
 		  ]
 		},
 		{
-		  "name" : "Back-Tilted Shadowed White Rightwards Arrow",
-		  "slug" : "back-tilted-shadowed-white-rightwards-arrow",
+		  "name" : "Back-Tilted Shadowed White Right Arrow",
+		  "slug" : "back-tilted-shadowed-white-right-arrow",
 		  "unicode" : "U+027AB",
 		  "hex_code" : "#x27AB;",
 		  "html_code" : "#10155;",
@@ -3893,8 +3893,8 @@
 		  ]
 		},
 		{
-		  "name" : "Front-Tilted Shadowed White Rightwards Arrow",
-		  "slug" : "front-tilted-shadowed-white-rightwards-arrow",
+		  "name" : "Front-Tilted Shadowed White Right Arrow",
+		  "slug" : "front-tilted-shadowed-white-right-arrow",
 		  "unicode" : "U+027AC",
 		  "hex_code" : "#x27AC;",
 		  "html_code" : "#10156;",
@@ -3907,8 +3907,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Lower Right-Shadowed White Rightwards Arrow",
-		  "slug" : "heavy-lower-right-shadowed-white-rightwards-arrow",
+		  "name" : "Heavy Lower Right-Shadowed White Right Arrow",
+		  "slug" : "heavy-lower-right-shadowed-white-right-arrow",
 		  "unicode" : "U+027AD",
 		  "hex_code" : "#x27AD;",
 		  "html_code" : "#10157;",
@@ -3921,8 +3921,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Upper Right-Shadowed White Rightwards Arrow",
-		  "slug" : "heavy-upper-right-shadowed-white-rightwards-arrow",
+		  "name" : "Heavy Upper Right-Shadowed White Right Arrow",
+		  "slug" : "heavy-upper-right-shadowed-white-right-arrow",
 		  "unicode" : "U+027AE",
 		  "hex_code" : "#x27AE;",
 		  "html_code" : "#10158;",
@@ -3935,8 +3935,8 @@
 		  ]
 		},
 		{
-		  "name" : "Notched Lower Right-Shadowed White Rightwards Arrow",
-		  "slug" : "notched-lower-right-shadowed-white-rightwards-arrow",
+		  "name" : "Notched Lower Right-Shadowed White Right Arrow",
+		  "slug" : "notched-lower-right-shadowed-white-right-arrow",
 		  "unicode" : "U+027AF",
 		  "hex_code" : "#x27AF;",
 		  "html_code" : "#10159;",
@@ -3949,8 +3949,8 @@
 		  ]
 		},
 		{
-		  "name" : "Notched Upper Right-Shadowed White Rightwards Arrow",
-		  "slug" : "notched-upper-right-shadowed-white-rightwards-arrow",
+		  "name" : "Notched Upper Right-Shadowed White Right Arrow",
+		  "slug" : "notched-upper-right-shadowed-white-right-arrow",
 		  "unicode" : "U+027B1",
 		  "hex_code" : "#x27B1;",
 		  "html_code" : "#10161;",
@@ -3963,8 +3963,8 @@
 		  ]
 		},
 		{
-		  "name" : "Circled Heavy White Rightwards Arrow",
-		  "slug" : "circled-heavy-white-rightwards-arrow",
+		  "name" : "Circled Heavy White Right Arrow",
+		  "slug" : "circled-heavy-white-right-arrow",
 		  "unicode" : "U+027B2",
 		  "hex_code" : "#x27B2;",
 		  "html_code" : "#10162;",
@@ -3977,8 +3977,8 @@
 		  ]
 		},
 		{
-		  "name" : "White-Feathered Rightwards Arrow",
-		  "slug" : "white-feathered-rightwards-arrow",
+		  "name" : "White-Feathered Right Arrow",
+		  "slug" : "white-feathered-right-arrow",
 		  "unicode" : "U+027B3",
 		  "hex_code" : "#x27B3;",
 		  "html_code" : "#10163;",
@@ -4005,8 +4005,8 @@
 		  ]
 		},
 		{
-		  "name" : "Black-Feathered Rightwards Arrow",
-		  "slug" : "black-feathered-rightwards-arrow",
+		  "name" : "Black-Feathered Right Arrow",
+		  "slug" : "black-feathered-right-arrow",
 		  "unicode" : "U+027B5",
 		  "hex_code" : "#x27B5;",
 		  "html_code" : "#10165;",
@@ -4047,8 +4047,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Black-Feathered Rightwards Arrow",
-		  "slug" : "heavy-black-feathered-rightwards-arrow",
+		  "name" : "Heavy Black-Feathered Right Arrow",
+		  "slug" : "heavy-black-feathered-right-arrow",
 		  "unicode" : "U+027B8",
 		  "hex_code" : "#x27B8;",
 		  "html_code" : "#10168;",
@@ -4075,8 +4075,8 @@
 		  ]
 		},
 		{
-		  "name" : "Teardrop-Barbed Rightwards Arrow",
-		  "slug" : "teardrop-barbed-rightwards-arrow",
+		  "name" : "Teardrop-Barbed Right Arrow",
+		  "slug" : "teardrop-barbed-right-arrow",
 		  "unicode" : "U+027BA",
 		  "hex_code" : "#x27BA;",
 		  "html_code" : "#10170;",
@@ -4089,8 +4089,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Teardrop-Shanked Rightwards Arrow",
-		  "slug" : "heavy-teardrop-shanked-rightwards-arrow",
+		  "name" : "Heavy Teardrop-Shanked Right Arrow",
+		  "slug" : "heavy-teardrop-shanked-right-arrow",
 		  "unicode" : "U+027BB",
 		  "hex_code" : "#x27BB;",
 		  "html_code" : "#10171;",
@@ -4103,8 +4103,8 @@
 		  ]
 		},
 		{
-		  "name" : "Wedge-Tailed Rightwards Arrow",
-		  "slug" : "wedge-tailed-rightwards-arrow",
+		  "name" : "Wedge-Tailed Right Arrow",
+		  "slug" : "wedge-tailed-right-arrow",
 		  "unicode" : "U+027BC",
 		  "hex_code" : "#x27BC;",
 		  "html_code" : "#10172;",
@@ -4117,8 +4117,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Wedge-Tailed Rightwards Arrow",
-		  "slug" : "heavy-wedge-tailed-rightwards-arrow",
+		  "name" : "Heavy Wedge-Tailed Right Arrow",
+		  "slug" : "heavy-wedge-tailed-right-arrow",
 		  "unicode" : "U+027BD",
 		  "hex_code" : "#x27BD;",
 		  "html_code" : "#10173;",
@@ -4131,8 +4131,8 @@
 		  ]
 		},
 		{
-		  "name" : "Open-Outlined Rightwards Arrow",
-		  "slug" : "open-outlined-rightwards-arrow",
+		  "name" : "Open-Outlined Right Arrow",
+		  "slug" : "open-outlined-right-arrow",
 		  "unicode" : "U+027BE",
 		  "hex_code" : "#x27BE;",
 		  "html_code" : "#10174;",

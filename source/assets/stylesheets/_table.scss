@@ -48,6 +48,9 @@ section.table {
 	div.codes {
 		float:left;
 		width: 62.5%;
+		h6 {
+			display: none;
+		}
 	}
 
 	code {
@@ -138,6 +141,52 @@ section.table {
 		margin-top: 1.5em;
 		code {
 			@include font-size($font-size-base);
+		}
+	}
+}
+
+//--- tablet(h) and desktop only styles ---//
+@media screen and (min-width: 48.063em) {
+	section.table {
+		&.home div.symbol a {
+			&:hover {
+				color: lighten($color-home, 15%);
+			}
+		}
+		&.arrows div.symbol a {
+			&:hover {
+				color: lighten($color-arrows, 15%);
+			}
+		}
+		&.currency div.symbol a {
+			&:hover {
+				color: lighten($color-currency, 15%);
+			}
+		}
+		&.letters div.symbol a {
+			&:hover {
+				color: lighten($color-letters, 15%);
+			}
+		}
+		&.math div.symbol a {
+			&:hover {
+				color: lighten($color-math, 15%);
+			}
+		}
+		&.numbers div.symbol a {
+			&:hover {
+				color: lighten($color-numbers, 15%);
+			}
+		}
+		&.punctuation div.symbol a {
+			&:hover {
+				color: lighten($color-punctuation, 15%);
+			}
+		}
+		&.symbols div.symbol a {
+			&:hover {
+				color: lighten($color-symbols, 15%);
+			}
 		}
 	}
 }

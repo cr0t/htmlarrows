@@ -1415,8 +1415,8 @@
 		  ]
 		},
 		{
-		  "name" : "Black Leftwards Bullet",
-		  "slug" : "black-leftwards-bullet",
+		  "name" : "Black Left Bullet",
+		  "slug" : "black-left-bullet",
 		  "unicode" : "U+0204C",
 		  "hex_code" : "#x204C;",
 		  "html_code" : "#8268;",
@@ -1429,8 +1429,8 @@
 		  ]
 		},
 		{
-		  "name" : "Black Rightwards Bullet",
-		  "slug" : "black-rightwards-bullet",
+		  "name" : "Black Right Bullet",
+		  "slug" : "black-right-bullet",
 		  "unicode" : "U+0204D",
 		  "hex_code" : "#x204D;",
 		  "html_code" : "#8269;",

@@ -1,8 +1,8 @@
 {
 	"entities" : [
 		{
-			"name" : "Leftwards Arrow",
-			"slug" : "leftwards-arrow",
+			"name" : "Left Arrow",
+			"slug" : "left-arrow",
 			"unicode" : "U+02190",
 			"hex_code" : "#x2190;",
 			"html_code" : "#8592;",
@@ -15,8 +15,8 @@
 			]
 		},
 		{
-			"name" : "Upwards Arrow",
-			"slug" : "upwards-arrow",
+			"name" : "Up Arrow",
+			"slug" : "up-arrow",
 			"unicode" : "U+02191",
 			"hex_code" : "#x2191;",
 			"html_code" : "#8593;",
@@ -29,8 +29,8 @@
 			]
 		},
 		{
-			"name" : "Rightwards Arrow",
-			"slug" : "rightwards-arrow",
+			"name" : "Right Arrow",
+			"slug" : "right-arrow",
 			"unicode" : "U+02192",
 			"hex_code" : "#x2192;",
 			"html_code" : "#8594;",
@@ -43,8 +43,8 @@
 			]
 		},
 		{
-			"name" : "Downwards Arrow",
-			"slug" : "downwards-arrow",
+			"name" : "Down Arrow",
+			"slug" : "down-arrow",
 			"unicode" : "U+02193",
 			"hex_code" : "#x2193;",
 			"html_code" : "#8595;",

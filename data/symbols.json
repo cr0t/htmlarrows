@@ -5321,8 +5321,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Wide-Headed Rightwards Arrow",
-		  "slug" : "heavy-wide-headed-rightwards-arrow",
+		  "name" : "Heavy Wide-Headed Right Arrow",
+		  "slug" : "heavy-wide-headed-right-arrow",
 		  "unicode" : "U+02794",
 		  "hex_code" : "#x2794;",
 		  "html_code" : "#10132;",
@@ -5349,8 +5349,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Rightwards Arrow",
-		  "slug" : "heavy-rightwards-arrow",
+		  "name" : "Heavy Right Arrow",
+		  "slug" : "heavy-right-arrow",
 		  "unicode" : "U+02799",
 		  "hex_code" : "#x2799;",
 		  "html_code" : "#10137;",
@@ -5377,8 +5377,8 @@
 		  ]
 		},
 		{
-		  "name" : "Drafting Point Rightwards Arrow",
-		  "slug" : "drafting-point-rightwards-arrow",
+		  "name" : "Drafting Point Right Arrow",
+		  "slug" : "drafting-point-right-arrow",
 		  "unicode" : "U+0279B",
 		  "hex_code" : "#x279B;",
 		  "html_code" : "#10139;",
@@ -5391,8 +5391,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Round-Tipped Rightwards Arrow",
-		  "slug" : "heavy-round-tipped-rightwards-arrow",
+		  "name" : "Heavy Round-Tipped Right Arrow",
+		  "slug" : "heavy-round-tipped-right-arrow",
 		  "unicode" : "U+0279C",
 		  "hex_code" : "#x279C;",
 		  "html_code" : "#10140;",
@@ -5405,8 +5405,8 @@
 		  ]
 		},
 		{
-		  "name" : "Triangle-Headed Rightwards Arrow",
-		  "slug" : "triangle-headed-rightwards-arrow",
+		  "name" : "Triangle-Headed Right Arrow",
+		  "slug" : "triangle-headed-right-arrow",
 		  "unicode" : "U+0279D",
 		  "hex_code" : "#x279D;",
 		  "html_code" : "#10141;",
@@ -5419,8 +5419,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Triangle-Headed Rightwards Arrow",
-		  "slug" : "heavy-triangle-headed-rightwards-arrow",
+		  "name" : "Heavy Triangle-Headed Right Arrow",
+		  "slug" : "heavy-triangle-headed-right-arrow",
 		  "unicode" : "U+0279E",
 		  "hex_code" : "#x279E;",
 		  "html_code" : "#10142;",
@@ -5433,8 +5433,8 @@
 		  ]
 		},
 		{
-		  "name" : "Dashed Triangle-Headed Rightwards Arrow",
-		  "slug" : "dashed-triangle-headed-rightwards-arrow",
+		  "name" : "Dashed Triangle-Headed Right Arrow",
+		  "slug" : "dashed-triangle-headed-right-arrow",
 		  "unicode" : "U+0279F",
 		  "hex_code" : "#x279F;",
 		  "html_code" : "#10143;",
@@ -5447,8 +5447,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Dashed Triangle-Headed Rightwards Arrow",
-		  "slug" : "heavy-dashed-triangle-headed-rightwards-arrow",
+		  "name" : "Heavy Dashed Triangle-Headed Right Arrow",
+		  "slug" : "heavy-dashed-triangle-headed-right-arrow",
 		  "unicode" : "U+027A0",
 		  "hex_code" : "#x27A0;",
 		  "html_code" : "#10144;",
@@ -5461,8 +5461,8 @@
 		  ]
 		},
 		{
-		  "name" : "Black Rightwards Arrow",
-		  "slug" : "black-rightwards-arrow",
+		  "name" : "Black Right Arrow",
+		  "slug" : "black-right-arrow",
 		  "unicode" : "U+027A1",
 		  "hex_code" : "#x27A1;",
 		  "html_code" : "#10145;",
@@ -5475,8 +5475,8 @@
 		  ]
 		},
 		{
-		  "name" : "Three-D Top-Lighted Rightwards Arrowhead",
-		  "slug" : "three-d-top-lighted-rightwards-arrowhead",
+		  "name" : "Three-D Top-Lighted Right Arrowhead",
+		  "slug" : "three-d-top-lighted-right-arrowhead",
 		  "unicode" : "U+027A2",
 		  "hex_code" : "#x27A2;",
 		  "html_code" : "#10146;",
@@ -5489,8 +5489,8 @@
 		  ]
 		},
 		{
-		  "name" : "Three-D Bottom-Lighted Rightwards Arrowhead",
-		  "slug" : "three-d-bottom-lighted-rightwards-arrowhead",
+		  "name" : "Three-D Bottom-Lighted Right Arrowhead",
+		  "slug" : "three-d-bottom-lighted-right-arrowhead",
 		  "unicode" : "U+027A3",
 		  "hex_code" : "#x27A3;",
 		  "html_code" : "#10147;",
@@ -5503,8 +5503,8 @@
 		  ]
 		},
 		{
-		  "name" : "Black Rightwards Arrowhead",
-		  "slug" : "black-rightwards-arrowhead",
+		  "name" : "Black Right Arrowhead",
+		  "slug" : "black-right-arrowhead",
 		  "unicode" : "U+027A4",
 		  "hex_code" : "#x27A4;",
 		  "html_code" : "#10148;",
@@ -5517,8 +5517,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Black Curved Downwards and Rightwards Arrow",
-		  "slug" : "heavy-black-curved-downwards-and-rightwards-arrow",
+		  "name" : "Heavy Black Curved Down and Right Arrow",
+		  "slug" : "heavy-black-curved-down-and-right-arrow",
 		  "unicode" : "U+027A5",
 		  "hex_code" : "#x27A5;",
 		  "html_code" : "#10149;",
@@ -5531,8 +5531,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Black Curved Upwards and Rightwards Arrow",
-		  "slug" : "heavy-black-curved-upwards-and-rightwards-arrow",
+		  "name" : "Heavy Black Curved Up and Right Arrow",
+		  "slug" : "heavy-black-curved-up-and-right-arrow",
 		  "unicode" : "U+027A6",
 		  "hex_code" : "#x27A6;",
 		  "html_code" : "#10150;",
@@ -5545,8 +5545,8 @@
 		  ]
 		},
 		{
-		  "name" : "Squat Black Rightwards Arrow",
-		  "slug" : "squat-black-rightwards-arrow",
+		  "name" : "Squat Black Right Arrow",
+		  "slug" : "squat-black-right-arrow",
 		  "unicode" : "U+027A7",
 		  "hex_code" : "#x27A7;",
 		  "html_code" : "#10151;",
@@ -5559,8 +5559,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Concave-Pointed Black Rightwards Arrow",
-		  "slug" : "heavy-concave-pointed-black-rightwards-arrow",
+		  "name" : "Heavy Concave-Pointed Black Right Arrow",
+		  "slug" : "heavy-concave-pointed-black-right-arrow",
 		  "unicode" : "U+027A8",
 		  "hex_code" : "#x27A8;",
 		  "html_code" : "#10152;",
@@ -5573,8 +5573,8 @@
 		  ]
 		},
 		{
-		  "name" : "Right-Shaded White Rightwards Arrow",
-		  "slug" : "right-shaded-white-rightwards-arrow",
+		  "name" : "Right-Shaded White Right Arrow",
+		  "slug" : "right-shaded-white-right-arrow",
 		  "unicode" : "U+027A9",
 		  "hex_code" : "#x27A9;",
 		  "html_code" : "#10153;",
@@ -5587,8 +5587,8 @@
 		  ]
 		},
 		{
-		  "name" : "Left-Shaded White Rightwards Arrow",
-		  "slug" : "left-shaded-white-rightwards-arrow",
+		  "name" : "Left-Shaded White Right Arrow",
+		  "slug" : "left-shaded-white-right-arrow",
 		  "unicode" : "U+027AA",
 		  "hex_code" : "#x27AA;",
 		  "html_code" : "#10154;",
@@ -5601,8 +5601,8 @@
 		  ]
 		},
 		{
-		  "name" : "Back-Tilted Shadowed White Rightwards Arrow",
-		  "slug" : "back-tilted-shadowed-white-rightwards-arrow",
+		  "name" : "Back-Tilted Shadowed White Right Arrow",
+		  "slug" : "back-tilted-shadowed-white-right-arrow",
 		  "unicode" : "U+027AB",
 		  "hex_code" : "#x27AB;",
 		  "html_code" : "#10155;",
@@ -5615,8 +5615,8 @@
 		  ]
 		},
 		{
-		  "name" : "Front-Tilted Shadowed White Rightwards Arrow",
-		  "slug" : "front-tilted-shadowed-white-rightwards-arrow",
+		  "name" : "Front-Tilted Shadowed White Right Arrow",
+		  "slug" : "front-tilted-shadowed-white-right-arrow",
 		  "unicode" : "U+027AC",
 		  "hex_code" : "#x27AC;",
 		  "html_code" : "#10156;",
@@ -5629,8 +5629,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Lower Right-Shadowed White Rightwards Arrow",
-		  "slug" : "heavy-lower-right-shadowed-white-rightwards-arrow",
+		  "name" : "Heavy Lower Right-Shadowed White Right Arrow",
+		  "slug" : "heavy-lower-right-shadowed-white-right-arrow",
 		  "unicode" : "U+027AD",
 		  "hex_code" : "#x27AD;",
 		  "html_code" : "#10157;",
@@ -5643,8 +5643,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Upper Right-Shadowed White Rightwards Arrow",
-		  "slug" : "heavy-upper-right-shadowed-white-rightwards-arrow",
+		  "name" : "Heavy Upper Right-Shadowed White Right Arrow",
+		  "slug" : "heavy-upper-right-shadowed-white-right-arrow",
 		  "unicode" : "U+027AE",
 		  "hex_code" : "#x27AE;",
 		  "html_code" : "#10158;",
@@ -5657,8 +5657,8 @@
 		  ]
 		},
 		{
-		  "name" : "Notched Lower Right-Shadowed White Rightwards Arrow",
-		  "slug" : "notched-lower-right-shadowed-white-rightwards-arrow",
+		  "name" : "Notched Lower Right-Shadowed White Right Arrow",
+		  "slug" : "notched-lower-right-shadowed-white-right-arrow",
 		  "unicode" : "U+027AF",
 		  "hex_code" : "#x27AF;",
 		  "html_code" : "#10159;",
@@ -5671,8 +5671,8 @@
 		  ]
 		},
 		{
-		  "name" : "Notched Upper Right-Shadowed White Rightwards Arrow",
-		  "slug" : "notched-upper-right-shadowed-white-rightwards-arrow",
+		  "name" : "Notched Upper Right-Shadowed White Right Arrow",
+		  "slug" : "notched-upper-right-shadowed-white-right-arrow",
 		  "unicode" : "U+027B1",
 		  "hex_code" : "#x27B1;",
 		  "html_code" : "#10161;",
@@ -5685,8 +5685,8 @@
 		  ]
 		},
 		{
-		  "name" : "Circled Heavy White Rightwards Arrow",
-		  "slug" : "circled-heavy-white-rightwards-arrow",
+		  "name" : "Circled Heavy White Right Arrow",
+		  "slug" : "circled-heavy-white-right-arrow",
 		  "unicode" : "U+027B2",
 		  "hex_code" : "#x27B2;",
 		  "html_code" : "#10162;",
@@ -5699,8 +5699,8 @@
 		  ]
 		},
 		{
-		  "name" : "White-Feathered Rightwards Arrow",
-		  "slug" : "white-feathered-rightwards-arrow",
+		  "name" : "White-Feathered Right Arrow",
+		  "slug" : "white-feathered-right-arrow",
 		  "unicode" : "U+027B3",
 		  "hex_code" : "#x27B3;",
 		  "html_code" : "#10163;",
@@ -5727,8 +5727,8 @@
 		  ]
 		},
 		{
-		  "name" : "Black-Feathered Rightwards Arrow",
-		  "slug" : "black-feathered-rightwards-arrow",
+		  "name" : "Black-Feathered Right Arrow",
+		  "slug" : "black-feathered-right-arrow",
 		  "unicode" : "U+027B5",
 		  "hex_code" : "#x27B5;",
 		  "html_code" : "#10165;",
@@ -5769,8 +5769,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Black-Feathered Rightwards Arrow",
-		  "slug" : "heavy-black-feathered-rightwards-arrow",
+		  "name" : "Heavy Black-Feathered Right Arrow",
+		  "slug" : "heavy-black-feathered-right-arrow",
 		  "unicode" : "U+027B8",
 		  "hex_code" : "#x27B8;",
 		  "html_code" : "#10168;",
@@ -5797,8 +5797,8 @@
 		  ]
 		},
 		{
-		  "name" : "Teardrop-Barbed Rightwards Arrow",
-		  "slug" : "teardrop-barbed-rightwards-arrow",
+		  "name" : "Teardrop-Barbed Right Arrow",
+		  "slug" : "teardrop-barbed-right-arrow",
 		  "unicode" : "U+027BA",
 		  "hex_code" : "#x27BA;",
 		  "html_code" : "#10170;",
@@ -5811,8 +5811,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Teardrop-Shanked Rightwards Arrow",
-		  "slug" : "heavy-teardrop-shanked-rightwards-arrow",
+		  "name" : "Heavy Teardrop-Shanked Right Arrow",
+		  "slug" : "heavy-teardrop-shanked-right-arrow",
 		  "unicode" : "U+027BB",
 		  "hex_code" : "#x27BB;",
 		  "html_code" : "#10171;",
@@ -5825,8 +5825,8 @@
 		  ]
 		},
 		{
-		  "name" : "Wedge-Tailed Rightwards Arrow",
-		  "slug" : "wedge-tailed-rightwards-arrow",
+		  "name" : "Wedge-Tailed Right Arrow",
+		  "slug" : "wedge-tailed-right-arrow",
 		  "unicode" : "U+027BC",
 		  "hex_code" : "#x27BC;",
 		  "html_code" : "#10172;",
@@ -5839,8 +5839,8 @@
 		  ]
 		},
 		{
-		  "name" : "Heavy Wedge-Tailed Rightwards Arrow",
-		  "slug" : "heavy-wedge-tailed-rightwards-arrow",
+		  "name" : "Heavy Wedge-Tailed Right Arrow",
+		  "slug" : "heavy-wedge-tailed-right-arrow",
 		  "unicode" : "U+027BD",
 		  "hex_code" : "#x27BD;",
 		  "html_code" : "#10173;",
@@ -5853,8 +5853,8 @@
 		  ]
 		},
 		{
-		  "name" : "Open-Outlined Rightwards Arrow",
-		  "slug" : "open-outlined-rightwards-arrow",
+		  "name" : "Open-Outlined Right Arrow",
+		  "slug" : "open-outlined-right-arrow",
 		  "unicode" : "U+027BE",
 		  "hex_code" : "#x27BE;",
 		  "html_code" : "#10174;",
