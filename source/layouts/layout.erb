@@ -7,20 +7,26 @@
     <link rel="canonical" href="http://htmlarrows.com/">
     <%= yield_content :meta %>
     
-    <!-- CSS Assets -->
+    <%# CSS Assets %>
     <%= stylesheet_link_tag "all" %>
 
-    <!-- CSS Custom -->
+    <%# CSS Custom %>
     <style><%= yield_content :stylesheets %></style>
 
-    <!-- Favicons -->
+    <%# Favicons %>
     <link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/assets/images/favicon.ico">
     <!--[if IE]><link rel="shortcut icon" href="/path/to/favicon.ico"><![endif]-->
 
-    <!-- Google Webmaster Tools -->
+    <%# Google Webmaster Tools %>
     <meta name="google-site-verification" content="d3w5QeEYpedf2k8Lrac0VGOxvPExn466x-H-_JyWQb4" />
 
-    <!-- Google Knowledge Graph -->
+    <%# Bing Webmaster Tools %>
+    <meta name="msvalidate.01" content="1C67127B37207626C508F315E2AA2A54" />
+
+    <%# Baidu Webmaster Tools %>
+    <meta name="baidu-site-verification" content = "FRCI7Xc0bn" />
+
+    <%# Google Knowledge Graph %>
     <script type="application/ld+json">
     {  "@context" : "http://schema.org",
        "@type" : "WebSite",
