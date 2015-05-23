@@ -1,10 +1,19 @@
-<section id="social">
-  <div class="row">
-    <div class="col-xs-24 col-md-6 social">
-    	<span style="font-size:18px;font-weight:400;color: #333;margin-right:1em;">Share</span>
-    	<%= image_tag("facebook-button.svg", style: "margin: 0.75em 0.75em 0 0") %>
-    	<%= image_tag("twitter-button.svg") %>
-    	<span style="font-size:18px;font-weight:400;color: #333;margin-right:1em;">Email</span>
-    </div>
-  </div>
-</section>
+<%# Twitter %>
+<% link_to "https://twitter.com/share?text=Beautiful%20HTML%20symbols%2C%20characters%2C%20entities%20and%20codes%20by%20@zeppelin_io%20%23htmlarrows%20%23useful", id: "twitter", class: "social-link", target: "_blank" do %>
+  <%= image_tag("twitter-button-light.svg") %>
+<% end %>
+
+<%# Facebook %>
+<% link_to "http://www.facebook.com/sharer/sharer.php?u=http://htmlarrows.com#{current_page.url}", id: "facebook", class: "social-link", target: "_blank" do %>
+  <%= image_tag("facebook-button-light.svg") %>
+<% end %>
+
+<%# Google %>
+<% link_to "https://plus.google.com/share?url=http://htmlarrows.com#{current_page.url}", id: "google", class: "social-link", target: "_blank" do %>
+  <%= image_tag("google-button-light.svg") %>
+<% end %>
+
+<%# VKontakte %>
+<% link_to "http://vkontakte.ru/share.php?url=http://htmlarrows.com#{current_page.url}", id: "google", class: "social-link", target: "_blank" do %>
+  <%= image_tag("vkontakte-button-light.svg") %>
+<% end %>

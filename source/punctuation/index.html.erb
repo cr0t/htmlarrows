@@ -34,15 +34,7 @@ priority: 1.0
     <h1 property="name">HTML Punctuation Symbols, Entities, Characters, and Codes</h1>
   </div>
   <div class="col-xs-24 col-md-9 text-md-right">
-    <% link_to "https://twitter.com/share?text=Beautiful%20HTML%20symbols%2C%20characters%2C%20entities%20and%20codes%20by%20@zeppelin_io%20%23htmlarrows%20%23useful", id: "twitter", class: "social-link", target: "_blank" do %>
-      <%= image_tag("twitter-button-light.svg") %>
-    <% end %>
-    <% link_to "http://www.facebook.com/sharer/sharer.php?u=http://htmlarrows.com#{current_page.url}", id: "facebook", class: "social-link", target: "_blank" do %>
-      <%= image_tag("facebook-button-light.svg") %>
-    <% end %>
-    <% link_to "https://plus.google.com/share?url=http://htmlarrows.com#{current_page.url}", id: "google", class: "social-link", target: "_blank" do %>
-      <%= image_tag("google-button-light.svg") %>
-    <% end %>
+    <%= partial("partials/social") %>
   </div>
   <div class="col-xs-24 col-md-12">
     <p property="description">HTML, ASCII, CSS and Unicode hexadecimal values for HTML punctuation characters and symbols in grid and table layouts. With characters like the ampersand, question mark, exclamation point, percent sign, angle quotes and so many others.</p>

@@ -5,7 +5,7 @@
 			<h2><%= link_to "Zeppelin", "http://zeppelin.io/" %></h2>
 		</div>
 
-		<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 social">
+		<div class="col-xs-12 col-sm-6 col-md-4 social">
 			<h5>SHARE THE <span style="font-weight:700;text-transform:lowercase;">&amp;love;</span></h5>
 			<% link_to "https://twitter.com/share?text=Beautiful%20HTML%20symbols%2C%20characters%2C%20entities%20and%20codes%20by%20@zeppelin_io%20%23htmlarrows%20%23useful", id: "twitter", class: "social-link", target: "_blank" do %>
 				<%= image_tag("twitter-button.svg") %>
@@ -15,6 +15,9 @@
 			<% end %>
 			<% link_to "https://plus.google.com/share?url=http://htmlarrows.com#{current_page.url}", id: "google", class: "social-link", target: "_blank" do %>
 				<%= image_tag("google-button.svg") %>
+			<% end %>
+			<% link_to "http://vkontakte.ru/share.php?url=http://htmlarrows.com#{current_page.url}", id: "google", class: "social-link", target: "_blank" do %>
+			  <%= image_tag("vkontakte-button.svg") %>
 			<% end %>
 		</div>
 
