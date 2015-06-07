@@ -1,0 +1,80 @@
+// Homepage banner link
+div.notification {
+	margin-top: 3em;
+}
+span.new {
+	font-weight: 700;
+	color: lighten($color-symbols, 10%);
+}
+h3 a.resource-link {
+	border-bottom: 1px solid $body-font-color;
+	@include transition(all 0.25s ease-in-out);
+}
+h3 a.resource-link:hover {
+	color: lighten($color-home, 15%);
+	border-bottom: 1px solid lighten($color-home, 15%);
+}
+
+//--- mobile only styles ---//
+@media screen and (max-width: 40em) {
+	div.notification {
+		margin-top: 6em;
+	}
+}
+
+// Resource card pages
+section.resources {
+	margin-top: 6.5em;
+
+	div.resource {
+		margin-top: 4.5em;
+	}
+	div.image {
+		margin-bottom: 1.5em;
+		overflow: hidden;
+	}
+	div.image img {
+		max-width: 100%;
+		display: block;
+		@include transition(all 0.375s ease-in-out);
+	}
+	div.image img:hover {
+		transform: scale(1.125);
+	}
+	div.category {
+		margin-bottom: 1em;
+	}
+	div.name {
+		font-family: $font-family-primary;
+		font-weight: 700;
+		letter-spacing: 0.025em;
+		color: $body-font-color;
+		@include font-size($font-size-medium);
+		display: block;
+		margin: 0.25em 0;
+	}
+	div.description {
+		display: block;
+		height:68px;
+		max-height:68px;
+		border-bottom:1px solid $body-font-color;
+	}
+	div.credit {
+		padding-bottom: 0.5em;
+		
+	}
+	div.credit h6 {
+		font-weight: 400;
+		color: lighten($color-home, 15%);
+		@include font-size(8px);
+		@include transition(all, 0.25s, ease-in)
+	}
+}
+
+//--- tablet(h) and desktop only styles ---//
+@media screen and (min-width: 48.063em) {
+
+	div.name a:hover {
+		color: lighten($color-home, 15%);
+	}
+}

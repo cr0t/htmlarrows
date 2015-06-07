@@ -19,6 +19,10 @@ priority: 1.0
 <%# Page Content %>
 <section id="index" class="row grid home">
 
+  <div class="col-xs-24 notification">
+    <h3><span class="new">NEW!</span> Check out our <%= link_to "resources", "/resources/", class: "resource-link" %> page with hand-picked Wordpress themes.</h3>
+  </div>
+
   <%= partial("partials/table") %>
 
 	<% data.home.entities.each do |entity| %>

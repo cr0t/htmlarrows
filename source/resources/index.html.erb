@@ -1,0 +1,53 @@
+---
+typeof: CollectionPage
+title: Web Design Resources — HTML Arrows
+description: Browse our hand-picked collection of web design resources including Wordpress themes; domain, hosting and typography providers; stock photography and icons.
+image: htmlarrows-arrows-hero.jpg
+changefreq: "daily"
+priority: 1.0
+---
+
+<%# Meta Tags %>
+<% content_for :meta do %>
+  <%= partial("meta/meta_index") %>
+<% end %>
+
+<%# Colors %>
+<% content_for :stylesheets do %>
+	article {background-color: rgb(50, 50, 50);}
+<% end %>
+
+<%# Page Content %>
+<section id="index" class="row resources">
+
+	<% data.resources.themes.each do |resource| %>
+		<%= partial("partials/resource_index", :locals => { :resource => resource }) %>
+	<% end %>
+	
+</section>
+
+<%# Page Description %>
+<section class="row text">
+  <div class="col-xs-24 col-md-15">
+    <h1 property="name">More resources coming soon!</h1>
+  </div>
+  <div class="col-xs-24 col-md-9 text-md-right">
+    <%= partial("partials/social") %>
+  </div>
+  <!-- <div class="col-xs-24 col-md-12">
+    <p property="description">HTML, ASCII, CSS and Unicode hexadecimal values for HTML arrow characters and symbols in grid and table layouts. With all your favorites like the right arrow, up arrow, left arrow, down arrow, ordinal arrows and many others.</p>
+  </div>
+  <div class="col-xs-24 col-md-12">
+    <p>See something missing? Send us an email at <%= link_to "alex@zeppelin.io", "mailto:alex@zeppelin.io", style: "border-bottom: 1px solid" %> with suggestions for new additions or ideas on how to make the site better.</p>
+  </div> -->
+</section>
+
+<%# Page Footer %>
+<% content_for :breadcrumbs do %>
+  <span typeof="v:Breadcrumb">
+  	<%= link_to "Home", "http://htmlarrows.com/", rel: "v:url", property: "v:title" %> &#8250;
+    <span rel="v:child" typeof="v:Breadcrumb">
+      <%= link_to "Arrows", "http://htmlarrows.com/arrows/", rel: "v:url", property: "v:title" %>
+    </span>
+  </span>
+<% end %>

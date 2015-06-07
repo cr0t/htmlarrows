@@ -1,0 +1,26 @@
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-6 col-xl-4 resource" vocab="http://schema.org/" typeof="Product">
+	
+	<div class="category">
+		<h5>Theme</h5>
+	</div>
+
+	<div class="image">
+		<% link_to resource.short_url do %>
+			<%= image_tag("themes/#{resource.image}") %>
+		<% end %>
+	</div>
+
+	<div class="name">
+		<%= link_to resource.name, resource.short_url %>
+	</div>
+
+	<div class="credit">
+		<h6>from <%= resource.price %> on Themeforest</h6>
+	</div>
+
+	<div class="description">
+		<p><%= resource.description %></p>
+	</div>
+
+	
+</div>

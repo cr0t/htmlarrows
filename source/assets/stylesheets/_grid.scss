@@ -34,7 +34,7 @@ section.grid {
 			margin-top: -0.875em;
 			cursor: default;
 			@include font-size(8px);
-			@include transition(all, 0.25s, ease-in)
+			@include transition(all 0.25s ease-in)
 		}
 	}
 	code {
