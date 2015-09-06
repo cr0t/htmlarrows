@@ -85,7 +85,7 @@ task :sync do
   system "aws --profile=zeppelin_deploy s3 sync gzip/ s3://#{bucket}/ --acl=public-read --delete --cache-control='max-age=2629000' --exclude '*' --include 'assets/images/*' --exclude 'assets/images/*.ico' --include '*.json'"
 
   # sync redirect files
-  system "aws --profile=zeppelin_deploy s3 sync gzip/ s3://#{bucket}/ --acl=public-read --delete --exclude '*' --include '*.redirect'"
+  # system "aws --profile=zeppelin_deploy s3 sync gzip/ s3://#{bucket}/ --acl=public-read --delete --exclude '*' --include '*.redirect'"
 
 end
 
@@ -115,5 +115,5 @@ task :deploy do
   Rake::Task["build"].invoke
   Rake::Task["gzip"].invoke
   Rake::Task["sync"].invoke
-  Rake::Task["rename"].invoke
+  # Rake::Task["rename"].invoke
 end
