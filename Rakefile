@@ -50,7 +50,14 @@ task :gzip do
     end
 
     if exts.include? File.extname(file)
+
+      # copy files with the .gz extension
       FileUtils.cp("build/#{gz}", "#{path}/#{File.basename(file)}")
+
+      # create redirect object for html files
+      if File.extname(file) == ".html"
+        File.new(path + ".redirect", "w")
+      end
     else
       FileUtils.cp("build/#{file}", "#{path}/#{File.basename(file)}")
     end
@@ -58,6 +65,9 @@ task :gzip do
 
   deletes.each do |file|
     FileUtils.rm_rf("gzip/" + file)
+    if File.extname(file) == ".html"
+      FileUtils.rm_rf("gzip/" + File.dirname(file) + ".redirect")
+    end
   end
 end
 
@@ -74,6 +84,30 @@ task :sync do
   # sync image files
   system "aws --profile=zeppelin_deploy s3 sync gzip/ s3://#{bucket}/ --acl=public-read --delete --cache-control='max-age=2629000' --exclude '*' --include 'assets/images/*' --exclude 'assets/images/*.ico' --include '*.json'"
 
+  # sync redirect files
+  system "aws --profile=zeppelin_deploy s3 sync gzip/ s3://#{bucket}/ --acl=public-read --delete --exclude '*' --include '*.redirect'"
+
+end
+
+desc "sync redirect files and rename them on s3"
+task :rename do
+  puts "[INIT] >>>> Renaming redirects with S3"
+
+  # rename redirect files
+  Dir.glob("gzip/**/*.redirect").each do |file|
+
+    gzip = File.dirname(file)
+    sub = gzip.split("gzip").last
+    path = "/" + File.basename(file).split(".redirect").first + "/"
+    name = File.basename(file)
+    new_name = name.split(".redirect").first
+    redirect = (sub == nil) ? "#{name}" : "#{sub}/#{name}"
+    rename = (sub == nil) ? "#{new_name}" : "#{sub}/#{new_name}"
+
+    # rename redirect files
+    system "aws --profile=zeppelin_deploy s3 mv s3://#{bucket}#{redirect} s3://#{bucket}#{rename} --acl=public-read --website-redirect='#{path}' --content-type='text/html'"
+
+  end
 end
 
 desc "pull, build, gzip and sync"
@@ -81,4 +115,5 @@ task :deploy do
   Rake::Task["build"].invoke
   Rake::Task["gzip"].invoke
   Rake::Task["sync"].invoke
+  Rake::Task["rename"].invoke
 end

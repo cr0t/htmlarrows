@@ -86,7 +86,14 @@
 					<%= image_tag("google-button-light.svg") %>
 				<% end %>
 			</li>
-			<li class="col-md-15 search-bar">
+
+			<% active_link "/resources/", class: "hoverable", property: "url" do %>
+				<li class="col-md-3">
+					<h3 property="name">Resources</h3>
+				</li>
+			<% end %>
+
+			<li class="col-md-12 search-bar">
 				<%= image_tag("search-button.svg") %>
 			    <input type="search" id="search" placeholder="Search" autocomplete="off">
 			</li>
@@ -99,10 +106,6 @@
 				<% link_to "#", id: "table", class: "layout-toggle" do %>
 					<%= image_tag("table-layout-button.svg") %>
 					<h6>TABLE</h6>
-				<% end %>
-
-				<% active_link "/resources/", property: "url" do %>
-					<h4 style="display:inline-block;font-size:10px;font-weight:700">Resources</h4>
 				<% end %>
 			</li>
 		</ul>

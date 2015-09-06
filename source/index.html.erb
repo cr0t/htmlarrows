@@ -20,14 +20,43 @@ priority: 1.0
 <section id="index" class="row grid home">
 
   <div class="col-xs-24 notification">
-    <h3><span class="new">NEW!</span> Check out our <%= link_to "resources", "/resources/", class: "resource-link" %> page with hand-picked Wordpress themes.</h3>
+    <h3><span class="new">HEY!</span> Need a WordPress host? We recommend <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank" class="resource-link">Bluehost</a> &ndash; only $3.95 per month!</h3>
   </div>
 
   <%= partial("partials/table") %>
 
-	<% data.home.entities.each do |entity| %>
+	<% data.home.entities.take(4).each do |entity| %>
 		<%= partial("partials/entity_home", :locals => { :entity => entity }) %>
 	<% end %>
+
+  <%# Small Ad Group %>
+  <div class="ad-group col-sm-24 show-sm-only" style="padding:4.5em 0 0;">
+    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+      <img border="0" src="//bluehost-cdn.com/media/partner/images/amdixon/620x203/bh-ppc-banners-dynamic-620x203.png" style="margin:0 auto;display:block">
+    </a>
+  </div>
+
+  <%# Medium Ad Group %>
+  <!-- <div class="ad-group col-md-6 show-md-only">
+    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+      <img border="0" src="//bluehost-cdn.com/media/partner/images/amdixon/300x250/bh-ppc-banners-dynamic-300x250.png">
+    </a>
+  </div> -->
+
+
+  <% data.home.entities.drop(4).take(2).each do |entity| %>
+    <%= partial("partials/entity_home", :locals => { :entity => entity }) %>
+  <% end %>
+
+  <%# Large Ad Group %>
+  <!-- <div class="ad-group col-lg-6 show-lg-only">
+
+
+  </div> -->
+
+  <% data.home.entities.drop(6).each do |entity| %>
+    <%= partial("partials/entity_home", :locals => { :entity => entity }) %>
+  <% end %>
 
 </section>
 
