@@ -23,17 +23,29 @@ priority: 1.0
 	<% data.resources.themes.each do |resource| %>
 		<%= partial("partials/resource_index", :locals => { :resource => resource }) %>
 	<% end %>
-	
+
 </section>
 
 <%# Page Description %>
-<section class="row text">
+<br><br>
+<section class="row text html-resources">
+  <div class="col-xs-24 col-md-9">
+    <% link_to "http://htmlcolorcodes.com/", target: "_blank" do %>
+      <%= image_tag("html-color-codes-picker-charts-names-tutorials-resources.jpg") %>
+    <% end %>
+  </div>
+
   <div class="col-xs-24 col-md-15">
-    <h1 property="name">More resources coming soon!</h1>
+    <h1 property="name">
+      <%= link_to "HTML Color Codes", "http://htmlcolorcodes.com/" %>
+    </h1>
+    <h4>HTML Color picking made easy</h4>
+    <br>
+    <p>
+      Similar to HTML Arrows, we built <%= link_to "HTML Color Codes", "http://htmlcolorcodes.com/" %> as a powerful set of free color tools accessible to everyone. We believe tools for design should be well designed themselves so we created from scratch a beautiful interface for selecting color codes, a comprehsive color chart, and a ton of resources related to color.
+    </p>
   </div>
-  <div class="col-xs-24 col-md-9 text-md-right">
-    <%= partial("partials/social") %>
-  </div>
+
   <!-- <div class="col-xs-24 col-md-12">
     <p property="description">HTML, ASCII, CSS and Unicode hexadecimal values for HTML arrow characters and symbols in grid and table layouts. With all your favorites like the right arrow, up arrow, left arrow, down arrow, ordinal arrows and many others.</p>
   </div>

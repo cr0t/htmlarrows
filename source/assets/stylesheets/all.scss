@@ -201,6 +201,25 @@ section.text {
   }
 }
 
+
+//---- HTML Color Codes section ------//
+section.html-resources {
+  img {
+    width: 100%;
+    height: auto;
+    margin: 0;
+  }
+  h1 {
+    margin-top: 0.5em;
+    margin-bottom: 0.15em;
+  }
+  p a {
+    border-bottom: 2px solid #fffae1;
+  }
+}
+
+
+
 footer {
 	margin-top: 4.5em;
 	padding-top: 3em;
@@ -279,6 +298,9 @@ footer {
         }
       }
     }
+  }
+  section.html-resources h1 {
+    margin-top: 0;
   }
 }
 

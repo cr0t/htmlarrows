@@ -61,7 +61,7 @@ section.resources {
 	}
 	div.credit {
 		padding-bottom: 0.5em;
-		
+
 	}
 	div.credit h6 {
 		font-weight: 400;
@@ -70,6 +70,9 @@ section.resources {
 		@include transition(all, 0.25s, ease-in)
 	}
 }
+
+
+
 
 //--- tablet(h) and desktop only styles ---//
 @media screen and (min-width: 48.063em) {
