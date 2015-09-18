@@ -2,6 +2,10 @@
 section.grid {
 	margin-top: 6.5em;
 
+	&.home {
+		margin-top: 0;
+	}
+
 	div.theader {
 		display: none;
 	}
@@ -115,6 +119,9 @@ section.grid {
 @media screen and (max-width: 40em) {
 	section.grid {
 		margin-top: 1.5em;
+		&.home {
+			margin-top: 1.5em;
+		}
 		code {
 			@include font-size($font-size-base);
 		}
@@ -125,6 +132,9 @@ section.grid {
 @media screen and (min-width: 40.063em) and (max-width: 48em) {
 	section.grid {
 		margin-top: 3.5em;
+		&.home {
+			margin-top: 0;
+		}
 	}
 }
 

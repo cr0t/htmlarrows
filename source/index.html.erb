@@ -16,12 +16,22 @@ priority: 1.0
 	article {background-color: rgb(50, 50, 50);}
 <% end %>
 
+<%# Page Banner Ad %>
+<section id="banner" class="adsense show-sm">
+
+  <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+    <img border="0" src="//bluehost-cdn.com/media/partner/images/amdixon/760x80/bh-ppc-banners-dynamic-760x80.png">
+  </a>
+
+</section>
+
+
 <%# Page Content %>
 <section id="index" class="row grid home">
 
-  <div class="col-xs-24 notification">
+  <!-- <div class="col-xs-24 notification">
     <h3><span class="new">HEY!</span> Need a WordPress host? We recommend <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank" class="resource-link">Bluehost</a> &ndash; only $3.95 per month!</h3>
-  </div>
+  </div> -->
 
   <%= partial("partials/table") %>
 
@@ -29,30 +39,9 @@ priority: 1.0
 		<%= partial("partials/entity_home", :locals => { :entity => entity }) %>
 	<% end %>
 
-  <%# Small Ad Group %>
-  <div class="ad-group col-sm-24 show-sm-only" style="padding:4.5em 0 0;">
-    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
-      <img border="0" src="//bluehost-cdn.com/media/partner/images/amdixon/620x203/bh-ppc-banners-dynamic-620x203.png" style="margin:0 auto;display:block">
-    </a>
-  </div>
-
-  <%# Medium Ad Group %>
-  <!-- <div class="ad-group col-md-6 show-md-only">
-    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
-      <img border="0" src="//bluehost-cdn.com/media/partner/images/amdixon/300x250/bh-ppc-banners-dynamic-300x250.png">
-    </a>
-  </div> -->
-
-
   <% data.home.entities.drop(4).take(2).each do |entity| %>
     <%= partial("partials/entity_home", :locals => { :entity => entity }) %>
   <% end %>
-
-  <%# Large Ad Group %>
-  <!-- <div class="ad-group col-lg-6 show-lg-only">
-
-
-  </div> -->
 
   <% data.home.entities.drop(6).each do |entity| %>
     <%= partial("partials/entity_home", :locals => { :entity => entity }) %>
