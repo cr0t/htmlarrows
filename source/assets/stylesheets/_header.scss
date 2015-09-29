@@ -1,0 +1,72 @@
+// adsense banners
+
+#header {
+	margin-top: 8em !important;
+	padding: 2.25em 0 0;
+	h1 {
+		font-weight: 700;
+		line-height: 1.6;
+		letter-spacing: 0.0375em;
+		@include font-size(30px);
+		text-transform: none;
+	}
+	img {
+		display: block;
+		margin: 0 auto;
+	}
+	&.home {
+		p a {
+			background-color: $body-font-color;
+			color: $color-home;
+			padding: 0.25em 0.5em;
+		}
+		p a:hover {
+			background-color: darken($color-home, 5%);
+			color: $body-font-color;
+		}
+	}
+	&.arrows {
+		p a {
+			background-color: $body-font-color;
+			color: $color-arrows;
+			padding: 0.25em 0.5em;
+		}
+		p a:hover {
+			background-color: darken($color-arrows, 5%);
+			color: $body-font-color;
+		}
+	}
+	&.currency {
+		p a {
+			background-color: $body-font-color;
+			color: $color-currency;
+			padding: 0.25em 0.5em;
+		}
+		p a:hover {
+			background-color: darken($color-currency, 5%);
+			color: $body-font-color;
+		}
+	}
+	&.symbols {
+		p a {
+			background-color: $body-font-color;
+			color: $color-symbols;
+			padding: 0.25em 0.5em;
+		}
+		p a:hover {
+			background-color: darken($color-symbols, 5%);
+			color: $body-font-color;
+		}
+	}
+}
+
+header.home {
+	
+}
+
+//--- tablet(v) only styles ---//
+@media screen and (max-width: 48em) {
+	#header {
+		margin-top: 65px !important;
+	}
+}

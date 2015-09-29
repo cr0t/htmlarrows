@@ -17,6 +17,21 @@ priority: 1.0
 	article {background-color: rgb(75, 95, 95);}
 <% end %>
 
+<%# Page Header %>
+<header id="header" class="row header arrows">
+  <div class="col-xs-24 col-md-15">
+    <h1 property="name">HTML Arrow Symbol, Arrow Entity and ASCII Arrow Character Code Reference</h1><br>
+    <p property="description">Here you'll find HTML arrow codes, arrow characters and entities, ASCII arrow codes and Unicode arrows listed in grid and table formats. We've got all your favorites like the right arrow, up arrow, left arrow, down arrow, ordinal arrows, plus hundreds of others. And don't forget to check out our hot and fresh <%= link_to "&#9813; web design resources", "/resources/" %> where you can find WordPress templates, our favorite web hosts, vector icons and more!</p>
+  </div>
+
+  <div class="col-xs-24 col-md-9 show-md">
+    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+      <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
+    </a>
+  </div>
+
+</header>
+
 <%# Page Content %>
 <section id="index" class="row grid arrows">
 
@@ -30,14 +45,8 @@ priority: 1.0
 
 <%# Page Description %>
 <section class="row text">
-  <div class="col-xs-24 col-md-15">
-    <h1 property="name">HTML Arrow Symbols, Entities, Characters, and Codes</h1>
-  </div>
-  <div class="col-xs-24 col-md-9 text-md-right">
-    <%= partial("partials/social") %>
-  </div>
   <div class="col-xs-24 col-md-12">
-    <p property="description">HTML, ASCII, CSS and Unicode hexadecimal values for HTML arrow characters and symbols in grid and table layouts. With all your favorites like the right arrow, up arrow, left arrow, down arrow, ordinal arrows and many others.</p>
+    <%= partial("partials/social") %>
   </div>
   <div class="col-xs-24 col-md-12">
     <p>See something missing? Send us an email at <%= link_to "alex@dixonandmoe.com", "mailto:alex@dixonandmoe.com", style: "border-bottom: 1px solid" %> with suggestions for new additions or ideas on how to make the site better.</p>

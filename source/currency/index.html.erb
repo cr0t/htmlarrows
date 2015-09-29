@@ -17,6 +17,21 @@ priority: 1.0
 	article {background-color: rgb(65, 80, 80);}
 <% end %>
 
+<%# Page Header %>
+<header id="header" class="row header currency">
+  <div class="col-xs-24 col-md-15">
+    <h1 property="name">HTML Currency Symbols, Currency Entities and ASCII Currency Character Code Reference</h1><br>
+    <p property="description">Looking for the Dollar sign code? A Pound sign or Euro sign ASCII character? Look no further, listed below are all the HTML currency symbols you can handle, including HTML currency codes and ASCII currency codes for the Yen sign, Ruble sign and Yuan character plus a whole lot more. If you haven't yet, do take a look at our <%= link_to "&#9813; web design resources", "/resources/" %> for vector icons, UI kits, templates and our favorite website hosting services.</p>
+  </div>
+
+  <div class="col-xs-24 col-md-9 show-md">
+    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+      <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
+    </a>
+  </div>
+
+</header>
+
 <%# Page Content %>
 <section id="index" class="row grid currency">
 
@@ -30,14 +45,8 @@ priority: 1.0
 
 <%# Page Description %>
 <section class="row text">
-  <div class="col-xs-24 col-md-15">
-    <h1 property="name">HTML Currency Symbols, Entities, Characters, and Codes</h1>
-  </div>
-  <div class="col-xs-24 col-md-9 text-md-right">
-    <%= partial("partials/social") %>
-  </div>
   <div class="col-xs-24 col-md-12">
-    <p property="description">HTML, ASCII, CSS and Unicode hexadecimal values for HTML currency characters and symbols in grid and table layouts. Featuring greats like the Dollar sign, Euro sign, Pound sign, Yen sign, Ruble sign, Yuan character amongst others.</p>
+    <%= partial("partials/social") %>
   </div>
   <div class="col-xs-24 col-md-12">
     <p>See something missing? Send us an email at <%= link_to "alex@dixonandmoe.com", "mailto:alex@dixonandmoe.com", style: "border-bottom: 1px solid" %> with suggestions for new additions or ideas on how to make the site better.</p>

@@ -16,15 +16,20 @@ priority: 1.0
 	article {background-color: rgb(50, 50, 50);}
 <% end %>
 
-<%# Page Banner Ad %>
-<section id="banner" class="adsense show-sm">
+<%# Page Header %>
+<header id="header" class="row header home">
+  <div class="col-xs-24 col-md-15">
+    <h1 property="name">A delightful reference for HTML Symbols, Entities and ASCII Character Codes</h1><br>
+    <p property="description">HTML Arrows is a comprehensive reference website for finding HTML symbols and entities, ASCII characters and Unicode hexadecimal values to use in your web design. Browse in grid or table format, search for HTML symbols, and check out our <%= link_to "&#9813; web design resources", "/resources/" %> for some sweet deals on web hosting, WordPress templates and more! Or just keep scrolling to find your favorite HTML arrow symbol, arrow entity, Unicode and ASCII arrow character codes.</p>
+  </div>
 
-  <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
-    <img border="0" src="//bluehost-cdn.com/media/partner/images/amdixon/760x80/bh-ppc-banners-dynamic-760x80.png">
-  </a>
+  <div class="col-xs-24 col-md-9 show-md">
+    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+      <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
+    </a>
+  </div>
 
-</section>
-
+</header>
 
 <%# Page Content %>
 <section id="index" class="row grid home">
@@ -51,14 +56,8 @@ priority: 1.0
 
 <%# Page Description %>
 <section class="row text">
-	<div class="col-xs-24 col-md-15">
-    <h1 property="name">Every HTML Arrow Symbol, Arrow Character and ASCII Arrow Code</h1>
-	</div>
-	<div class="col-xs-24 col-md-9 text-md-right">
-    <%= partial("partials/social") %>
-  </div>
 	<div class="col-xs-24 col-md-12">
-    <p property="description">HTML Arrows is a clean and comprehensive resource for all the hottest HTML arrow symbols and entities, ASCII arrow characters and Unicode hexadecimal values.</p>
+    <%= partial("partials/social") %>
   </div>
   <div class="col-xs-24 col-md-12">
     <p>See something missing? Send us an email at <%= link_to "alex@dixonandmoe.com", "mailto:alex@dixonandmoe.com", style: "border-bottom: 1px solid" %> with suggestions for new additions or ideas on how to make the site better.</p>

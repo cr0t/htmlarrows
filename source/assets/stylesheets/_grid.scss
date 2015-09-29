@@ -1,8 +1,12 @@
 // index card pages
 section.grid {
+	// margin-top: 0;
 	margin-top: 6.5em;
 
-	&.home {
+	&.home,
+	&.arrows,
+	&.currency,
+	&.symbols {
 		margin-top: 0;
 	}
 
