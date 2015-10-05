@@ -17,6 +17,21 @@ priority: 1.0
 	article {background-color: rgb(130, 55, 65);}
 <% end %>
 
+<%# Page Header %>
+<header id="header" class="row header arrows">
+  <div class="col-xs-24 col-md-15">
+    <h1 property="name">HTML Punctuation Symbols, Punctuation Entities and ASCII Character Code Reference</h1><br>
+    <p property="description">Easily find character codes for the HTML # sign, HTML @ symbol (at symbol), HTML percent sign, HTML ampersand (&amp;amp HTML code), HTML copyright symbol and HTML caret insertion point, along with regulars like the question mark, exclamation point, non-breaking hyphen, non-breaking space and more. Don't forget to browse our curated list of <%= link_to "&#9813; web design resources", "/resources/" %> including website hosts, themes, icons, stock photos and many other creative gems.</p>
+  </div>
+
+  <!-- <div class="col-xs-24 col-md-9 show-md">
+    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+      <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
+    </a>
+  </div> -->
+
+</header>
+
 <%# Page Content %>
 <section id="index" class="row grid punctuation">
 
@@ -30,14 +45,8 @@ priority: 1.0
 
 <%# Page Description %>
 <section class="row text">
-  <div class="col-xs-24 col-md-15">
-    <h1 property="name">HTML Punctuation Symbols, Entities, Characters, and Codes</h1>
-  </div>
-  <div class="col-xs-24 col-md-9 text-md-right">
-    <%= partial("partials/social") %>
-  </div>
   <div class="col-xs-24 col-md-12">
-    <p property="description">HTML, ASCII, CSS and Unicode hexadecimal values for HTML punctuation characters and symbols in grid and table layouts. With characters like the ampersand, question mark, exclamation point, percent sign, angle quotes and so many others.</p>
+    <%= partial("partials/social") %>
   </div>
   <div class="col-xs-24 col-md-12">
     <p>See something missing? Send us an email at <%= link_to "alex@dixonandmoe.com", "mailto:alex@dixonandmoe.com", style: "border-bottom: 1px solid" %> with suggestions for new additions or ideas on how to make the site better.</p>

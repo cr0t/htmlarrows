@@ -17,6 +17,21 @@ priority: 1.0
 	article {background-color: rgb(70, 55, 65);}
 <% end %>
 
+<%# Page Header %>
+<header id="header" class="row header arrows">
+  <div class="col-xs-24 col-md-15">
+    <h1 property="name">HTML Math Symbols, Math Entities and ASCII Math Character Code Reference</h1><br>
+    <p property="description">Doing some math? It's not so hard with an HTML plus sign or minus sign. More complex operations? Get HTML symbols and ASCII characetrs for multiplication and division signs, greater than and less than signs, equals sign, not equal sign and more.Definitely check out our <%= link_to "&#9813; web design resources", "/resources/" %> to stock up on awesome website hosting,  WordPress templates and themes, vector icons, UI kits, free stock images and more!</p>
+  </div>
+
+  <!-- <div class="col-xs-24 col-md-9 show-md">
+    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+      <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
+    </a>
+  </div> -->
+
+</header>
+
 <%# Page Content %>
 <section id="index" class="row grid math">
 
@@ -30,14 +45,8 @@ priority: 1.0
 
 <%# Page Description %>
 <section class="row text">
-  <div class="col-xs-24 col-md-15">
-    <h1 property="name">HTML Math Symbols, Entities, Characters, and Codes</h1>
-  </div>
-  <div class="col-xs-24 col-md-9 text-md-right">
-    <%= partial("partials/social") %>
-  </div>
   <div class="col-xs-24 col-md-12">
-    <p property="description">HTML, ASCII, CSS and Unicode hexadecimal values for HTML math characters and symbols in grid and table layouts. With codes for the plus sign, minus sign, multiplication sign, division sign and greater than and less than signs, and more.</p>
+    <%= partial("partials/social") %>
   </div>
   <div class="col-xs-24 col-md-12">
     <p>See something missing? Send us an email at <%= link_to "alex@dixonandmoe.com", "mailto:alex@dixonandmoe.com", style: "border-bottom: 1px solid" %> with suggestions for new additions or ideas on how to make the site better.</p>

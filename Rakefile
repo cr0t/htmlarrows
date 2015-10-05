@@ -1,4 +1,3 @@
-gem "aws-sdk", "=2.0.31"
 require "rubygems"
 require "aws-sdk"
 require "fileutils"

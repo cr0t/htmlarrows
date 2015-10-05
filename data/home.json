@@ -169,32 +169,32 @@
 			]
 		},
 		{
-			"name" : "Paragraph Sign",
-			"slug" : "paragraph-sign",
-			"unicode" : "U+000B6",
-			"hex_code" : "#xb6;",
-			"html_code" : "#182;",
-			"html_entity" : "para;",
+		  "name" : "Ampersand",
+		  "slug" : "ampersand",
+		  "unicode" : "U+00026",
+		  "hex_code" : "#x26;",
+		  "html_code" : "#38;",
+		  "html_entity" : "amp;",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "punctuation"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "punctuation"
+		    }
+		  ]
 		},
 		{
-			"name" : "Section Sign",
-			"slug" : "section-sign",
-			"unicode" : "U+000A7",
-			"hex_code" : "#xa7;",
-			"html_code" : "#167;",
-			"html_entity" : "sect;",
+		  "name" : "Check Mark",
+		  "slug" : "check-mark",
+		  "unicode" : "U+02713",
+		  "hex_code" : "#x2713;",
+		  "html_code" : "#10003;",
+		  "html_entity" : "check;",
 		  "oversize" : "false",
-			"tags" : [
-				{
-					"name" : "punctuation"
-				}
-			]
+		  "tags" : [
+		    {
+		      "name" : "symbols"
+		    }
+		  ]
 		},
 		{
 		  "name" : "Degree Celsius",

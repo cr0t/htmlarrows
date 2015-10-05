@@ -17,6 +17,21 @@ priority: 1.0
 	article {background-color: rgb(100, 55, 65);}
 <% end %>
 
+<%# Page Header %>
+<header id="header" class="row header arrows">
+  <div class="col-xs-24 col-md-15">
+    <h1 property="name">HTML Number Symbols, Number Entities and ASCII Number Character Code Reference</h1><br>
+    <p property="description">Browse every HTML number symbol from 0 &ndash; 9 and get HTML and ASCII vulgar fraction character codes for one third, five eighths and others. When in Rome use Roman Numeral entities including the one hundred and five hundred Roman Numeral symbols. And if you're bored feel free to indulge in some delicious <%= link_to "&#9813; web design resources", "/resources/" %> overflowing with vector icons, WordPress themes, website hosts, free UI kits and more.</p>
+  </div>
+
+  <!-- <div class="col-xs-24 col-md-9 show-md">
+    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+      <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
+    </a>
+  </div> -->
+
+</header>
+
 <%# Page Content %>
 <section id="index" class="row grid numbers">
 
@@ -33,11 +48,8 @@ priority: 1.0
   <div class="col-xs-24 col-md-15">
     <h1 property="name">HTML Number Symbols, Entities, Characters, and Codes</h1>
   </div>
-  <div class="col-xs-24 col-md-9 text-md-right">
-    <%= partial("partials/social") %>
-  </div>
   <div class="col-xs-24 col-md-12">
-    <p property="description">HTML, ASCII, CSS and Unicode hexadecimal values for HTML numbers characters and symbols in grid and table layouts. With a wide selection of integers, fractions, vulgar fractions, Roman Numerals and more.</p>
+    <%= partial("partials/social") %>
   </div>
   <div class="col-xs-24 col-md-12">
     <p>See something missing? Send us an email at <%= link_to "alex@dixonandmoe.com", "mailto:alex@dixonandmoe.com", style: "border-bottom: 1px solid" %> with suggestions for new additions or ideas on how to make the site better.</p>
