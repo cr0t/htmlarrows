@@ -24,11 +24,12 @@ priority: 1.0
     <p property="description">Need the copyright sign HTML code? Or the degrees Celsius HTML entity? Scroll on for dingbats, circled numbers, script letter HTML codes, the angstrom sign, biohazard sign, alef symbol, HTML checkmark entity and even a heavy black heart. And take a minute to browse our wonderful collection of <%= link_to "&#9813; web design resources", "/resources/" %> where you'll discover handpicked WordPress themes, vector icons, flat UI kits, website hosts and so much more.</p>
   </div>
 
-  <!-- <div class="col-xs-24 col-md-9 show-md">
-    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+  <div class="col-xs-24 col-md-9 show-md">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_0'></script>
+    <!-- <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
       <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
-    </a>
-  </div> -->
+    </a> -->
+  </div>
 
 </header>
 
@@ -37,22 +38,24 @@ priority: 1.0
 
 	<%= partial("partials/table") %>
 
-	<% data.symbols.entities.each do |entity| %>
+	<% data.symbols.entities.take(24).each do |entity| %>
 		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
 	<% end %>
+
+  <div class="col-sm-24 text-sm-center show-sm" style="margin:2.25em 0;">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_3'></script>
+  </div>
+
+  <% data.symbols.entities.drop(24).each do |entity| %>
+    <%= partial("partials/entity_index", :locals => { :entity => entity }) %>
+  <% end %>
 
 </section>
 
 <%# Page Description %>
 <section class="row text">
-  <div class="col-xs-24 col-md-15">
-    <h1 property="name">HTML Symbols, Entities, Characters, and Codes</h1>
-  </div>
-  <div class="col-xs-24 col-md-9 text-md-right">
-    <%= partial("partials/social") %>
-  </div>
   <div class="col-xs-24 col-md-12">
-    <p property="description">HTML, ASCII, CSS and Unicode hexadecimal values for HTML characters and symbols in grid and table layouts. Including codes for the copyright sign, trademark or TM sign, registered sign, at sign or symbol, Dingbats and more.</p>
+    <%= partial("partials/social") %>
   </div>
   <div class="col-xs-24 col-md-12">
     <p>See something missing? Send us an email at <%= link_to "alex@dixonandmoe.com", "mailto:alex@dixonandmoe.com", style: "border-bottom: 1px solid" %> with suggestions for new additions or ideas on how to make the site better.</p>

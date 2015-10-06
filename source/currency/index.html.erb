@@ -24,11 +24,12 @@ priority: 1.0
     <p property="description">Looking for the Dollar sign code? An HTML Euro sign or Pound sign ASCII character? Look no further, listed below are all the HTML currency symbols you can handle, including HTML currency codes and ASCII currency codes for the Yen sign, Ruble sign and Yuan character plus a whole lot more. If you haven't yet, do take a look at our <%= link_to "&#9813; web design resources", "/resources/" %> for vector icons, UI kits, templates and our favorite website hosting services.</p>
   </div>
 
-  <!-- <div class="col-xs-24 col-md-9 show-md">
-    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+  <div class="col-xs-24 col-md-9 show-md">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_0'></script>
+    <!-- <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
       <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
-    </a>
-  </div> -->
+    </a> -->
+  </div>
 
 </header>
 
@@ -37,9 +38,17 @@ priority: 1.0
 
 	<%= partial("partials/table") %>
 
-	<% data.currency.entities.each do |entity| %>
+	<% data.currency.entities.take(24).each do |entity| %>
 		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
 	<% end %>
+
+  <div class="col-sm-24 text-sm-center show-sm" style="margin:2.25em 0;">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_3'></script>
+  </div>
+
+  <% data.currency.entities.drop(24).each do |entity| %>
+    <%= partial("partials/entity_index", :locals => { :entity => entity }) %>
+  <% end %>
 
 </section>
 

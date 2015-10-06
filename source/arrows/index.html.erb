@@ -24,11 +24,12 @@ priority: 1.0
     <p property="description">Here you'll find HTML arrow codes, arrow characters and entities, ASCII arrow codes and Unicode arrows. We've got all your favorites incluing left and right arrow HTML codes, up arrow, down arrow, ordinal arrows, and left and right double arrow HTML symbols. And don't forget to check out our hot and fresh <%= link_to "&#9813; web design resources", "/resources/" %> where you can find WordPress templates, our favorite web hosts, vector icons and more!</p>
   </div>
 
-  <!-- <div class="col-xs-24 col-md-9 show-md">
-    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+  <div class="col-xs-24 col-md-9 show-md">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_0'></script>
+    <!-- <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
       <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
-    </a>
-  </div> -->
+    </a> -->
+  </div>
 
 </header>
 
@@ -37,9 +38,17 @@ priority: 1.0
 
 	<%= partial("partials/table") %>
 
-	<% data.arrows.entities.each do |entity| %>
+	<% data.arrows.entities.take(24).each do |entity| %>
 		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
 	<% end %>
+
+  <div class="col-sm-24 text-sm-center show-sm" style="margin-top:3em;">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_3'></script>
+  </div>
+
+  <% data.arrows.entities.drop(24).each do |entity| %>
+    <%= partial("partials/entity_index", :locals => { :entity => entity }) %>
+  <% end %>
 	
 </section>
 

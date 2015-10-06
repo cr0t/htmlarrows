@@ -24,11 +24,12 @@ priority: 1.0
     <p property="description">Easily find character codes for the HTML # sign, HTML @ symbol (at symbol), HTML percent sign, HTML ampersand (&amp;amp HTML code), HTML copyright symbol and HTML caret insertion point, along with regulars like the question mark, exclamation point, non-breaking hyphen, non-breaking space and more. Don't forget to browse our curated list of <%= link_to "&#9813; web design resources", "/resources/" %> including website hosts, themes, icons, stock photos and many other creative gems.</p>
   </div>
 
-  <!-- <div class="col-xs-24 col-md-9 show-md">
-    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+  <div class="col-xs-24 col-md-9 show-md">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_0'></script>
+    <!-- <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
       <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
-    </a>
-  </div> -->
+    </a> -->
+  </div>
 
 </header>
 
@@ -37,9 +38,17 @@ priority: 1.0
 
 	<%= partial("partials/table") %>
 
-	<% data.punctuation.entities.each do |entity| %>
+	<% data.punctuation.entities.take(24).each do |entity| %>
 		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
 	<% end %>
+
+  <div class="col-sm-24 text-sm-center show-sm" style="margin:2.25em 0;">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_3'></script>
+  </div>
+
+  <% data.punctuation.entities.drop(24).each do |entity| %>
+    <%= partial("partials/entity_index", :locals => { :entity => entity }) %>
+  <% end %>
 
 </section>
 

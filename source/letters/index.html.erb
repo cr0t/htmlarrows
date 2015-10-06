@@ -24,11 +24,12 @@ priority: 1.0
     <p property="description">Find HTML letter codes and letter characters, entities, ASCII codes and Unicode values for uppercase and lowercase Latin alphabets, Diacritics and Czech, French, German, Greek, Polish, Spanish, Turkish and more. Remember to have a look at our <%= link_to "&#9813; web design resources", "/resources/" %> featuring our favorite web hosts, awesome WordPress templates, vector icons, free stock images and more!</p>
   </div>
 
-  <!-- <div class="col-xs-24 col-md-9 show-md">
-    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+  <div class="col-xs-24 col-md-9 show-md">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_0'></script>
+    <!-- <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
       <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
-    </a>
-  </div> -->
+    </a> -->
+  </div>
 
 </header>
 
@@ -37,9 +38,17 @@ priority: 1.0
 
 	<%= partial("partials/table") %>
 
-	<% data.letters.entities.each do |entity| %>
+	<% data.letters.entities.take(24).each do |entity| %>
 		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
 	<% end %>
+
+  <div class="col-sm-24 text-sm-center show-sm" style="margin:2.25em 0;">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_3'></script>
+  </div>
+
+  <% data.letters.entities.drop(24).each do |entity| %>
+    <%= partial("partials/entity_index", :locals => { :entity => entity }) %>
+  <% end %>
 
 </section>
 

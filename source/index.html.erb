@@ -23,32 +23,29 @@ priority: 1.0
     <p property="description">HTML Arrows is a comprehensive reference website for finding HTML symbol codes and entities, ASCII characters and Unicode hexadecimal values to use in your web design. Browse in grid or table format, search for HTML symbols, and check out our <%= link_to "&#9813; web design resources", "/resources/" %> for some sweet deals on web hosting, WordPress templates and more! Or just keep scrolling to find your favorite HTML arrow symbol, arrow entity, Unicode and ASCII arrow character codes.</p>
   </div>
 
-  <!-- <div class="col-xs-24 col-md-9 show-md">
-    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+  <div class="col-xs-24 col-md-9 show-md">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_0'></script>
+    <!-- <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
       <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
-    </a>
-  </div> -->
+    </a> -->
+  </div>
 
 </header>
 
 <%# Page Content %>
 <section id="index" class="row grid home">
 
-  <!-- <div class="col-xs-24 notification">
-    <h3><span class="new">HEY!</span> Need a WordPress host? We recommend <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank" class="resource-link">Bluehost</a> &ndash; only $3.95 per month!</h3>
-  </div> -->
-
   <%= partial("partials/table") %>
 
-	<% data.home.entities.take(4).each do |entity| %>
+	<% data.home.entities.take(24).each do |entity| %>
 		<%= partial("partials/entity_home", :locals => { :entity => entity }) %>
 	<% end %>
 
-  <% data.home.entities.drop(4).take(2).each do |entity| %>
-    <%= partial("partials/entity_home", :locals => { :entity => entity }) %>
-  <% end %>
+  <div class="col-sm-24 text-sm-center show-sm" style="margin:2.25em 0;">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_3'></script>
+  </div>
 
-  <% data.home.entities.drop(6).each do |entity| %>
+  <% data.home.entities.drop(24).each do |entity| %>
     <%= partial("partials/entity_home", :locals => { :entity => entity }) %>
   <% end %>
 

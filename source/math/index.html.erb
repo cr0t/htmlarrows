@@ -24,11 +24,12 @@ priority: 1.0
     <p property="description">Doing some math? It's not so hard with an HTML plus sign or minus sign. More complex operations? Get HTML symbols and ASCII characetrs for multiplication and division signs, greater than and less than signs, equals sign, not equal sign and more.Definitely check out our <%= link_to "&#9813; web design resources", "/resources/" %> to stock up on awesome website hosting,  WordPress templates and themes, vector icons, UI kits, free stock images and more!</p>
   </div>
 
-  <!-- <div class="col-xs-24 col-md-9 show-md">
-    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+  <div class="col-xs-24 col-md-9 show-md">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_0'></script>
+    <!-- <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
       <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
-    </a>
-  </div> -->
+    </a> -->
+  </div>
 
 </header>
 
@@ -37,9 +38,17 @@ priority: 1.0
 
 	<%= partial("partials/table") %>
 
-	<% data.math.entities.each do |entity| %>
+	<% data.math.entities.take(24).each do |entity| %>
 		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
 	<% end %>
+
+  <div class="col-sm-24 text-sm-center show-sm" style="margin:2.25em 0;">
+    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_3'></script>
+  </div>
+
+  <% data.math.entities.drop(24).each do |entity| %>
+    <%= partial("partials/entity_index", :locals => { :entity => entity }) %>
+  <% end %>
 
 </section>
 
