@@ -25,10 +25,10 @@ priority: 1.0
   </div>
 
   <div class="col-xs-24 col-md-9 show-md">
-    <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_0'></script>
-    <!-- <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
+    <!-- <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_0'></script> -->
+    <a href="//www.bluehost.com/track/amdixon/htmlarrows" target="_blank">
       <%= image_tag("bh-ppc-banners-dynamic-300x250.png") %>
-    </a> -->
+    </a>
   </div>
 
 </header>
@@ -42,9 +42,9 @@ priority: 1.0
 		<%= partial("partials/entity_index", :locals => { :entity => entity }) %>
 	<% end %>
 
-  <div class="col-sm-24 text-sm-center show-sm" style="margin:2.25em 0;">
+  <!-- <div class="col-sm-24 text-sm-center show-sm" style="margin:2.25em 0;">
     <script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=68026_107559_3'></script>
-  </div>
+  </div> -->
 
   <% data.punctuation.entities.drop(24).each do |entity| %>
     <%= partial("partials/entity_index", :locals => { :entity => entity }) %>
