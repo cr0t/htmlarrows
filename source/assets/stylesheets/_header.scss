@@ -47,6 +47,50 @@
 			color: $body-font-color;
 		}
 	}
+	&.letters {
+		p a {
+			background-color: $body-font-color;
+			color: $color-letters;
+			padding: 0.25em 0.5em;
+		}
+		p a:hover {
+			background-color: darken($color-letters, 5%);
+			color: $body-font-color;
+		}
+	}
+	&.math {
+		p a {
+			background-color: $body-font-color;
+			color: $color-math;
+			padding: 0.25em 0.5em;
+		}
+		p a:hover {
+			background-color: darken($color-math, 5%);
+			color: $body-font-color;
+		}
+	}
+	&.numbers {
+		p a {
+			background-color: $body-font-color;
+			color: $color-numbers;
+			padding: 0.25em 0.5em;
+		}
+		p a:hover {
+			background-color: darken($color-numbers, 5%);
+			color: $body-font-color;
+		}
+	}
+	&.punctuation {
+		p a {
+			background-color: $body-font-color;
+			color: $color-punctuation;
+			padding: 0.25em 0.5em;
+		}
+		p a:hover {
+			background-color: darken($color-punctuation, 5%);
+			color: $body-font-color;
+		}
+	}
 	&.symbols {
 		p a {
 			background-color: $body-font-color;
