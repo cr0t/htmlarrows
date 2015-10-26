@@ -3,7 +3,7 @@
 		<ul class="row">
 			<li class="col-md-3 show-md home">
 				<h2 property="name"><% link_to "/", property: "url" do %>HTML &nbsp;<span class="logo">&#8594;</span><% end %></h2>
-				<span class="icon show-md"><%= link_to "by Dixon & Moe", "http://dixonandmoe.com/" %></span>
+				<span class="icon show-lg"><%= link_to "by Dixon & Moe", "http://dixonandmoe.com/" %></span>
 			</li>
 
 			<li class="col-md-3 hide-md toggle toggle-mobile">
@@ -67,7 +67,7 @@
 
 			<li class="hide-md credits">
 				<h4>Designed by</h4>
-				<h2><%= link_to "Zeppelin", "http://zeppelin.io/" %></h2>
+				<h2><%= link_to "Dixon & Moe", "http://dixonandmoe.com/" %></h2>
 				<h5 style="margin-top:0.5em;">&#169; 2015</h5>
 			</li>
 		</ul>
@@ -82,7 +82,7 @@
 				<% link_to "http://www.facebook.com/sharer/sharer.php?u=http://htmlarrows.com#{current_page.url}", id: "facebook", class: "social-link", target: "_blank" do %>
 					<%= image_tag("facebook-button-light.svg") %>
 				<% end %>
-				<% link_to "https://plus.google.com/share?url=http://htmlarrows.com#{current_page.url}", id: "google", class: "social-link", target: "_blank" do %>
+				<% link_to "https://plus.google.com/share?url=http://htmlarrows.com#{current_page.url}", id: "google", class: "social-link show-lg-inline", target: "_blank" do %>
 					<%= image_tag("google-button-light.svg") %>
 				<% end %>
 			</li>

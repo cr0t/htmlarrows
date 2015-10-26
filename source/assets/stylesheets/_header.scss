@@ -1,4 +1,26 @@
-// adsense banners
+// carbon ads
+#carbonads {
+	.carbon-img {
+		float: left;
+		display: block;
+		padding-right: 1.5em;
+	}
+	.carbon-text {
+		font-weight: 400;
+		font-style: normal;
+		line-height: 1.3125;
+		letter-spacing: 0.025em;
+	}
+	.carbon-poweredby {
+		display: block;
+		margin-top: 1.5em;
+		font-weight: 400;
+		font-style: normal;
+		@include font-size(12px);
+		line-height: 1.3125;
+		letter-spacing: 0.025em;
+	}
+}
 
 #header {
 	margin-top: 8em !important;
